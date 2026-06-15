@@ -1,0 +1,31 @@
+name: fetch-ai-news
+
+# 每天定时抓取 AI 行业新闻候选，commit 到 data/latest.json，供云端 routine 读取
+on:
+  schedule:
+    - cron: "0 23 * * *"      # UTC 23:00 = 上海次日 07:00（早于 routine 的 08:00）
+  workflow_dispatch: {}        # 支持网页端手动触发
+
+permissions:
+  contents: write              # 允许 commit 回仓库
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 抓取新闻候选
+        run: python fetch_news.py --hours 36 --out data/latest.json
+
+      - name: 提交更新
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json
+          git diff --staged --quiet || git commit -m "data: update latest.json ($(date -u +%Y-%m-%d))"
+          git push
