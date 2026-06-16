@@ -1,21 +1,85 @@
 {
-  "generated_at": "2026-06-15T09:04:53.708875+00:00",
+  "generated_at": "2026-06-16T01:41:46.573299+00:00",
   "window_hours": 36,
-  "raw_count": 142,
-  "merged_count": 141,
+  "raw_count": 171,
+  "merged_count": 165,
   "errors": [],
   "items": [
     {
-      "title": "Mistral AI weighs new funding at $23bn valuation",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxWDEtT1NzTGw2LWhZdUZlYjZNMXR6MGxadE9Mb3hPWnpzQkd0aURKQ0RudXQzbUtrSEwtT0cyWWdqZVJ4QUFKRHF3M09MM29ybDR3dXRVMGdna2trNTh6MHM4aDBHdVk?oc=5",
-      "source": "Mistral/verdict.co.uk",
-      "source_tier": 1,
-      "published": "2026-06-15T08:19:38+00:00",
-      "summary": "Mistral AI weighs new funding at $23bn valuation verdict.co.uk",
+      "title": "6月15日科创创业人工智能ETF工银（588430）份额减少200.00万份，最新份额1.00亿份，最新规模1.39亿元",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVVmMHRXajJXSk1vdDdEMFVISXFJSEpTYVZlRGhwOEd1RnhrLVV2WTc3X3JXZGZMczdzRHBONE0tZUI0STBtTFBDNy1hUE44MF94c2dMQTZUYnJiX1NzTzJKQmEzZ1o2UzNqbTBBNm55aGd6RHhtZ3prdzh2YlphaUdMSQ?oc=5",
+      "source": "中文AI聚合/新浪网",
+      "source_tier": 3,
+      "published": "2026-06-16T01:10:18+00:00",
+      "summary": "6月15日科创创业人工智能ETF中金（588480）份额减少3200.00万份，最新份额2.60亿份，最新规模2.66亿元 新浪财经",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Mistral/verdict.co.uk"
+        "中文AI聚合/新浪网",
+        "中文AI聚合/新浪财经",
+        "中文AI聚合/新浪财经",
+        "中文AI聚合/新浪财经"
+      ],
+      "source_tiers": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "source_count": 2,
+      "best_tier": 3
+    },
+    {
+      "title": "微软求助亚马逊，解决GitHub人工智能相关算力紧缺问题",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUk1WNkFlUmxyS295T0U5aTdsRTNyUGlMZXVlWkdtRk1iS0dSeW5VZHZ2Z0MxSnpzTGpFdloyMl9wclBkdVRmTlJyakZoTTZzX0s4U0JFS2RFQ0xRenJPSHhxbGE5ODBySTFrSDA3a3NNX0t3RXQxV0RNWGwtV2JXMGlZem1PSGFJanN2X2JSOTJaMDNHTkdhd085eFVFOWJJ?oc=5",
+      "source": "中文AI聚合/AASTOCKS.com",
+      "source_tier": 3,
+      "published": "2026-06-16T00:47:00+00:00",
+      "summary": "微软求助亚马逊，解决GitHub人工智能相关算力紧缺问题 video.sina.com.cn",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/AASTOCKS.com",
+        "中文AI聚合/video.sina.com.cn"
+      ],
+      "source_tiers": [
+        3,
+        3
+      ],
+      "source_count": 2,
+      "best_tier": 3
+    },
+    {
+      "title": "“字典里没有第二”！余承东重掌华为大模型，鸿蒙7迈向智能体时代",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQdzc3ZUZISWUtRERnWFlLcHBIMGZDNXhncm9PQTFfSkRQNDJxZ0J6Ym9GbkE3VFlRQjZJcElsQTRmakhUX3lydW5xR3pQVjJp?oc=5",
+      "source": "中文AI聚合/凤凰网",
+      "source_tier": 3,
+      "published": "2026-06-16T00:12:47+00:00",
+      "summary": "“字典里没有第二”！余承东重掌华为大模型，鸿蒙7迈向智能体时代 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/凤凰网",
+        "中文AI聚合/新浪财经"
+      ],
+      "source_tiers": [
+        3,
+        3
+      ],
+      "source_count": 2,
+      "best_tier": 3
+    },
+    {
+      "title": "Anthropic’s New Fable AI Model Faces User Backlash Over Strict Safety Restrictions",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2ZveEEzR0JxN1VET3dCT2V2WEFIeTRqUFhiM3hQeDJOVGFqRVpzMk9fT2thVzBMX1BVWjE4cVhXNWtPWVYyOFdHTjIxTTlvWGpxVjN4YV9uUWI0YmZsTF9KdG5wWThPalRzeWdxSzFqa19sREpYQVNTblJPUnIyNE85WEpNdlBDcDJaendRUmtGYy14TkVZcG5OeTB3SmNjSFVJaFp3?oc=5",
+      "source": "Anthropic/Memeburn",
+      "source_tier": 1,
+      "published": "2026-06-16T01:11:00+00:00",
+      "summary": "Anthropic’s New Fable AI Model Faces User Backlash Over Strict Safety Restrictions Memeburn",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/Memeburn"
       ],
       "source_tiers": [
         1
@@ -24,16 +88,16 @@
       "best_tier": 1
     },
     {
-      "title": "U.S. Blocks Anthropic AI, Global Sovereignty Push Grows",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdjhhZGhIZVAtcWZiNzg2NnZFSzNjMXpQWUNEeGJQNmxpRmMxbm9xYlB5NVNrU1lBSTBYMkx5OUZvU3NxekxacUhwblhSWW9Gai0yWFhSS3NzTDhiYlJ6aGNWVkZHU2trR2QycG9WTEFMSW5VNEpTX1YtOXVzYnlVbElpeXRJVnlf?oc=5",
-      "source": "Anthropic/조선일보",
+      "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWG9ZWjBhNGVHb2xPbURHZ0NNa1hHV2ZDN2FXNUZEak54VnV2YWtrSHd1SWhmZUtEaUZuZ0NzaGgyNTQ4c3B2OE9UNTJkcGdSMEVjWGZGckU5ckFDbm9sQ1JTeUVyVzZ1MVNzSEJKbWxKWEU1QlBPMEpVVWY4b2dYV1VPVzN4aThoMWdHMXUtV29CNUZmVm5wWUpVRXY?oc=5",
+      "source": "Anthropic/WIRED",
       "source_tier": 1,
-      "published": "2026-06-15T07:36:22+00:00",
-      "summary": "U.S. Blocks Anthropic AI, Global Sovereignty Push Grows 조선일보",
+      "published": "2026-06-16T00:53:00+00:00",
+      "summary": "Anthropic Is Still at Odds With the White House Over Claude Fable 5 WIRED",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Anthropic/조선일보"
+        "Anthropic/WIRED"
       ],
       "source_tiers": [
         1
@@ -42,16 +106,16 @@
       "best_tier": 1
     },
     {
-      "title": "EU investigates control directive of Anthropic AI models",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQnJ6MXRoWnlBRlpaZGdSUzM3OGdRU3FlNXphTEtxcjFwbExPQ2o0NkxEcVZwR19PZG4yRG5rcmZDRzRMX0c5SF9GUDBaamxXQWtkWUJrM2JUOEJhNTNabGVUbV92R0ZpYXRLbGxub0loY1h5ZXBOekQtclVMc0FzbWpJa0dEemFGUTI4bWk1TUlyTW9JeDE2OWJWdmZfQ0xpR19OUg?oc=5",
-      "source": "Anthropic/Techzine Global",
+      "title": "Anthropic sued for allegedly hiding how Claude usage limits are calculated",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMVZtQ3doaWxjVkEzd2RYWF9XS3FUelViTlBWbEhFMTU5eVhYaUN1Z0x3MjJfZ1FMS0daako2cWpIRFM3SXNReXFEM0NiU25uTldEalQ4al9LZHQySEhlcGFQQkNva05ZZzBKZkRqRVBlRTRZT1BTdF84dm5YelhYQ1ZkUC1wSWxXYjYtT2ZaOWRxVGZoWnh5Rm1OS2dHdFBUc19jZmJoSGF2dmc1cWExaWNKRGpTazhKeXZMWDY2b1M?oc=5",
+      "source": "Anthropic/TweakTown",
       "source_tier": 1,
-      "published": "2026-06-15T07:33:41+00:00",
-      "summary": "EU investigates control directive of Anthropic AI models Techzine Global",
+      "published": "2026-06-16T00:42:07+00:00",
+      "summary": "Anthropic sued for allegedly hiding how Claude usage limits are calculated TweakTown",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Anthropic/Techzine Global"
+        "Anthropic/TweakTown"
       ],
       "source_tiers": [
         1
@@ -60,16 +124,16 @@
       "best_tier": 1
     },
     {
-      "title": "Anthropic's Claude Fable 5 Shut Down Within 72 Hours Amid Pressure from Amazon and the White House",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN0k3QVVaVldaN3FLeFJtZ1lJN0tPcG9VV3dQNUJRaFJTRmx2NHpGYlZ4cVR6cGV1YWNfdnNQVTM5U0E0OFBjVS1ITnVDeEpmakhaYmR2ZWZLVXl3ZXJ4T1dObFBzMzdaZ190TVUxUjZLazNSUUlFNnBlV1JfX0dxbzRWLWRKa2dDTTlLYnFOZlVlYlpYTDZ5TjF4WXkxTzRxZTc2Njdnbk9rYV9nQUtOVXV1eV8yOGN1djVV?oc=5",
-      "source": "Anthropic/KuCoin",
+      "title": "Trump officials meet with Anthropic to discuss a truce",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaEMwaFZrbVFYWVRDZW5RUlNEZllZOWJPRjdSREJOQTZSazFJVy1paXJJV29Fb3k0RlhLRl93eUR1WkJkbkRjYUxrLWtkaTllMERYbTRTOFNMemd3NWZCaHUydVpGQURMUnZoVE1qYUk5TmRoVElDaEN3Q20xaEcydENvclJ4TlBRYWdDaDVEY3g1QXRQYS1ZNTVsZFdpUmdVUlBiNG51Yw?oc=5",
+      "source": "Anthropic/Politico",
       "source_tier": 1,
-      "published": "2026-06-15T07:05:14+00:00",
-      "summary": "Anthropic's Claude Fable 5 Shut Down Within 72 Hours Amid Pressure from Amazon and the White House KuCoin",
+      "published": "2026-06-15T22:25:29+00:00",
+      "summary": "Trump officials meet with Anthropic to discuss a truce Politico",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Anthropic/KuCoin"
+        "Anthropic/Politico"
       ],
       "source_tiers": [
         1
@@ -78,16 +142,16 @@
       "best_tier": 1
     },
     {
-      "title": "Anthropic Releases and Temporarily Suspends Claude Fable 5",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KZ2dYRkVybk1YWUJCQllMOW53U2NCMlhkRFo4cHVjYXB1SUVVZzVDcXo4OEgtUVBQXzd2TTVHT2JKQzFnZGdfMklQWWdQTExxM0gya0NHUHN5dW9XSTZJaFpB?oc=5",
-      "source": "Anthropic/infoq.com",
+      "title": "CodePath Partners With Anthropic to Launch Claude Corps",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TR3lqWmtZUG1NYzVTUTBlWkQ0TDBVYVJQVXJzclZ2ZEk2TXkwYm5SUlhwYVB0TGxyTmJwcnFNMG9TWUI2YVkxaU1LY05FNjhRejVFYWlsa0JrOVF1UGJFNnBxS2MtWnA5WURlRUxPUmdacFFLQUo4VQ?oc=5",
+      "source": "Anthropic/Built In",
       "source_tier": 1,
-      "published": "2026-06-15T05:01:23+00:00",
-      "summary": "Anthropic Releases and Temporarily Suspends Claude Fable 5 infoq.com",
+      "published": "2026-06-15T21:36:59+00:00",
+      "summary": "CodePath Partners With Anthropic to Launch Claude Corps Built In",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Anthropic/infoq.com"
+        "Anthropic/Built In"
       ],
       "source_tiers": [
         1
@@ -96,16 +160,502 @@
       "best_tier": 1
     },
     {
-      "title": "DXC Partners Anthropic to Scale Enterprise AI",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWUlCWW4yVlFBNUxGLWFRNUVOUmU0TUhJV1d6ZEgxc1dWd1BRNGxMamwwa3RVM3N2NlQ4bVVxODNRX2xxMnR3RHloMTJZaXdQMHVzY014QkdqSmtDc05VYmdMUW9fblh0cXFnMHhzdHZxYUVNdXRTaTJrSDlwUExmcG9ZNUlxaVpIVHdfNA?oc=5",
-      "source": "Anthropic/IBS Intelligence",
+      "title": "Anthropic Hit with Lawsuit Over Deceptive Claude Max AI Subscription Limits",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHdKczh4cDROdm9xYTF3dGRVM3ViMGhrS2hlX1BWSzFMTmJJNUxJLVNEbHlta2pmUFFELTc5RXNkYXRHekhCNkFvM1ZQYWk1QnVGUWFCdVRNaXphSFhaOHRpR1l6TF9BTl9vTXlwMzBCeE5WeThKaW9CaF9Obmw4M3I5Vmx6aUoyd0I0eUxEVEZEUjJlc0ZIdk5ZeF8zZHBiTFE?oc=5",
+      "source": "Anthropic/Android Headlines",
       "source_tier": 1,
-      "published": "2026-06-15T04:43:59+00:00",
-      "summary": "DXC Partners Anthropic to Scale Enterprise AI IBS Intelligence",
+      "published": "2026-06-15T21:20:08+00:00",
+      "summary": "Anthropic Hit with Lawsuit Over Deceptive Claude Max AI Subscription Limits Android Headlines",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Anthropic/IBS Intelligence"
+        "Anthropic/Android Headlines"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic Sued Over Alleged False Advertising on Claude Max Subscription Usage Limits",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ1h2aU4yWlBhbUlfcEdOWldJSmVoVjJnTnBkbVNTbUExYzZLYW11UmVobGdWWjNXaGczSDdLYmNRVXZLV0xyOGllMmJ6NXpncjFiS0RQSmxyYUt4NXhPand4Z2pTcjY1OUlLYzBZM2RXT1pySl83eW41T2pzdXlCekZzYkNLVDlPWlJXVURKalZPM1N2Zm8teEZGSDZFVFJPNXBLZEtBUHRQekJpNDNjSzVGeUFYWHdLejZ5RjRDNWN0SVNs?oc=5",
+      "source": "Anthropic/CNET",
+      "source_tier": 1,
+      "published": "2026-06-15T21:20:00+00:00",
+      "summary": "Anthropic Sued Over Alleged False Advertising on Claude Max Subscription Usage Limits CNET",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/CNET"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Lawsuit Claims Anthropic Misled Users On Claude Usage Limits",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQmJhWnByMDVDRi1KNldKSjVySnRia2hfNk5sMTdkTzNtQjdFU2NLMFJoUk1nWVJEYVdPaFBBNndYX2E1UXpocWZpNl9RdTY2b0h2U0F4blVISFU1eE92MFdmRGJWM2lLUjcxVHZUQjZzLTBYMXBOOFpoQk8xbk1KYmdSSGlqOXVqc3F6Yk1mN3dhd2xWdjFHTFZaV1ROZENvNGhvNkE5bl9kbEFQSHA3UG94ZUFDeGIxaHBuSWVqRzVkZw?oc=5",
+      "source": "Anthropic/Benzinga",
+      "source_tier": 1,
+      "published": "2026-06-15T21:08:25+00:00",
+      "summary": "Lawsuit Claims Anthropic Misled Users On Claude Usage Limits Benzinga",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/Benzinga"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS0t6Wng3RzNPalVucXJsTWptTnhsNDF0VUI4M3ZjWTVjRUk5eTJNMmZvNE9aMjBRdXV6dWxfWFhVMkFEakhKM3dfTjFWY29VeG4zX3N4SkhhcTUtMnlpeVc4WlVvWmxVZnZyZEE5MHlqVmN1OFVZekRraGJKYUhkUkQtUnlaZVFRTjQ4ODZMa3poMDVVcjBJTXRJLTY2Zw?oc=5",
+      "source": "Anthropic/CNET",
+      "source_tier": 1,
+      "published": "2026-06-15T21:03:00+00:00",
+      "summary": "Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak CNET",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/CNET"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic reserves right to check ID for Claude subs",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLURZOTFRUjNNQ0VIM0hCenZWOUFUUFpBRjFDMV9kTkt3X0pWd1NBaGY3U2lqeFc4Q3pyd29NZG9ycTMtdHh6Y2lzMGU5VXdac3JzQm9kcHo5SS1SMWhnR1VLenRxaFUzVzFUcVNWWHFaZk1tR1otcGxGRHBIWjlUTHJMZEp2RmlNTHhZSV9mb3QwRWFiNjdKNVRkRlZhaVdJVUwzbVBINFY5aVVQN1E?oc=5",
+      "source": "Anthropic/The Register",
+      "source_tier": 1,
+      "published": "2026-06-15T19:39:42+00:00",
+      "summary": "Anthropic reserves right to check ID for Claude subs The Register",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/The Register"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Amazon CEO poured $8 billion into Anthropic — then he helped trigger a government crackdown on the startup, report says",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOHpzR2JIdlh3bFJ0enpVYld0UnhDY2o2bjF5anJwRkJkRGEtTEs3azZTdjluS0RSdkRmNUNrMngxU3JCMGljc2ctcjBlSEdfTUtIUmhCYVAtcG9OUFMwMlh3NHBTNzFjaTExZ3NQZFNYNWR6WFl2anI4YjhvOEdPM0NQVXZKLUg1T1VzQ0hrUDhQR2JmNnJoMkltREM?oc=5",
+      "source": "Anthropic/Yahoo Finance",
+      "source_tier": 1,
+      "published": "2026-06-15T19:30:00+00:00",
+      "summary": "Amazon CEO poured $8 billion into Anthropic — then he helped trigger a government crackdown on the startup, report says Yahoo Finance",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/Yahoo Finance"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic disables Fable 5, Mythos 5 after U.S. government cites security concerns",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkEwMkJIMjFiRWtDREh3STRjOFRuOXNoYWdLdUdJdC1oT0FaRTNqbUQ1blFLckp2a25NZ2hZaHk4RlhIMUR5UThZYktLU3R5aVNlSXB6TjRWcG1wS0tLeTc4UUFSMktTbXYzNjlWTE0tTGRkQXVSUHRTbnpxWjIzY25vcy1UdXVrTWtGQVl1TElnLTBpd08yemVDM2U1Mjh2V0s4NnJXclZQVWZwbWtQUE0yd0FYQQ?oc=5",
+      "source": "Anthropic/MobiHealthNews",
+      "source_tier": 1,
+      "published": "2026-06-15T19:29:42+00:00",
+      "summary": "Anthropic disables Fable 5, Mythos 5 after U.S. government cites security concerns MobiHealthNews",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/MobiHealthNews"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Toxic mix of chaos and drudgery turns Meta’s AI unit into a real-world hell: ‘Soul-crushing’",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY2hZS1ZYZ3E0Q0ZDLWcycVEyRzF2bGt5cUxUa19nMW84ekI3M3RJQkJDQzlCUjVxbGhCR0NRdWVoeF96Q0t5aDZsZ3RpTXYxMlZFWGpkN0pDVWpTUURSU3lIS0wtRjFZczhfNjdnUHdHQVJESEYzUE4xV2dPcXFLV0pyRDhEaGk2T195OWlTMzU3UHRscXUyS19fV2JId0pRckVVd29SaDBNeDdUYU1xRkZKc2JIMkx1a1N3NElUVXFaUTVwV3FJ?oc=5",
+      "source": "Meta AI/New York Post",
+      "source_tier": 1,
+      "published": "2026-06-15T19:11:00+00:00",
+      "summary": "Toxic mix of chaos and drudgery turns Meta’s AI unit into a real-world hell: ‘Soul-crushing’ New York Post",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Meta AI/New York Post"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic to meet White House over AI tool suspension",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwNmlkOXRjN3BBTnhaTEZPZXdQM3VHNklvenRZcXotMzFVaFpjaUFwR0hvUDh4MExWcDBYazdSSWFuVVYzRHRaaklDZkk3dGZwZS1TN0U1NlNkdw?oc=5",
+      "source": "Anthropic/BBC",
+      "source_tier": 1,
+      "published": "2026-06-15T18:44:26+00:00",
+      "summary": "Anthropic to meet White House over AI tool suspension BBC",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/BBC"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic Hit With Lawsuit Over Its Claude Max Usage Limits",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQampyRjFuSnNXQnhJbFJVai1EOXlzY1ZxSHhKU2oyT25KdkFSZ3NzN0JsdUtUc0hEUmxJTnU4azJTUDBQeXpmSGdpaDYtbWhtM3RKZFNSajFaSENwek9LcWthbU9NSkN5a3FqYUpUU3owLXplcXJVNGxubHMyaGFDcGh0UEJUaDk0Qkk1QkVabVZBSWEtSkV5TQ?oc=5",
+      "source": "Anthropic/Engadget",
+      "source_tier": 1,
+      "published": "2026-06-15T18:41:18+00:00",
+      "summary": "Anthropic Hit With Lawsuit Over Its Claude Max Usage Limits Engadget",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/Engadget"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "‘Fix this code.’ The three words that led the U.S. government to ban Anthropic’s Fable and Mythos",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUk5JblZfMFdGVUk3Zm1MbEhrWDluUDVmZjVUVUFoOGQ2eWRYN0t5Y3g5NFBnNDEwTnFxUGIteVZMMUc3Nkp3enJWQ05uaUR5LUU5T2t0Y1oySXhHSEV2SnhjcGNEcHJ6TWFKU1FSLTdSaHlzVGVZMWpzOXI5a21jRnlfYndaTDF1YzVrQU9HRk5PTE1QbjJmNExwNHc4WTFNbmpLMFpxMEMxVmVOb09GQVhtNWFYX0lLZktWMVFfbEhKVjZEZjBkVlBiT1A2X0dFei0zX0pSczRpMzdfNFhLOWdaTzc?oc=5",
+      "source": "Anthropic/Fortune",
+      "source_tier": 1,
+      "published": "2026-06-15T18:35:00+00:00",
+      "summary": "‘Fix this code.’ The three words that led the U.S. government to ban Anthropic’s Fable and Mythos Fortune",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/Fortune"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic Accused of Misleading Users Amid Soaring AI Costs in New Lawsuit",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX0NJeTdmM3dsRXNYejJ5TllQbHA5Tk03OHFrZDBuUFNiaUNNNW5hUTU1M3VuREZKZnN5VDhac2dDd25uTVU4U0xHS1pxd3dPaUZ1b3FPeWpUeWMycVhFaktmNGVVQ0dsNzZGMU9OSnE4YzUzd2dQWDhLMkppdDhSOXV2QVJxV19SemRnUXBLVHNsbGM4MjI5Y3BDN2J5YXB2MGczMEllWkU?oc=5",
+      "source": "Anthropic/Gizmodo",
+      "source_tier": 1,
+      "published": "2026-06-15T18:30:06+00:00",
+      "summary": "Anthropic Accused of Misleading Users Amid Soaring AI Costs in New Lawsuit Gizmodo",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/Gizmodo"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic Meeting With Trump Admin As Claude Mythos Tensions Reach Fever Pitch",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWDgxb25zbU9OUVEwUXJYNFBZZUl5MkpvUGk0TTNxdFg4WUg0aDljcWNrMGtCd1NMam9xWTB1TmNhOU1mOHQ3R3RRVnlxVl81MzlSVEdIU2NhYUE4QUxDc3U3Y01idmFESXh5X0d4RTkxMFpkeFljQTNJVnEtbkRxWDNncXMyeU5nbTY2NGxCUlIxS3BHZ0pFWG9KOWlKdGsxbXhZV1hqU1RSdW10aDJOMWtGcnRaSmxwa2F4aF83ekZURDVsRmFsdTNxaw?oc=5",
+      "source": "Anthropic/Forbes",
+      "source_tier": 1,
+      "published": "2026-06-15T18:26:03+00:00",
+      "summary": "Anthropic Meeting With Trump Admin As Claude Mythos Tensions Reach Fever Pitch Forbes",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/Forbes"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic Access Restrictions Create Opportunity for Mistral",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbE44V3ZYT2pvbFA3TDFrdlJPRFY3QThNZUVESDZCcmhQa1lGbHRwZExNZHFjWTZKMjVBbFhpWEJqczBZWDRPRUhKYnhLeGdlUjZYTXJ1eVNqQTVhYlNybDBrTWFOblotaTk3VVJUcDdJVnNwdkVUbnktdzFXOEhvc0lMcjRsN3EteGdDa3B5NmprUEdsWFRIRzA4eW1WODIwSmhCMQ?oc=5",
+      "source": "Mistral/Let's Data Science",
+      "source_tier": 1,
+      "published": "2026-06-15T18:25:54+00:00",
+      "summary": "Anthropic Access Restrictions Create Opportunity for Mistral Let's Data Science",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Mistral/Let's Data Science"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic hit with lawsuit as Claude usage promises questioned",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT05JdkVTNXFOdUVwSm12WWhfemZfRl8tNDhhOWJiWHZXLTRJWFY2aTJ6dXp1MDkxMDg0MjhTQnB0TlZzU3djOTdrX1V0ck41WU1PQXVWTTB3eWY3X1pLa3d6QU51VFN1enFrel9weTRWVlNhc0hTc3pDb29KSDMzYVRhbEl5TDBNa204?oc=5",
+      "source": "Anthropic/crypto.news",
+      "source_tier": 1,
+      "published": "2026-06-15T18:25:51+00:00",
+      "summary": "Anthropic hit with lawsuit as Claude usage promises questioned crypto.news",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/crypto.news"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic's model restrictions are a win for Europe's top AI startup",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXhyQ3NYOWxyS29FRkJ1U3RhWnc4RlBIZnhLa3FTM3U2eEJkMWMtUG52TS1rV2o2LXN5TVRpY05CWUJpN3VyaG8xMHRCUl9sQUQzMVJhbHQ0SU9reU5Ca1dySnZYMVJhc3ZvTWEwbGc4dUNKcVpuaFFQTDhEWmhEcjFrMWRFX243b2tVS1haanJqVXVMbWtrSkNDWjI?oc=5",
+      "source": "Mistral/Business Insider",
+      "source_tier": 1,
+      "published": "2026-06-15T18:13:00+00:00",
+      "summary": "Anthropic's model restrictions are a win for Europe's top AI startup Business Insider",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Mistral/Business Insider"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic’s Claude Fable 5 withdrawal highlights geopolitical risk in legal AI supply chain",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGR2VWJnT1pVbFdVWjJLSGZwcGRHYWFyWldkUll3ZUpVcXJTRUswMWxwemh0RzN5bnZLR3RPVHotSUZrRGdVWTNxVEFWdFlhMXhoUEt2ZDNBaUdTTVdqYzd0N25zd0U2NHY0N2F3bm0yMWJHUzNYRmJHNk8zeS0yNlQ4SkhzTW5uY0VjVExkamJDWUZtVWhrOGFPSXg1VWJPTVhhVTBLUTRUQjYwY3pVSGlYVDhFazllOUF3?oc=5",
+      "source": "Anthropic/Legal IT Insider",
+      "source_tier": 1,
+      "published": "2026-06-15T18:07:54+00:00",
+      "summary": "Anthropic’s Claude Fable 5 withdrawal highlights geopolitical risk in legal AI supply chain Legal IT Insider",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/Legal IT Insider"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZU1JNks4Q1Z4SnlLVWpfTDRGTjc5NVdCLXVTR0NLQ2ppNmlYWG00cTJxOXZhVWdDeVdGMTg0OEs3UlE4MTZOV09nVGFQcmpIdlpFcklXdTZrTks0bHB5eTVmZ2NqYWRvV3NtVTYtSE5wTUU2dnMxRzR4XzlINGptLW9VYWNDQkNMbXfSAZIBQVVfeXFMTXFIaTh1Z0duTkc1N0M0c1FLV3VQNDRQLTZzNFVkTlN2dTZLQnB5dF80Umh4SjlIbzZTSDBxcWlmalVoZlhEbjlBTjZ4TDRKTmZVX2UwdmpOTGxOYkc5YlF5WDg5QWNtM2k2RDhKTjNpOF84VkctT2tlMk5xdTNXTUZwRUtGR25OY1lrWkpvQ0Vpa0E?oc=5",
+      "source": "Anthropic/Decrypt",
+      "source_tier": 1,
+      "published": "2026-06-15T17:57:48+00:00",
+      "summary": "Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing Decrypt",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/Decrypt"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Claude Fable 5 vs GPT 5.5: Is this why the Trump admin banned one and not the other?",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ENkVmNkswcWNpaWJhSGFucVpaM19FOU9pZHd3SF9EYVlLTmxRRUhvcTUtWVNFcmNHdTRickxvaFE1RkpNZzdZRlBmVDB1NVJ4QWcxVEJaZUNuWGRnQVlLcjRyTll4UU9CMEE1VHBnVVVZZVRzOUxj?oc=5",
+      "source": "Anthropic/Mashable",
+      "source_tier": 1,
+      "published": "2026-06-15T17:32:52+00:00",
+      "summary": "Claude Fable 5 vs GPT 5.5: Is this why the Trump admin banned one and not the other? Mashable",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/Mashable"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Amazon CEO reportedly raised Anthropic Fable concerns prior to U.S. order forcing models offline",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPemJ0TXl4Y3kyTHRfSnEtZ2U4QVpyd0VmNURSNGtlTTBJOHRKdW8yOXprakZid2tHeHpnVXZYbUdPeEZ4Zk1RRmtKWWRsZ2xPQmh6c2pSM1pqX1IteFZHUm1CWGdMOHhNcU1uaGxMVk9DOGpRYUpzbXNGcTVCQTloQVdjNlY1YmdWUXlPT1VMdlhTRXZuaWtXOHVBZ3JIOHJaVjk3alpEdDJEcWNnY2VVYWwwazZoMlhzWGlITDY1TkRyeTZh?oc=5",
+      "source": "Anthropic/GeekWire",
+      "source_tier": 1,
+      "published": "2026-06-15T17:11:53+00:00",
+      "summary": "Amazon CEO reportedly raised Anthropic Fable concerns prior to U.S. order forcing models offline GeekWire",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/GeekWire"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic Set to Meet Trump Officials Over AI Security Concerns",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnRwRVdLeTRfVFhZellQZkIwVmlCSGxkVGpEcFFnWjdoR2ZyejFkTWNGNjJONG1LVUt4V3JYZ3IwQnNJc0czaGw1NFJTa2EzbkFBMl9jM3U1b3NscENYT25JLWxHaEswUEV4c1ZhSTl5cjZjbWlvcWtUZG5RMUhzSktYOU5wZ2hmWFZwRUFRUkFvLU9SVmR5aHZLdTZtLW1adXA2cnBuX01Jc05PTXhfSjlRR2w?oc=5",
+      "source": "Anthropic/Bloomberg",
+      "source_tier": 1,
+      "published": "2026-06-15T16:00:22+00:00",
+      "summary": "Anthropic Set to Meet Trump Officials Over AI Security Concerns Bloomberg",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/Bloomberg"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "The White House vs. Anthropic's New AI Model",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52NEkxRjdhS3A3XzU5R1k3b19naVJpUGo2dG5aalVHcmhIRFprUnZKWFlyT0JIeUExeXk3eHJhUDZzUV9CTlYtOHhHRlhndXhzLXBVbzZYQWpuVVRXaGNlVG56UnNjUFpuRXRXLWhLLTN5dGs0Q1c0WU5XVUZfUQ?oc=5",
+      "source": "Anthropic/Reason Magazine",
+      "source_tier": 1,
+      "published": "2026-06-15T15:55:33+00:00",
+      "summary": "The White House vs. Anthropic's New AI Model Reason Magazine",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/Reason Magazine"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Claude Max Customer Sues Anthropic Over Usage Limits",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZDJLV2NtRnJqRnBtaUwyZFFTT2lOQ0pmRDRveUgtVjlHdms1XzRSREh0OGhSeFF4X1lwZFg0aVR4djh3OUhXUzAzWkRmY2xSbzZpamdXWUdZV0JiLWdVMTkxbXBua0NpNklGOHg2SXczVlJ5b1k0X1ZuZmQwUXcxSG5ha1Jpa3RjWkRhaU9hNVJsckFQQkxrUURHRWhKcEpVMHpTaUtZN0lGeTBIZHdr?oc=5",
+      "source": "Anthropic/PYMNTS.com",
+      "source_tier": 1,
+      "published": "2026-06-15T15:38:02+00:00",
+      "summary": "Claude Max Customer Sues Anthropic Over Usage Limits PYMNTS.com",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/PYMNTS.com"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "What’s up with… STC, Anthropic, Mistral AI",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRG54Y3EwRWRhWHlabDVqdHNYWTkwck8xa0h1ZzN4Q2tqUHJZMGg2WDVaU3FhMGExMWc2TDE3eVVubXo5M0pJdW8wdXFHRUQ2LUpYVGVfbjZ1RzZPTzhZczdWZjdKY2kyVVRQMEZTSThzY25Fb3NGbWM2YVJub3BYS2xGdWxkbUJHdy1JaTJjdnJFVnBGOWR6QkVn0gGfAUFVX3lxTE1NS3FFb1NLN2pLZVJ2U3EzUExtc0l1alpWbEdtN0lndDU3Z2JTR0tZbjdxUjdEbmtiU3Q5blZ6cU05YjE0dHM1U3MxbDM4UjhtOWYxblBRNzc3R2VkT01GVmVlNzlDM3F4MURjWlFySl9iMVVCc1d4VjludWdWRk9BSmk0Yi15TndjdmZUTkRzNy1Gb29wZ0ZVVXJQbVJ6UQ?oc=5",
+      "source": "Mistral/telecomtv.com",
+      "source_tier": 1,
+      "published": "2026-06-15T15:19:25+00:00",
+      "summary": "What’s up with… STC, Anthropic, Mistral AI telecomtv.com",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Mistral/telecomtv.com"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Mistral AI in Talks to Raise €3B at €20B Valuation as European AI Race Heats Up",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNFpGS1p1UkVBQTZfdERrdklmTmlYUm1yRzVoUHlCVGJsN1JNV0hEMWx2bmgwMnBnNVhFOHVKT2FzUUJqY2lLRG5lbEZIV1pzOWVGS3B2UEJEOUdVSWhjdk1iZHJfaW1DMzllTndkTkxqSlp6MHdiWVVJUk1RUXVRUjczakpteGRkdmk1dmN6RTUtTkZfNnZKbWp6RHBXYWx1MFlJT3daMzFuZUxBOHVUUS1PLTd1dDFC?oc=5",
+      "source": "Mistral/AI Insider",
+      "source_tier": 1,
+      "published": "2026-06-15T15:05:55+00:00",
+      "summary": "Mistral AI in Talks to Raise €3B at €20B Valuation as European AI Race Heats Up AI Insider",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Mistral/AI Insider"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+      "source": "Google AI",
+      "source_tier": 1,
+      "published": "2026-06-15T15:00:00+00:00",
+      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Google AI"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Meta’s Super Expensive New AI Team Is Already a Complete Catastrophe",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1NDJYNjJIOXVlRWJsQnh6SnFIQjV4RFRuMVlpeVdYaEl3VjhEbjlDSmVtTWdqX1FJcFpJcXVmZlZSNV9uOGpJV0RySUpLMkpUS1N5a3ItR1Z1WkxHa3VFNGtMdy1ob1E2eUVRb2t1T1FtVWZXMXdwNnRGbkhtQQ?oc=5",
+      "source": "Meta AI/Futurism",
+      "source_tier": 1,
+      "published": "2026-06-15T14:47:49+00:00",
+      "summary": "Meta’s Super Expensive New AI Team Is Already a Complete Catastrophe Futurism",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Meta AI/Futurism"
+      ],
+      "source_tiers": [
+        1
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Three companies named \"Physics AI\" the same week and raised $15.8 billion between them",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZzFBOUhteVJzWnJCMkc5RWdGQy1nTWZHaEE3WlJ5TER1emRIUkx4YVdlOUhzWXllcE95andhd3d6VU11c0sxZ0s3WnFLTG9qTVlHMU1oOE9xajlpeDZmSzFPSFE4YVllaEFHaUlEOEdZTWpRWEU5Q19CbnZGcmpXT0kxMDY0ZURmbUFQSmhjUjdVWDhCdmVYMVhxN2I3NnRRaGdLdGp4enM1V0Q5cDlvZklB?oc=5",
+      "source": "Mistral/StartupHub.ai",
+      "source_tier": 1,
+      "published": "2026-06-15T13:10:07+00:00",
+      "summary": "Three companies named \"Physics AI\" the same week and raised $15.8 billion between them StartupHub.ai",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Mistral/StartupHub.ai"
       ],
       "source_tiers": [
         1
@@ -118,7 +668,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwc2tVaWJVcUdpSWlTWm40V2U3bElud1JmeVlwdzloS3RfTTVjMHcwU1NOcUJrVVNYTzlYWVhGV05ZZlVwb2pwSTV3dFNMeHNvSXoxM0tSRlB3RmNPdHlNVERmV2ViaThFaTRDNTQxLS05STlmRkEwMnRxZGZoTmc?oc=5",
       "source": "Mistral/Tech Funding News",
       "source_tier": 1,
-      "published": "2026-06-15T04:32:49+00:00",
+      "published": "2026-06-15T10:25:21+00:00",
       "summary": "Mistral nearly doubles its valuation to €20B. Now it has to justify it Tech Funding News",
       "hn_points": 0,
       "hn_comments": 0,
@@ -132,126 +682,16 @@
       "best_tier": 1
     },
     {
-      "title": "Why the US government shut down Anthropic’s latest Claude AI model",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUpveEJWVS1OcWh3cDBXVFl3SXAxUUpxemJtNXEtUm9fZWkzNVpRS2wtaU1kZDNIb0pWRkFLdllyNkpSMzNTTXV4a2trWFlNNkN5aGI3RTY5b0VSMm54bjY3a25xUXZ0bmhLUVhPSGhjUXljMWtBNk56ekJ6bEpBRHhibDg4MU1ocWRlbFQtaXltc1h6LXRReTI0d0VWLWdNZ1E?oc=5",
-      "source": "Anthropic/The Conversation",
+      "title": "Mistral AI weighs new funding at $23bn valuation",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBraUdYN2dpRmZhMlA4WXNVRjdGVU5pOXZteDQzRVJXOHlSLWZSWTk2emZRTjJER1dQS081al9pWWVrUXV5eEkzbHB4UnFvQlJSSW9lZS1NM0ctSGUtbUZZS3FjNlNRTXlxeXRMYVNn?oc=5",
+      "source": "Mistral/verdict.co.uk",
       "source_tier": 1,
-      "published": "2026-06-15T04:08:34+00:00",
-      "summary": "Why the US government shut down Anthropic’s latest Claude AI model The ConversationAnthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears BBCUS asks Anthropic to block global access to top AI models: Why it matters Al Jazeera",
+      "published": "2026-06-15T08:19:38+00:00",
+      "summary": "Mistral AI weighs new funding at $23bn valuation verdict.co.uk",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Anthropic/The Conversation"
-      ],
-      "source_tiers": [
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "Anthropic Seeks Trump Deal After 2 Claude Models Forced Offline",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BcTVKYXpWanFIVlptRVNxTUFhZDExRXJMNGRYeHBBaE5rNExZamFTQWUyZVJscTdQWl9OeXYzbmFGaC1oQkstQVM4b2stUjIzZGREU042cUtzOERBNjFBUnZPaTBua1FOLWVvX1BSbWhBWUFU?oc=5",
-      "source": "Anthropic/Yellow.com",
-      "source_tier": 1,
-      "published": "2026-06-15T00:05:37+00:00",
-      "summary": "Anthropic Seeks Trump Deal After 2 Claude Models Forced Offline Yellow.com",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Anthropic/Yellow.com"
-      ],
-      "source_tiers": [
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "Anthropic Fable 5 Mythos 5_Status",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOThmSzRuVldXUDdXRll2dGViQk9jSWg0TVVKVEstbkVVcWV1SENBM0JLNXFZNS11YmlDU2JFdVdsZVprSlB5YWFkSjBtTUh2UmJLd0VhNlVOUW81dGhHbkZCdUtFUDJUTUtWWUROOEVCeFZHTVJoVDRkbTIzQkx5ZEdBdW5aSFF2ZmZFOU9KNTN1UVpnTFNUbUdwb0g4cHZvczNDdlBXYV9uejl4NVdB?oc=5",
-      "source": "Anthropic/ServeTheHome",
-      "source_tier": 1,
-      "published": "2026-06-14T23:19:14+00:00",
-      "summary": "Anthropic Fable 5 Mythos 5_Status ServeTheHome",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Anthropic/ServeTheHome",
-        "Anthropic/ServeTheHome"
-      ],
-      "source_tiers": [
-        1,
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "Anthropic Suspends Mythos Access Following Government Security Concerns",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUZwWkc1bGx0MnVFbUd5NWNUdUtYN3NfcS1EZGgzUk5kUmJ3SGNVaC1kQU9odUR5bkpOWGJ4OTA4dVdvQW5DQUdKMkFQdE1FSkZNUWdnRzVIaG9idEI4elk3bE5jbzRhSEFSczVKZFZIc2N6Sk9kUFROcmR6UGJOdHdhRlpVLXZMYTMta245V2lOQV9QRTBITWpFeUxJYVY3bm1faWdpdl9YVGtRTEppb1FNT1ZEY2ZDenlvQ0wybmItUkJUckRVRg?oc=5",
-      "source": "Anthropic/PYMNTS.com",
-      "source_tier": 1,
-      "published": "2026-06-14T23:18:36+00:00",
-      "summary": "Anthropic Suspends Mythos Access Following Government Security Concerns PYMNTS.com",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Anthropic/PYMNTS.com"
-      ],
-      "source_tiers": [
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "Anthropic Leaders Are Reportedly in Washington, D.C. Trying to Resolve Their Latest Issues With the Trump Administration",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdTduS1NTVVJQNFp0MjRYMU1tbWlMeUtSdHd3QlVwNjJJRjN0V0g2U2xpb0trN0Yzc1RIZVoxRk5FTlhSS1ZXTk1VN0dxeHZHTjQ4SEkxUHFiM1VwbkJZWFJtWjNoUkZJejlnd0c4UDZuYWpMMmt6SmdNOWRzczU1dUNLVWVwVG5YaTlGRl95VDR4RkhNeGh0VXlhWFJjWG9qUjVDR0hCb3NIejJieWg3ZU1Hd0J5VHZOaXJzQkFUYXJfc3FOZ28ybDhPdVdSZS0zYW15c2hpVVplRTRrMGNPSWsyRQ?oc=5",
-      "source": "Anthropic/Gizmodo",
-      "source_tier": 1,
-      "published": "2026-06-14T22:50:38+00:00",
-      "summary": "Anthropic Leaders Are Reportedly in Washington, D.C. Trying to Resolve Their Latest Issues With the Trump Administration Gizmodo",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Anthropic/Gizmodo"
-      ],
-      "source_tiers": [
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "Fable 5 Beat GPT 5.5 Before US Order Took It Offline",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FbjZOb0ZmNERuSWlqUnNuaEhvZzhpSVlKWExxRWNtUUFpMjIzdFlVa1pkMmZpV1VkcThsVzljR1FWVHplUmVHTXB0NXRDVHpxRnZSN1huMEJzcGVlOC1vaHJoQzI?oc=5",
-      "source": "Anthropic/Yellow.com",
-      "source_tier": 1,
-      "published": "2026-06-14T21:01:27+00:00",
-      "summary": "Fable 5 Beat GPT 5.5 Before US Order Took It Offline Yellow.com",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Anthropic/Yellow.com"
-      ],
-      "source_tiers": [
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "The Claude ‘Fable 5’ Jailbreak | How a Handful of People Made a $965 Billion AI Company Blink",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWVMVERUT1ZuTmpweFEzYzY3U1lKNWNyUWVMU1R6RGtoaFVIR2lSc3c3MHN4R05UaGEteUs2dkF1a2t0N2stWHQ3dGthaWhqRmRRS2RHczRIQWh6cFp3T1NRSEd1M1d2OFJhMGQtNnZuM0k2bEJGZGhUYUZzZU9GSlp1MVlyLXdJSTVIbGUxSWR5ZXl5cjgwRHBDSGctYkZ1RU14WUV5UVhudDFXVUcwUTkzR0dKb2M?oc=5",
-      "source": "Anthropic/South Pasadena News",
-      "source_tier": 1,
-      "published": "2026-06-14T18:20:56+00:00",
-      "summary": "The Claude ‘Fable 5’ Jailbreak | How a Handful of People Made a $965 Billion AI Company Blink South Pasadena News",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Anthropic/South Pasadena News"
+        "Mistral/verdict.co.uk"
       ],
       "source_tiers": [
         1
@@ -278,192 +718,12 @@
       "best_tier": 1
     },
     {
-      "title": "TCS to deploy Claude across insurance, banking, and healthcare",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRG8zMmNhOE1fTm9jQWJRYkpGRFZ2SXJCYzV4N01HMzRySVl6Y28tVW9GMmR6TnhYOFhDTTEzWFVmYVFEU25OazlqTFF3ZjBNZWRmZVdsWkVaYjMwYjRONjVYM0xFMmhuMU80UkkwWUNsbUUxZGk3TEpINFp2UTBDMDg5dS0wckpyYUhn?oc=5",
-      "source": "Anthropic/Coverager",
-      "source_tier": 1,
-      "published": "2026-06-14T14:37:47+00:00",
-      "summary": "TCS to deploy Claude across insurance, banking, and healthcare Coverager",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Anthropic/Coverager"
-      ],
-      "source_tiers": [
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "An AI startup founder is trying to vibe code his own \"Grand Theft Auto\" game",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSnh4RmpiN296cGVrbGZ0clBCQzlBdXdDVzhlVWtBTkk2RzJXbEhJV21kanNkZThfWDVzRDdPODVzbEI0YXBNVy1aMG9OWWJNQ21qUU9ocTNxbXA2cXR1ck9qT1VxaXltRXprYjdmOHdPUGFwWmZOeVl5bDhiRkZXSk9MNWpEcGZDTzNQNlFkaTlhQQ?oc=5",
-      "source": "Anthropic/Mashable",
-      "source_tier": 1,
-      "published": "2026-06-14T14:24:46+00:00",
-      "summary": "An AI startup founder is trying to vibe code his own \"Grand Theft Auto\" game Mashable",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Anthropic/Mashable"
-      ],
-      "source_tiers": [
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "Anthropic Halts Access to Fable 5 and Mythos 5",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObm5USi1nNWw4WGxsX3NEVk43ZmMzaVpDYmtzN0RjOTZzUmhXRDJWVmJOd190UkFVbWNDWWRPREFjSDZHZVB2NGRuRmhrdHVvdlgzS3E5NGxXNHFLNmh2UXFFU3BVYmJnd1F0LTlCcHpxWDFpcDVtZTgxckJDb2Q5VjVB?oc=5",
-      "source": "Anthropic/ServeTheHome",
-      "source_tier": 1,
-      "published": "2026-06-14T13:00:04+00:00",
-      "summary": "Anthropic Halts Access to Fable 5 and Mythos 5 ServeTheHome",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Anthropic/ServeTheHome"
-      ],
-      "source_tiers": [
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1N2TjhCLXhKUEVfUl9RUEYtWHRDUjk1VmY5U05GUXpKenczbThfSlUtNExrYkVTMkw2YlNhdlFpTFdKV01yUElsejZzc3RieWhOV0o3ZmRGdTRKYUhXSUgzTGxjeTBYSmM2WmV3MU9qVUVsb3dBVVgtajgtckpkSTdvQVlSQVg3YU1CbVhndW1tNFhjMHZnOEUzTXdqN1EzV2pXaUNGVdIBrAFBVV95cUxPUlZCb19ObnlKTTJubG9qMnhFR24ydk1ralZlNWt4VmNpYTlyLUozeUl0eUxaVi1SZzdOWVJ3WGw5TWg5WDFuV3NIM0RxV1VXdDhJbzYxSTl2cnhQS0hmdU1yYW9rbEw5ajE3NGJrb3hYYjFCUzFPa0t2c3pOY3NFWGlYYlJ5N3VZMHp5R0dBbWlEaUtNM205d2Y0elVxUzBSR1UwZ19Jc0s5a3Ux?oc=5",
-      "source": "Meta AI/CNBC",
-      "source_tier": 1,
-      "published": "2026-06-14T12:00:02+00:00",
-      "summary": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it CNBC",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Meta AI/CNBC"
-      ],
-      "source_tiers": [
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "US government warned Anthropic that Fable 5 had been jailbroken, but firm 'refused' to fix before US implemented export controls — Anthropic defended its decision by saying the jailbreak 'isn’t serious,' Chinese group had reportedly accessed model",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdjBYb2szem9pa1lRNlFFR25iTFFPVmZoM2x1Y0xBQVRHdW1hZ0JGbVdKQnlORTBuWm91Q3JNbEk3ak5Ta1g2Tkw4VC1ub0lRTFk3TlhfUEVsQjFtZGl4STVpNFhQR2RIaW9rZks5QTBWQUFKa09mWlVBa1pleHl2NGlZOWw0Rk9tajVkS3FUTzRUSks2TWhQZzhyOVNwNEp1VXpZaGhBeGdKaWYxRjk5MHNfRFFOLUwxV21weF90c19LV192aXp3bDh5a3JyY1RjdkVTWjFFX0YxYmlqRlk4SC02Z1ZQMVNDZDB2Vk5QYzRoSEhfSVZ5RmdR?oc=5",
-      "source": "Anthropic/Tom's Hardware",
-      "source_tier": 1,
-      "published": "2026-06-14T11:46:43+00:00",
-      "summary": "US government warned Anthropic that Fable 5 had been jailbroken, but firm 'refused' to fix before US implemented export controls — Anthropic defended its decision by saying the jailbreak 'isn’t serious,' Chinese group had reportedly accessed model Tom's Hardware",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Anthropic/Tom's Hardware"
-      ],
-      "source_tiers": [
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "Claude Fable 5 vs GPT 5.5: Is this why the Trump admin banned one and not the other?",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ENkVmNkswcWNpaWJhSGFucVpaM19FOU9pZHd3SF9EYVlLTmxRRUhvcTUtWVNFcmNHdTRickxvaFE1RkpNZzdZRlBmVDB1NVJ4QWcxVEJaZUNuWGRnQVlLcjRyTll4UU9CMEE1VHBnVVVZZVRzOUxj?oc=5",
-      "source": "Anthropic/Mashable",
-      "source_tier": 1,
-      "published": "2026-06-14T09:00:32+00:00",
-      "summary": "Claude Fable 5 vs GPT 5.5: Is this why the Trump admin banned one and not the other? Mashable",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Anthropic/Mashable"
-      ],
-      "source_tiers": [
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "Anthropic Customers Seek Refunds After Fable 5 Shutdown",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGY0WVhtT3lJekhQY2ZCZmU5V0c5SmxaTWNaNmJhYzBJVFpWN1R4LTR2ZllVbkJQR0U4UXpwMTJwX0lNUXJqX1dIa0FqbTBlTWFETFYzUDRlcTR2ejd2OUx3aXZycFM1dTJ1LU1GU0luY2djOHlveG9aai1UR213bUtmQnpuTmF5VXpSS3VfSHlqUQ?oc=5",
-      "source": "Anthropic/Forbes",
-      "source_tier": 1,
-      "published": "2026-06-14T08:51:11+00:00",
-      "summary": "Anthropic Customers Seek Refunds After Fable 5 Shutdown Forbes",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Anthropic/Forbes"
-      ],
-      "source_tiers": [
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "Meta says its old open AI strategy no longer works",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTzRrR3ZjNzRkWV9sajZzbVh2a0ZiSjJndUVEWVpweFRLdUFmdFBCOE12WThmRHVHSUVGR2M0THlmREYxYnI1S2EzdU1hb0VMdEVZNXlaWEY4dHN1d1RJb0NIU2VFQ0VFa0lZSWs1U1FWNklqR1Y5UE12ZE5JWWhyblhYOEc?oc=5",
-      "source": "Meta AI/Startup Fortune",
-      "source_tier": 1,
-      "published": "2026-06-14T07:59:39+00:00",
-      "summary": "Meta says its old open AI strategy no longer works Startup Fortune",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Meta AI/Startup Fortune"
-      ],
-      "source_tiers": [
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "Meta's highest paid employee Alexandr Wang 'admits' the company's previous AI policy didn't work, says ot",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPbGppelBtWERZVDZRTHFFUVhaTEp5YU5WQ1VsdzlGM1hscmZaRU1LdjlSaWNNLWNDcXZCSDQ0WG5GWDFSejE3aEVCa01zZktIM00tY1Ftbi0zYTgwQ1RvSzB4MVhjanhkWm1QMUdueWhOZ2ZXLTZEZnBBNVVGOTFhck9jTFJFYTgxSmVVVkRZZkZXVUwzZ1hRYldneWlTU2JHMXV2bUtfN09LVjJIQUFub2wwdW9DTHMxRzc0aTY5T3NHUmN0Mnc0WEcySElLSHBuNk8weGpqNjlrSks3Sk84ZXl3eUZxWENLWWFqN1VNakV4dHlEYXd2SHdQSU0zTnBKNERHbllZNjdiX015a203Yk04LXN4UGwwNUNsU1ZYQ2FFdVN4YWdlYzdfaUVwd9IBswJBVV95cUxNdTc0YktRS0VpWHpoRmR4MXllUmNncW1DSkplb0Jra3RBZmtxc0tXbEJNYi02eWJBdlRVNERSQVJ3a28zOWxiRTgxN04xSG1yYmRaRFBTbnJ1dnFlYjhfUmltQnBoa05Cay1rZ0p2U0FVTTVjRGhYLTMzX0ZER2V6d1J4RFctd3ZXdjNrNFVRTTJDUzRhNERVZ2lfM2ZqYXdqN21EQ2FTS2RlazJuUlptQUJNX2M5eTJiLVdfelg5OUt3dzJrOHN0TUpjX3BJeDE2MFFLVTU3UW1ZV3o4UHdVNU5SY2pBTVZHM25VZGpfZnhZeTI4ZDhGVmVkS1ZUR1RBbThHejJIX3hCb1JVQlhsMVBuVDRldDhyV2xOMDJfckhOZFhDbzFZR2stVlVrS3NLNktn?oc=5",
-      "source": "Meta AI/The Times of India",
-      "source_tier": 1,
-      "published": "2026-06-14T03:42:00+00:00",
-      "summary": "Meta's highest paid employee Alexandr Wang 'admits' the company's previous AI policy didn't work, says ot The Times of India",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Meta AI/The Times of India"
-      ],
-      "source_tiers": [
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0NVaXFnLWlNX1lTRGJEMTBCcnVhbFJrOUVYN29GNzhQaXU1RS1FY0tsZWUyOXFlaGFxdWQyVFU3ZHlSLXVpakVmMERUQmZwVHdGRXdSdXRZemFIYzFFQ1hQdTZyTk9VSjQtNVlnNHE0TDNaRG1FanB1b3VtLWt3TGpWZTRPbU9zUVFQYlBOWGNJU2Q5YUp0MThkMXZqR1FUSVB6TUg4M0cyVTd5QjJkbzdQTQ?oc=5",
-      "source": "Anthropic/WSJ",
-      "source_tier": 1,
-      "published": "2026-06-13T23:46:00+00:00",
-      "summary": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models WSJ",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Anthropic/WSJ"
-      ],
-      "source_tiers": [
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "The AI layoff wave is becoming a powder keg",
-      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+      "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
       "source": "TechCrunch AI",
       "source_tier": 2,
-      "published": "2026-06-15T07:25:41+00:00",
-      "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+      "published": "2026-06-15T23:51:44+00:00",
+      "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -476,16 +736,430 @@
       "best_tier": 2
     },
     {
+      "title": "All the news about Anthropic’s new AI fight with the White House",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-06-15T18:46:11-04:00",
+      "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said “Fable 5’s capabilities exceed those of any […]",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Verge AI"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-06-15T21:50:21+00:00",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Facebook’s new AI Mode search gets its info from public posts",
+      "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-06-15T17:15:08-04:00",
+      "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It's one of several new AI features Meta is rolling out starting today, including photo presets that swap sports jerseys onto […]",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Verge AI"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+      "source": "Ars Technica AI",
+      "source_tier": 2,
+      "published": "2026-06-15T19:07:02+00:00",
+      "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Ars Technica AI"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-06-15T14:47:08-04:00",
+      "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers. In […]",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Verge AI"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Why do South Koreans love AI so much?",
+      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "source": "MIT Tech Review",
+      "source_tier": 2,
+      "published": "2026-06-15T18:46:08+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,…",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "MIT Tech Review"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-06-15T18:30:58+00:00",
+      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-06-15T18:30:34+00:00",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-06-15T14:10:27-04:00",
+      "summary": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees. Abroad, the incident offered a sobering reminder that the US not only dominates frontier […]",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Verge AI"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "The US government may be asking Anthropic the impossible by demanding unhackable LLMs",
+      "url": "https://the-decoder.com/the-us-government-may-be-asking-anthropic-the-impossible-by-demanding-unhackable-llms/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-06-15T18:06:33+00:00",
+      "summary": "Government officials accuse Anthropic of disregarding Trump's cyber directive and releasing Fable 5 without approval. \"They screwed us,\" one administration official said. Talks are underway with the Department of Commerce, the CIA, and science advisor Michael Kratsios. The article The US government may be asking Anthropic the impossible by demanding unhackable LLMs appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Decoder"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Big Tech’s desperate last push at AI regulation",
+      "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-06-15T13:44:10-04:00",
+      "summary": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set of AI rules across the entire country and overriding the legally messy state-by-state approach to regulation. For months, lobbyists have run […]",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Verge AI"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Nvidia joins AI debt boom with $20 billion bond sale",
+      "url": "https://the-decoder.com/nvidia-joins-ai-debt-boom-with-20-billion-bond-sale/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-06-15T15:43:04+00:00",
+      "summary": "Nvidia wants to raise at least $20 billion through its first bond sale since 2021, Bloomberg reports, citing people with direct knowledge of the deal. The article Nvidia joins AI debt boom with $20 billion bond sale appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Decoder"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+      "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-06-15T15:29:51+00:00",
+      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-06-15T14:34:45+00:00",
+      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
+      "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-06-15T10:21:30-04:00",
+      "summary": "Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones. Before we recorded this episode, I actually got to remotely operate one of Skydio’s drones in the Bay Area from Adam’s laptop in our podcast studio in New York and fly an indoor drone around our office. […]",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Verge AI"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-06-15T13:46:08+00:00",
+      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Pokémon Go data helped train AI now linked to military drones",
+      "url": "https://the-decoder.com/pokemon-go-data-helped-train-ai-now-linked-to-military-drones/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-06-15T13:27:50+00:00",
+      "summary": "Volunteer AR scans from Pokémon Go players fed into Niantic's spatial AI models. That technology is now being combined with a US defense contractor's software for GPS-free navigation. The article Pokémon Go data helped train AI now linked to military drones appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Decoder"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-06-15T13:00:00+00:00",
+      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "A satellite just learned to find things on its own — here’s what that means",
+      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-06-15T12:00:00+00:00",
+      "summary": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Anthropic shutdown sparks sovereignty debate across Europe",
+      "url": "https://the-decoder.com/anthropic-shutdown-sparks-sovereignty-debate-across-europe/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-06-15T10:33:07+00:00",
+      "summary": "The European Commission is assessing the implications of the US order that forced Anthropic to shut down Fable 5 and Mythos 5 worldwide. European researchers are debating the right response: building their own foundation models or securing access through contracts. But building out homegrown infrastructure would require computing capacity, energy, and competitive providers that Europe currently lacks, experts warn. The article Anthropic shutdown sparks sovereignty debate across Europe appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Decoder"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-06-15T06:17:42-04:00",
+      "summary": "According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a […]",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Verge AI"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
       "title": "China may have accessed Mythos",
       "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
       "source": "The Verge AI",
       "source_tier": 2,
-      "published": "2026-06-14T14:27:55-04:00",
+      "published": "2026-06-15T05:47:01-04:00",
       "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security […]",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
         "The Verge AI"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella warns of \"a small number of AI systems capturing all the economic returns\"",
+      "url": "https://the-decoder.com/microsoft-ceo-satya-nadella-warns-of-a-small-number-of-ai-systems-capturing-all-the-economic-returns/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-06-15T09:39:14+00:00",
+      "summary": "Microsoft CEO Satya Nadella wants companies to build \"token capital\" alongside human capital, meaning their own AI capabilities built on internal data and proprietary learning loops. Without it, he warns, a few large models could absorb the value of entire industries. The argument also happens to line up with the business logic of his own Azure platform. The article Microsoft CEO Satya Nadella warns of \"a small number of AI systems capturing all the economic returns\" appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Decoder"
+      ],
+      "source_tiers": [
+        2
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "The AI layoff wave is becoming a powder keg",
+      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-06-15T07:25:41+00:00",
+      "summary": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "TechCrunch AI"
       ],
       "source_tiers": [
         2
@@ -530,138 +1204,12 @@
       "best_tier": 2
     },
     {
-      "title": "Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents",
-      "url": "https://the-decoder.com/google-clouds-open-knowledge-format-turns-scattered-docs-into-markdown-files-for-ai-agents/",
-      "source": "The Decoder",
-      "source_tier": 2,
-      "published": "2026-06-14T13:29:52+00:00",
-      "summary": "Google Cloud's new Open Knowledge Format (OKF) standardizes scattered organizational knowledge as Markdown files with YAML frontmatter, making it portable and usable for AI agents. The minimalist spec formalizes a pattern Andrej Karpathy recently popularized as the \"LLM Wiki.\" The article Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents appeared first on The Decoder.",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "The Decoder"
-      ],
-      "source_tiers": [
-        2
-      ],
-      "source_count": 1,
-      "best_tier": 2
-    },
-    {
-      "title": "KPMG fabricated AI case studies in a report designed to sell clients on AI adoption",
-      "url": "https://the-decoder.com/kpmg-fabricated-ai-case-studies-in-a-report-designed-to-sell-clients-on-ai-adoption/",
-      "source": "The Decoder",
-      "source_tier": 2,
-      "published": "2026-06-14T09:40:37+00:00",
-      "summary": "KPMG published a report on AI in business that contained fabricated case studies involving UBS, the NHS, and other organizations. GPTZero CEO Edward Tian, who helped uncover the errors, warns of \"secondary hallucinations,\" flawed claims from trusted consulting firms that spread unchecked. KPMG has since pulled the report. The article KPMG fabricated AI case studies in a report designed to sell clients on AI adoption appeared first on The Decoder.",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "The Decoder"
-      ],
-      "source_tiers": [
-        2
-      ],
-      "source_count": 1,
-      "best_tier": 2
-    },
-    {
-      "title": "AI coding agents find the right file but miss the exact lines that matter, study shows",
-      "url": "https://the-decoder.com/ai-coding-agents-find-the-right-file-but-miss-the-exact-lines-that-matter-study-shows/",
-      "source": "The Decoder",
-      "source_tier": 2,
-      "published": "2026-06-14T08:54:47+00:00",
-      "summary": "AI coding agents like Claude Code or Codex reliably find the right file but miss most of the critical lines within it. The new SWE-Explore benchmark is the first to test code search separately from the actual repair, and it shows that without enough context, even the best fix will fail. The article AI coding agents find the right file but miss the exact lines that matter, study shows appeared first on The Decoder.",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "The Decoder"
-      ],
-      "source_tiers": [
-        2
-      ],
-      "source_count": 1,
-      "best_tier": 2
-    },
-    {
-      "title": "Amazon and five other companies reportedly triggered the government crackdown on Anthropic's Fable model",
-      "url": "https://the-decoder.com/amazon-and-five-other-companies-reportedly-triggered-the-government-crackdown-on-anthropics-fable-model/",
-      "source": "The Decoder",
-      "source_tier": 2,
-      "published": "2026-06-14T08:35:02+00:00",
-      "summary": "Amazon CEO Andy Jassy and executives from other tech companies reportedly warned the Trump administration about security vulnerabilities in Anthropic's Fable model, even though Amazon is one of Anthropic's largest investors. Within hours, the White House forced the model offline through an export control order. The move may well be a legitimate security policy decision, but it also reads as a show of force against an inconvenient company. The article Amazon and five other companies reportedly triggered the government crackdown on Anthropic's Fable model appeared first on The Decoder.",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "The Decoder"
-      ],
-      "source_tiers": [
-        2
-      ],
-      "source_count": 1,
-      "best_tier": 2
-    },
-    {
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "source": "TechCrunch AI",
-      "source_tier": 2,
-      "published": "2026-06-14T03:00:00+00:00",
-      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "source_tiers": [
-        2
-      ],
-      "source_count": 1,
-      "best_tier": 2
-    },
-    {
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "source": "TechCrunch AI",
-      "source_tier": 2,
-      "published": "2026-06-14T00:03:49+00:00",
-      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "source_tiers": [
-        2
-      ],
-      "source_count": 1,
-      "best_tier": 2
-    },
-    {
-      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-      "source": "The Verge AI",
-      "source_tier": 2,
-      "published": "2026-06-13T17:39:26-04:00",
-      "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series […]",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "The Verge AI"
-      ],
-      "source_tiers": [
-        2
-      ],
-      "source_count": 1,
-      "best_tier": 2
-    },
-    {
-      "title": "AI 版支付宝内测界面曝光，搭载“阿宝”助手",
-      "url": "https://www.ithome.com/0/964/491.htm",
+      "title": "多款惠普 / 戴尔 Win11 设备反馈不兼容微软 6 月累积更新：启动故障、云盘集成失效等",
+      "url": "https://www.ithome.com/0/964/667.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T08:58:08+00:00",
-      "summary": "IT之家 6 月 15 日消息，根据多位网友今日晒出的截图，AI 版支付宝目前正在内测中，需要邀请码才可以体验。从曝光的界面可以看到，AI 版支付宝包含资产、阿宝两个版块，其中的“阿宝”就是一个 AI 助手界面，用户可以和阿宝对话，底部则是支付宝的扫一扫、收付款、出行、理财几大功能。而在资产界面，AI 版支付宝采用卡片夹形式展示用户的流动资产、理财资产、信用资产等信息。IT之家注意到，彭博社曝出蚂蚁集团正秘密测试 AI 版支付宝，消息称，新版本上线时间未定。对此，蚂蚁集团官方“拒绝评论”。另据 Tech 星球报道，AI 版支付宝已低调发出极少量测试邀请码。“这将是支付宝史诗级的改版”，一位抢先体验测试版的人士如是说。",
+      "published": "2026-06-16T01:36:05+00:00",
+      "summary": "IT之家 6 月 16 日消息，科技媒体 Windows Latest 于 6 月 14 日发布博文，报道称部分 Windows 11 设备安装微软 6 月累积更新 KB5094126 失败，其中惠普设备受影响最为严重。IT之家此前报道，KB5094126 是微软 2026 年迄今最大安全更新，修复了 200 个安全漏洞，其中涵盖 33 个“关键”（critical）级别漏洞以及 5 个零日漏洞。不过部分用户反馈在安装 6 月累积更新过程中，遇到兼容性问题，其中惠普设备影响最为严重，目前确认受影响的机型包括但不限于以下机型：惠普 EliteBook 840 G10惠普 ProBook 460 G11 / HP 460 G11惠普 Engage One Pro 15.6 G2 AiO POS惠普 ZBook戴尔 Precision戴尔 Precision 7530在问题表现方面，受影响用户表示安装本月累积更新后，出现黑屏、启动故障、直接进入 BitLocker 恢复界面等。根据用户反馈，本次兼容性问题预估关联安全启动（Secure Boot）、EFI 分区和 BIOS 兼容性。旧镜像常见 100MB EFI 分区，新版则多为 500MB 到 1GB；若 EFI 空间不足，Boot Manager 相关文件可能写入失败。系统日志还出现 TPM-WMI 错误，提示安全启动更新因磁盘空间不",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -674,12 +1222,12 @@
       "best_tier": 3
     },
     {
-      "title": "奔驰纯电 CLA 获推 OTA 升级：领航辅助驾驶系统覆盖全国城区及高速",
-      "url": "https://www.ithome.com/0/964/490.htm",
+      "title": "2026 年二季度机械硬盘供给短缺加剧，市场批发价环比上涨 10%",
+      "url": "https://www.ithome.com/0/964/665.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T08:56:36+00:00",
-      "summary": "IT之家 6 月 15 日消息，梅赛德斯-奔驰官方今日宣布针对中国市场的奔驰纯电 CLA 推送新一轮 OTA 升级。本次更新聚焦智能辅助驾驶与数字座舱两个方面，共计带来 12 项功能新增与体验优化。据介绍，智能辅助驾驶是此次 OTA 的核心升级方向。奔驰与 Momenta 合作完成辅助驾驶系统技术升级，引入强化学习大模型，让车辆在复杂路口通行、邻车突然切入、弱势道路参与者防护等高频场景下的处理能力提升 5 至 10 倍，决策逻辑更贴近资深驾驶员。目前，城区与高速领航辅助驾驶功能已实现全国范围覆盖。IT之家附其他更新内容如下：新增 ETC 通行（提前识别闸机、ETC 通道类型与通行状态）优化车速调节更灵活新增泊出方向选择新增基于用户的辅助驾驶培训人优化人机共驾支持紧急车道保持优化车道内静态物体避让优化无导航红绿灯启停优化无导航自动变道除驾驶层面外，奔驰本次 OTA 重点升级 AI 数字座舱系统。全新虚拟助手“小奔”正式上线，该助手整合自然语言模型、3D 图形技术与拟人化语音系统，配备专属卡通形象与动态效果。除基础语音控制、信息查询功能外，“小奔”可识别用户情绪并做出互动反馈，还能联动车内灯光、音响、空调、座椅等硬件，根据语音指令一键营造不同座舱氛围。",
+      "published": "2026-06-16T01:33:52+00:00",
+      "summary": "IT之家 6 月 16 日消息，全球存储设备短缺危机正全面爆发，且供需失衡局面还将进一步恶化。众所周知，人工智能产业的爆发式增长已造成全球 DRAM 内存芯片与 NAND 闪存芯片严重紧缺，机械硬盘市场同样未能幸免。来自中国台湾地区供应链的消息称，过去一个季度机械硬盘的供货短缺情况持续加剧，硬盘售价也将随之迎来新一轮上涨。据 DigiTimes 报道，2026 年第二季度机械硬盘供应缺口进一步扩大，市场批发价环比上涨 10%。本次涨幅远高于往年同期，根源在于全球各地新建、扩容的 AI 数据中心带来了海量存储需求。报道称，面向普通消费者的 1TB、2TB 机械硬盘依旧货源紧张；而超大规模云服务商大批量采购近线大容量硬盘，使得该品类产品需求量创下历史新高。机械硬盘短缺的本质是供需经济失衡。AI 数据中心需要存储海量数据、图像、视频及各类资源文件，以此支撑云端大模型运行，海量存储需求催生了巨量硬盘采购订单。相较固态硬盘，机械硬盘更适配这类存储场景：其一，单位 GB 存储成本更低；其二，机械硬盘不存在固态硬盘普遍存在的写入次数寿命上限问题。IT之家注意到，暴涨的需求带来了剧烈的市场波动。西部数据与希捷均已证实，自家 2026 全年全部机械硬盘产能，基本都已被 AI 数据中心客户预定一空。受此影响，近半年硬盘整体价格涨幅接近 50%。涨价压力同样传导至消费级硬盘市场。一款西部数据蓝盘 4TB",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -692,12 +1240,48 @@
       "best_tier": 3
     },
     {
-      "title": "鸿海与施耐德电气围绕次世代 AI 数据中心展开战略合作，合作生产年内启动",
-      "url": "https://www.ithome.com/0/964/487.htm",
+      "title": "意大利诞生首位AI市政官 | 新民侨梁",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fY01OMUJUekt0elh1QjNmMjVQUExhZ002ajNkVUNTaDJ0Vk5YSmhoMGlnQldRYW9KbGh4dmVrTDRQcTQyS1cza0taaXJneDhUZlU0dTF6UkRzemlONVIzS2NBaUpNLVBUSDNjZmxnRVQ4MmxjX3NVdzdOOUZQeUE?oc=5",
+      "source": "中文AI聚合/新浪网",
+      "source_tier": 3,
+      "published": "2026-06-16T01:28:48+00:00",
+      "summary": "意大利诞生首位AI市政官 | 新民侨梁 新浪网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪网"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "人工智能飞速发展，中国“山水”在布鲁塞尔传播东方美学",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdDUwM2JYYml1aXhlWDRObXpTM2dqYWZaWWtMYmtpS25CS2NvUm1GRDlPZFh0SkJVbkY2LUNULU1YNnl1dmp0X0ZIX2t4ODFzSWJTZGRwU2g2RktPaEVPbVhSN0dqVVpPczF4MGprZlZ5aWlieWtXdmZ0SGNTUXlCMEZScW9GVjhTcDQ0NQ?oc=5",
+      "source": "中文AI聚合/搜狐网",
+      "source_tier": 3,
+      "published": "2026-06-16T01:24:05+00:00",
+      "summary": "人工智能飞速发展，中国“山水”在布鲁塞尔传播东方美学 搜狐网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/搜狐网"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "vivo X Fold6 折叠屏手机新品发布会定档 6 月 26 日",
+      "url": "https://www.ithome.com/0/964/659.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T08:50:53+00:00",
-      "summary": "IT之家 6 月 15 日消息，鸿海科技集团 (Foxconn) 与施耐德电气 (Schneider Electric) 双方今日宣布展开战略合作，共同打造并推动次世代 AI 数据中心的发展与规模化应用。双方合作生产将于今年稍晚开始。IT之家了解到，本次合作中双方将结合鸿海的制造优势和施耐德电气的能源智慧，共同打造集成式、可实时部署的解决方案，协助客户在全球各地以更快的速度、更好的效率与更佳的预先规划，构建并运营 AI 基础设施。透过本次合作，鸿海与施耐德电气将共同开发次世代 AI 数据中心参考架构。同时，双方也将探索闭环式能源优化、模块化电力与冷却系统，以及标准化设计框架等创新解决方案，打造具备可重复性与高性能的 AI 工厂蓝图，推动全球 AI 基础设施标准化与规模化发展。",
+      "published": "2026-06-16T01:20:11+00:00",
+      "summary": "IT之家 6 月 16 日消息，vivo X Fold6 折叠屏手机新品发布会定档 6 月 26 日 19:00，新品已开启线上全平台预约。综合IT之家此前报道，这款新机提供“蓝洞”配色，采用了更圆润的 R 角设计，搭配 2.5D 立边金属中框。影像方面，vivo X Fold6 目标打造最强折叠影像旗舰，更是一部“折叠小 V 单”。折叠超强大底真 2 亿，折叠首发蔡司 APO 超级潜望长焦，搭载蓝图影像芯片 V3+，支持搭载等效 200mm 的 vivo 蔡司增距镜 G2，支持蓝图原生色彩，蓝图调色盘和多款色彩风格。此外，该机内外屏都采用最新、最强一代的发光材料，其中折叠首发的三星 M14 发光材料内屏，峰值亮度更高，功耗更低。vivo X Fold6 搭载天玑 9500 超能版，号称“专门为大屏折叠机开发 SoC”，NPU 峰值性能比上代提升 111%，功耗还进一步优化了 56%，算力翻倍，功耗减半；针对 X Fold6 大屏 +AI 功能做深度适配。",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -710,84 +1294,12 @@
       "best_tier": 3
     },
     {
-      "title": "武汉商贸职业学院人工智能学院在第十七届蓝桥杯视觉艺术设计赛上勇夺多项省级奖项",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FUTliWGlnRHNsRVdEVS1TUXhGTmlDUi1KOHFyR1VWM2J3aVVWeHM2SFYxanBRM3BSeGo0UTJLZkFkMmVnRnRWMTBlRVNxcWFyQTFxWWk3aVBpOGZ3RlctUEhoMVNDd2It?oc=5",
-      "source": "中文AI聚合/教育在线",
-      "source_tier": 3,
-      "published": "2026-06-15T08:45:00+00:00",
-      "summary": "武汉商贸职业学院人工智能学院在第十七届蓝桥杯视觉艺术设计赛上勇夺多项省级奖项 教育在线",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/教育在线"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "美国政策反转、史无前例管制大模型为硅谷敲响警钟- the United States 美国",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UUFdSWkxnMmxNY2J5RHhFTHhMc0czY1JneXEyNUNTd1hGclJPMXY2akJoN1BMXy1UTWFIZ1ZBb1E0T3pKQmxOZzNXN3k3d0l4RjRxQUJRdm1HV2ZnbUZxag?oc=5",
-      "source": "中文AI聚合/cnBeta.COM",
-      "source_tier": 3,
-      "published": "2026-06-15T08:44:00+00:00",
-      "summary": "美国政策反转、史无前例管制大模型为硅谷敲响警钟- the United States 美国 cnBeta.COM",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/cnBeta.COM"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "【图】新增千问大模型/优化记忆泊车界面等 极狐阿尔法S5推首次OTA",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lQ0NUSzFFWE9zM3Nhcjh6c2ZlMm9nQmExWFBjMHd3amxQeF9pSXg0Skp6NnpUdFhybUpSZXlTS2NJQXdCVkdMM2RiMTlzNjBnWlA4cjNBZHdtY1J3UlJ4dzdn?oc=5",
-      "source": "中文AI聚合/汽车之家",
-      "source_tier": 3,
-      "published": "2026-06-15T08:43:34+00:00",
-      "summary": "【图】新增千问大模型/优化记忆泊车界面等 极狐阿尔法S5推首次OTA 汽车之家",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/汽车之家"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "科技照进现实鸿蒙原生首个3D大模型AI应用V2Fun正式发布-AI云资讯",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GR013WGFFcS1RQ0lEZ2xoZ2I5QXA0a2hkS1MyNTBfbk41aUxlLUtZOEZrVXVfNUNpUG1CZUNWUThhWDNzcE1qTXFkN0hUZ2xraFE?oc=5",
-      "source": "中文AI聚合/icloudnews.net",
-      "source_tier": 3,
-      "published": "2026-06-15T08:42:54+00:00",
-      "summary": "科技照进现实鸿蒙原生首个3D大模型AI应用V2Fun正式发布-AI云资讯 icloudnews.net",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/icloudnews.net"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "赛力斯人形机器人首次亮相，副总裁康波透露还有更多种类今年亮相",
-      "url": "https://www.ithome.com/0/964/484.htm",
+      "title": "红魔游戏平板 5 Pro 定档 6 月 30 日发布，有望搭 9 英寸 185Hz OLED 面板",
+      "url": "https://www.ithome.com/0/964/656.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T08:40:39+00:00",
-      "summary": "IT之家 6 月 15 日消息，赛力斯人形机器人首次亮相。赛力斯集团董事、副总裁康波今日发布视频，展示了赛力斯人形机器人“小赛”。康波还透露，赛力斯还有更多种类的具身智能机器人在筹备，今年内将正式与大家见面。视频中，演员黄渤来到了赛力斯超级工厂参观，赛力斯人形机器人“小赛”则充当此次活动的向导。根据官方信息来看，这款“小赛”机器人具备视觉识别能力，并且能够主动打招呼、进行语音互动等。另外，赛力斯超级工厂目前已配备多款机器人，包括：地空一体物流（无人机近地物资运输）、具身智能 AI 检测机器人“小赛 01”（底盘装配质量检测）、物流机器人（打包小车自动配送）、协作机器人（底盘质量 AI 视觉检查）、具身智能 AI 检测机器人“小赛 02”（整车外观配置检测）、跟随机器人（产线上自动跟随的物流配送）。IT之家注：赛力斯超级工厂的智能中枢里拥有 1600+ 台智能化设备精准协作，3000+ 台工业机器人同步工作。该工厂还构建了完整的数字生态系统，包含物联网、大数据、数字孪生、5G、AI、BIM 等。值得一提的是，去年 10 月 9 日，赛力斯凤凰与字节跳动火山引擎在北京签署具身智能合作协议。根据协议，赛力斯凤凰与火山引擎将围绕“面向多模态云边协同的智能机器人决策、控制与人机增强技术”项目协同攻关。另外，重庆凤凰技术有限公司于去年 3 月 17 日成立，经营范围包含人工智能公共数据平台、智",
+      "published": "2026-06-16T01:16:46+00:00",
+      "summary": "IT之家 6 月 16 日消息，据“红魔游戏手机”，红魔游戏平板 5 Pro 将于 6 月 30 日 15:00 发布。综合博主 @数码闲聊站，该机型号为 NP06J，工程机版本采用半透明设计，并带有 RGB 灯，正面配备一块 9 英寸 185Hz OLED 面板，其搭载骁龙 8 Elite Gen5 处理器，提供至高 24GB RAM 和 1TB 存储空间，匹配液冷循环散热系统，搭载 8300 mAh 电池。IT之家注意到，在红魔 MWC 2026 第二天（今年 3 月 4 日），红魔游戏手机产品总经理姜超预告，红魔游戏平板 5 Pro “马上登场”。目前新机已发布超前预告，公布了十大黑科技：行业首发超高刷游戏平板平板全新发光材料黑科技散热红魔独家透明设计纯平设计顶级触控芯片PC 级散热材料CUBE 擎天游戏引擎PC 级游戏黑科技红魔首款全新接口设计",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -800,12 +1312,30 @@
       "best_tier": 3
     },
     {
-      "title": "2 Tile + 4 HBM 设计：英特尔未能商业化的 Xe HP 服务器 GPU 现身网络",
-      "url": "https://www.ithome.com/0/964/480.htm",
+      "title": "青岛能源集团发布多项人工智能科创成果",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xajJReEY5SmJfT3djcHFGbGgyYUZETDZRdU9ldE81dGp3a2V2bWhsQnV3emtIeHN0OURtTWEydW1Tb0taMldyX3ZCR2lhbTRERW9kRnN0MjA3NUJJRENtM1g3TGM?oc=5",
+      "source": "中文AI聚合/sd.chinanews.com.cn",
+      "source_tier": 3,
+      "published": "2026-06-16T01:15:00+00:00",
+      "summary": "青岛能源集团发布多项人工智能科创成果 sd.chinanews.com.cn",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/sd.chinanews.com.cn"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "AMD \"Zen 6\" 客户端桌面处理器被曝新增 NPU 但取消 GPU",
+      "url": "https://www.ithome.com/0/964/648.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T08:33:02+00:00",
-      "summary": "IT之家 6 月 15 日消息，Intel（英特尔）此前大举重返独立显卡市场时曾提出过“四大微架构”战略，分别是低功耗优化的 Xe LP、独立游戏显卡优化的 Xe HPG、机器学习 / 媒体优化的 Xe HP、高性能计算 / 机器学习优化的 Xe HPC。Xe LP、Xe HPG、Xe HPC 均有产品公开对外发售；但也称 \"Arctic Sound\" 的 Xe HP 最终仅用于内部和少数合作伙伴的开发者生态系统构建，未能商业化。X 平台 Chips by their layers (@ChipsByLayers) 北京时间 14 日分享了一颗 Xe HP 服务器 GPU 样品的实物图片。可以看到这款内部代号 QVS8 的芯片采用 2 计算模块 + 4HBM 堆栈的物理设计，设定频率为 1GHz。根据英特尔公布和外部泄露的消息，Xe HP 每个计算模块的最大规模为 512EU，配备 HBM2E 内存，提供 1 Tile、2Tile、4 Tile 三种版本。",
+      "published": "2026-06-16T01:14:36+00:00",
+      "summary": "IT之家 6 月 16 日消息，X 平台用户 @Gotou_kai3 北京时间 15 日爆料称，AMD \"Zen 6\" 微架构主流桌面级 (MSDT) 处理器 \"Olympic Ridge\" 将集成 NPU 单元但取消核显，引入 CUDIMM 支持，仍无原生 USB4 控制器支持。IT之家注意到，这一爆料如果正确，意味着 \"Olympic Ridge\" 处理器将采用完全重新设计的 I/O Die 芯片。兼容 CUDIMM 可提升 DDR5 内存频率支持上限，而未集成 USB4 主控意味着主板上的相关接口仍将由外挂芯片提供。倘若 AMD 果真采用 \"-iGPU, +iNPU\" 的桌面端策略，这意味着该企业一方面在迎合微软的 AI+ PC 策略，一方面也在平衡芯片制造成本：尽管 AMD 的锐龙 AI 400G 系列是首款满足 Copilot 要求的桌面端处理器，但那批芯片本质上还是移动端 APU 的移植版本，不能全面满足多样化的桌面端需求。与此同时，与 \"Olympic Ridge\" 正面竞争的英特尔 \"Nova Lake S\" 也将引入高算力 NPU。在引入 NPU 的同时取消核显可节省晶圆面积，降低代工开支。而 AMD 在 AM4 插槽时期推出的原生 MSDT 处理器均无核显，但仍在商业上取得了巨大成功，这也支持了在 \"Olympic Ridge\" 上的潜在决策。",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -818,12 +1348,12 @@
       "best_tier": 3
     },
     {
-      "title": "英国政府官宣 16 岁以下未成年人社交媒体禁令，预计涵盖 YouTube、TikTok、IG、X 平台等",
-      "url": "https://www.ithome.com/0/964/475.htm",
+      "title": "消息称英特尔-英伟达合作 PC 处理器预计 2028Q1 面世",
+      "url": "https://www.ithome.com/0/964/654.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T08:30:25+00:00",
-      "summary": "IT之家 6 月 15 日消息，英国首相基尔 · 斯塔默今天宣布，将禁止社交媒体平台向 16 岁以下未成年人提供服务，让孩子们不再花大量时间刷屏，多进行现实世界的活动和游戏。英国政府表示，本次禁令将为未来几代人树立全新社会标准，并推动文化层面改革，让每个孩子都拥有“最佳人生起点”。具体来说，英国计划采用类似澳大利亚的监管模式。禁令将覆盖允许用户发布内容、使用算法推荐和允许用户互动的平台，预计将覆盖 Snapchat、TikTok、YouTube、Instagram、Facebook 和 X 平台。政府表示，即时通讯服务软件（IT之家注：IM）不会被纳入禁令，因此 WhatsApp、Signal 等平台预计将继续接纳未成年人。同时，英国政府为了应对网络风险，将禁止 16 岁以下用户使用直播、与陌生人直接交流等功能，不仅适用于社交媒体，还将扩展至网游等在线互动服务。该国政府号称，上述措施的严格程度超越全球所有国家。此外，为了避免孩子在年满 16 岁时突然获得所有访问权限，英国政府还计划对 16-17 岁的青少年启用部分保护功能，并研究宵禁、强制中断无限滚动等功能，适用对象可能扩大至 18 岁以下人士，更多细节预计将在 7 月公布。英国首相斯塔默表示：“家长希望孩子们安全快乐地成长，但网络世界让这一切变得十分困难。我亲耳听到无数家庭呼吁改变，我们将回应他们的诉求。我们将采取世界上最严厉的",
+      "published": "2026-06-16T01:11:36+00:00",
+      "summary": "IT之家 6 月 16 日消息，X 平台用户 Erdi Özüağ (@fx57) 北京时间昨日爆料称，按照 Intel（英特尔）最新路线图，其与 NVIDIA（英伟达）合作的客户端处理器产品目标 2028 年第 1 季度面世，很可能会在 CES 2028 上发布。根据此前双方透露，在 PC 领域英伟达将向英特尔供应 GPU 芯粒。这一产品可能会被称为 \"Serpent Lake\" 或一种 \"Titan Lake\" 变体，是标准 \"Razer Lake\" 的衍生 / 后继（IT之家注：换句话说，距今有 2 代以上）。@fx57 亦提到，Apple（苹果）与英特尔代工之间的合作磋商仍在持续，谈判的关键点还是在于 Intel 18A 制程工艺的性能与成本表现，当前情况指向 2027Q4 的目标。",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -836,16 +1366,16 @@
       "best_tier": 3
     },
     {
-      "title": "高盛：人工智能领域的支出热潮目前推高利润 但未来可能会给大型科技公司的回报带来压力",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOUlLU3JFdHFjcmc3RXlwckwyOUxYMnp0dUNCaVY1amNHWU1Ic2I2WVZCTVJKOXVsTHRobHM3Y29rYldBNXc1bjFrdkpLQQ?oc=5",
-      "source": "中文AI聚合/富途牛牛",
+      "title": "6月15日科创创业人工智能ETF永赢（159141）份额增加1.22亿份，最新份额10.65亿份，最新规模14.27亿元",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ0ZLRUxtMTN1aWhhWTBJME1ESC1jaVlXY3dheDJlQU92bXlTenJNZUlpNWhsdVhqTlBkTXFjSDYtVmU4ZjR5d2cwRkVNd1lzSWZNclJxckpHMkFGTWtSTjB6YTRLZmFNcGI3enNIdXRJSjdFZnpzX3E1SWlaOEdIMkdGYw?oc=5",
+      "source": "中文AI聚合/新浪网",
       "source_tier": 3,
-      "published": "2026-06-15T08:30:20+00:00",
-      "summary": "高盛：人工智能领域的支出热潮目前推高利润 但未来可能会给大型科技公司的回报带来压力 富途牛牛",
+      "published": "2026-06-16T01:10:22+00:00",
+      "summary": "6月15日科创创业人工智能ETF永赢（159141）份额增加1.22亿份，最新份额10.65亿份，最新规模14.27亿元 新浪网",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "中文AI聚合/富途牛牛"
+        "中文AI聚合/新浪网"
       ],
       "source_tiers": [
         3
@@ -854,84 +1384,12 @@
       "best_tier": 3
     },
     {
-      "title": "【#加拿大总理卡尼警告：过度依赖美国AI模型存在风险 】新华社伦敦6月14日电都柏林消息：加拿大总理卡尼14日说，美国政府利用出口管制指令对一家美国人工智能（AI）企业的两款新模型实施限制措施，这表明#过度依赖美国AI模型存在风险 。“只有一个选择绝非好事。”",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObEU5N0FHcWh4YmNmNF9FbndXX05iVnBRWGszNjJiNzd4NVNnekF5dGtWU1NRci10T2paSlJueGJLOE12NDI4QVkybnB2ZWFXOWVfbXZyOFgwMkdhUkNhQWJxb2FMdVMyTFRxalNjMTY5MXQtMEZFcFBONDhYU1NuT2xwTUw5NWM2?oc=5",
-      "source": "中文AI聚合/Sohu",
-      "source_tier": 3,
-      "published": "2026-06-15T08:26:13+00:00",
-      "summary": "【#加拿大总理卡尼警告：过度依赖美国AI模型存在风险 】新华社伦敦6月14日电都柏林消息：加拿大总理卡尼14日说，美国政府利用出口管制指令对一家美国人工智能（AI）企业的两款新模型实施限制措施，这表明#过度依赖美国AI模型存在风险 。“只有一个选择绝非好事。” Sohu",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/Sohu"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "基础设施与智能的融合：物理人工智能如何改变我们互联的世界",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwVlNGVzdVZDVRWEZHWWRQSUFPejFmRDgxbWtxdF9XTkRPZjV0bExfc3llOGNuYVJubmRQREZZQlZZdGtxQjBrTnhvN2dYbENpajBfMEczTDJiWTBFUXVENw?oc=5",
-      "source": "中文AI聚合/千家网",
-      "source_tier": 3,
-      "published": "2026-06-15T08:20:42+00:00",
-      "summary": "基础设施与智能的融合：物理人工智能如何改变我们互联的世界 千家网",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/千家网"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "人工智能时代，人类应如何定义自身的价值与方向",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoeEtMdXJzaHVISV9PMmNZVTJvOW0zdzBNdlRRUk1zWWExd0REcWN0TXRnRVhtb3p1MGY4SkdjcWJOdklUZlQ5dHpsdGFFcnpab1dtWEJEdHNGTk0?oc=5",
-      "source": "中文AI聚合/亚洲日报",
-      "source_tier": 3,
-      "published": "2026-06-15T08:18:00+00:00",
-      "summary": "人工智能时代，人类应如何定义自身的价值与方向 亚洲日报",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/亚洲日报"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "大模型的尽头，收费更加智能？",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ONVBnb3dCaGlmTTdSLVVMZU1tUV9KOVdNNURFSWxSMldMMGE2YXltY0pyN09Za0RyMXJhSllpNk9TQzFSTDBYTjJ4S0VlTXUzZHZtY3dBdTZnRnNTMXc?oc=5",
-      "source": "中文AI聚合/thepaper.cn",
-      "source_tier": 3,
-      "published": "2026-06-15T08:15:00+00:00",
-      "summary": "大模型的尽头，收费更加智能？ thepaper.cn",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/thepaper.cn"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "腾讯 AI 生态进一步打通：ima 知识库作为信源接入元宝",
-      "url": "https://www.ithome.com/0/964/468.htm",
+      "title": "小米卢伟冰：REDMI K90 至尊版本月登场，守住 3K 价位段",
+      "url": "https://www.ithome.com/0/964/652.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T08:13:40+00:00",
-      "summary": "IT之家 6 月 15 日消息，腾讯今日宣布，ima 知识库作为信源接入元宝，腾讯 AI 生态进一步打通。官方表示，元宝在解答用户的提问时，会将 ima 知识库的相关内容作为信源之一，获得更精准、更个性化的智能问答体验。目前 ima 知识号已覆盖金融、法律、医疗、教育等 20 余个行业，知识内容被应用超过 1.4 亿次。IT之家获悉，点击信源引用卡片，可跳转 ima 原文查看对应知识库完整信息，还可一键加入个人知识库，继续提问。此外，腾讯还公布了多个生态组合技能：WorkBuddy 与 ima 结合可让 AI 全包资料查找，腾讯文档支持文档秒进知识库，微信读书可实现读书笔记自动归纳与随时提问。延伸阅读ima 是腾讯 QQ 浏览器团队在 2024 年 10 月孵化的 AI 原生应用，定位为智能工作台，与微信公众号、微信深度联动，已在 AI 知识库市场建立口碑。腾讯元宝是腾讯的 AI 助手产品，于 2024 年 11 月发布 2.0 版本，基于新一代大模型“混元 Turbo”。在 2025 年 2 月，元宝已支持免费使用 DeepSeek-R1 满血版模型，同时混元深度思考模型 T1 也在元宝上线供测试体验。在 2025 年 2 月，腾讯内部完成了一次重要的产品及团队调整，包括 QQ 浏览器、搜狗输入法、ima 等产品所在的团队从平台与内容事业群（PCG）调整至云与智慧产业事业群（CS",
+      "published": "2026-06-16T01:08:22+00:00",
+      "summary": "IT之家 6 月 16 日消息，小米 REDMI 手机今日官宣，REDMI K90 至尊版本月登场，口号是“为 3K 档游戏性能自由而战”。小米集团合伙人、总裁、手机部总裁、小米品牌总经理卢伟冰表示：4 月发布的 K90 Max 收获了非常多用户的认可，刷新了近一年全渠道 3K-4K 新机首销纪录。今天，和大家正式介绍 K90 系列的新成员 ——K90 至尊版。它全面继承了 K90 Max 最硬核的游戏基因，旗舰同款游戏体验，一步到位。2026 年行业普涨，2-3K 档性能机稀缺。我们深知行业的无奈，但不会辜负大家的期待，K90 至尊版的使命就是：守住 3K 价位段，为「3K 档游戏性能自由」而战！K90 至尊版，本月登场，敬请期待。博主 @数码闲聊站 昨日爆料了小米 REDMI 新款至尊版机型的配置，预计就是指 REDMI K90 至尊版。WIN RT 验证了「骁龙 + 风扇 + 大电池」这套组合很吃香，马上红米的至尊版就是这套组合，骁龙 8E+ 最强风冷硬刚 8E5，依然是 8K+ 大电池，外围看齐 Max，新一代「性能夯机」预定有网友询问新机是否和 REDMI K90 Max 定位冲突，该博主表示：不冲突，一个天玑 9500 + 风扇性能更极致，一个骁龙 8E + 风扇性能挑战 N 代旗舰芯，价格更香，定位类似荣耀 WIN 和 WIN RT。▲ REDMI K90 Max据I",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -944,12 +1402,12 @@
       "best_tier": 3
     },
     {
-      "title": "微信支付发布 AI 接入工具箱 2.0，Token 消耗少一半",
-      "url": "https://www.ithome.com/0/964/467.htm",
+      "title": "微软承认 Copilot 按键影响部分用户效率，Win11 将开放重映射功能",
+      "url": "https://www.ithome.com/0/964/651.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T08:13:23+00:00",
-      "summary": "IT之家 6 月 15 日消息，今年 4 月，微信支付官宣发布一整套面向 AI 的支付接入 Skill，涵盖 Skill 技能包、AI 友好文档、AI 友好 API 三大工具。据微信公开课消息，微信支付 AI 接入工具箱迎来 2.0 版本，围绕“安全、高效、原生流畅”的方向，重点更新了五大内容。据介绍，微信支付 AI 接入工具箱 2.0 现在全面支持中文、英语、日语、韩语、法语、俄语、葡萄牙语、西班牙语、阿拉伯语这 9 种语言。全球开发者基本可以用自己的母语对接微信支付。工具箱 1.0 的 Skill 仅覆盖“支付”和“券”两大方向，2.0 版本升级为全线覆盖 —— 囊括微信支付所有产品的知识，同时还提供两大 AI 专家能力：技术专家：支持从支付场景选型、接入流程解读，到动态排障的全链路问答，帮助开发者通过对话完成【报错 → 定位 → 修复】的完整闭环，全程无需脱离开发环境。金融级研发专家：内置代码质量审查机制，从金融级安全标准和最佳实践角度评估开发者的代码，精准识别容易被忽略的质量审计盲区。1.0 版本的静态排障手册只能对照查阅已知问题，2.0 新增了 CLI 动态排障能力。开发者在编码环境中，直接通过自然语言调用 CLI 查询支付单、退款单的实时状态，结果即时返回。不用切出编码环境，不用登商户后台，让调试节奏不断，问题链路更短。IT之家注意到，微信支付 AI 接入工具箱 2.0",
+      "published": "2026-06-16T01:05:50+00:00",
+      "summary": "IT之家 6 月 16 日消息，科技媒体 Windows Latest 今天（6 月 16 日）发布博文，报道称微软承认在 Windows 11 设备上，Copilot 按键并不适合所有人，而且可能会干扰部分快捷键与无障碍工作流。微软本周更新官方支持文档（4 月发布），承认专用的 Copilot 按键会打断部分生产力与无障碍工作流，尤其影响依赖右 Ctrl 键、菜单键或屏幕阅读器的用户。微软表示在后续 Windows 11 版本更迭中，将放宽 Copilot 按键使用方式，支持用户在设置应用中调整该按键功能，调整为右键菜单键或右 Ctrl 键。IT之家援引博文介绍，微软为迎接 Windows 11 AI+ PC（也称 Copilot+ PC）浪潮，于 2024 年联合多家厂商，引入了专门的 Copilot 按键，当时强调它能让用户快速打开 Copilot，提高效率。不过伴随着微软调整 Copilot 战略，该专属按键的定位已逐渐弱化，更多时候只是一个调用 Microsoft Edge 的网页包装器。",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -962,30 +1420,12 @@
       "best_tier": 3
     },
     {
-      "title": "从数字西安标杆看海康威视：大模型如何重构城市治理？",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sNVpzZERnTEJxd185d09rN0hOMFZ6dnJPXzFJb2lDcTF1bnMxa3E2V3djRy1rNDFPbE9VWDlENjlXcGc3Z0ZobjNjZFI2MG40V3NfWE1fcVYtVi1IZm00NjFIdUpyMWVVX3FR?oc=5",
-      "source": "中文AI聚合/财经号",
-      "source_tier": 3,
-      "published": "2026-06-15T08:12:32+00:00",
-      "summary": "从数字西安标杆看海康威视：大模型如何重构城市治理？ 财经号",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/财经号"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "香港恒生科技指数收涨1.28% 大模型概念股走强",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5R1A3OGRDR29WRGxkUWt0Nkk0X3ZrTU9SYVJ1eWc4a1J1WU5LQWhjdm91UjkxYlZ6Q1pCa3ZtZDRmdEE2NlEyaFlNMGZLdGVHdXgxV3RWc0pXb1RMRTZ0UkNpNktoQk9xRWs3bDFn?oc=5",
+      "title": "6月15日科创人工智能ETF南方（589230）份额减少250.00万份，最新份额2.54亿份，最新规模2.43亿元",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWF2UjE3T0xydl9SMDR1b0VWbGt2bktzNldyVUNBeEVzdWMySVpNZE10TmMwbWt3SG5vaDhvZjVwQnVhOXVCSEdyeFQxQjVwdVlGeTR2MUtaRTdkUE5DbmRoLTJnQ3kxeTNNQ2twNFBhMkRuaWZkVkY4WHVKWHA4aTZNZkNqMzBiaTE5a2tqam91VEtWRXRkejhFNA?oc=5",
       "source": "中文AI聚合/新浪财经",
       "source_tier": 3,
-      "published": "2026-06-15T08:11:00+00:00",
-      "summary": "香港恒生科技指数收涨1.28% 大模型概念股走强 新浪财经",
+      "published": "2026-06-16T01:04:00+00:00",
+      "summary": "6月15日科创人工智能ETF南方（589230）份额减少250.00万份，最新份额2.54亿份，最新规模2.43亿元 新浪财经",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -998,102 +1438,12 @@
       "best_tier": 3
     },
     {
-      "title": "联想拯救者 M7X Pro FIFA 世界杯联名版鼠标开售，289 元",
-      "url": "https://www.ithome.com/0/964/459.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-06-15T08:01:11+00:00",
-      "summary": "IT之家 6 月 15 日消息，联想拯救者 M7X Pro FIFA 世界杯联名版鼠标现已开售，新品主打电竞玩家，配备原相电竞级传感器，售价 289 元。IT之家了解到，这款鼠标采用 47g 无孔轻量化设计，采用右手非对称人体工学设计，贴合掌心。拥有针对抓握和趴握的混合握持优化设计，手感饱满。规格方面，这款鼠标支持蓝牙 / 2.4G/USB-C 三模连接，适配多系统，内置 300mAh 锂电池。搭载原相 PAW3395 传感器，DPI 最高可达 26000，回报率 1000Hz。此外，这款鼠标采用 TELINK 低功耗主控芯片，DPI 支持五档调节。目前这款鼠标已在京东开售，售价 289 元。京东联想拯救者 M7X Pro FIFA 联名款电竞鼠标 289 元直达链接京东 618 无门槛红包 面额至高 26618 元，每天抽 3 次：点此抽红包淘宝 618 无门槛红包 面额至高 26888 元，每天抽 1 次：点此抽红包",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "湖北工程学院林肯机械工程与人工智能学院正式揭牌",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53R0Z1TE40OVh1VUxhdllrbFNBXzdpUTd2dzdUc3hqRXRHVWVhRkRHbTY4X0dBN2tqWU00bjMtSGxyQ0lhNmF2TEZfcDZ6WkNMZHZEMTBBR0tNcUNnZ0FmTTlLVkN6WUtq?oc=5",
-      "source": "中文AI聚合/教育在线",
-      "source_tier": 3,
-      "published": "2026-06-15T07:52:00+00:00",
-      "summary": "湖北工程学院林肯机械工程与人工智能学院正式揭牌 教育在线",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/教育在线"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "雅马哈 YZF-R9 摩托车发布：890cc 三缸发动机、可选 70 周年纪念涂装，13.98 万元起",
-      "url": "https://www.ithome.com/0/964/452.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-06-15T07:49:33+00:00",
-      "summary": "IT之家 6 月 15 日消息，雅马哈今日发布了 2026 款 YZF-R9 仿赛摩托车，两款常规配色 13.98 万元，70 周年纪念版 14.38 万元。雅马哈 YZF-R9 可选 70 周年纪念涂装，采用 70 周年纪念版红白经典配色，承袭 1955 年赛车基因，金色音叉标志与专属铭牌。该车采用新一代 R 系列前脸设计，融合经典的 M 形导风口与双眼灯组，专为 YZF-R9 开发的铝合金 Deltabox 车架；搭载 890cc CP3 水冷 DOHC 三缸发动机，配合 YCC-T 电子节气门与专属动力调校。雅马哈 YZF-R9 配备 Brembo Stylema 一体式卡钳、径向总泵与 320mm 双前刹车盘；支持后轮 ABS 关闭功能，满足赛道进阶需求；采用 43mm KYB 倒立式前叉与可调悬挂系统，可根据街道或赛道需求进行细致调节。该车还搭载第三代 Quick Shift System 快排系统，支持双向无离合升降档，减少动力中断；提供 Sport、Street、Rain 基础模式，并支持 Custom 与 Track 自定义设定，可根据不同路况与骑乘风格快速切换动力模式。雅马哈 YZF-R9 采用全新设计的集成式手柄开关，按键布局紧凑、直观；刹车与离合器拉杆设有多段式调节机构，适应不同骑行需求；配备 5 英寸全彩 TFT 仪表，支持四种街道风格与一种赛道风格主题显示",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "惠州：260家规上企业合力打造人工智能和机器人产业“智造”高地",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBSldtMzBPZ0Y1UEtheEVhV3pYYkVVZFhoeXVpaU9jZnNhakp1Qi04ejUzREdiMVpfcTV6TkZPejJmMTV3QkVHUUFZUDhzVVUtZkR2S1lsX2swbHR6dFFsRUhTckV5UQ?oc=5",
-      "source": "中文AI聚合/hznews.com",
-      "source_tier": 3,
-      "published": "2026-06-15T07:44:00+00:00",
-      "summary": "惠州：260家规上企业合力打造人工智能和机器人产业“智造”高地 hznews.com",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/hznews.com"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "人工智能加速从云端走向终端",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBkVng2YTd0VzJ0VUJKT3M4WlFlMGpKTk1JQ2NXbDZHclhfeFRud3UxdHNVTXVybWhsdzB3NkpyeUo5ZzQ?oc=5",
-      "source": "中文AI聚合/集微网",
-      "source_tier": 3,
-      "published": "2026-06-15T07:40:31+00:00",
-      "summary": "人工智能加速从云端走向终端 集微网",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/集微网"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "AI大模型竞争升级至国家战略层面，恒生互联网ETF华夏(513330)涨0.26%，互联网平台估值修复叙事有望开启",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmpSbmdXcDFERHpVRFNpdUdLcDlSX2s3WVJIOFB6SnVYY0lVUXZRTmZBUzJvTldYY1NZdkU0VjdtYUt1eFNiS0NwdWtSZmw2MUZreEhQSmhjazBibUdDWmstTGlZc3M4UDczU1lyWlNnMk5GNjcwR2hXa3pSYkZjNQ?oc=5",
+      "title": "6月15日人工智能ETF万家（159248）份额减少700.00万份，最新份额1.12亿份，最新规模2.16亿元",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR09wV2pVcGtYdXB5LUVrandfM3BCei11NFNjNFMxQmRERElzM3pUWnlCeWR6WkkyQnNOMVpVNmZIVWNFVnRUTDdmUGlZcTk1bjk1UV9lT0xzU19DUlBQNUkwdUlYUWtPblN6Mk5TcEliV0RlUkdvbnNjaVVyOUpGdGlpbVdoZURKenF2ZnctbG0tY3NhY2pBS3Nzaw?oc=5",
       "source": "中文AI聚合/新浪财经",
       "source_tier": 3,
-      "published": "2026-06-15T07:37:28+00:00",
-      "summary": "AI大模型竞争升级至国家战略层面，恒生互联网ETF华夏(513330)涨0.26%，互联网平台估值修复叙事有望开启 新浪财经",
+      "published": "2026-06-16T01:04:00+00:00",
+      "summary": "6月15日人工智能ETF万家（159248）份额减少700.00万份，最新份额1.12亿份，最新规模2.16亿元 新浪财经",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1106,12 +1456,158 @@
       "best_tier": 3
     },
     {
-      "title": "人工智能版的“次贷危机”？在狂热之下，$1.8万亿的隐性债务正在暗中累积",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZnViXzlfQm15b2NuR2FWRmpPeXpqUWMwSEJvTUdKZWwyUXdCM3ppM1Y2SlpGQWtsWFJSWmJXZXZKOG1VSHV6ODd0TlVxRTkzWnJzQ3VHYTllV0hCd3ZIRzRqelVEazVsX2c2T2VPcEdYcm5PcHozNmVtMVZGYkJUNDVmR2dBbUxRYjVlbUc1dlFpSzA3bnJBckdTb1hLNU9mbGJpaGtOZEw?oc=5",
+      "title": "6月15日科创创业人工智能ETF富国（159022）份额减少600.00万份，最新份额1.18亿份，最新规模1.33亿元",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT0Q1aUd4a3FFaU9hSXhWcGRSc1YxQ0U4TU02WnZ1TjNSR0Fwb2JpTV9UbEoxMEZmaFh4ck9DZ25OdGxBWFVwQm54czdTR2E2dm40YXhEMzhrUHRqMldyUy1NMlJ1cmlGQkJJR1FaMzhHQk05bG5JcDRBLUhpVHBIOElfWVdjeEQ1RlZYNXdTeDk3UjBWU25uc2p2WQ?oc=5",
+      "source": "中文AI聚合/新浪财经",
+      "source_tier": 3,
+      "published": "2026-06-16T01:04:00+00:00",
+      "summary": "6月15日科创创业人工智能ETF富国（159022）份额减少600.00万份，最新份额1.18亿份，最新规模1.33亿元 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪财经"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "6月15日科创创业人工智能ETF华泰柏瑞（159139）份额减少800.00万份，最新份额1.42亿份，最新规模2.00亿元",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY0JUQlNORnFGMnZqckJHNF9ESHNkNzllM3h2R2ttWXNCODRFWUk0bW1xaXh5NXN3OXlXMVBmWWw4cF9CdUZ1MEZjM21LX0hIR3pxalFPckE0ME9HVFZXc3pPMzVQUnQwRWphQ29objhIbld5NDA0eGlLM05GQTdVbjlYWDh3cXcza2xTQTlGZklJU25MWVk2SjhRSQ?oc=5",
+      "source": "中文AI聚合/新浪财经",
+      "source_tier": 3,
+      "published": "2026-06-16T01:04:00+00:00",
+      "summary": "6月15日科创创业人工智能ETF华泰柏瑞（159139）份额减少800.00万份，最新份额1.42亿份，最新规模2.00亿元 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪财经",
+        "中文AI聚合/新浪财经"
+      ],
+      "source_tiers": [
+        3,
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "SpaceX 财报仅通过官网与 X 平台发布，不再使用通讯社",
+      "url": "https://www.ithome.com/0/964/650.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-06-16T01:02:10+00:00",
+      "summary": "IT之家 6 月 16 日消息，据路透社报道，SpaceX 在当地时间周一提交的一份文件中表示，公司季度及年度财务业绩、其他重大公告仅会通过官网以及 X 平台官方账号发布，不会通过通讯社发布。此举背离了企业常规信息发布流程。多数企业会借助商业新闻专线（如 Business Wire 或 PR Newswire），面向广大投资者与各类媒体投放公告。SpaceX 称，公司“欢迎投资界人士、媒体及其他相关方关注”其官网投资者关系板块与 X 官方账号，相关披露信息将仅通过上述渠道对外公布。该股周一收盘涨幅约 19%，盘后交易时段涨幅约 2%。当日早些时候，该公司宣布承销商已行使超额配售选择权（绿鞋机制），认购增发股份，使其首次公开募股总募资额增至 857 亿美元（IT之家注：现汇率约合 5803.53 亿元人民币）。埃隆 · 马斯克旗下这家集航天火箭、人工智能与互联网业务于一体的综合企业，此前以每股 135 美元的价格发售 5.5556 亿股，募资 750 亿美元，创下历史募资纪录；即便在承销商行使绿鞋期权前，本次 IPO 规模已是史上最大。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "人工智能重塑哲学社会科学研究：范式革命、过程重塑与新图景",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KWjhWTF92aDF3enA2QzNBQU1qSjJaRlVBOU5mOTlhd3MtQUg4SGpwUDhTY0hDNkJkcmNUTjU1Q05uTEtwSXdFa01OUnVCTXdhZzdjRElJWm5tR0wtblNUakVDeVdHQ3pGOHJfeA?oc=5",
+      "source": "中文AI聚合/中国社会科学网",
+      "source_tier": 3,
+      "published": "2026-06-16T00:57:08+00:00",
+      "summary": "人工智能重塑哲学社会科学研究：范式革命、过程重塑与新图景 中国社会科学网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/中国社会科学网"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "美国公司Anthropic发声！美国人工智能政策转向，模型访问被叫停",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5aDRoWTBaY2JwUVBqRXRoaFZBZFNlTUk3T3oyYWxqTi10RU1RdWIxVlhmWkJydC1pS1F4eXk0UUhfMTlWdllCamJJX3NFSEZTcF9URS1fMW9LSUxIaXpWQkJ6V1A5RkZBT1QwNHhwaldJZw?oc=5",
+      "source": "中文AI聚合/新浪网",
+      "source_tier": 3,
+      "published": "2026-06-16T00:56:00+00:00",
+      "summary": "美国公司Anthropic发声！美国人工智能政策转向，模型访问被叫停 新浪网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪网"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "苹果统一隐私邮件域名，Sign in with Apple 及 iCloud+ Hide My Email 同步切换",
+      "url": "https://www.ithome.com/0/964/647.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-06-16T00:54:48+00:00",
+      "summary": "IT之家 6 月 16 日消息，科技媒体 MacRumors 今天（6 月 16 日）发布博文，报道称苹果计划统一 Sign in with Apple 以及 iCloud+ Hide My Email 两项功能，统一合并到 private.icloud.com 域名下。IT之家注：Sign in with Apple 是苹果提供的第三方登录方式，用户可用苹果账号快速注册和登录应用、网站，同时隐藏真实邮箱地址，适合重视隐私的场景。而 iCloud+ Hide My Email 是苹果 iCloud+ 提供的隐私功能，用户可生成随机邮箱地址用于注册、订阅或接收邮件，再由苹果转发到真实收件箱。该功能作用是减少垃圾邮件和信息泄露风险，也方便用户在不暴露主邮箱的情况下管理不同服务。Sign in with Apple 目前生成的域名地址使用 privaterelay.appleid.com，而 iCloud+ Hide My Email 功能目前使用 icloud.com 域名，苹果公司宣布今年夏季开始，两者统一迁移到 private.icloud.com。苹果公司表示本次调整不影响现有账号、收件流程和历史邮箱地址，旧地址仍会继续工作，邮件转发也不会受影响。本次调整主要影响开发者和邮件服务提供商。使用 Sign in with Apple 网站和应用需要确保账号系统、邮箱验证逻辑和允许列表",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "华为盘古大模型在自动驾驶领域做了什么？",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5icVVPUjRyQ1NUY1c4MUZVeURBVXRWSEZnSnk1V0R3ZFFaeXgxM0ZidkJDX0pYN25Jb1ZYbFBDVmkyR3hPdFVuelJvM1l1eXA4a1RJ?oc=5",
+      "source": "中文AI聚合/电子工程专辑",
+      "source_tier": 3,
+      "published": "2026-06-16T00:40:00+00:00",
+      "summary": "华为盘古大模型在自动驾驶领域做了什么？ 电子工程专辑",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/电子工程专辑"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "2026年中国互联网及AI大模型内容风控行业发展研究报告-艾瑞咨询",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVnRyNGhJSk53aGN5cExfc1RNcjZmcjZyYkVLNG1wQXo4ZTd6ZExfcnFzak4wYVl5c3pCLVFYaVVWeUt6Y3pwajM0bW9ZcFZheHdVNV8xNExlZXFkdmpDTURhbE9PVjNCU3lLa0pPMTJYOVowMG5pMnIxeUFGLWJjQ1JhRDBsdjdBejg4Tw?oc=5",
+      "source": "中文AI聚合/搜狐网",
+      "source_tier": 3,
+      "published": "2026-06-16T00:36:31+00:00",
+      "summary": "2026年中国互联网及AI大模型内容风控行业发展研究报告-艾瑞咨询 搜狐网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/搜狐网"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "Lumentum股票（LITE）关于人工智能基础设施增长的看法",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSURzOWRQZ3daVGNyLThFQnJSVEpOeXZCNmxMR2owYVdoNV9SVmhPVjVNOS1kTWh5RG5HQy0wbnI2eDBSc1BHUlVhdDMtSDFXZkVzMXRab0h6UktydWN4MHZuTEVtUjBCVkdfTnhvNF9DZmlwTThOY0pOdFJRRDVVT1c1NV9ibWpaelF6Z0dQd0k3aUNka3J0N2hlalhTbmN1RmZJSnpn?oc=5",
       "source": "中文AI聚合/Moomoo",
       "source_tier": 3,
-      "published": "2026-06-15T07:36:13+00:00",
-      "summary": "人工智能版的“次贷危机”？在狂热之下，$1.8万亿的隐性债务正在暗中累积 Moomoo",
+      "published": "2026-06-16T00:30:54+00:00",
+      "summary": "Lumentum股票（LITE）关于人工智能基础设施增长的看法 Moomoo",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1124,12 +1620,12 @@
       "best_tier": 3
     },
     {
-      "title": "Omdia 下调 2026 年显示面板出货数量预测至衰退 6%",
-      "url": "https://www.ithome.com/0/964/444.htm",
+      "title": "苹果 iOS 27 扩展 GymKit 支持 iPhone 17 等，兼容跑步机可同步健身记录",
+      "url": "https://www.ithome.com/0/964/641.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T07:34:31+00:00",
-      "summary": "IT之家 6 月 15 日消息，机构 Omdia 在其今日新闻稿中下调了对 2026 年显示面板市场的展望，认为在需求大幅萎缩的背景下该市场面临更多负面因素，对按数量计出货的预期从此前的 -2% 调整至 -6%、按面积计出货也从 +6% 降至 +1%。▲ 图源：OmdiaOmdia 认为 2026 年电视面板需求预计将同比下降 2.0%；该机构还将对全年笔记本电脑显示面板的需求预测下降约 720 万台。上游组件价格飙升正迫使终端设备制造商必须在具有竞争力的定价与不断上涨的生产成本之间寻求平衡，这可能导致规格下调或利润率缩减。而如果新定价过高，那么消费者的购买意愿将遭遇持续遏制。Omdia 显示研究部门高级首席分析师 Ricky Park 表示：显示面板行业正在应对一场多重挑战的“完美风暴”。中东地区持续的地缘政治不稳定已经实质性地影响了整个供应链的成本结构，石油价格上涨、存储器元件成本攀升以及关税相关压力迫使制造商重新审视定价策略。这导致我们相较于此前预测，大幅下调了需求预期。参考Omdia: 2026 display demand downgraded to 6% unit decline as supply chain pressures intensify",
+      "published": "2026-06-16T00:27:20+00:00",
+      "summary": "IT之家 6 月 16 日消息，科技媒体 9to5Mac 昨日（6 月 15 日）发布博文，报道称苹果扩展 GymKit 健身套件，在 Apple Watch 智能手表基础上，扩展支持 AirPods Pro 3 以及 iPhone 17 等苹果手机。IT之家注：GymKit 是苹果公司推出的健身设备联动功能，此前主要适配 Apple Watch。它能把手表和跑步机、椭圆机等器材连接起来，让设备互相交换训练数据。这样用户不用手动记录，也能得到更完整、更接近真实运动过程的结果。在 iOS 27 系统中，苹果公司扩展 GymKit，用户把 iPhone 贴近兼容跑步机后，就能启动室内步行或室内跑步。跑步机后续回传距离、配速、坡度和热量，AirPods Pro 3 则提供心率数据，整套记录会保存到 iPhone 的 Fitness 应用里。苹果公司强调本次扩展是补充 Apple Watch 的现有体验，AirPods 负责心率，iPhone 充当运动电脑。该媒体编辑在 iOS 27 beta 1 上完成了 16 分钟跑步机步行，记录为 0.66 英里、65 卡路里活动热量、97 卡路里总热量、32 英尺爬升和 115 BPM 平均心率。运动结束后，相关数据会回传到 Fitness 里。",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1142,12 +1638,30 @@
       "best_tier": 3
     },
     {
-      "title": "研究发现：超大质量黑洞周边可能孕育数百万颗行星",
-      "url": "https://www.ithome.com/0/964/422.htm",
+      "title": "第六届人工智能、大数据与算法国际学术会议召开",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBscXcyWWluQnAxakt1bkF1WHhMZWFNYkJjVG54R2V6alo0Y1RhZ3ZDVUUxRVFyalBZdUotRFNFN2JWLS0ybkJNWEVQVkZvd0xyX0tVX3UyTzFMS2hvcUhXTklBY3Q?oc=5",
+      "source": "中文AI聚合/科学网—新闻",
+      "source_tier": 3,
+      "published": "2026-06-16T00:18:39+00:00",
+      "summary": "第六届人工智能、大数据与算法国际学术会议召开 科学网—新闻",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/科学网—新闻"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "华为三折叠“竖折”手机专利现身：修长比例、结构紧凑",
+      "url": "https://www.ithome.com/0/964/633.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T07:14:26+00:00",
-      "summary": "IT之家 6 月 15 日消息，一组科学家有了惊人发现：星系中明亮且活动剧烈的区域 —— 活动星系核，由不断吞噬物质的超大质量黑洞提供能量，这里或许是数百万颗行星的诞生地。活动星系核亮度极高，其光芒往往能超过所在星系内所有恒星的总光度。当超大质量黑洞被海量气体与尘埃包裹时，就会形成活动星系核。这些物质会汇聚成扁平的盘状云团，也就是吸积盘，并围绕黑洞旋转。吸积盘中的一部分物质会逐渐被黑洞吞噬，其余物质则被导向黑洞两极，随后以接近光速的高能等离子体喷流形式向外喷射。中心超大质量黑洞的质量可达太阳的数百万倍乃至数十亿倍，其巨大引力会让吸积盘内的气体和尘埃产生剧烈摩擦，使这些物质在整个电磁波谱范围内发出耀眼光芒。这一发现出人意料。尽管活动星系核遍布气体和尘埃，而二者正是构成行星的基础物质，但吸积盘内部环境动荡，通常并不被认为适合行星形成。不过，吸积盘边缘的温度与环境，和新生恒星周围孕育行星的原行星盘十分相似。久而久之，这里的尘埃能否不断聚集，最终演化成行星？为验证这一猜想，科学家构建了超大质量黑洞及其吸积盘的计算机模型，并录入吸积盘边缘的环境数据，模拟数百万年间尘埃的聚集速度以及原始行星的成长过程。科罗拉多大学博尔德分校的研究人员、团队成员布彭德拉・米什拉在接受 Space.com 采访时表示：“我们发现，在距离活动星系核内超大质量黑洞数十秒差距（1 秒差距约合 3.3 光年）的区域，能够",
+      "published": "2026-06-16T00:10:56+00:00",
+      "summary": "IT之家 6 月 16 日消息，PostFast 团队与消息源 xleaks7 在挖掘华为专利时发现了一款采用三折叠设计的“竖折”手机，其同步基于专利图制作了手机渲染图。IT之家注意到，目前这项专利还处于申请阶段，暂不确定华为是否会正式投产这款产品。不过从专利图片可以看出，这款手机完全折叠时相当紧凑，在展开后预计将拥有超长“遥控器”级比例。华为在专利里描述，为了能够让天线和内部零件在如此紧凑的机身内正常工作，其设计了一种优化结构层有助于减少手机折叠时的信号损失。作为参考，华为首款三折叠 Mate XT 于 2024 年 9 月上市，匹配一块 10.2 英寸 2232×3184 京东方 OLED 三折屏，展开后风格类似于平板电脑。后续官方又于 2025 年 9 月推出了 Mate XTs 手机，主要升级芯片、新增支持天通卫星通信、引入第二代灵犀通信等。",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1160,12 +1674,48 @@
       "best_tier": 3
     },
     {
-      "title": "北汽极狐全新阿尔法 S5 首次 OTA：新增 HUD AR、HUD 红绿灯读秒等功能",
-      "url": "https://www.ithome.com/0/964/415.htm",
+      "title": "张向宏 ：“模数共振”已成人工智能应用深化关键",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhYjVqV1NqUG9rekNnV0J3Y3d5d05FY2VENU5TdGUyUFFFcFptU3NCbERnbHFRRlN4ZGR5aGJPeW5iR2Y0Zm56bWhUVmc0M2xzSU85cXJrSnJBZU5o?oc=5",
+      "source": "中文AI聚合/飞象网",
+      "source_tier": 3,
+      "published": "2026-06-16T00:10:18+00:00",
+      "summary": "张向宏 ：“模数共振”已成人工智能应用深化关键 飞象网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/飞象网"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "缓存中的幽灵：数据衰变如何塑造人工智能记忆的隐性景观",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ueU0tdTF5STRVYUN0am5TSHBOT2pPR25iQVRVbjh1U1JLSE84STRwUGdhYVpEOEFLbHJBTlNia19HNzk5eVJDeU5IVXNYUXlja2ludDhvWjRoZUhuZTNLbzJYdWVNZDljUmc?oc=5",
+      "source": "中文AI聚合/生物通",
+      "source_tier": 3,
+      "published": "2026-06-16T00:04:17+00:00",
+      "summary": "缓存中的幽灵：数据衰变如何塑造人工智能记忆的隐性景观 生物通",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/生物通"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "马斯克再败诉：美法官驳回 xAI 指控 OpenAI 窃取商业机密的诉讼",
+      "url": "https://www.ithome.com/0/964/631.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T07:07:56+00:00",
-      "summary": "IT之家 6 月 15 日消息，极狐汽车今日宣布，极狐汽车全新阿尔法 S5 首次 OTA 开推，带来 5 项新增与 6 项优化。IT之家汇总如下：新增功能新增千问大模型：引入千问端到端情感语言大模型，支持美食、景点、票务等跨生态信息查询与推荐新增 4D 场景模式：一键开启主副驾 4D 场景，联动座椅激励器、音乐律动氛围灯；关闭后自动恢复原有设置新增 HUD AR 功能：将导航和驾驶辅助信息融入 HUD 影像 3D 区域显示新增 HUD 红绿灯读秒功能：HUD 增加红绿灯倒计时信息新增宠物模式：开启该模式，当锁车离开时车辆将自动维持适宜温度与通风，并显示宠物友好提示优化功能优化记忆泊车全景界面显示：优化记忆泊车影像实景视图显示优化 HUD 影像显示：优化 HUD 盲区影像显示稳定性优化 HUD 背光亮度：提升 HUD 显示清晰度与视觉舒适度优化全景影像车模显示：调整 3D 车模样式，画面更简洁，提升倒车及泊车的视觉体验优化转向灯提醒音量：优化转向灯提醒音量，提示更清晰舒适优化开门预警功能：车辆锁车后自动停止预警功能，避免不必要的提醒干扰",
+      "published": "2026-06-15T23:58:40+00:00",
+      "summary": "IT之家 6 月 16 日消息，据路透社报道，美国一名联邦法官于当地时间周一驳回了埃隆 · 马斯克旗下人工智能企业 xAI 提起的诉讼。该诉讼指控竞争对手萨姆 · 奥尔特曼创办的 OpenAI 窃取聊天机器人的商业机密。旧金山联邦地区法官丽塔 · 林表示，xAI 未能拿出证据证明 OpenAI 诱使其前高级工程师李雪辰（Xuechen Li，音译）泄露与自家 Grok 聊天机器人相关的机密信息，也无法证实 OpenAI 的工程师知晓李雪辰可能披露过任何涉密内容。林法官作出了不可再诉的驳回裁定，称继续推进本案毫无意义。她曾在今年 2 月驳回过一份版本更早的同类诉状。这份最初于去年 9 月提交的诉讼，指控范围更广，称多名 xAI 员工跳槽至 OpenAI 时，带走了源代码等各类保密资料，构成不正当窃取。本次周一的裁决，是马斯克四周内第二次在与 OpenAI 的法律交锋中败诉。5 月 18 日，一个联邦陪审团驳回了这位全球首富的千亿级诉讼。马斯克起诉 OpenAI 与奥尔特曼“侵占慈善机构资产”，指控二人背弃公司创立之初的非营利初心，借机谋取私利，该案索赔金额高达 15000 亿美元（IT之家注：现汇率约合 10.15 万亿元人民币）。xAI 隶属于马斯克旗下集火箭、卫星与人工智能业务于一体的 SpaceX 公司。OpenAI 周一发布声明称：“这场毫无依据的诉讼，不过是马斯克持续骚扰攻",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1178,12 +1728,12 @@
       "best_tier": 3
     },
     {
-      "title": "德国数字部长卡斯滕 · 维尔德贝格被指多篇文章依赖 AI",
-      "url": "https://www.ithome.com/0/964/412.htm",
+      "title": "消息称高通洽谈收购 Tenstorrent，旨在提升人工智能芯片研发实力",
+      "url": "https://www.ithome.com/0/964/630.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T07:07:09+00:00",
-      "summary": "IT之家 6 月 15 日消息，根据德国媒体《DIE ZEIT》利用 AI 检测工具 Pangram 的分析，该国联邦数字化与国家现代化部部长卡斯滕 · 维尔德贝格的多篇文章存在依赖 AI 的迹象。图源：Pixabay这些内容既有署名以维尔德贝格的客座文章，也有演讲稿，甚至包括其在德国国会的发言；典型表现是高频使用破折号、排比 / 并列、否定 / 反诘。统计显示该部长的 30 篇演讲稿中有 1 篇完全由 AI 生成，另外 7 篇则得到 AI 辅助。有趣的是，被认为利用 AI 的文章提到了警惕对外国 AI 依赖、提醒 AI 危险等内容。德国联邦数字化与国家现代化部发言人表示，该部部长将 AI 视为一种工具，承认部分内容起草得到 AI 辅助，但人类始终必须为审查和验证工作负责。",
+      "published": "2026-06-15T23:54:14+00:00",
+      "summary": "IT之家 6 月 16 日消息，据外媒 The Information 报道，高通正洽谈收购人工智能芯片设计初创企业 Tenstorrent，双方商讨的收购对价区间至少在 80 亿至 100 亿美元（IT之家注：现汇率约合 541.53 亿至 676.91 亿元人民币），相较于 Tenstorrent 上一轮估值存在大幅溢价。作为比较，该公司去年底完成超过 6.93 亿美元 D 轮融资，当时估值约为 26 亿美元（现汇率约合 176 亿元人民币）。目前尚不清楚这笔交易价款是否会包含与业绩目标挂钩的浮动支付款项，以往半导体初创企业收购案通常会设置此类条款。双方谈判仍在进行中，交易金额存在变动可能，洽谈也有破裂风险。若完成收购，高通将大幅扩充自身人工智能与数据中心芯片产品线实力。公开信息显示，Tenstorrent 成立于 2016 年，主要开发用于 AI 模型训练与 AI 应用推理的加速器芯片，由知名芯片设计师 Jim Keller 领导。Jim Keller 在半导体行业拥有极高知名度，曾担任苹果芯片设计师，也曾负责特斯拉自动驾驶芯片开发，被视为业内代表性芯片架构专家之一。",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1196,30 +1746,12 @@
       "best_tier": 3
     },
     {
-      "title": "阿布扎比成功完成了首例人工智能辅助的部分膝关节置换手术",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHgtM0hQWnZjbUhZcEE2TkhkYndoa0hnLXZIbEFfbU85X0JnQ3NiVGt2MkszcjlXcE9ITzRuUHFkZ2JWLS1LM1JyMVdqWDhaSmFKTFl5cTJZd3pScDBFNXpqLVFlbWVNRzFTdFNUSGRNZ1hyRW1UeUxJNW5jYy1HV1JHM0dDY25aQk9QWjViajJPbEd3Zlk0M3M4dXVvM1VLMlYyaw?oc=5",
-      "source": "中文AI聚合/TV BRICS",
-      "source_tier": 3,
-      "published": "2026-06-15T07:02:46+00:00",
-      "summary": "阿布扎比成功完成了首例人工智能辅助的部分膝关节置换手术 TV BRICS",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/TV BRICS"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "荣耀 X70 Pro Max 新机悄悄上线官网：经典星环设计、8560mAh 电池，1999 元起",
-      "url": "https://www.ithome.com/0/964/403.htm",
+      "title": "Anthropic 高管与美政府展开谈判，寻求解除 AI 模型 Fable 5 出口禁令",
+      "url": "https://www.ithome.com/0/964/628.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T07:00:34+00:00",
-      "summary": "IT之家 6 月 15 日消息，荣耀 X70 Pro Max 已悄悄上线官网，新机采用家族式经典星环设计，配备 8560mAh 大电池、预装 MagicOS 10 系统，主打金标十面抗摔和 IP69 防水，定价 1999 元起。版本8GB+256GB：1999 元8GB+512GB：2399 元颜色幻夜黑竹韵青旭日金幻影紫据介绍，荣耀 X70 Pro Max 采用中式美学设计，提供幻夜黑、竹韵青、旭日金、幻影紫四种配色；行业顶配防摔防尘防水，拥有 SGS 金标三防认证，支持 2.5 米抗摔、IP6X 防尘、IPX9K 防水。荣耀 X70 Pro Max 内置 8560mAh 青海湖电池，支持 6 年健康使用，可实现 15 小时视频通话、14 小时连续游戏、27 小时刷短视频的续航能力。该机还提供 90W 的超级快充，支持疾速回血。荣耀 X70 Pro Max 还配备一块 6.79 英寸 OLED 直屏，支持 6000nits 峰值亮度、1.5K 超清分辨率、1.3mm 极窄黑边、120Hz 自由刷新率和 DCI-P3 广色域。同时，该机还支持荣耀绿洲护眼技术，提供 AI 离焦护眼、3840Hz 零风险调光、类自然光护眼、AI 助眠显示、硬件级低蓝光和极暗模式。IT之家注意到，荣耀 X70 Pro Max 搭载第四代骁龙 6 移动平台增强版，采用旗舰同源架构，支持 AI 系统级资源调",
+      "published": "2026-06-15T23:49:37+00:00",
+      "summary": "IT之家 6 月 16 日消息，多名政府官员、一名知晓谈判内情人士及一名接近该公司的消息人士向 POLITICO 网站透露，Anthropic 公司员工于当地时间周一与特朗普政府高级官员举行了面对面会谈。此前，美国联邦政府出台出口禁令，迫使这家人工智能初创企业在上周五晚间将其最新模型下架。一名白宫高级官员表示，想要拿出能解除政府上周五管控措施的解决方案，耗时大概率不止短短几天。此次禁令禁止 Anthropic 向境外用户开放其最新大模型，理由是该模型存在潜在安全漏洞。不过这名官员并未彻底关上快速解决争端的大门。“这件事主动权掌握在 Anthropic 手中。”该官员称。知情官员表示，上周末，Anthropic 联合创始人汤姆 · 布朗、美国商务部长霍华德 · 卢特尼克与国家网络总监肖恩 · 凯恩斯克罗斯开展了多轮数小时的通话，随后公司迅速派遣一批具备技术研发与安全防护专业背景的高层前往华盛顿。本文中所有接受采访的消息人士均获准匿名披露谈判细节，Anthropic 公共政策主管萨拉 · 赫克也参与了上述通话。一名熟悉会谈内容的人士透露，周一由美国商务部与美国国家网络总监办公室牵头开展的线下会议侧重技术层面，由相关工作人员主持，美国商务部人工智能标准与创新中心负责人克里斯 · 福尔亦参与其中。一名美国政府官员称，Anthropic 向政府官员做专项汇报，详细介绍了公司的网络安全防护机制",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1232,12 +1764,12 @@
       "best_tier": 3
     },
     {
-      "title": "联想 Yoga Pro 7 15ASH11 笔记本发布：锐龙 AI Max+ 388 处理器、15 寸 1100 尼特 OLED 屏幕",
-      "url": "https://www.ithome.com/0/964/400.htm",
+      "title": "承销商全额行使超额配售权，SpaceX 史上最大 IPO 募资总额达 857 亿美元",
+      "url": "https://www.ithome.com/0/964/625.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T06:57:03+00:00",
-      "summary": "IT之家 6 月 15 日消息，联想现已在海外市场推出 Yoga Pro 7 15ASH11 笔记本电脑，新品定位中高端，配备 15 英寸 165HzOLED 屏幕、AMD Strix Halo 平台，定价尚未公布。IT之家了解到，这款笔记本的机身尺寸是 347*242*16.7mm，与之前的 15IPH11 相比完全一致。配备 15 英寸 OLED 面板，分辨率为 2560*1600，刷新率最高可达 165Hz，HDR 模式下峰值亮度可达 1100nits。规格方面，这款笔记本搭载 AMD 锐龙 AI Max+ 388 处理器，采用 Zen 5 架构、8 核心 16 线程设计，集成 AMD Radeon 8060S 显卡。最高可选 128GB LPDDR5X-8000 统一内存，理想状态下可为 GPU 分配 96GB 显存。此外，这款笔记本具备两个 M.2 固态硬盘插槽，支持选配触感反馈触控板，具备 84Wh 电池，支持 USB-C 140W 快充。机身重量 1.71kg，预计将在未来数周内登陆全球各地。",
+      "published": "2026-06-15T23:37:31+00:00",
+      "summary": "IT之家 6 月 16 日消息，SpaceX 具有里程碑意义的首次公开募股（IPO）规模大幅扩大，此次承销商全额行使超额配售权，认购上限额度股票，募资总额由此增至 857 亿美元（IT之家注：现汇率约合 5801.15 亿元人民币）。埃隆 · 马斯克旗下这家航天与人工智能企业最初募资 750 亿美元，该规模已是史上最高 IPO 募资额。SpaceX 表示，本次 IPO 募集资金将用于多项业务布局。公司计划偿还约 200 亿美元存量债务，这些债务源自社交媒体平台 X（原推特）与马斯克旗下人工智能企业 xAI 的历史贷款；两家企业均在本次上市前并入 SpaceX 体系。募集资金还将用于扩建 SpaceX 人工智能算力基础设施、升级火箭发射配套设施，以及迭代星链（Starlink）卫星互联网业务。SpaceX 股票已于上周五在纳斯达克交易所挂牌交易。当日收盘后，公司总估值突破 2 万亿美元，马斯克也由此成为全球首位万亿富豪。周一该股股价再度走高，推动 SpaceX 总估值超越芯片制造商台积电。",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1250,48 +1782,12 @@
       "best_tier": 3
     },
     {
-      "title": "每经热评 | 美国禁止出口最先进大模型，实质是一场“AI技术圈地运动”",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9heEN5QlNIQndkWDQwX0JVQjd5N3FQZkNQTHdIdVcwRG8yeVdDaWEwcXA0cl9rNnFrb0JzX3Bhb1hnSlpZV0dYUmJhRHRnanp2VWtYdlVvZDl1NXZ2NWxNTHJSbWlOdw?oc=5",
-      "source": "中文AI聚合/mrjjxw.com",
-      "source_tier": 3,
-      "published": "2026-06-15T06:57:00+00:00",
-      "summary": "每经热评 | 美国禁止出口最先进大模型，实质是一场“AI技术圈地运动” mrjjxw.com",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/mrjjxw.com"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "果然财经|从无限算力到Token末日，大模型涨价潮来了",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0RVhkSjZac2NQY194d19NYTR3eHo0SnQ2cy1TX2NoTEdRWkg3NVNaTWxsLTVGRzdUcnJsc3VHT2tvMExpTnowUHgyZ3RPcGZiZW10ZFlzcw?oc=5",
-      "source": "中文AI聚合/齐鲁晚报",
-      "source_tier": 3,
-      "published": "2026-06-15T06:51:53+00:00",
-      "summary": "果然财经|从无限算力到Token末日，大模型涨价潮来了 齐鲁晚报",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/齐鲁晚报"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "【已结束】3 月上市 4899 元起：米家扫拖机器人 6 Max 水箱版 2683 元、上下水版 2975 元新低",
-      "url": "https://www.ithome.com/0/964/396.htm",
+      "title": "Adobe 升级 Photoshop、Premiere 等，为用户创作整合更多 AI 能力",
+      "url": "https://www.ithome.com/0/964/624.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T06:49:57+00:00",
-      "summary": "16 点更新：商品标价上涨，活动已结束。小米米家扫拖机器人 6 Max 开售于 2026 年 3 月 19 日，水箱版叠加国补后 4899 元，上下水版叠加国补后 5399 元。京东 618 大促期间，今日活动价 4258.28 元；下单领取 8.2 折优惠券：点此领取；国补立减 491.21 元；以旧换新补贴 200 元；PLUS 会员立减 17.03 元；晒单返 100 元购物津贴；到手价为 2683.55 元：京东米家 扫地机器人 6 Max 水箱版券后 2683.55 元领 8.7 折券上下水版按上方步骤下单，到手价为 2975.24 元：京东米家 扫地机器人 6 Max 上下水版券后 2975.24 元领 8.7 折券如果以旧换新选择生活电器 → 扫地机器人，可补贴 400 元（重量大于 4 斤，老旧坏皆可 *），价格更为合适。（* 可打开闲鱼，选择距离 Z 近，设定价格上限，即可查看附近老旧坏机器人，咨询只要重量大于 4 斤即可。）京东无门槛红包至高 26618 元，支持即领即用：点此抽取。据介绍，这款产品支持实时活水洗地，拖、刮、洗同步进行；支持三重机械臂贴边扫拖，贴角落、贴墙边、贴桌椅腿清洁；配备仿生双机械足，号称米家最强越障，最高可跨越 6cm 垂直单台阶，最低可进 9.3cm 低矮区域。此外，这款产品还具备 35000Pa 吸力，支持 16 孔出水实时自清洁、仿",
+      "published": "2026-06-15T23:30:06+00:00",
+      "summary": "IT之家 6 月 16 日消息，Adobe 昨日（6 月 15 日）发布公告，宣布升级 Creative Cloud 套件，涵盖 Lightroom、Premiere、After Effects 与 Photoshop，为用户创作流程整合更多 AI 能力。LightroomLightroom 方面，新版加入辅助筛选工具，用户可按“睁眼”与“眼部清晰度”等条件快速过滤照片，此外照片转视频功能则可把静态照片转成带 AI 运动效果的补充镜头或短视频内容。IT之家援引博文介绍，在图像质量处理上，Lightroom 新增 AI 锐化功能，采用 Topaz Labs 的噪声感知锐化模型，可强化花瓣、毛发、树叶等细节表现。在 Lightroom、Lightroom Classic 和 Adobe Camera Raw 中，已支持索尼 Alpha 7R VI 的全部 Sony RAW 格式。PremierePremiere 本次更新引入全局音频静音支持，用户可以一键关闭整个应用内的声音。标记搜索可按颜色或名称在所有已打开项目中查找标记；Single Word 在不打乱整段字幕结构情况下，让设计人员能直接修改单个词，更适合精细化后期流程。Premiere 加入 3D Spinback 和 Slide 两种转场，并提供缓动控制。时间线中还可直接加入 Channel Blur、Gradient 和 No",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1304,30 +1800,12 @@
       "best_tier": 3
     },
     {
-      "title": "潍坊：力争到2027年全市人工智能核心产业规模突破100亿元_潍坊要闻",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhUXB2RzlkcTY4cTd2YWxKX3V2UF9QYmQxUV94eFFjR21VNHVsN0tUQU5reHd6QnVqSjJHcWhNaGExYlJlMXBaZmRIWDRQc2pJaGRjTVlLTlVkUDJrYThkQlFKNkxZbzVObkE?oc=5",
-      "source": "中文AI聚合/齐鲁网",
-      "source_tier": 3,
-      "published": "2026-06-15T06:48:06+00:00",
-      "summary": "潍坊：力争到2027年全市人工智能核心产业规模突破100亿元_潍坊要闻 齐鲁网",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/齐鲁网"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "荣耀 X80 Pro Max 规格全曝光：11000mAh 行业最大电池，6 月 22 日发布",
-      "url": "https://www.ithome.com/0/964/394.htm",
+      "title": "苹果 iOS 27 优化低电量模式，运行更流畅",
+      "url": "https://www.ithome.com/0/964/623.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T06:45:51+00:00",
-      "summary": "IT之家 6 月 15 日消息，荣耀 X80 Pro Max 手机将于 6 月 22 日 19:00 发布，博主 @数码闲聊站 今日曝光这款新机的主要规格。IT之家整理如下：6.8 英寸 2788*1280p 120Hz OLED 直屏全屏激发 2000nit，局部峰值亮度 10000nit，3840Hz PWM 调光，骁龙 6 Gen5 处理器11000mAh 单芯电池 +90W 快充前置 8Mp，后置单摄 50Mp OIS塑料中框，光学指纹，IP66/IP68/IP69/IP69K机身厚 8.08mm，重 203g支持智能识别左右手的 AI 随心握荣耀官方今日公布新机的四款配色，分别为元气橙、闪电红、月影白、玄甲黑，采用居中大圆相机模组有。此外，该机主打长续航，搭载 11000mAh 行业最大电池，以及金标抗摔免费换屏。",
+      "published": "2026-06-15T23:28:15+00:00",
+      "summary": "IT之家 6 月 16 日消息，iOS 27 搭载了大量全新功能，同时为 iPhone 全系统带来核心性能优化，低电量模式下同样生效。苹果将在 iOS 27 中推出了诸多新功能，例如液态玻璃风格滑动控件，以及 CarPlay、苹果钱包、信息、备忘录等应用的升级。除此之外，苹果今年还投入大量精力，通过修复漏洞、优化运行性能，让 iOS 27 的整体使用体验更为流畅。苹果在全球开发者大会主题演讲中重点公布了多项提速优化：应用启动速度最高提升 30%，相册新拍摄素材加载速度最高提升 70%，隔空投送（AirDrop）传输速度最高提升 80%。本次全面性能升级也惠及了低电量模式。苹果在展示数百项 iOS 27 更新内容的演示幻灯片中，列出了两项与低电量模式相关的改动：1. 低电量模式下相机启动速度更快2. 低电量模式下相机功耗更低而实际优化效果不止于此，整机运行流畅度也得到提升。本杰明 · 梅奥在社交平台 X 上针对 iOS 27 首个测试版给出了这样的评价：外媒 9to5mac 也表示，实际体验下来也发现，iOS 27 的低电量模式运行速度明显更快。综合各路网友反馈来看，提速效果因机型而异。部分使用老旧款 iPhone 的用户表示，低电量模式依旧存在明显卡顿，新款机型的优化感受则更为突出。IT之家注意到，目前 iOS 27 仅推出首个测试版，在后续测试周期里，性能优化还会持续迭代。从早期",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1340,12 +1818,12 @@
       "best_tier": 3
     },
     {
-      "title": "KENWOOD 推出 GLASS Core 系列：业界首款玻璃振膜无线耳机",
-      "url": "https://www.ithome.com/0/964/393.htm",
+      "title": "IT早报 0616：华为朱懂东否认鸿蒙套壳安卓；市监总局就食品安全问题约谈山姆总部；菜鸟辟谣“解散”传闻；浙江联通全面退出 3G 服务...",
+      "url": "https://www.ithome.com/0/964/622.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T06:45:40+00:00",
-      "summary": "IT之家 6 月 15 日消息，JVC（杰伟世）旗下 JVCKENWOOD（杰伟世建伍）即将在 12 月迎来诞生 60 周年。作为 60 年纪念产品的开端，KENWOOD 品牌日本当地时间本月 11 日宣布推出业界首款应用玻璃振膜的无线耳机 —— GLASS Core 系列。其中 Pro 款还创新性地将玻璃振膜与 MEMS 驱动器相结合，在高低频段均带来通透清晰的表现。▲ GLASS Core ProKENWOOD 表示，玻璃振膜凭借其宽广的频率范围与声场、清晰的音质、强劲的冲击力能释放出令人心潮澎湃的清澈音调，营造出身临其境的现场感。▲ GLASS Core这两款耳机搭载液态硅胶耳塞，获得 Hi·Res AUDIO WIRELESS 认证，支持 LDAC 编解码器，搭载高性能降噪芯片；Pro 款还支持个性化音频、自研空间音频、自研 K2 无线音频质量重建技术。KENWOOD GLASS Core 续航 44hr，税后售价 27830 日元；GLASS Core Pro 续航 47hr，税后售价 49940 日元（IT之家注：现汇率约合 1177 / 2112 元人民币）。",
+      "published": "2026-06-15T23:22:04+00:00",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 6 月 16 日星期二，今天的重要科技资讯有：1、华为朱懂东谈“鸿蒙套壳安卓”：套壳拿不到最高安全可靠等级 Ⅱ 级权威认证朱懂东介绍称，HarmonyOS V1.0 已通过国家安全可靠 Ⅱ 评测认证。这个认证可以证明鸿蒙套壳安卓的言论是假的，如果是套壳，拿不到这个证书的。>> 查看详情2、针对多发食品安全问题，市场监管总局约谈山姆总部针对线下门店及线上网店多发的食品安全问题，市场监管总局近日依法约谈了沃尔玛（中国）投资有限公司（山姆总部）负责人。要求其严格遵守食品安全法律法规，树牢安全意识，落实主体责任，严防全链条风险。>> 查看详情3、菜鸟回应“解散”传闻：假的，纯属谣言针对网传阿里菜鸟或将解散的消息，菜鸟方面回应：“假的，纯属谣言”。>> 查看详情4、浙江联通 6 月 15 日全面退出 3G 服务浙江联通宣布，自 6 月 15 日起，浙江省中国联通 3G 网络将全面退出历史舞台。这意味着仅支持 3G 的手机将无法通话上网。运营商表示，4G 与 5G 网络已实现城乡全域深度覆盖，足以承接所有通信需求。>> 查看详情5、英国政府官宣 16 岁以下未成年人社交媒体禁令，预计涵盖 YouTube、TikTok、IG、X 平台等英国首相斯塔默宣布，将禁止 16 岁以下未成年人使用 TikTok、Instagram 等主流社媒平台，旨在让孩子",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1358,12 +1836,12 @@
       "best_tier": 3
     },
     {
-      "title": "消息称字节跳动正与天数智芯洽谈购买 AI 芯片",
-      "url": "https://www.ithome.com/0/964/392.htm",
+      "title": "AMD 收购 MEXT，为 AI 负载吃内存寻找降本新路径",
+      "url": "https://www.ithome.com/0/964/621.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T06:45:18+00:00",
-      "summary": "IT之家 6 月 15 日消息，据路透社今日援引知情人士消息，字节跳动正与总部位于上海的天数智芯（Iluvatar CoreX）洽谈，欲购买 AI 推理芯片，同时也在考虑与百度达成类似合作。据悉，如果本次交易达成，那么天数智芯将成为字节跳动第三家国产 GPU 主要供应商，排在华为和寒武纪之后。其中一名消息人士透露，字节跳动也在考虑百度旗下的“昆仑芯（IT之家注：Kunlunxin）”芯片。由于相关谈判尚未公开，相关人士要求匿名。作为领先的国产 GPU 创业公司之一，天数智芯预计将于今年向字节跳动供应至少 5 万颗芯片，其中绝大部分将用于 AI 推理任务，以支持豆包用户规模不断扩张。对于天数智芯而言，如果能获得字节跳动这种大型企业的订单，那么该公司的商业化进程将明显加快。在此之前，这家公司主要依靠政府采购项目。不过，目前潜在的交易细节仍未敲定，未来仍有可能发生变数。字节跳动、天数智芯、百度和腾讯均未回应置评请求。",
+      "published": "2026-06-15T23:18:47+00:00",
+      "summary": "IT之家 6 月 16 日消息，AMD 公司昨日（6 月 15 日）发布公告，宣布收购内存优化技术公司 MEXT，目标是缓解数据中心日益突出的内存瓶颈。IT之家援引博文介绍，在 AI、数据分析、虚拟化和高性能计算负载持续膨胀后，现代数据中心普遍面临内存资源紧张的问题。对云服务商和企业客户来说，内存已成为影响性能、效率和部署速度的重要约束。MEXT 公司主要技术优势在于把闪存扩展为应用可用的“近内存层”，该公司通过内存分层方案，将不常访问的数据从 DRAM 转移到 NAND 闪存。由于闪存单位容量成本远低于 DRAM，这种架构能在不大幅增加主内存投入的前提下，扩大可用内存池规模。MEXT 的预测性内存引擎会持续分析内存访问模式，并借助 AI 模型判断下一批可能被调用的数据页。系统会在应用真正发起请求前，先把相关数据从闪存迁回 DRAM，从而尽量维持主内存级别的访问体验。对云服务商和企业客户而言，这项技术可以提高现有服务器和集群的内存利用率，减少 DRAM 闲置，另一方面也能降低扩容时对高价 DRAM 的依赖，进而压缩总体拥有成本。",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1376,30 +1854,12 @@
       "best_tier": 3
     },
     {
-      "title": "微软CEO警告：少数人工智能领域的赢家可能会摧毁“整个行业”",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXFSV3VYZ2ZMd1FBb3ptQ3BGTE9NRlktM2ZWbzAzSzRjeVdJYTVlclNhbWFtUmxLMFgyNWNka25NNzFpTFhaekNfNmt6ejhfYzA5TkloUjZZS0YwTS1ZVDRwbHJYWFVSMUx5eDdKR3IxXzdNeHAxWDF5RTRtWkJwZXFDeWoyVzFQNDVxMm5BOVJpR013YXZyaTAwNTRGeHNNdm9CQXFyWDRPWEhWVm9qckpqT2FnZm5EbWVPMg?oc=5",
-      "source": "中文AI聚合/新浪财经",
-      "source_tier": 3,
-      "published": "2026-06-15T06:43:56+00:00",
-      "summary": "微软CEO警告：少数人工智能领域的赢家可能会摧毁“整个行业” 新浪财经",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/新浪财经"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "小米单联瑜：从今年下半年开始会有更多的品牌加强抽真空监管，部分品牌会采用「数字抽真空技术」",
-      "url": "https://www.ithome.com/0/964/386.htm",
+      "title": "项目负责人揭秘为何苹果 AI 版 Siri 姗姗来迟：推倒重来，彻底重构",
+      "url": "https://www.ithome.com/0/964/620.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T06:41:17+00:00",
-      "summary": "IT之家 6 月 15 日消息，小米集团大家电部总经理单联瑜今日发文，谈及了小米空调在 2026 年做的三件非常重要的事情：超高 APF，对用户省电省钱，对社会节能减排，并且技术具备前瞻性，因为「超一级能效，大概率是符合下一代能效标准的产品系列」强劲风系列，纯热泵制热，用户体验不干燥，相比 PTC 电辅热技术更节能、更绿色，完美适配华南和长江流域数字抽真空，用互联网 +AI 的方式解决消费者的困扰，把很难监管的服务过程透明化单联瑜表示，自己有两个判断：从 27 年开始，一定会有更多的品牌和产品系列采用「纯热泵技术」从 26 年下半年开始，一定会有更多的品牌加强抽真空的监管，部分品牌会采用「数字抽真空技术」据IT之家此前报道，今年 5 月，小米公司发布内部通报，针对在数字化抽真空服务专项稽核中发现的两起空调安装抽真空造假事件作出顶格处理。根据网上流传出的公告截图，涉事的两名合作工程师被直接永久拉黑清退，终止任何形式的合作；其所属线下安装网点按虚假服务论处，每单罚款 1000 元，同时面向全国所有家装服务商同步通报批评，后续若再出现同类问题，将进一步升级追责力度。相关阅读：《小米通报两起空调安装抽真空造假事件：涉事工程师永久拉黑》",
+      "published": "2026-06-15T23:16:58+00:00",
+      "summary": "IT之家 6 月 16 日消息，iOS 27 全新人工智能版 Siri 相比旧版 Siri 实现了跨越式升级，但其上线耗时远超预期。迈克 · 罗克韦尔道出了新 Siri 迟迟未能推出的背后原因。IT之家注意到，苹果全球开发者大会（WWDC）主题演讲结束后的上周，苹果面向媒体举办了一场聚焦 Siri 与苹果智能（Apple Intelligence）的技术分享会。迈克 · 罗克韦尔也出席了本次分享会，他从去年才开始接手 Siri 项目的整体管理工作。罗克韦尔补充了全新细节，解释这款人工智能 Siri 的正式推出为何比预期更晚，以下是他的原话：去年我们其实已经做出了首个迭代版本，它是在原有 Siri 基础上小幅改良，新增了工具调用功能，并且能够正常运行。但我们认为，这款版本无法达到我们预想的产品愿景与使用体验。我们同时还有另一套设计方案，这套方案需要进行大规模底层重构，最终我们决定采用这套方案。于是我们推倒重来，完完整整从零重构 Siri。毫不夸张地说，是彻底拆解原有架构，依托阿马尔刚才介绍的顶尖大模型，从头搭建全新系统。这次重构让我们打造出能力实现质的飞跃的 Siri。新版 Siri 拥有独立应用程序，原生支持多模态交互，隐私保护设计贯穿底层架构。同时该功能覆盖苹果全平台，这一点对我们至关重要。iPhone、iPad、Mac、Apple Watch、Vision Pro，还有车载 C",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1412,66 +1872,12 @@
       "best_tier": 3
     },
     {
-      "title": "新疆首部“人工智能生成式+实景拍摄”微短剧在克拉玛依开拍",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12clNzbVlfdDlleURBWVk1azBpSlJvckwtZUt1ZU5UWVQyazY4eDdaTV9SMHlqLUlsSG9nekNoVmUyMnJISUZWV0IweGNEeDVzbWFjQTJvLUdJVWR1U0VkZkJaT0gzZWdVQmNyenZxd3c5MjBpaWVmZg?oc=5",
-      "source": "中文AI聚合/Sina finance",
-      "source_tier": 3,
-      "published": "2026-06-15T06:32:00+00:00",
-      "summary": "新疆首部“人工智能生成式+实景拍摄”微短剧在克拉玛依开拍 Sina finance",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/Sina finance"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "人工智能与数据科学学院举办“数据廉心”活动",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NOTcxalJJak90eTNsU0hQU2QtYUFHN1hCdV9OeTZidExweGVsdWs1cHN2OEJHTEM3YmNQOEtTZGg0SVRUQ0tKRzExQnVYZmhnbDBKby14NFg?oc=5",
-      "source": "中文AI聚合/对外经济贸易大学新闻网",
-      "source_tier": 3,
-      "published": "2026-06-15T06:30:24+00:00",
-      "summary": "人工智能与数据科学学院举办“数据廉心”活动 对外经济贸易大学新闻网",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/对外经济贸易大学新闻网"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "高带宽闪存：面向人工智能数据中心与边缘计算的新型存储技术",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvSUs2WjBDdVBRbjVMVHFERkl3Vm5aaGt2ME1wbnVraHoxa19ZdUtlREZTbGpoWWYwcGJ2ZGhkR2d6a3BlZFRZbFBlRlcwcEFSbS1Wb3ZDRnF2UHRjU0xLNw?oc=5",
-      "source": "中文AI聚合/千家网",
-      "source_tier": 3,
-      "published": "2026-06-15T06:30:21+00:00",
-      "summary": "高带宽闪存：面向人工智能数据中心与边缘计算的新型存储技术 千家网",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/千家网"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "【已结束】3999 → 1485 元：小米米家扫地机器人 5 Pro 水箱版国补后腰斩新低",
-      "url": "https://www.ithome.com/0/964/378.htm",
+      "title": "macOS 26.4 为何拦截部分终端命令？苹果解释背后安全触发机制",
+      "url": "https://www.ithome.com/0/964/616.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T06:26:39+00:00",
-      "summary": "16:15 更新：商品标价上涨，活动已结束。小米米家扫地机器人 5 Pro 开售于 2025 年 8 月 9 日，水箱版定价 3999 元。京东 618 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后，水箱版仅需 1485.1 元：满 1 元立打 8 折券：点此查看加入购物车时选择“以旧换新”：选择个护健康 → 电动牙刷补贴 200 元（无需回收）实付 1485 元选择生活电器 → 扫地机器人补贴 400 元（重量大于 4 斤，老旧坏皆可 *）实付 1285 元京东小米 米家扫地机器人 5 Pro 水箱版券后 1485.1 元领 8.7 折券* 可打开闲鱼，选择距离 Z 近，设定价格上限，即可查看附近老旧坏机器人，咨询只要重量大于 4 斤即可。京东无门槛红包至高 26618 元，支持即领即用：点此抽取。该系列扫地机器人配备 AI 摄像头 + 红外摄像头 + 补光灯 + 点阵激光雷达，号称内置的 AI 可识别 200 种物体、47 种脏污，同时配备高温洗烘自清洁基座，支持最高 80 度烫洗、底盘自动刮洗、自动集尘。系列扫地机器人提供 23000Pa 吸力，匹配扫、拖双机械臂，号称可以实现毫米级贴边扫净、拖净；机身搭载升降式激光雷达，最低可进入 9.5cm 低矮区域清洁。IT之家附产品参数如下：京东小米 米家扫地机器人 5 Pro 水箱版券后 1485.1 元领 8",
+      "published": "2026-06-15T23:07:51+00:00",
+      "summary": "IT之家 6 月 16 日消息，苹果公司昨日（6 月 15 日）更新支持文档，解释称在 macOS 26.4 系统中，若用户不常用终端（Terminal），且命令来自网站、聊天智能体、消息或邮件应用，系统可能阻止粘贴。科技媒体 9to5Mac 指出，用户此前终端里粘贴命令后，系统会先给出安全警告，提示内容可能含有恶意代码。很多人只知道有这个拦截机制，但不清楚它的触发机制。在最新官方支持文档中，苹果公司表示如果用户并不经常使用终端，且复制的命令来自网站、聊天智能体、消息应用或邮件应用，系统就可能阻止粘贴。IT之家附上相关截图如下：苹果还补充了“已检测到恶意软件，已阻止粘贴”和“已阻止恶意脚本”两项提示，不再提供继续粘贴的选项，明确告知用户系统已识别命令或脚本中含有已知恶意代码。如果用户认为拦截是误判，尤其是命令访问的网站被错误标记为欺骗性页面，苹果建议前往 websitereview.apple.com 提交错误报告。参考If your Mac blocks a Terminal command paste or script",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1484,30 +1890,12 @@
       "best_tier": 3
     },
     {
-      "title": "天然多肽与人工智能融合创新 探索生物医药前沿技术发展路径",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IbTN2Y0JhVF9xV0pUUEM5RnpvZ3J2S1AzZjkyWTBmZzl0X2VhTDI5VXlUUDJoR0R3YS1rcEREQ1MtU2k2Q1RNdDJMM0o4VjlEWEYtV2JKWEk5YXEtRDJ1WUM1OE8tQXQ4SG9pR1JR?oc=5",
-      "source": "中文AI聚合/中华网",
-      "source_tier": 3,
-      "published": "2026-06-15T06:22:03+00:00",
-      "summary": "天然多肽与人工智能融合创新 探索生物医药前沿技术发展路径 中华网",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/中华网"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "比亚迪腾势 N9 迎来 V1.7.0 OTA 更新：新增加速踏板防误踩、易三方灵动泊车等功能",
-      "url": "https://www.ithome.com/0/964/371.htm",
+      "title": "招商银行推出“运通工程师信用卡”，新用户办卡提供“专属 AI 权益”单月可享 18 亿 Token M3 用量",
+      "url": "https://www.ithome.com/0/964/614.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T06:18:53+00:00",
-      "summary": "IT之家 6 月 15 日消息，比亚迪腾势今日宣布腾势 N9 迎来自 2025 年上市以来第 7 次升级，版本号为 V1.7.0，不含腾势 N9 闪充版。IT之家整理如下：新增加速踏板防误踩功能：车辆起步或低速行驶时猛踩加速踏板，系统将智能判断是否误踩，如果存在碰撞风险，将抑制车辆加速并报警提示。新增易三方灵动泊车功能：智能识别用户泊车意图，弹窗显示，无需复杂操作，一键触达易三方泊车。新增横风稳定护航功能：基于易三方强大的融合感知能力，瞬间识别横风，毫秒级扭矩调节，后轮转向协同，实现精准的横摆控制。新增防甩尾安全控制功能：实时检测车身姿态数据，易三方瞬时抑制车身横摆，主动补偿，化险于未然高速避险游刃有余。新增超级童锁功能：告别机械操作，一键锁止独立控制儿童侧。IoT 再添新成员：新增六大生态伙伴，覆盖出行全场景。新增车家互联智慧伙伴：新增海信及 TCL 品牌接入，支持远程控制家中空调。新增电动门控制便捷入口：屏幕底部可加选电动门控制按钮，实现零层级电动门，易识别、易操作，一键控制开启 / 关闭车门。QQ 音乐新增银河音效，酷狗音乐新增蝰蛇音效新增爱奇艺跨屏点播：长按影片封面，精彩即可共享，还可控制其他屏播放进度。百变主题新增时光音乐壁纸：感知天气和时间，调节屏幕颜色并为你推荐符合心境的音乐。新增 QQ 音乐「AI 陪你听」功能",
+      "published": "2026-06-15T22:59:02+00:00",
+      "summary": "IT之家 6 月 16 日消息，招商银行宣布推出一款“运通工程师信用卡”，强调相应信用卡拥有“专属 AI 权益”。IT之家参考官方介绍获悉，新用户办卡首次参与活动达标后，至高可享每月 18 亿 Token M3 用量，可直接用于文档、图像、音视频等多模态模型调用，以及 MaxClaw 龙虾部署等 AI 高频场景。具体来看，相应信用卡“AI 权益体系”提供三种方案可选：面向频繁使用 AI 工具的专业开发者，提供 1 个月 MiniMax Token Plan Max，享受每月 18 亿 Token M3 用量，支持 4-5 个 Agent 并发运行；面向日常工作需求的个人开发者，提供 2 个月 MiniMax Token Plan Plus，享受每月 6 亿 Token M3 用量，支持 3-4 个 Agent 并发运行；面向需求更多元的 AI 使用者，提供 1 个月 MiniMax Token Plan Plus+1 个月 MaxClaw 基础版，在前者服务基础上，可以部署 7x24 小时在线的云端 MaxClaw，并在高峰时段优先使用。事实上，此前 Kimi 智能助手也推出了一款“Kimi 信用卡”，持卡人可通过消费积分兑换 Kimi 算力额度（如 Agent 使用额度、高级功能权限等），该卡预计 7 月正式面市。参考央行发布的《2025 年支付体系运行总体情况》，截至 2025",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1520,12 +1908,12 @@
       "best_tier": 3
     },
     {
-      "title": "科幻作家郝景芳承认新书的 AI 写作比重占到一半，引发网络争议",
-      "url": "https://www.ithome.com/0/964/369.htm",
+      "title": "古尔曼：苹果有望推出 AI 智能体，让 Siri 自主操作 iPhone 和 Mac 软件",
+      "url": "https://www.ithome.com/0/964/612.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T06:05:08+00:00",
-      "summary": "IT之家 6 月 15 日消息，根据深圳龙岗融媒 6 月 5 日报道，雨果奖获奖作品《北京折叠》的作者郝景芳在接受采访时透露，在她今年新出的小说《银河学院》里，AI 写作的比重已经占到一半了。报道中还提到，郝景芳表示“出版社的编辑还一个劲夸我今年写得好”，并称其实读者也看不出来哪些部分是 AI 写的。该报道发布后在网络上引起了不小的争议，相关话题今天也登上微博热搜。有网友认为“作家放弃了自己的笔”，还有网友表示承认用 AI 写作是迈出了一大步。而龙岗融媒的这篇报道目前已经无法查到。IT之家查询获悉，《银河学院》是郝景芳创作的少儿科幻小说系列，她今年 3 月就在微博中就提到了自己搭建的 AI 辅助创意写作工作台。",
+      "published": "2026-06-15T22:56:45+00:00",
+      "summary": "IT之家 6 月 16 日消息，彭博社记者马克 · 古尔曼认为，苹果最终可能推出一款产品，直接对标 OpenClaw—— 这是一套智能体 AI 系统，能够代用户自主操作各类软件。古尔曼在其专栏《Power On》中撰文表示，他预计苹果会研发一套系统，可全权代表用户操作 iPhone、iPad 与 Mac 端的各类软件。这一预测的依据，是苹果 Siri 工程主管迈克 · 罗克韦尔在上周苹果全球开发者大会（WWDC）主题演讲结束后发表的相关言论。罗克韦尔的表态似乎为 Siri 突破现有功能上限留下了空间。他将支撑这款语音助手的全新底层引擎称作一套“完全现代化的架构”，设计之初便充分考虑了功能拓展性：智能体（Agent）的运行逻辑是持续接收信息、做出判断、继而执行操作，形成循环。而目前我们的 Siri 仍主要依靠用户主动发起指令运行。但支撑 Siri 的底层架构已是全新现代化架构，因此我们未来拓展相关能力的空间十分充足。苹果软件工程高级副总裁克雷格 · 费德里吉也承认了智能体这一新兴赛道，但表述措辞十分审慎。他称该领域尚处于试验阶段，打造适配的用户体验仍是首要目标，同时并未完全排除苹果未来入局该领域的可能性。据IT之家了解，苹果即将上线的新版 Siri 已基于大语言模型完成重构，现阶段依旧是依托用户指令触发的交互系统。",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1538,16 +1926,124 @@
       "best_tier": 3
     },
     {
-      "title": "工信部披露上汽 MG 07 续航信息：纯电车型最大续航 650km",
-      "url": "https://www.ithome.com/0/964/364.htm",
+      "title": "苹果核心供应商罕见暗示：标准版 iPhone 18 将推迟至 2027 年初上市",
+      "url": "https://www.ithome.com/0/964/611.htm",
       "source": "IT之家",
       "source_tier": 3,
-      "published": "2026-06-15T05:52:02+00:00",
-      "summary": "IT之家 6 月 15 日消息，上汽 MG 品牌全新车型 MG 07 现身《减免车辆购置税的新能源汽车车型目录（第三十一批）》，新车将提供纯电动与插电式混合动力两种动力形式，并搭载高阶智能驾驶系统。官方表示，新车将瞄准 15-20 万元价格区间，来自全新平台，预计年内正式上市。MG 07 基于全新平台开发，提供纯电与插混车型。纯电版车型搭载 67kWh 电池包，CLTC 工况下提供 650km 和 610km 两种续航版本，驱动电机由上海汽车变速器有限公司生产，型号为 TZ185XY1181，最大功率达 176 千瓦。插混版车型则采用 30kWh 电池包，WLTC 纯电续航达到 185km。动力系统由上海汽车集团股份有限公司生产的型号 15FHC 1.5L 发动机与驱动电机组成，其中发动机最大功率 82 千瓦，驱动电机峰值功率 152 千瓦，兼顾燃油经济性与电动化驾驶体验。IT之家注意到，外观设计方面，MG 07 采用轿跑式车身造型，前脸线条流畅且富有张力，标志性的 C 字形大灯内置多组灯源，配合贯穿式前进气口，营造出强烈的运动气息。车身侧面姿态修长，配备半隐藏式门把手与专属样式轮圈，进一步强化了整车的时尚感与空气动力学表现。车尾采用溜背式设计，后风挡与全景天幕实现无缝衔接，尾部线条向内收拢，搭配贯穿式尾灯，整体视觉效果紧凑且富有层次感。值得关注的是，MG 07 将首发专属“莫雷洛",
+      "published": "2026-06-15T22:49:06+00:00",
+      "summary": "IT之家 6 月 16 日消息，据苹果供应链合作厂商透露的消息，iPhone 18 标准版将于 2027 年初发布，该说法也印证了此前传闻。IT之家注意到，苹果智能手机历来遵循一年一更的发布节奏，全部最新旗舰 iPhone 系列均在秋季推出，时间通常为 9 月中旬。不过今年这一惯例或将被打破。多方消息称，基础款 iPhone 18 将推迟至 2027 年春季登场，今年仅会推出 iPhone 18 Pro 系列机型，同时苹果首款折叠屏 iPhone 也将同步亮相。如今苹果核心供应商的表态，进一步佐证苹果正打算打破沿用多年的传统发布周期。大立光董事长林恩平在公司年度股东大会上表示，美国某大客户已将一款新机发布时间延后至 2027 年第一季度，零部件采购周期随之推后，预计将拉高工厂第四季度的产能利用率。林恩平并未点明客户与对应产品，但大立光是苹果 iPhone 镜头的核心供应商。结合此前报道，本次标准版 iPhone 18 不会和高端机型同期发布，这番发言因此具备极高参考价值。苹果供应链厂商极少公开透露客户新品的相关信息，即便侧面暗示也十分罕见，因此此次表态格外引人关注。有报道指出，苹果计划将今后的 iPhone 产品分两个时段发布。按照这套新策略，高端机型依旧维持 9 月上市，平价基础款则顺延至次年春季。若消息属实，iPhone 18 标准版、iPhone 18e 与 iPhone A",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
         "IT之家"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "啥？Fable 5一出，Skill和Prompt都白学了？",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VMnNSZ3cwUVNvSlFhMG5rRVc2TVhXdTRXSDM1a21EcW9EeWllYWJqamdwS1BvdkVJTHFwUG1YLXVQdlpmcGM3Uw?oc=5",
+      "source": "量子位/智源社区",
+      "source_tier": 3,
+      "published": "2026-06-15T11:20:00+00:00",
+      "summary": "啥？Fable 5一出，Skill和Prompt都白学了？ 智源社区",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "量子位/智源社区"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "视频生成作为多模态推理新范式 | CVPR 2026",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LODFGcnpXbW9pS2w0OHp3REM2ZmhxN3FOUXZIRm5sc19wWE12RXN0cDlwZVFla2hLaHRZWWNIeTc2MFR0aE9YVw?oc=5",
+      "source": "量子位/智源社区",
+      "source_tier": 3,
+      "published": "2026-06-15T11:20:00+00:00",
+      "summary": "视频生成作为多模态推理新范式 | CVPR 2026 智源社区",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "量子位/智源社区"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYkljQ084am5rY1BRYU1MVl9TcG1OTUY5ejdsODFZQWczTkwweDJvYk1aWllGN19OSEZycGxIRWFNUVR3U0JKbTZ3OEVlV1FlTDNrYkVSaDd1SnZsR09DLU0tSVd3d0ZweVV2bC1NS0cwWHF3X1A0U3BxSjhpMjdjeWpkNmlfLWVs?oc=5",
+      "source": "量子位/搜狐网",
+      "source_tier": 3,
+      "published": "2026-06-15T09:30:41+00:00",
+      "summary": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚 搜狐网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "量子位/搜狐网"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "北京周三｜ICRA/CVPR后，聊聊具身最新判断",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qdmVmTTVYYkFrX1hPNnFfS1F2X0FlaFJMRmtkM0FRUFBkM2lMNDI0ZzhYSjVLT3IyTGFmX2gyR2ZzUW1LYk0wTw?oc=5",
+      "source": "量子位/智源社区",
+      "source_tier": 3,
+      "published": "2026-06-15T09:30:00+00:00",
+      "summary": "北京周三｜ICRA/CVPR后，聊聊具身最新判断 智源社区",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "量子位/智源社区"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "0.6B VLM重塑AI修图推理流程，支持手机端侧部署，vivo+浙大出品",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3NjJVMUhpaE1CYnptaWpObmZvTGo2WWxaRlRtMUg4eHlWWVQ3VFZHcmFqemc0S1lVMG51aGt0Y2xkQXowNDJUUg?oc=5",
+      "source": "量子位/智源社区",
+      "source_tier": 3,
+      "published": "2026-06-15T09:30:00+00:00",
+      "summary": "0.6B VLM重塑AI修图推理流程，支持手机端侧部署，vivo+浙大出品 智源社区",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "量子位/智源社区"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "登Nature子刊！清华团队提出全球气候模态统一预测模型UniCM",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE80V0lpUmtIZHJwTU41MmpldVdJNG1waEoyX005cElNS2w4YlVDQWpnLTZ4d3ZfZjlHeDJ5WG5LSkltMnZzTDNNdA?oc=5",
+      "source": "量子位/智源社区",
+      "source_tier": 3,
+      "published": "2026-06-15T09:20:00+00:00",
+      "summary": "登Nature子刊！清华团队提出全球气候模态统一预测模型UniCM 智源社区",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "量子位/智源社区"
       ],
       "source_tiers": [
         3
@@ -1575,15 +2071,15 @@
     },
     {
       "title": "一夜反转！「杀进第一梯队」的巴西LLM竟「套壳缝合」了国产模型",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JbXQ5aDE3NVJwc0hZbzUwZ1pva3Q4NnlYU3BZSWV2SFFaSFVUbE8yczlzR1Foam4tcS15OURUdEdsTUE4ZHVCcG9aTF9nVldVanRXanBn?oc=5",
-      "source": "机器之心/QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUFZc1VFNDljZVAwcXZPY0thbGlyM3lRbFFaR1B0RXg3amZ2Y1M4cmNSQWpGTDY0YTE0ZG1GRmVGSTE3Vm5PMmMtdGFGMlJrOFM5cFUydWFXV3JnNEE1RG5kdFZLNWVHVkhjb2NQT2swRC1qVW9lQnB0eEE5ak51OUFrZU0weWFo?oc=5",
+      "source": "机器之心/搜狐网",
       "source_tier": 3,
-      "published": "2026-06-15T03:40:00+00:00",
-      "summary": "一夜反转！「杀进第一梯队」的巴西LLM竟「套壳缝合」了国产模型 QQ News",
+      "published": "2026-06-15T03:25:59+00:00",
+      "summary": "一夜反转！「杀进第一梯队」的巴西LLM竟「套壳缝合」了国产模型 搜狐网",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "机器之心/QQ News"
+        "机器之心/搜狐网"
       ],
       "source_tiers": [
         3
@@ -1614,7 +2110,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PbDhUUDd2a3NnWkN6eWcxUFByVUV3dlVIZXd3WUxZUzExaWVEODlDTVhpcEV3a0dZVlRQcy1EblJYQXZVQ25WTkg4T2c?oc=5",
       "source": "中文AI融资/白鲸出海",
       "source_tier": 3,
-      "published": "2026-06-15T02:28:18+00:00",
+      "published": "2026-06-15T02:28:20+00:00",
       "summary": "OpenAI吞下Ona补齐智能体云底座，企业级AI应用叙事从大模型转向AI智能体执行 白鲸出海",
       "hn_points": 0,
       "hn_comments": 0,
@@ -1628,102 +2124,12 @@
       "best_tier": 3
     },
     {
-      "title": "DeepMind震撼报告：四条通往超级人工智能之路",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KU2c4eGdxSHY3MlBOZDg1bkRqMTFscTkzcWNtdGc5VllpVWdNUGZrelNCSU5qU3FBRW5tT0ZLS09fX0hHNEVyeG9GZlR6Z19SaTV2emNqcEZsdjJt?oc=5",
-      "source": "机器之心/网易新闻客户端",
-      "source_tier": 3,
-      "published": "2026-06-14T11:38:00+00:00",
-      "summary": "DeepMind震撼报告：四条通往超级人工智能之路 网易新闻客户端",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "机器之心/网易新闻客户端"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "看不清就乱答？多模态大模型的这个毛病终于有解了 | ICML 2026",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EVF9DWk94MTdBVl8yYUZPVEVQMlVFM2N5UnJfRlhBYXJGOS1JT19sUmdGRnNCVWxHd3lzc3F3SW9WQjZzRlJlNQ?oc=5",
-      "source": "量子位/智源社区",
-      "source_tier": 3,
-      "published": "2026-06-14T10:10:00+00:00",
-      "summary": "看不清就乱答？多模态大模型的这个毛病终于有解了 | ICML 2026 智源社区",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "量子位/智源社区"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE11dDhsQ3BzMGs4OEswMzVtZVJpbmpQdEswQkFfb0h4ZHFwWXg0bHpmUGwtUEdlR2pkZG5NNmVmZVV1M0RiMElNdg?oc=5",
-      "source": "量子位/智源社区",
-      "source_tier": 3,
-      "published": "2026-06-14T10:10:00+00:00",
-      "summary": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？ 智源社区",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "量子位/智源社区"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UblhTNmNxcTdsVHR2OWxUVG8yUHpfdVB2UmlIN3I4aENFY3RuWGo5Y3lQcXRLOHNPb3BBdkFmRVR2RVF3N0QzNg?oc=5",
-      "source": "量子位/智源社区",
-      "source_tier": 3,
-      "published": "2026-06-14T03:40:00+00:00",
-      "summary": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋 智源社区",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "量子位/智源社区"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "神了，世界杯第一天真按千问剧本踢了",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwTGZYZ0p6RzZscEVBTlhmNUNNd1lyNC05aWhmMXdlakFYenB0VFZSRm9iOE1mWXhLV2UyTTNpMmszMG5MZ2dQTA?oc=5",
-      "source": "量子位/智源社区",
-      "source_tier": 3,
-      "published": "2026-06-14T02:30:00+00:00",
-      "summary": "神了，世界杯第一天真按千问剧本踢了 智源社区",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "量子位/智源社区"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "立昂微：自6月15日起，对功率芯片业务全系产品价格调涨10%-15%",
-      "url": "https://36kr.com/newsflashes/3854191358923777?f=rss",
+      "title": "创业板指涨超1%",
+      "url": "https://36kr.com/newsflashes/3855183646315523?f=rss",
       "source": "36Kr快讯",
       "source_tier": 3,
       "published": "",
-      "summary": "36氪获悉，近日立昂微对客户发出产品价格调整通知函，对全系列产品进行涨价。公司表示，受上游原材料价格持续上涨影响，公司综合生产成本大幅增加，为保障产品品质、服务质量及供货稳定，自6月15日起，对功率芯片业务全系产品价格调涨10%—15%。",
+      "summary": "36氪获悉，创业板指涨超1%，沪指跌0.23%，深成指涨0.36%，铜箔、锂电池、军工、半导体芯片等方向涨幅居前，沪深京三市上涨个股近1300只。",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1736,12 +2142,12 @@
       "best_tier": 3
     },
     {
-      "title": "恒指收涨0.5%，恒生科技指数涨1.28%",
-      "url": "https://36kr.com/newsflashes/3854157686314240?f=rss",
+      "title": "消息称三星晶圆代工首获马斯克Neuralink芯片制造订单",
+      "url": "https://36kr.com/newsflashes/3855121987113984?f=rss",
       "source": "36Kr快讯",
       "source_tier": 3,
       "published": "",
-      "summary": "36氪获悉，恒指收涨0.5%，恒生科技指数涨1.28%；贵金属、半导体、零售板块领涨，智谱涨超32%，紫金黄金国际涨超15%，兆易创新涨超10%，国美零售涨超9%；能源、银行、食品饮料板块走弱，山东墨龙跌超9%，中原银行跌超4%，百威亚太跌超2%；南向资金净买入21.1亿港元。",
+      "summary": "据报道，三星电子的晶圆代工业务首度获得马斯克旗下脑机接口企业Neuralink的芯片合同制造服务订单。三星晶圆代工将为Neuralink生产其“第四代”芯片，目标2027年底量产。该产品将采用4nm工艺制程，试产工作已于2026年5月启动。（财联社）",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1754,12 +2160,12 @@
       "best_tier": 3
     },
     {
-      "title": "机构：千问AI眼镜1-5月全国销量第一",
-      "url": "https://36kr.com/newsflashes/3854154331739144?f=rss",
+      "title": "银河证券：AI算力建设需求爆发推动存储长周期涨价，HBM投片比重将持续提升",
+      "url": "https://36kr.com/newsflashes/3855121244935175?f=rss",
       "source": "36Kr快讯",
       "source_tier": 3,
       "published": "",
-      "summary": "6月15日，根据华信人咨询出具的市场销量数据，2026年1-5月期间，千问AI眼镜在AI眼镜品类中销量位居全国第一。此前，奥维云网（AVC）线上零售监测数据显示，2026年3月至4月，千问AI眼镜全系列（含夸克AI眼镜）线上市场零售额份额达30.4%，接近整体市场的三分之一，位居线上市场第一。据了解，7月千问AI眼镜还将迎来新一轮升级发布，进一步拓展AI眼镜在日常生活和工作场景中的应用体验。",
+      "summary": "36氪获悉，银河证券发布电子行业2026年中期策略称，AI算力建设需求爆发推动存储长周期涨价，HBM投片比重将持续提升。随着NVIDIA新一代Rubin Ultra平台即将推出，单颗GPU配置HBM容量将进一步提升至384GB，加上AI ASIC出货量持续增加，将带动HBM需求再度跃升。TrendForce预估，HBM投片量占整体DRAM投片比重将由2025年的18％提升至2027年约30％；HBM位元供给占比也将由8％提高至约13％。此外，随着端侧AI技术的爆发式增长，3D堆叠DRAM方案正成为突破传统存储瓶颈的关键技术路径。",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
@@ -1770,6 +2176,96 @@
       ],
       "source_count": 1,
       "best_tier": 3
+    },
+    {
+      "title": "扬杰科技：拟变更部分募集资金投资项目",
+      "url": "https://36kr.com/newsflashes/3855120848672007?f=rss",
+      "source": "36Kr快讯",
+      "source_tier": 3,
+      "published": "",
+      "summary": "36氪获悉，扬杰科技公告，鉴于公司越南工厂一期已满产，海外研发中心、渠道均已布局到位，为切实提高募集资金使用效率，公司拟将2023年发行的全球存托凭证募集资金投资项目“发展功率元件业务，包括建设小信号产品、硅基及碳化硅SBD、MOSFET等产品的封装”项目、“海外研发中心和全球销售及售后服务网点建设”项目结项，剩余的募集资金用于公司正在实施的投资项目“车规级功率半导体模块封装项目”和“AI基础设施用功率器件生产线技术改造项目”。变更用途的募集资金截至2026年5月31日共计1.25亿美元（含利息和现金管理收益）。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "36Kr快讯"
+      ],
+      "source_tiers": [
+        3
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "B-52 bomber crashes shortly after takeoff at California's Edwards Air Force Base",
+      "url": "https://www.cnn.com/2026/06/15/us/b-52-crash-edwards-california",
+      "source": "HackerNews AI",
+      "source_tier": 4,
+      "published": "2026-06-15T20:34:51+00:00",
+      "summary": "",
+      "hn_points": 29,
+      "hn_comments": 3,
+      "sources": [
+        "HackerNews AI"
+      ],
+      "source_tiers": [
+        4
+      ],
+      "source_count": 1,
+      "best_tier": 4
+    },
+    {
+      "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/",
+      "source": "HackerNews AI",
+      "source_tier": 4,
+      "published": "2026-06-15T20:02:02+00:00",
+      "summary": "",
+      "hn_points": 87,
+      "hn_comments": 79,
+      "sources": [
+        "HackerNews AI"
+      ],
+      "source_tiers": [
+        4
+      ],
+      "source_count": 1,
+      "best_tier": 4
+    },
+    {
+      "title": "Today's Frontier AI companies will never exceed the AI capability frontier again",
+      "url": "https://andrewtrask.substack.com/p/breaking-todays-frontier-ai-companies",
+      "source": "HackerNews AI",
+      "source_tier": 4,
+      "published": "2026-06-15T18:56:35+00:00",
+      "summary": "",
+      "hn_points": 24,
+      "hn_comments": 9,
+      "sources": [
+        "HackerNews AI"
+      ],
+      "source_tiers": [
+        4
+      ],
+      "source_count": 1,
+      "best_tier": 4
+    },
+    {
+      "title": "The AI Price War Is Here, Piling Pressure on OpenAI and Anthropic",
+      "url": "https://www.wsj.com/tech/ai/the-ai-price-war-is-here-piling-pressure-on-openai-and-anthropic-86e1d21b",
+      "source": "HackerNews AI",
+      "source_tier": 4,
+      "published": "2026-06-15T18:36:36+00:00",
+      "summary": "",
+      "hn_points": 15,
+      "hn_comments": 4,
+      "sources": [
+        "HackerNews AI"
+      ],
+      "source_tiers": [
+        4
+      ],
+      "source_count": 1,
+      "best_tier": 4
     },
     {
       "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
@@ -2484,60 +2980,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "The Jqwik Anti-AI Affair",
-      "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
-      "source": "HackerNews AI",
-      "source_tier": 4,
-      "published": "2026-06-14T22:43:49+00:00",
-      "summary": "",
-      "hn_points": 49,
-      "hn_comments": 67,
-      "sources": [
-        "HackerNews AI"
-      ],
-      "source_tiers": [
-        4
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Did Anthropic ask for this?",
-      "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
-      "source": "HackerNews AI",
-      "source_tier": 4,
-      "published": "2026-06-14T22:23:05+00:00",
-      "summary": "",
-      "hn_points": 182,
-      "hn_comments": 154,
-      "sources": [
-        "HackerNews AI"
-      ],
-      "source_tiers": [
-        4
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "AI is code – and can't be prompted into being smarter",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-      "source": "HackerNews AI",
-      "source_tier": 4,
-      "published": "2026-06-14T20:17:54+00:00",
-      "summary": "",
-      "hn_points": 132,
-      "hn_comments": 114,
-      "sources": [
-        "HackerNews AI"
       ],
       "source_tiers": [
         4
