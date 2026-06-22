@@ -1,6 +1,110 @@
 {
-  "updated_at": "2026-06-22",
-  "window_days": 14,
-  "note": "跨日报去重台账：记录最近 window_days 天已报道的事件指纹。成稿前读它做去重，报道后由 routine 经 GitHub API 写回。",
-  "events": []
+  "events": [
+    {
+      "fp": "zhipu-glm52-opensource-design-arena-1st",
+      "title": "智谱GLM-5.2开源，Design Arena全球第一，港股破万亿",
+      "first": "2026-06-22",
+      "last": "2026-06-22",
+      "count": 1
+    },
+    {
+      "fp": "deepseek-510亿-融资-首轮",
+      "title": "DeepSeek首轮外部融资超510亿元",
+      "first": "2026-06-22",
+      "last": "2026-06-22",
+      "count": 1
+    },
+    {
+      "fp": "anthropic-fable5-mythos5-出口管制",
+      "title": "美国出口管制叫停Anthropic Fable 5和Mythos 5",
+      "first": "2026-06-22",
+      "last": "2026-06-22",
+      "count": 1
+    },
+    {
+      "fp": "john-jumper-deepmind-to-anthropic",
+      "title": "诺贝尔奖得主John Jumper离开DeepMind加入Anthropic",
+      "first": "2026-06-22",
+      "last": "2026-06-22",
+      "count": 1
+    },
+    {
+      "fp": "microsoft-copilot-deepseek-评估",
+      "title": "微软考虑在Copilot平台引入DeepSeek",
+      "first": "2026-06-22",
+      "last": "2026-06-22",
+      "count": 1
+    },
+    {
+      "fp": "meta-q1-2026-财报-超级智能",
+      "title": "Meta Q1财报强劲，扎克伯格承诺超级智能",
+      "first": "2026-06-22",
+      "last": "2026-06-22",
+      "count": 1
+    },
+    {
+      "fp": "glm52-grpo-rl-算法路线分叉",
+      "title": "智谱GLM-5.2放弃GRPO，RLVR算法路线分叉",
+      "first": "2026-06-22",
+      "last": "2026-06-22",
+      "count": 1
+    },
+    {
+      "fp": "apertus-sovereign-ai-open-weights",
+      "title": "Apertus主权AI开放权重基础模型发布",
+      "first": "2026-06-22",
+      "last": "2026-06-22",
+      "count": 1
+    },
+    {
+      "fp": "sandisk-nand-hbf-kv-cache",
+      "title": "闪迪NAND堆叠专利突破KV-cache存储瓶颈",
+      "first": "2026-06-22",
+      "last": "2026-06-22",
+      "count": 1
+    },
+    {
+      "fp": "aws-context-continuum-agent-服务",
+      "title": "AWS推出Context和Continuum两项AI Agent服务",
+      "first": "2026-06-22",
+      "last": "2026-06-22",
+      "count": 1
+    },
+    {
+      "fp": "openai-codex-record-replay-技能",
+      "title": "OpenAI Codex Record&Replay示范即学习",
+      "first": "2026-06-22",
+      "last": "2026-06-22",
+      "count": 1
+    },
+    {
+      "fp": "data2story-7-agent-journalism",
+      "title": "Data2Story七Agent自动新闻生成系统",
+      "first": "2026-06-22",
+      "last": "2026-06-22",
+      "count": 1
+    },
+    {
+      "fp": "openai-q1-57亿营收-37亿亏损",
+      "title": "OpenAI Q1营收57亿美元亏损37亿",
+      "first": "2026-06-22",
+      "last": "2026-06-22",
+      "count": 1
+    },
+    {
+      "fp": "anthropic-ipo-集体诉讼-jpmorgan",
+      "title": "Anthropic IPO前集体诉讼和JPMorgan限制",
+      "first": "2026-06-22",
+      "last": "2026-06-22",
+      "count": 1
+    },
+    {
+      "fp": "samsung-openai-chatgpt-codex-全球部署",
+      "title": "三星全球部署ChatGPT Enterprise和Codex",
+      "first": "2026-06-22",
+      "last": "2026-06-22",
+      "count": 1
+    }
+  ],
+  "updated_at": "2026-06-22"
 }
