@@ -1,0 +1,6 @@
+{
+  "updated_at": "2026-06-22",
+  "window_days": 14,
+  "note": "跨日报去重台账：记录最近 window_days 天已报道的事件指纹。成稿前读它做去重，报道后由 routine 经 GitHub API 写回。",
+  "events": []
+}

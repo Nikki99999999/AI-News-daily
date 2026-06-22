@@ -30,7 +30,9 @@ model: sonnet
 
 **5. 分类 `category`** ∈ {模型发布, 产品, 资本, 监管, 开源, 研究, 其他}
 
-**6. 中文化**：`title_cn` 中文标题（英文源翻译）；`summary_cn` 2–3 句中文摘要，讲清「发生了什么 + 为什么重要」，只基于输入的 title/summary，不编造细节。
+**6. 中文化**：`title_cn` 中文标题（英文源翻译）；`summary_cn` 2–3 句中文摘要，讲清「发生了什么 + 为什么重要」，只基于输入的 title/summary，不编造细节。**技术 / 研究类条目**：摘要要保留关键技术机制的原始名词（如 RLVR / KV-cache / MoE / 蒸馏 / 强化学习 / 长上下文 recall 等），不要为了通顺把技术细节抹平。主编会据此为非技术读者补一句大白话，机制名词丢了主编就无米下锅。
+
+**7. 大白话原料 `plain_seed`（仅技术 / 研究 / 模型发布类需要，其余留空字符串）**：一句话给非技术读者的类比或落地解释，说清这个突破让普通人能感知到什么变化。例：把「上下文 recall 提升」翻成「模型现在能记住整本书而不是只记住开头几页」。只在你有把握时写，没把握留空，绝不编造。
 
 ## 硬约束
 
@@ -44,7 +46,7 @@ model: sonnet
 ## 输出（每条一个对象）
 
 ```json
-{"title_cn":"","summary_cn":"","url":"","sources":[],"source_count":0,
+{"title_cn":"","summary_cn":"","plain_seed":"","url":"","sources":[],"source_count":0,
  "score_base":0,"map_class":"A|B|C|配套","advance_point":"",
  "weighted_score":0,"category":"","low_confidence":false}
 ```

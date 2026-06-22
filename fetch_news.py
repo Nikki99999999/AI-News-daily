@@ -44,6 +44,7 @@ def gnews(q, lang="zh"):
 
 # (名称, 类型, url, source_tier)   tier: 1=官方一手 2=一线媒体 3=中文/聚合 4=学术社区
 SOURCES = [
+    # tier1 官方一手 —— 国外大厂
     ("OpenAI",            "rss",   "https://openai.com/news/rss.xml", 1),
     ("Google DeepMind",   "rss",   "https://deepmind.google/blog/rss.xml", 1),
     ("Google AI",         "rss",   "https://blog.google/technology/ai/rss/", 1),
@@ -52,17 +53,29 @@ SOURCES = [
     ("Anthropic",         "gnews", gnews("Anthropic Claude", "en"), 1),
     ("Meta AI",           "gnews", gnews("Meta AI Llama OR Meta superintelligence", "en"), 1),
     ("Mistral",           "gnews", gnews("Mistral AI", "en"), 1),
+    # tier1 官方一手 —— 国内大模型（多数无稳定英文 RSS，走 GNews 中文）
+    ("国产大模型大厂",     "gnews", gnews("通义千问 OR 文心一言 OR 豆包大模型 OR 腾讯混元", "zh"), 1),
+    ("国产大模型新锐",     "gnews", gnews("DeepSeek OR 智谱GLM OR 月之暗面Kimi OR MiniMax大模型 OR 阶跃星辰 OR 面壁智能", "zh"), 1),
+    # tier2 一线媒体 —— 国外
     ("TechCrunch AI",     "rss",   "https://techcrunch.com/category/artificial-intelligence/feed/", 2),
     ("Ars Technica AI",   "rss",   "https://arstechnica.com/ai/feed/", 2),
     ("MIT Tech Review",   "rss",   "https://www.technologyreview.com/topic/artificial-intelligence/feed/", 2),
     ("The Verge AI",      "rss",   "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", 2),
     ("The Decoder",       "rss",   "https://the-decoder.com/feed/", 2),
+    # tier2 AI 领袖动态（GNews 抓媒体报道的言论/动作；真实推文由 AI Builders 板块 follow-builders feed 覆盖）
+    ("AI领袖动态A",        "gnews", gnews('"Sam Altman" OR "Greg Brockman" OR "Dario Amodei" OR "Boris Cherny"', "en"), 2),
+    ("AI领袖动态B",        "gnews", gnews('"Demis Hassabis" OR "Yann LeCun" OR "Andrej Karpathy" OR "Ilya Sutskever"', "en"), 2),
+    ("AI领袖动态C",        "gnews", gnews('"Geoffrey Hinton" OR "Arthur Mensch" OR "Aravind Srinivas" OR "Clement Delangue"', "en"), 2),
+    # tier3 中文/聚合
     ("IT之家",             "rss",   "https://www.ithome.com/rss/", 3),
     ("36Kr快讯",           "rss",   "https://36kr.com/feed-newsflash", 3),
     ("机器之心",            "gnews", gnews("机器之心", "zh"), 3),
     ("量子位",             "gnews", gnews("量子位", "zh"), 3),
+    ("新智元/虎嗅AI",       "gnews", gnews("新智元 OR 虎嗅 人工智能 OR AI前线", "zh"), 3),
     ("中文AI聚合",          "gnews", gnews("人工智能 OR 大模型 OR AI模型", "zh"), 3),
+    ("国内AI资本产业",      "gnews", gnews("大模型 融资 OR AI芯片 国产 OR 工信部 人工智能 OR 大模型 备案", "zh"), 3),
     ("中文AI融资",          "gnews", gnews("AI 融资 OR 大模型 融资 OR AI 收购", "zh"), 3),
+    # tier4 学术社区
     ("arXiv cs.AI",       "rss",   "http://export.arxiv.org/rss/cs.AI", 4),
     ("HackerNews AI",     "hn",    "https://hn.algolia.com/api/v1/search?tags=story&query=AI%20OR%20LLM%20OR%20GPT&hitsPerPage=60", 4),
 ]
@@ -229,7 +242,7 @@ def main():
 
     cutoff = datetime.now(timezone.utc) - timedelta(hours=args.hours)
     all_items, errors = [], []
-    with ThreadPoolExecutor(max_workers=10) as ex:
+    with ThreadPoolExecutor(max_workers=14) as ex:
         futs = [ex.submit(fetch, n, t, u, tier, cutoff) for (n, t, u, tier) in SOURCES]
         for f in as_completed(futs):
             name, items, err = f.result()
