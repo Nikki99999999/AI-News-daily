@@ -267,6 +267,22 @@ if __name__ == "__main__":
     base = sys.argv[2] if len(sys.argv) > 2 else digest_path.rsplit(".", 1)[0]
     out_pdf  = base + ".pdf"
     out_html = base + ".html"
+
+    # fail-closed 闸门（2026-07-02 审计）：成稿结构不达标不渲染不发信。
+    # 设 SKIP_DIGEST_VALIDATE=1 可临时跳过（仅供排障，正常路径不设）。
+    if os.environ.get("SKIP_DIGEST_VALIDATE") != "1":
+        try:
+            from validate_digest import validate
+            _fails = validate(digest_path, mode="news")
+        except Exception as _e:
+            _fails = [f"validate_digest 无法执行: {_e}"]
+        if _fails:
+            print(f"VALIDATE FAIL（{len(_fails)} 项），拒绝渲染:", file=sys.stderr)
+            for _f in _fails:
+                print(f"  - {_f}", file=sys.stderr)
+            sys.exit(1)
+        print(f"VALIDATE PASS: 成稿结构达标（{len(_fails)==0}）")
+
     DATA = json.load(open(digest_path, encoding="utf-8"))
 
     with open(out_html, "w", encoding="utf-8") as f:
