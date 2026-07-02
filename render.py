@@ -32,7 +32,7 @@ THEME = {
     "foot":   "#f3f7f4",
 }
 TAGCN = {"A": "A·上下文", "B": "B·闭环", "C": "C·反均值", "配套": "配套"}
-CN = ["01", "02", "03", "04", "05", "06", "07", "08"]
+# 板块序号已由成稿的中文标题（一、二、三…）承载，不再叠加阿拉伯号（2026-07-02 修：去双重编号 + 空板块断号）
 
 # 邮件字体栈（Google Fonts 渐进增强 + 系统回退）
 _GFONTS = ('<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
@@ -91,10 +91,9 @@ def render_email_html(d):
             continue
         title, items = sec[0], sec[1]
         A('<tr><td style="padding:32px 46px 4px 46px;">'
-          '<div style="font-family:%s;font-size:12px;letter-spacing:2px;font-weight:700;color:%s;">%s</div>'
           '<div style="font-family:%s;font-size:23px;font-weight:700;color:%s;padding-top:4px;">%s</div>'
           '<div style="border-top:1px solid %s;margin-top:10px;font-size:1px;line-height:1px;">&nbsp;</div></td></tr>'
-          % (SANS, green, CN[i] if i < len(CN) else str(i+1), SERIF, navy, _esc(title), line))
+          % (SERIF, navy, _esc(title), line))
         for it in items:
             mc = it.get("map_class", "")
             A('<tr><td style="padding:14px 46px 6px 46px;">')
@@ -182,7 +181,6 @@ def render_pdf(d, out_path):
     EVCNT= ParagraphStyle("ec",  fontName="CN",  fontSize=9,  textColor=HexColor(MUTED), leading=14, spaceAfter=7)
     EVSEG= ParagraphStyle("es",  fontName="CN",  fontSize=10, textColor=HexColor(INK),   leading=16.5, spaceAfter=6)
     EVVER= ParagraphStyle("ev",  fontName="CN",  fontSize=10, textColor=HexColor(INK),   leading=16.5, spaceBefore=2)
-    SECN = ParagraphStyle("sn",  fontName="CNB", fontSize=10, textColor=HexColor(GREEN), leading=14, spaceBefore=20, spaceAfter=2)
     H2   = ParagraphStyle("h2",  fontName="CNS", fontSize=17, textColor=HexColor(NAVY),  leading=22, spaceAfter=6)
     TIT  = ParagraphStyle("tit", fontName="CNS", fontSize=12.5, textColor=HexColor(NAVY), leading=17, spaceBefore=10, spaceAfter=3)
     BODYS= ParagraphStyle("bd",  fontName="CN",  fontSize=10.5, textColor=HexColor(BODY), leading=17.5, spaceAfter=3)
@@ -214,7 +212,6 @@ def render_pdf(d, out_path):
         if not sec or len(sec) < 2 or not sec[1]:
             continue
         title, items = sec[0], sec[1]
-        story.append(Paragraph(CN[i] if i < len(CN) else str(i+1), SECN))
         story.append(Paragraph(esc(title), H2))
         story.append(HRFlowable(width="100%", thickness=0.5, color=HexColor(LINE), spaceAfter=4))
         for it in items:
