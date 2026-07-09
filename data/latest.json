@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-07-09T00:12:47.149449+00:00",
+  "generated_at": "2026-07-09T01:42:23.887058+00:00",
   "window_hours": 36,
-  "raw_count": 278,
-  "merged_count": 258,
+  "window_days": 9,
+  "raw_count": 283,
+  "merged_count": 308,
   "errors": [],
   "items": [
     {
@@ -15,22 +16,49 @@
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Mistral/The News International",
         "Mistral/AOL.com",
-        "Mistral/The Economic Times",
-        "Mistral/Reuters",
+        "Mistral/CNA",
         "Mistral/Euronext Markets: Real-time Stock Market Data | live",
-        "Mistral/CNA"
-      ],
-      "source_tiers": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
+        "Mistral/Reuters",
+        "Mistral/The Economic Times",
+        "Mistral/The News International"
       ],
       "source_count": 6,
+      "best_tier": 1
+    },
+    {
+      "title": "腾讯混元：新模型Hy3调用激增，WorkBuddy已紧急扩容",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LdWJPUDdIR3lYUW1RRno5YWM5TDJEY0dLZ2NfNFlhNlM2cEZSRWN3ejBZa2pjcjNkR3cwY2w4SmZDUkl3aHB1eg?oc=5",
+      "source": "国产大模型大厂/凤凰网",
+      "source_tier": 1,
+      "published": "2026-07-09T01:19:58+00:00",
+      "summary": "IT之家 7 月 9 日消息，今天（9 日）上午，腾讯混元通过公众号宣布，Hy3 调用激增，WorkBuddy 已紧急扩容。根据官方公告，Hy3 在 WorkBuddy 首发上线以来，受到了用户们的广泛支持。7 月 8 日上午 10 时开始，算力资源消耗达到峰值，并出现排队情况，当日下午排队率一度超过 50%。为了提供更好的 Hy3 使用体验和稳定服务，官方已第一时间调度可用资源进行补充，目前已扩容完毕。据IT之家了解，腾讯混元 Hy3 模型于 7 月 6 日发布开源。Hy3 是一个快慢思考融合的模型，采用 MoE 架构，总参数 295B，激活参数 21B，最大支持 256K 上下文长度。据介绍，Hy3 基于 preview 版本进一步提升了后训练数据的质量和多样性，扩大了 RL 算力规模，在推理、智能体、长上下文等任务上显著进步，取得了比肩国内外更大尺寸旗舰模型（参数规模往往是 Hy3 的 2～5 倍）的效果。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "36Kr快讯",
+        "IT之家",
+        "国产大模型大厂/凤凰网",
+        "国产大模型大厂/搜狐网"
+      ],
+      "source_count": 4,
+      "best_tier": 1
+    },
+    {
+      "title": "独家｜阶跃星辰将发布AI智能体手机",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rZncwM2ZsUGpQNlNjRUJTLVV6VXhZdXMwRUdNdzVJVzFZWDFzVkxNMjMzem1wWmxuZmhyNUVaRTVtNHo0Mk42cWtxUDlrd1VpcUY5TC0wNlNuMGxQMFhWVFN4LUJrOThTV2NGWmFn?oc=5",
+      "source": "国产大模型新锐/中金在线",
+      "source_tier": 1,
+      "published": "2026-07-09T01:36:04+00:00",
+      "summary": "阶跃星辰即将发布AI终端品牌、智能体系统及其首款AI智能体手机。此前，OpenAI已公开押注新一代AI终端，计划2027年上市。阶跃星辰本次抢先落地AI智能体手机，成为全球大模型厂商中率先迈出这一步的玩家。 （财联社）",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "36Kr快讯",
+        "国产大模型新锐/中金在线",
+        "国产大模型新锐/搜狐网"
+      ],
+      "source_count": 3,
       "best_tier": 1
     },
     {
@@ -44,15 +72,26 @@
       "hn_comments": 0,
       "sources": [
         "Anthropic/Reuters",
-        "Anthropic/TradingView",
-        "Anthropic/The Express Tribune"
-      ],
-      "source_tiers": [
-        1,
-        1,
-        1
+        "Anthropic/The Express Tribune",
+        "Anthropic/TradingView"
       ],
       "source_count": 3,
+      "best_tier": 1
+    },
+    {
+      "title": "又一家大模型公司拟进军终端：阶跃星辰即将推出⾸款AI智能体⼿机",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jNEZfYkN6ZXpnM09WU2tqaXlmaV9FRVlhWkFHVmtkbVRrczJmQlRVeFhjQmdWczhPbGhYcS1Ya3JiNGZMMHJLVjRra1ZseER4Y1BtOXFQV3o2aTZuOHB5VG9meDV0UQ?oc=5",
+      "source": "国产大模型新锐/mrjjxw.com",
+      "source_tier": 1,
+      "published": "2026-07-09T01:22:00+00:00",
+      "summary": "又一家大模型公司拟进军终端：阶跃星辰即将推出⾸款AI智能体⼿机 mrjjxw.com",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/mrjjxw.com",
+        "国产大模型新锐/mrjjxw.com"
+      ],
+      "source_count": 2,
       "best_tier": 1
     },
     {
@@ -67,10 +106,6 @@
       "sources": [
         "国产大模型新锐/搜狐网",
         "国产大模型新锐/新浪财经"
-      ],
-      "source_tiers": [
-        1,
-        1
       ],
       "source_count": 2,
       "best_tier": 1
@@ -88,10 +123,6 @@
         "Mistral/the-decoder.com",
         "The Decoder"
       ],
-      "source_tiers": [
-        1,
-        2
-      ],
       "source_count": 2,
       "best_tier": 1
     },
@@ -107,10 +138,6 @@
       "sources": [
         "Anthropic/the-decoder.com",
         "The Decoder"
-      ],
-      "source_tiers": [
-        1,
-        2
       ],
       "source_count": 2,
       "best_tier": 1
@@ -128,10 +155,6 @@
         "Anthropic/the-decoder.com",
         "The Decoder"
       ],
-      "source_tiers": [
-        1,
-        2
-      ],
       "source_count": 2,
       "best_tier": 1
     },
@@ -145,12 +168,24 @@
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Mistral/oodaloop.com",
-        "Mistral/AI Insider"
+        "Mistral/AI Insider",
+        "Mistral/oodaloop.com"
       ],
-      "source_tiers": [
-        1,
-        1
+      "source_count": 2,
+      "best_tier": 1
+    },
+    {
+      "title": "Mistral AI unveils robotics model for industrial navigation By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRmdKbnN6aVdaUTU0QjdQT21mVE9BMWZfMk5SdF9OSGVEcUl2Mkg5SXFWc1FoUElZZS1vZU5jbDJlR2ZHTnRxOVNULXVIZ3UxbVdoV19uT0FoWEJIUk9tOFFYT1ZrYmxneVg5dVZ5TlplNGg4SU42bHlXT18ybG1OM2tZWXlFOTRsTlpmSXp0N1UxdVNRSGlJVnFqR1NzS0hNLU1jRmFyeEEtNHNZT1NrT2dralRFalJxbE1CbA?oc=5",
+      "source": "Mistral/Investing.com South Africa",
+      "source_tier": 1,
+      "published": "2026-07-08T15:22:42+00:00",
+      "summary": "Mistral AI unveils robotics model for industrial navigation By Investing.com Investing.com South Africa",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Mistral/Investing.com South Africa",
+        "Mistral/Investing.com UK"
       ],
       "source_count": 2,
       "best_tier": 1
@@ -165,32 +200,8 @@
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Mistral/The Mercury News",
-        "Mistral/Bloomberg.com"
-      ],
-      "source_tiers": [
-        1,
-        1
-      ],
-      "source_count": 2,
-      "best_tier": 1
-    },
-    {
-      "title": "Mistral AI unveils robotics model for industrial navigation By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRmdKbnN6aVdaUTU0QjdQT21mVE9BMWZfMk5SdF9OSGVEcUl2Mkg5SXFWc1FoUElZZS1vZU5jbDJlR2ZHTnRxOVNULXVIZ3UxbVdoV19uT0FoWEJIUk9tOFFYT1ZrYmxneVg5dVZ5TlplNGg4SU42bHlXT18ybG1OM2tZWXlFOTRsTlpmSXp0N1UxdVNRSGlJVnFqR1NzS0hNLU1jRmFyeEEtNHNZT1NrT2dralRFalJxbE1CbA?oc=5",
-      "source": "Mistral/Investing.com South Africa",
-      "source_tier": 1,
-      "published": "2026-07-08T15:04:27+00:00",
-      "summary": "Mistral AI unveils robotics model for industrial navigation By Investing.com Investing.com South Africa",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Mistral/Investing.com South Africa",
-        "Mistral/Investing.com UK"
-      ],
-      "source_tiers": [
-        1,
-        1
+        "Mistral/Bloomberg.com",
+        "Mistral/The Mercury News"
       ],
       "source_count": 2,
       "best_tier": 1
@@ -208,10 +219,6 @@
         "国产大模型新锐/搜狐网",
         "国产大模型新锐/新浪财经"
       ],
-      "source_tiers": [
-        1,
-        1
-      ],
       "source_count": 2,
       "best_tier": 1
     },
@@ -228,9 +235,37 @@
         "Meta AI/the-decoder.com",
         "The Decoder"
       ],
-      "source_tiers": [
-        1,
-        2
+      "source_count": 2,
+      "best_tier": 1
+    },
+    {
+      "title": "Naver Cloud, Mistral AI sign partnership to target manufacturing AI",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY1JTSy1kSjcwQmFTRDd0M3NzcEVNdHpEUEcxa1dnSVR3Q1VBdXJHelh5RnZFZVRvSGptVEtreTBFbWk2TndOdDVnQVpmc2ViMElNb1cxR1l4UURiU1FSdmw5VHdwU3JUb1ppV1RWc3N6QjBrUmUwYXBfUGhXNXFDYk5CWEMtTC12LTh5WHgwMWI4NVFvbkpPcmNZSkN6UDRMVThiRzlyQ3dUVTR0RXJfMkZKYnlBYzFYSlNsSDRSUi3SAcYBQVVfeXFMT2dqck53TGFFMzFBZTZzSzN0czdrd3pVS0NoN2lWcnR0V2dIR29LZTlWX2ZGYktrWDNZMW1OYU5rSkxpeFNRTF9UYTJmVXZITjFfdTh2SW4zV3VIMzk4VlFSS0NoM3ZYRFVvTTNrR3JXR2dPZTVESzVlTjFodHRQUE1hSHZGUkJsMXZ2Q2FMQi1JSlVMdEdRQk9PWmVBSFE4dGU2RFVuSHFwQUg5dDBfamxVaVZHNVRGRDA1UnFwcXlFOVJNYnl3?oc=5",
+      "source": "Mistral/The Korea Times",
+      "source_tier": 1,
+      "published": "2026-07-08T07:15:02+00:00",
+      "summary": "Naver Cloud, Mistral AI sign partnership to target manufacturing AI The Korea Times",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Mistral/The Korea Times",
+        "Mistral/thelec.net"
+      ],
+      "source_count": 2,
+      "best_tier": 1
+    },
+    {
+      "title": "Naver Cloud partners with Mistral AI to target sovereign AI for manufacturers",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbGY3U0Jta3Nrc216VVFDNjJybjdBNk1Zb0NTcWNaWEhHbHRpbWVpcVJuYUZnN05hZUw0bDh5U0hiU3RJOUJhZUdkSWRTbk1QN3h5SDBkX3ZCbTFCNXRjNER0clBrMG5CeUtOMGNZSHV3ZktaWHZBNzR0OEdnTzRMQ3c1Q25BVndxRWxZR2Z1Y1Zzem1tMENINVE5OVZGcEMzRFlSZm5Sc2RoRE12SkY3UFNsTE5PZFMtR044Yw?oc=5",
+      "source": "Mistral/Telecompaper",
+      "source_tier": 1,
+      "published": "2026-07-08T05:51:16+00:00",
+      "summary": "Naver Cloud Partners with Mistral AI to Target Global 'Sovereign Manufacturing AI' Market finance.biggo.com",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Mistral/Telecompaper",
+        "Mistral/finance.biggo.com"
       ],
       "source_count": 2,
       "best_tier": 1
@@ -242,18 +277,151 @@
       "source_tier": 2,
       "published": "2026-07-08T21:42:44+00:00",
       "summary": "AI cheating leads to \"a failed society,\" professor says.",
-      "hn_points": 45,
+      "hn_points": 73,
       "hn_comments": 18,
       "sources": [
         "Ars Technica AI",
         "HackerNews AI"
       ],
-      "source_tiers": [
-        2,
-        4
-      ],
       "source_count": 2,
       "best_tier": 2
+    },
+    {
+      "title": "7月7日科创创业人工智能ETF易方达（159140）份额增加400.00万份，最新份额4.44亿份，最新规模6.56亿元",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81eTNxNGZnNXluWE5McVlfaHYxUUpmcG1BV0FxUnhuTVYtV3FoTTltcDZSYnZaLXgyN2F2ekRtazlkRWJwWTJ4RVMxMl9sUWk5eFEzLW5oTjBhTmhjNVRUT1Q3V1o1aWJhRUxkRkN2TnViZw?oc=5",
+      "source": "中文AI聚合/新浪网",
+      "source_tier": 3,
+      "published": "2026-07-09T01:26:27+00:00",
+      "summary": "7月8日科创创业人工智能ETF易方达（159140）份额减少600.00万份，最新份额4.38亿份，最新规模6.53亿元 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪网",
+        "中文AI聚合/新浪财经"
+      ],
+      "source_count": 2,
+      "best_tier": 3
+    },
+    {
+      "title": "商务部等9部门：推动消费券发放、结算等环节使用数字人民币",
+      "url": "https://36kr.com/newsflashes/3887681764014856?f=rss",
+      "source": "36Kr快讯",
+      "source_tier": 3,
+      "published": "",
+      "summary": "IT之家 7 月 9 日消息，商务部等九部门今日联合印发《关于加快零售业创新发展的意见》（以下简称《意见》），力争到 2030 年，基本形成布局合理、供给优质、业态多元、智慧便捷、竞争有序的现代零售体系，打造一批带动性强的零售场景，推出一批融合创新的业态模式，培育一批具有国际竞争力的零售企业，推广零售好经验好做法，使线下零售成为购物休闲、沉浸体验、娱乐社交的承载之地，线上零售成为商品丰富、品质优良、规范经营的购物之所。《意见》明确重点新任务。包括系统规划新布局，引领零售新供给，创造消费新需求，激发零售新动能，支持做强做优做大零售企业，为零售业创新转型和高质量发展提供方向指导，助力提升行业综合竞争力、民生服务能力、消费拉动能力。《意见》优化竞争新环境。针对线上线下零售市场竞争存在的问题，从促进公平竞争、加强价格治理、推进监管统一等方面提出具体要求，包括强化反垄断审查、规范价格行为、线上线下一体化监管、整治虚假宣传和转嫁促销成本等刚性约束，优化市场公平竞争环境。《意见》强化保障新政策。从用地保障、融资支持、减税降负、优化审批、法治市场等方面，强化政策集成，解决影响零售业发展的急难愁盼问题，推动资源要素向实体零售集聚、政策措施向实体零售倾斜、工作力量向实体零售加强，打通政策落地“最后一公里”。IT之家注意到，《意见》还提到，支持零售经营主体数字化改造，实现进销存、物流配送等全链条数字化，",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "36Kr快讯",
+        "IT之家"
+      ],
+      "source_count": 2,
+      "best_tier": 3
+    },
+    {
+      "title": "阶跃星辰：将发布全球首款智能体手机",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lQkJ0QnpwbWpPbUxQYThrMmtDRzJtYnVDRXFPQzhYVUxJQi02TzNoWG5qNEF3c3g3QXRCUUxtVzhyN3B0aE5wcm53WnpVblk?oc=5",
+      "source": "国产大模型新锐/新浪财经",
+      "source_tier": 1,
+      "published": "2026-07-09T01:27:34+00:00",
+      "summary": "阶跃星辰：将发布全球首款智能体手机 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "调用量火爆致算力承压，WorkBuddy 完成腾讯混元 Hy3 模型紧急扩容-AI精选",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96YnNnUzZyLU8tQXcxNUhPMHpicTV6eF9TcDRoNUtsOGl2VHV1V1luN0hySms5anFrSGo5cW45blExcHFWQXhmemhlTU5iUEk?oc=5",
+      "source": "国产大模型大厂/article.9466.com",
+      "source_tier": 1,
+      "published": "2026-07-09T01:21:00+00:00",
+      "summary": "调用量火爆致算力承压，WorkBuddy 完成腾讯混元 Hy3 模型紧急扩容-AI精选 article.9466.com",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型大厂/article.9466.com"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "阶跃星辰将发布AI智能体手机 抢先落地新一代AI终端",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WemJmRnhVa2pLYUVkZmJyQ3JVRFJJZy1hbl8wRUwzLWhxOThEeTdYUGJVTzdEbXZPcktiWElJWm5WSkp4R0pnUDEtQVdKQUNOa1hyV0hCZWNPSGh4S1p6Y1NB?oc=5",
+      "source": "国产大模型新锐/观点网",
+      "source_tier": 1,
+      "published": "2026-07-09T01:17:31+00:00",
+      "summary": "阶跃星辰将发布AI智能体手机 抢先落地新一代AI终端 观点网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/观点网"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "老登对AI时代的思考：盛世与先驱|DeepSeek|AlphaGo|李迅雷|大模型|李世石_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUHphcHNOT3NRSzVJc0F5bm43ZzQ5NlNRVWQyQmVPVHBZQXljYkRYMEY4a29Fa0ZzeURIakVDbklxZVRkY3dPbVE0OGFWS0FtNWxjNEVwLVNRSEUzOXNjNHpsS09TOGZUSVJYUERqVmF6bDdUWmxBelhmUFYyZjBtMXdoSi1jcXdjeUJN?oc=5",
+      "source": "国产大模型新锐/新浪财经",
+      "source_tier": 1,
+      "published": "2026-07-09T01:02:31+00:00",
+      "summary": "老登对AI时代的思考：盛世与先驱|DeepSeek|AlphaGo|李迅雷|大模型|李世石_手机新浪网 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "DeepSeek陷“面试门” TOP1的招人标准曝光",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oc3lFWUktejBoNXNENURQLU4tdV9oLWJ0U0N6Q3ZWSlU2bTNyMGlxY29RLXlBZmR3bkRiMVFubC1Gb3l6bS16WHREckxWblRJbzV3NnBWY3JhVUU?oc=5",
+      "source": "国产大模型新锐/风闻",
+      "source_tier": 1,
+      "published": "2026-07-09T00:57:27+00:00",
+      "summary": "DeepSeek陷“面试门” TOP1的招人标准曝光 风闻",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/风闻"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Mistral Robostral Navigate: Single-Camera Robot Autonomy in 2026",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOXzQxTm5SaDFQSHJlU21yNzlvTG42cWM0azlGWTAzTE1oTF8xSGFvZVBOemw2ZkkwbnFWSmd1RkExTlBTV21VTlNyaHN0SjdHWng0M01NSmc0MDJqQVZvWUFTLWVxbnVwdWlkaF9LMldCcG4zdWlBTUJEOXpKV0dKWnl6T1lpQ0ZMT0ZkTVRfVVd1bXQtZ1VieXVITVNvaGM?oc=5",
+      "source": "Mistral/quasa.io",
+      "source_tier": 1,
+      "published": "2026-07-09T00:33:00+00:00",
+      "summary": "Mistral Robostral Navigate: Single-Camera Robot Autonomy in 2026 quasa.io",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Mistral/quasa.io"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "面试官迟到、无知、态度轻佻？面试过程被公开吐槽，DeepSeek不认华为天才少年？",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94dDI2LUlFRzRubzlNNkM5SU5PajA2dG9HQnhVX3R5UjU0emhvc00td3ZjcDU3THFjWlpBM191R09Qc0t6YkZIVDlycHE0TWJMbEtkZW11NVpuSVFTQkViTmYxRW9PYVhqRGpYOWxhZW1tZ1RRZjlQc1pXbHE1Zw?oc=5",
+      "source": "国产大模型新锐/新浪网",
+      "source_tier": 1,
+      "published": "2026-07-09T00:14:06+00:00",
+      "summary": "面试官迟到、无知、态度轻佻？面试过程被公开吐槽，DeepSeek不认华为天才少年？ 新浪网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/新浪网"
+      ],
+      "source_count": 1,
+      "best_tier": 1
     },
     {
       "title": "Meta launches Muse Image for AI image generation in its apps",
@@ -266,9 +434,6 @@
       "hn_comments": 0,
       "sources": [
         "Meta AI/TestingCatalog AI News"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -285,9 +450,6 @@
       "sources": [
         "国产大模型新锐/新浪网"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -302,9 +464,6 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型新锐/搜狐网"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -321,9 +480,6 @@
       "sources": [
         "Anthropic/Security Boulevard"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -338,9 +494,6 @@
       "hn_comments": 0,
       "sources": [
         "Anthropic/Tech My Money"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -357,9 +510,6 @@
       "sources": [
         "Meta AI/PYMNTS.com"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -374,9 +524,6 @@
       "hn_comments": 0,
       "sources": [
         "Meta AI/Daily Excelsior"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -393,9 +540,6 @@
       "sources": [
         "Anthropic/BankInfoSecurity"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -410,9 +554,6 @@
       "hn_comments": 0,
       "sources": [
         "Anthropic/Decrypt"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -429,9 +570,6 @@
       "sources": [
         "Mistral/Inshorts"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -446,9 +584,6 @@
       "hn_comments": 0,
       "sources": [
         "Anthropic/VentureBeat"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -465,9 +600,6 @@
       "sources": [
         "Meta AI/inc.com"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -482,9 +614,6 @@
       "hn_comments": 0,
       "sources": [
         "Anthropic/South China Morning Post"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -501,9 +630,6 @@
       "sources": [
         "Anthropic/Yahoo Finance"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -518,9 +644,6 @@
       "hn_comments": 0,
       "sources": [
         "Meta AI/Digital Music News"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -537,8 +660,20 @@
       "sources": [
         "Meta AI/NBC News"
       ],
-      "source_tiers": [
-        1
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic Intros Lower-Cost Claude Sonnet 5",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX2NkTlptUDVjeDdzblpJb1FLdWdsM1BlNktVYldYMS1maHdmdVV0MXZjQjZ3RHBXMC03bHhJQlduWnJIVXhqbFR6T1RJRk10a3lZbElTdWtoUkZ5WUUteWZfZi1QVGpxUmRaZjRKcXFaTjA5TTdCZEI2VllkZ1k3R1FpXzd3dmo4MEJaaVV6TFpzZldSV0E?oc=5",
+      "source": "Anthropic/THE Journal: Technological Horizons in Education",
+      "source_tier": 1,
+      "published": "2026-07-08T20:11:46+00:00",
+      "summary": "Anthropic Intros Lower-Cost Claude Sonnet 5 THE Journal: Technological Horizons in Education",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/THE Journal: Technological Horizons in Education"
       ],
       "source_count": 1,
       "best_tier": 1
@@ -555,9 +690,6 @@
       "sources": [
         "Anthropic/Amazon Web Services (AWS)"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -572,9 +704,6 @@
       "hn_comments": 0,
       "sources": [
         "Meta AI/eWeek"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -591,9 +720,6 @@
       "sources": [
         "Meta AI/TechRepublic"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -608,9 +734,6 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型新锐/新浪网"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -627,9 +750,6 @@
       "sources": [
         "国产大模型新锐/新浪财经"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -644,9 +764,6 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型新锐/新浪网"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -663,9 +780,6 @@
       "sources": [
         "Meta AI/AI Insider"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -680,9 +794,6 @@
       "hn_comments": 0,
       "sources": [
         "Anthropic/International Business Times"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -699,9 +810,6 @@
       "sources": [
         "HuggingFace"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -716,9 +824,6 @@
       "hn_comments": 0,
       "sources": [
         "Mistral/PYMNTS.com"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -735,9 +840,6 @@
       "sources": [
         "Mistral/Let's Data Science"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -752,9 +854,6 @@
       "hn_comments": 0,
       "sources": [
         "Meta AI/Tekedia"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -771,9 +870,6 @@
       "sources": [
         "Mistral/Amazon Web Services (AWS)"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -788,9 +884,6 @@
       "hn_comments": 0,
       "sources": [
         "Mistral/Let's Data Science"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -807,9 +900,6 @@
       "sources": [
         "国产大模型新锐/新浪财经"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -824,9 +914,6 @@
       "hn_comments": 0,
       "sources": [
         "Anthropic/marketscreener.com"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -843,9 +930,6 @@
       "sources": [
         "Meta AI/PetaPixel"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -860,9 +944,6 @@
       "hn_comments": 0,
       "sources": [
         "Meta AI/TradingView"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -879,9 +960,6 @@
       "sources": [
         "Meta AI/Tempo.co English"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -896,9 +974,6 @@
       "hn_comments": 0,
       "sources": [
         "Meta AI/Asaase Radio"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -915,9 +990,6 @@
       "sources": [
         "Anthropic/The Tech Buzz"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -932,9 +1004,6 @@
       "hn_comments": 0,
       "sources": [
         "Meta AI/thekeyword.co"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -951,9 +1020,6 @@
       "sources": [
         "Mistral/Let's Data Science"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -968,9 +1034,6 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型新锐/新浪网"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -987,9 +1050,6 @@
       "sources": [
         "Microsoft Research"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1004,9 +1064,6 @@
       "hn_comments": 0,
       "sources": [
         "Mistral/Il Sole 24 ORE"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1023,9 +1080,6 @@
       "sources": [
         "国产大模型新锐/新浪财经"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1040,9 +1094,6 @@
       "hn_comments": 0,
       "sources": [
         "Meta AI/The American Bazaar"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1059,9 +1110,6 @@
       "sources": [
         "国产大模型新锐/联合早报"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1076,9 +1124,6 @@
       "hn_comments": 0,
       "sources": [
         "Anthropic/Mashable"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1095,9 +1140,6 @@
       "sources": [
         "Anthropic/AI Business"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1112,9 +1154,6 @@
       "hn_comments": 0,
       "sources": [
         "Anthropic/Security Magazine"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1131,9 +1170,6 @@
       "sources": [
         "Meta AI/Business Model Analyst"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1148,9 +1184,6 @@
       "hn_comments": 0,
       "sources": [
         "Meta AI/Tech My Money"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1167,9 +1200,6 @@
       "sources": [
         "Meta AI/Lifehacker"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1184,9 +1214,6 @@
       "hn_comments": 0,
       "sources": [
         "Meta AI/TechNext.ng"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1203,9 +1230,6 @@
       "sources": [
         "Anthropic/Technology Org"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1220,9 +1244,6 @@
       "hn_comments": 0,
       "sources": [
         "Mistral/mistral.ai"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1239,9 +1260,6 @@
       "sources": [
         "Anthropic/Technology Org"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1256,9 +1274,6 @@
       "hn_comments": 0,
       "sources": [
         "Anthropic/The Register"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1275,9 +1290,6 @@
       "sources": [
         "Meta AI/YourStory.com"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1292,9 +1304,6 @@
       "hn_comments": 0,
       "sources": [
         "OpenAI"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1311,9 +1320,6 @@
       "sources": [
         "OpenAI"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1328,9 +1334,6 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型新锐/新浪网"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1347,9 +1350,6 @@
       "sources": [
         "Anthropic/24/7 Wall St."
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1364,9 +1364,6 @@
       "hn_comments": 0,
       "sources": [
         "Anthropic/InfoWorld"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1383,9 +1380,6 @@
       "sources": [
         "Meta AI/citybiz"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1401,8 +1395,20 @@
       "sources": [
         "国产大模型新锐/搜狐网"
       ],
-      "source_tiers": [
-        1
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "China warns of an alleged 'backdoor' in Anthropic's Claude Code AI tool",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2t0ZDF6SE9faFVsNUlMWW5SZUJXdXZWajlsWi1vcjNibEdfUFExaTlORURPUzZzb2JzQ004TXpRcW1xUFA4MzRlRTQyM0ZGamczVU1PaGRqUndjUTc1S3BUNHVycHBFb2NzZHB6bmxualVLTlhDZzdWQ1ZzN2l0Q0Z4eXRkNkQzdTRuS2hsX0Y1bWttLWRKWmk4U0t1NkE4NXRxZEg5LVl5TWVRYU9PajFIdFRPUk0?oc=5",
+      "source": "Anthropic/voz.us",
+      "source_tier": 1,
+      "published": "2026-07-08T12:30:14+00:00",
+      "summary": "China warns of an alleged 'backdoor' in Anthropic's Claude Code AI tool voz.us",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/voz.us"
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1419,9 +1425,6 @@
       "sources": [
         "Meta AI/India IPO"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1436,9 +1439,6 @@
       "hn_comments": 0,
       "sources": [
         "Anthropic/TechRadar"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1455,9 +1455,6 @@
       "sources": [
         "国产大模型大厂/新浪财经"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1472,9 +1469,6 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型新锐/搜狐网"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1491,9 +1485,6 @@
       "sources": [
         "国产大模型新锐/新浪财经"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1508,9 +1499,6 @@
       "hn_comments": 0,
       "sources": [
         "Meta AI/Business News Nigeria"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1527,9 +1515,6 @@
       "sources": [
         "国产大模型新锐/新浪财经"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1544,9 +1529,6 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型新锐/新浪财经"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1563,9 +1545,6 @@
       "sources": [
         "国产大模型新锐/新浪网"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1580,9 +1559,6 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型新锐/虎嗅网"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1599,9 +1575,6 @@
       "sources": [
         "国产大模型新锐/三易生活"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1616,9 +1589,6 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型新锐/虎嗅网"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1635,9 +1605,6 @@
       "sources": [
         "OpenAI"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1652,9 +1619,6 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型新锐/新浪财经"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1671,9 +1635,6 @@
       "sources": [
         "国产大模型新锐/搜狐网"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1688,9 +1649,6 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型大厂/新浪财经"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1707,9 +1665,6 @@
       "sources": [
         "国产大模型大厂/eeo.com.cn"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1724,27 +1679,6 @@
       "hn_comments": 0,
       "sources": [
         "Mistral/Let's Data Science"
-      ],
-      "source_tiers": [
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "Naver Cloud, Mistral AI sign partnership to target manufacturing AI",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY1JTSy1kSjcwQmFTRDd0M3NzcEVNdHpEUEcxa1dnSVR3Q1VBdXJHelh5RnZFZVRvSGptVEtreTBFbWk2TndOdDVnQVpmc2ViMElNb1cxR1l4UURiU1FSdmw5VHdwU3JUb1ppV1RWc3N6QjBrUmUwYXBfUGhXNXFDYk5CWEMtTC12LTh5WHgwMWI4NVFvbkpPcmNZSkN6UDRMVThiRzlyQ3dUVTR0RXJfMkZKYnlBYzFYSlNsSDRSUi3SAcYBQVVfeXFMT2dqck53TGFFMzFBZTZzSzN0czdrd3pVS0NoN2lWcnR0V2dIR29LZTlWX2ZGYktrWDNZMW1OYU5rSkxpeFNRTF9UYTJmVXZITjFfdTh2SW4zV3VIMzk4VlFSS0NoM3ZYRFVvTTNrR3JXR2dPZTVESzVlTjFodHRQUE1hSHZGUkJsMXZ2Q2FMQi1JSlVMdEdRQk9PWmVBSFE4dGU2RFVuSHFwQUg5dDBfamxVaVZHNVRGRDA1UnFwcXlFOVJNYnl3?oc=5",
-      "source": "Mistral/The Korea Times",
-      "source_tier": 1,
-      "published": "2026-07-08T07:15:02+00:00",
-      "summary": "Naver Cloud, Mistral AI sign partnership to target manufacturing AI The Korea Times",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Mistral/The Korea Times"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1761,9 +1695,6 @@
       "sources": [
         "国产大模型大厂/智源社区"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1778,27 +1709,6 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型大厂/新浪财经"
-      ],
-      "source_tiers": [
-        1
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "Naver Cloud partners with Mistral AI to target sovereign AI for manufacturers",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbGY3U0Jta3Nrc216VVFDNjJybjdBNk1Zb0NTcWNaWEhHbHRpbWVpcVJuYUZnN05hZUw0bDh5U0hiU3RJOUJhZUdkSWRTbk1QN3h5SDBkX3ZCbTFCNXRjNER0clBrMG5CeUtOMGNZSHV3ZktaWHZBNzR0OEdnTzRMQ3c1Q25BVndxRWxZR2Z1Y1Zzem1tMENINVE5OVZGcEMzRFlSZm5Sc2RoRE12SkY3UFNsTE5PZFMtR044Yw?oc=5",
-      "source": "Mistral/Telecompaper",
-      "source_tier": 1,
-      "published": "2026-07-08T05:51:16+00:00",
-      "summary": "Naver Cloud partners with Mistral AI to target sovereign AI for manufacturers Telecompaper",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Mistral/Telecompaper"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1815,9 +1725,6 @@
       "sources": [
         "Mistral/매일경제"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1832,9 +1739,6 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型大厂/新浪财经"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1851,9 +1755,6 @@
       "sources": [
         "国产大模型大厂/article.9466.com"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1868,9 +1769,6 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型大厂/新浪财经"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1887,9 +1785,6 @@
       "sources": [
         "HuggingFace"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1904,9 +1799,6 @@
       "hn_comments": 0,
       "sources": [
         "OpenAI"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1923,9 +1815,6 @@
       "sources": [
         "国产大模型大厂/搜狐网"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1940,9 +1829,6 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型大厂/mrjjxw.com"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1959,9 +1845,6 @@
       "sources": [
         "HuggingFace"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -1976,9 +1859,6 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型大厂/搜狐网"
-      ],
-      "source_tiers": [
-        1
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1995,9 +1875,6 @@
       "sources": [
         "国产大模型大厂/搜狐网"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
     },
@@ -2013,11 +1890,23 @@
       "sources": [
         "HuggingFace"
       ],
-      "source_tiers": [
-        1
-      ],
       "source_count": 1,
       "best_tier": 1
+    },
+    {
+      "title": "Just now, ChatGPT has received a major voice upgrade, and OpenAI's Sam Altman says: \"It's both magical and real.\"",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UQm9FNkZsV2Z2SE9lUlNqcTU3NnU2X0xXRWNzblU3MW1TRFFqUzR4Wm8xaUZKQzdQUl9hLVJFd1dLSjNuWklmU19PN2N5U3JwaTJN?oc=5",
+      "source": "AI领袖动态A/36 Kr",
+      "source_tier": 2,
+      "published": "2026-07-09T00:53:32+00:00",
+      "summary": "Just now, ChatGPT has received a major voice upgrade, and OpenAI's Sam Altman says: \"It's both magical and real.\" 36 Kr",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/36 Kr"
+      ],
+      "source_count": 1,
+      "best_tier": 2
     },
     {
       "title": "Lovable reportedly in talks to double its valuation to $13.2B",
@@ -2030,9 +1919,6 @@
       "hn_comments": 0,
       "sources": [
         "TechCrunch AI"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2049,8 +1935,20 @@
       "sources": [
         "AI领袖动态A/Pluang"
       ],
-      "source_tiers": [
-        2
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Man accused of throwing Molotov cocktail at OpenAI CEO Sam Altman's San Francisco home appears in court",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcHEyT3l6d0R1QXJIRkt4ajN4LXZFMjBnNUQ2MDljdzRUZmlCcmZST3h5bnVidHFhekVsR2VONjdlQTNXVlNZbkdUZlFSOGpjZFdqX25sdGI4M1B6dTdPaXVCdFRfbXJpZ1V3RVZGQVRvem1GRWFURC1qNzVVcGVhVVp3VFk3bkxleE0wN1NWeFMzRnd2cGhkd1NJQTdGNnhTekFqc3BocFhRd3M4S3J4R1AyaWRhOW80SWlacUczb181b25RY3BvUdIBzgFBVV95cUxNUjdKV3lkMHNjRWVKaG41NFlCc3M5WXZXRWF0dGIydnB3NUZORkpnR2Rxb1hsSElqVHlPSUlXYThvZzRJd3JWR3NUYzk5R2dlZjF1eUxHXzBoUWpfNUR5MUdFLTY2b1ZIZVpLS1hVb0cyeC1FR2xkSlRhZmROM0xseVQ4bzlPcjlHLTJXSFU3cm1yUnV2ZmNxbDhKbHo1TVY5WGctRlVYSzRfUGtvNF9ZZzJXVDU4TW1WYVVmdmJydVhvQUF3UEh2ek4wZWdjdw?oc=5",
+      "source": "AI领袖动态A/ABC7 Bay Area",
+      "source_tier": 2,
+      "published": "2026-07-08T22:33:19+00:00",
+      "summary": "Man accused of throwing Molotov cocktail at OpenAI CEO Sam Altman's San Francisco home appears in court ABC7 Bay Area",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/ABC7 Bay Area"
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2067,9 +1965,6 @@
       "sources": [
         "TechCrunch AI"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2084,9 +1979,6 @@
       "hn_comments": 0,
       "sources": [
         "Ars Technica AI"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2103,9 +1995,6 @@
       "sources": [
         "TechCrunch AI"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2120,9 +2009,6 @@
       "hn_comments": 0,
       "sources": [
         "TechCrunch AI"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2139,9 +2025,6 @@
       "sources": [
         "The Decoder"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2156,9 +2039,6 @@
       "hn_comments": 0,
       "sources": [
         "TechCrunch AI"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2175,9 +2055,6 @@
       "sources": [
         "AI领袖动态A/NBC Bay Area"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2192,9 +2069,6 @@
       "hn_comments": 0,
       "sources": [
         "The Decoder"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2211,9 +2085,6 @@
       "sources": [
         "TechCrunch AI"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2228,9 +2099,6 @@
       "hn_comments": 0,
       "sources": [
         "The Verge AI"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2247,9 +2115,6 @@
       "sources": [
         "TechCrunch AI"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2264,9 +2129,6 @@
       "hn_comments": 0,
       "sources": [
         "TechCrunch AI"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2283,9 +2145,6 @@
       "sources": [
         "Ars Technica AI"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2300,9 +2159,6 @@
       "hn_comments": 0,
       "sources": [
         "TechCrunch AI"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2319,9 +2175,6 @@
       "sources": [
         "TechCrunch AI"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2336,9 +2189,6 @@
       "hn_comments": 0,
       "sources": [
         "The Decoder"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2355,9 +2205,6 @@
       "sources": [
         "AI领袖动态A/MIXED Reality News"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2372,9 +2219,6 @@
       "hn_comments": 0,
       "sources": [
         "TechCrunch AI"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2391,9 +2235,6 @@
       "sources": [
         "AI领袖动态A/CNBC"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2408,9 +2249,6 @@
       "hn_comments": 0,
       "sources": [
         "The Decoder"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2427,9 +2265,6 @@
       "sources": [
         "TechCrunch AI"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2444,9 +2279,6 @@
       "hn_comments": 0,
       "sources": [
         "The Decoder"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2463,9 +2295,6 @@
       "sources": [
         "AI领袖动态A/Business Insider"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2480,9 +2309,6 @@
       "hn_comments": 0,
       "sources": [
         "AI领袖动态A/The Straits Times"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2499,9 +2325,6 @@
       "sources": [
         "The Verge AI"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2516,9 +2339,6 @@
       "hn_comments": 0,
       "sources": [
         "AI领袖动态A/India Today"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2535,9 +2355,6 @@
       "sources": [
         "The Decoder"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2552,9 +2369,6 @@
       "hn_comments": 0,
       "sources": [
         "TechCrunch AI"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2571,9 +2385,6 @@
       "sources": [
         "AI领袖动态A/Esquire Singapore"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2588,9 +2399,6 @@
       "hn_comments": 0,
       "sources": [
         "TechCrunch AI"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2607,9 +2415,6 @@
       "sources": [
         "Ars Technica AI"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2624,9 +2429,6 @@
       "hn_comments": 0,
       "sources": [
         "AI领袖动态A/Mjengo Hub"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2643,9 +2445,6 @@
       "sources": [
         "AI领袖动态B/finance.biggo.com"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2660,9 +2459,6 @@
       "hn_comments": 0,
       "sources": [
         "AI领袖动态C/Business Insider"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2679,9 +2475,6 @@
       "sources": [
         "AI领袖动态C/MSN"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2696,9 +2489,6 @@
       "hn_comments": 0,
       "sources": [
         "TechCrunch AI"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2715,9 +2505,6 @@
       "sources": [
         "AI领袖动态A/Cryptonews"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2732,9 +2519,6 @@
       "hn_comments": 0,
       "sources": [
         "Ars Technica AI"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2751,9 +2535,6 @@
       "sources": [
         "TechCrunch AI"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2768,9 +2549,6 @@
       "hn_comments": 0,
       "sources": [
         "TechCrunch AI"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2787,9 +2565,6 @@
       "sources": [
         "TechCrunch AI"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2804,9 +2579,6 @@
       "hn_comments": 0,
       "sources": [
         "The Verge AI"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2823,9 +2595,6 @@
       "sources": [
         "AI领袖动态A/The Mercury News"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2840,9 +2609,6 @@
       "hn_comments": 0,
       "sources": [
         "TechCrunch AI"
-      ],
-      "source_tiers": [
-        2
       ],
       "source_count": 1,
       "best_tier": 2
@@ -2859,9 +2625,6 @@
       "sources": [
         "Ars Technica AI"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
     },
@@ -2877,11 +2640,488 @@
       "sources": [
         "AI领袖动态A/Business Insider"
       ],
-      "source_tiers": [
-        2
-      ],
       "source_count": 1,
       "best_tier": 2
+    },
+    {
+      "title": "MiMo 基座大模型，小米最有远见的一次投入|DeepMind|小米科技|手机|服务|入口_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzFlalZiXzlhMlNFcW1aRGxyYXNGRDNCVkhTcnJUTHRqajBZUFVOamx6R0RGTm9qZWtKVzlYcGJuazJOdDBsV2lpZ2tLNnVnQjZoQ29wYUx6Ty05MjNaOGp4X3QtTGxsV1FUOWdTdXJOU2laOTdSVjhnVzRFcVNsOE1fSE82MEhPZ2VkZ0RZbVVfT2UzVmhPVHdDZDA0cEV0dF9Nc210SXRpaWwyUU9fNlVB?oc=5",
+      "source": "中文AI聚合/新浪财经",
+      "source_tier": 3,
+      "published": "2026-07-09T01:39:08+00:00",
+      "summary": "MiMo 基座大模型，小米最有远见的一次投入|DeepMind|小米科技|手机|服务|入口_手机新浪网 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "育碧《刺客信条 : 黑旗 记忆重置》正式发售：Steam 国区 248 元起",
+      "url": "https://www.ithome.com/0/974/324.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-09T01:36:41+00:00",
+      "summary": "IT之家 7 月 9 日消息，育碧旗下《刺客信条：黑旗 记忆重置》今日正式发售，登陆 PlayStation 5、Xbox Series X|S 以及 PC 平台（包括 Ubisoft Store、Steam 和 Epic Games Store）。这款游戏是 2013 年经典之作《刺客信条 4：黑旗》的完全重制版，由育碧新加坡工作室主导开发，采用最新 Anvil 引擎从零重新构建。 不同平台的解锁时间有所区别。主机端已于北京时间 0 点解锁，PC 端则要等到今晚 22 点。游戏已通过 Steam Deck 认证，发售首日即可在掌机上流畅游玩。Steam 国区标准版售价 248 元，豪华版售价 298 元。其中，豪华版在标准版基础上额外包含刺客大师角色组合包与刺客大师航海组合包。预购任意版本的玩家均可获赠“黑胡子的绯红礼包”，内含爱德华 · 肯威专属服装、长剑及手枪各一件。PC 版首次运行需联网验证，完整主线战役支持完全离线游玩。 本次重制并非简单的高清复刻，而是对游戏进行了全面现代化改造。剧情方面，游戏完整保留了原版主线故事 —— 海盗黄金时代的加勒比海，讲述了威尔士私掠船长爱德华 · 肯威阴差阳错卷入刺客与圣殿骑士千年战争的传奇经历。在此基础上，重制版新增了约 6 小时的剧情内容，包括黑胡子的扩展剧情线（IT之家注：共 8 个额外任务）、邦尼特的结局任务，以及爱德华妻子卡罗琳的",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "国产大模型双雄“同命不同价”：智谱赢麻，MiniMax会重走商汤老路吗？",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zUGNjblFQRHlYLU5aNWliMTZwcDV2VkRBeGZaS1pNQXVRenlIanByajFuNzlHdVZzZEh2XzdoZEIyY2JIRC1VYnU0MVlxaVE1UFo2cjFobEFPcldBX3VwblNrWXVuM3FqMk1F?oc=5",
+      "source": "中文AI聚合/blog.csdn.net",
+      "source_tier": 3,
+      "published": "2026-07-09T01:35:55+00:00",
+      "summary": "国产大模型双雄“同命不同价”：智谱赢麻，MiniMax会重走商汤老路吗？ blog.csdn.net",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/blog.csdn.net"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "贝恩资本出清在铠侠持股，后者股价自 IPO 上涨超 50 倍",
+      "url": "https://www.ithome.com/0/974/323.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-09T01:35:39+00:00",
+      "summary": "IT之家 7 月 9 日消息，美国私募投资公司 Bain Capital（贝恩资本）管理合伙人 David Gross 近日在接受彭博电视台采访时表示，该企业已出售在 KIOXIA（铠侠）的全部持股。贝恩资本在 2025 年 12 月时在铠侠仍持有 44% 股份，不过这一比例已在今年 6 月中旬下降至 14%。IT之家注意到，铠侠 2024 年 12 月进行 IPO 时的发行价是 1455 日元，而铠侠今日股价持续位于 77000 日元上方，这意味着铠侠股价自 IPO 以来已上涨超 50 倍。由贝恩资本牵头的财团在 2018 年以约 180 亿美元（现汇率约合 1225.84 亿元人民币）的价格收购了东芝存储器业务（也就是今天的铠侠），而铠侠当前市值超 39 万亿日元（现汇率约合 1.63 万亿元人民币）。David Gross 与接受《日经》采访的贝恩资本日本代表 Yuji Sugimoto 均表示，铠侠从东芝的拆分赋予其更大的战略灵活度，使其能做出在面临巨额亏损的同时仍持续巨额投资的艰难决策；而独立实体身份也意味着铠侠能执行更严格的财务管理纪律。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "7月7日人工智能ETF万家（159248）份额增加100.00万份，最新份额1.16亿份，最新规模2.32亿元",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hMVlYeTQ5VDdVUWR5UlR4X0V0TjNsZ2xYRmdNTExjb0FXU2hWdW5XSXBURTNTLU0yYUN1WjE5U29nazloSG5BSVl1TXF0MHhTSTBzZkdzLU9DM1FlS0hsN2FzaUdjSmtVT3JFWmV0VWRPUQ?oc=5",
+      "source": "中文AI聚合/新浪网",
+      "source_tier": 3,
+      "published": "2026-07-09T01:28:20+00:00",
+      "summary": "7月7日人工智能ETF万家（159248）份额增加100.00万份，最新份额1.16亿份，最新规模2.32亿元 新浪网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪网"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "已修复：微软承认经典版 Outlook 按下 Alt + I 后崩溃问题",
+      "url": "https://www.ithome.com/0/974/321.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-09T01:26:46+00:00",
+      "summary": "IT之家 7 月 9 日消息，科技媒体 Neowin 昨日（7 月 8 日）发布博文，报道称微软承认经典版 Outlook 存在 Bug，用户使用 Alt + I 快捷方式调用 AI 功能后导致应用崩溃，不过微软在收到用户反馈后已迅速修复该 Bug。根据 Microsoft 365 更新记录，用户在 Windows Server 2019 RDS 环境中使用经典版 Outlook 应用程序，按下 Alt + I 快捷方式调用 Draft with Copilot，或点击邮件正文中的 Copilot 铅笔图标输入提示词后，界面会显示“Writing your email”，蓝色进度条开始从左向右移动，随后界面卡死，Outlook 崩溃并关闭。IT之家援引博文介绍，根据用户反馈，崩溃后并非每次都完全中断会话，部分情况下 Outlook 会自动重新打开。此外该问题仅限于经典版 Outlook，用户反馈在 Word 和 Excel 中均能正常使用 Copilot 功能。微软在收到用户反馈后，迅速修复该 Bug，并修正了高对比度模式下“Help me write”按钮显示不正常的问题，该问题会影响部分用户访问 Copilot 邮件起草工具。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "数据库与人工智能：考古研究的双核驱动",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZVi1pY05HUHAzVzhBTGpTRUZiVEtQcWpaT0FXZEN5VUxnNzhYT21VZXVBLTlNX2dHMlNaNmFwbXdzUmVuVXdsYWhLVmdweTE0Yl9BRUJDdmgwSFMtNVFKV0k0ekZYYWNEQkNVbjNXb2FnODdqM2tCZUNRcXJjQQ?oc=5",
+      "source": "中文AI聚合/新浪网",
+      "source_tier": 3,
+      "published": "2026-07-09T01:26:28+00:00",
+      "summary": "数据库与人工智能：考古研究的双核驱动 新浪网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪网"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "7月7日科创人工智能ETF华宝（589520）份额增加900.00万份，最新份额6.66亿份，最新规模4.75亿元",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEcm5QMEJWZXZJUzQ2blpRdFVrV3M0Yl8xRWdHYVc4RHlVTjJoYmpJZ3JGOUpBa01QdDZsaXhfa2J4Q2xvQXFOZ0FvZ2JpSHVVZUUySHBFQjJ3VXNwRUdpenFGY0phTU5HbVVyT1RkUXpxdw?oc=5",
+      "source": "中文AI聚合/新浪网",
+      "source_tier": 3,
+      "published": "2026-07-09T01:26:28+00:00",
+      "summary": "7月7日科创人工智能ETF华宝（589520）份额增加900.00万份，最新份额6.66亿份，最新规模4.75亿元 新浪网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪网"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "7月7日创业板人工智能ETF南方（159382）份额减少900.00万份，最新份额8.10亿份，最新规模23.72亿元",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ET3NNMFBPZUppLUV2ekl0UV9OV0R0SUYtaXZuQVZ2UHZsc25vcmFZZGs2UlhXSnJJMEdnUDU0cTNYNm12YUVRaDlUa2NGaEpUWWhYWjc5QThaVUc4eEVPSTVwME9KaE9Tc2t5US00enB1dw?oc=5",
+      "source": "中文AI聚合/新浪网",
+      "source_tier": 3,
+      "published": "2026-07-09T01:24:18+00:00",
+      "summary": "7月7日创业板人工智能ETF南方（159382）份额减少900.00万份，最新份额8.10亿份，最新规模23.72亿元 新浪网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪网"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "7月7日创业板人工智能ETF国泰（159388）份额增加1000.00万份，最新份额8.65亿份，最新规模9.70亿元",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwUEpUUzhNejlQRjNEVTdOdTc1RDYxQ095TjNybi0wU3oxTVlmRElsWDBEYS1fRm9QVUM0YTI2ZU9jYlNrN0p0eFh2NnhmajVtR09wczJLa1hjNXdydEtnY0MwTnVGOFpvd0ZMc3BSc1hMQQ?oc=5",
+      "source": "中文AI聚合/新浪网",
+      "source_tier": 3,
+      "published": "2026-07-09T01:22:18+00:00",
+      "summary": "7月7日创业板人工智能ETF国泰（159388）份额增加1000.00万份，最新份额8.65亿份，最新规模9.70亿元 新浪网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪网"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "挑战OpenAI，SpaceXAI推出“Opus级”大模型Grok 4.5-AI精选",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rRllvZWNISmlGUkUtTlZaS3JCZ05PLUNzeGxYME9wb2o2UFg4TzhqbjM3azZaaXNieVVHQlNGSWt6NFU1N082dDhIZXpSbG8?oc=5",
+      "source": "中文AI聚合/article.9466.com",
+      "source_tier": 3,
+      "published": "2026-07-09T01:22:00+00:00",
+      "summary": "挑战OpenAI，SpaceXAI推出“Opus级”大模型Grok 4.5-AI精选 article.9466.com",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/article.9466.com"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "7月7日科创创业人工智能ETF摩根（588420）份额增加200.00万份，最新份额1.38亿份，最新规模1.94亿元",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2UkRuQ2dGWkNFUW50YlREMURxME8wbmdBbzFwb0tMWV9PQ1kyRk1MNExWSGczcHVQZHE1MV96LXgzeTFKTjFyUXJMQk82aXBFeEpXYWFrTC1pcWprU05JSTFlc2pSZHg4RzhlalJXcjI4QQ?oc=5",
+      "source": "中文AI聚合/新浪网",
+      "source_tier": 3,
+      "published": "2026-07-09T01:20:18+00:00",
+      "summary": "7月7日科创创业人工智能ETF摩根（588420）份额增加200.00万份，最新份额1.38亿份，最新规模1.94亿元 新浪网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪网"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "Meta 首座加拿大数据中心动工：1GW 规模， 130 亿加元投资",
+      "url": "https://www.ithome.com/0/974/318.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-09T01:19:46+00:00",
+      "summary": "IT之家 7 月 9 日消息，Meta 当地时间本月 8 日宣布，该企业将在艾伯塔省 Sturgeon 建设其首座位于加拿大境内的数据中心，这也将是其全球数据中心网络的第 33 个站点。作为一项人工智能基础设施，Sturgeon 数据中心设计容量为 1GW，需求 130 亿加元（IT之家注：现汇率约合 624.94 亿元人民币）投资。Meta 预计该项目可提供超 300 个运营岗位，施工高峰期则能提供约 3000 个建筑行业工作机会。Sturgeon 数据中心将 100% 由清洁能源驱动，并配备节水型闭环液冷干式冷却系统。Meta 承诺承担数据中心全部能源使用成本，支持电网新建与升级，并将向当地基础设施改善投资约 6000 万加元。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "Cloudflare 推出零门槛静态网站部署工具 Drop：无需注册、拖拽即用",
+      "url": "https://www.ithome.com/0/974/316.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-09T01:17:38+00:00",
+      "summary": "IT之家 7 月 9 日消息，Cloudflare 于当地时间 7 月 8 日上线了一款名为 Cloudflare Drop 的零门槛静态网站临时部署工具。用户只需将包含 HTML、CSS、JavaScript、图片或字体等静态资源的本地文件夹或 ZIP 压缩包拖拽至浏览器窗口，即可在几秒内获得一个托管在 Cloudflare 全球网络上的临时在线预览链接。该工具的使用流程极为简化，无需注册 Cloudflare 账号即可开始，定位上与此前 Netlify 旗下的 Netlify Drop（IT之家注：其前身为 BitBalloon）所提供的服务类似。每个通过 Cloudflare Drop 生成的临时网站有效期为 1 小时。在此窗口期内，用户可以对网站进行测试，或将预览链接分享给他人。若希望将部署转为永久保存，用户点击“Claim”按钮后，登录或创建一个 Cloudflare 账号即可将当前站点认领至自己的账户下。认领成功后，用户可以为站点绑定或购买自定义域名、启用性能监控、允许 AI 智能体以 Markdown 格式访问站点内容，以及设置私有访问权限等。这一工具与 Cloudflare 此前在 Dashboard 中提供的“Direct Upload”（直接上传）功能有所不同，后者需登录账户且不支持 ZIP 文件上传。Cloudflare Drop 的推出进一步降低了在边缘网络",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "聚焦人工智能等领域 今年技工院校计划招生125万人",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9naS1lUDNOa1pwMHBUcURkUk9lOHpZOHhTcGl3NTd3N01VbFp6MEpJcjd5MWxvX3B0Wk41a0o3WFlmN0ZMZl9WUFFlOGY4d0JSNUFCUzJTSnpFYllCMDUtY1M1c0NxN3ZDSUlMd29sU2xxQ1RkLXplc2ZqSmNTQnM?oc=5",
+      "source": "中文AI聚合/新浪网",
+      "source_tier": 3,
+      "published": "2026-07-09T01:16:50+00:00",
+      "summary": "聚焦人工智能等领域 今年技工院校计划招生125万人 新浪网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪网"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "7月8日科创创业人工智能ETF华安（588470）份额减少300.00万份，最新份额2.66亿份，最新规模2.68亿元",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbnJpRWpDOExYQlB5SGpNRjFTQWJMUmFjbHlORUdscVA5WHQtZ203dmdFakVuNzdXbEg4UlNpZ1V2Wl91NXpFckU5a3JxSHNPTnNHWXhGWWl0NWgtM2JrMFJONXNoZTQ2eWpWc1ZqOXY0R2wzVjg5NmRFX05MR3pUR2cxU1Z2ZHM5YV9aTmZ1MFVXWVBZREZDcUdRZw?oc=5",
+      "source": "中文AI聚合/新浪财经",
+      "source_tier": 3,
+      "published": "2026-07-09T01:10:00+00:00",
+      "summary": "7月8日科创创业人工智能ETF华安（588470）份额减少300.00万份，最新份额2.66亿份，最新规模2.68亿元 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "SpaceXAI携手Cursor发布AI模型 面向法律和金融等任务",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYTBhOHJscXpTN2hrX0tTWFBzYkJ1UzV3dDdwVlpneGYtX3RuR0Y5SjlGT1JOYm9Xa1h4X0NmM25fb3lfN1FzcVlTVTNqR1YzRWxGNEFGMGJLOFdfUG5EV2pBR1NrNTExREhrLU81QTJMcUxpRE5DVjhiNTA3dllFeVVicHNETWVlYTNQUTdzOEZUa3h1a0hoLXZkTzk0MDE1UThZcDZuS2hjVUpjMDBJNzJUNkh4czJpSklFWVdOR2I4Mkh0Uzl5bUowdmxTbFh3V0E?oc=5",
+      "source": "中文AI聚合/新浪财经",
+      "source_tier": 3,
+      "published": "2026-07-09T01:08:43+00:00",
+      "summary": "SpaceXAI携手Cursor发布AI模型 面向法律和金融等任务 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "创业板人工智能ETF华宝（159363）开盘涨0.44%，重仓股新易盛涨0.96%，中际旭创涨1.15%",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9USWY3N2JQem5uTjJGejhmd3B1eWsxMVVFSDkxdTN5UWF4SUhqREFnVkNhM2NYOGVXTUFPZ01TNS1KMVkwb3VVVG1PdXRyQzdiSEgxeWgzdTRNR0FPWWdFUmw5RXRmU2ladExNamhXZHlIQQ?oc=5",
+      "source": "中文AI聚合/新浪网",
+      "source_tier": 3,
+      "published": "2026-07-09T01:06:25+00:00",
+      "summary": "创业板人工智能ETF华宝（159363）开盘涨0.44%，重仓股新易盛涨0.96%，中际旭创涨1.15% 新浪网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪网"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "REDMI Note 17 Pro 搭载 9000mAh 小米金沙江电池，支持 67W 快充 + 22.5W 有线反充",
+      "url": "https://www.ithome.com/0/974/314.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-09T01:04:44+00:00",
+      "summary": "IT之家 7 月 9 日消息，小米 REDMI Note 17 系列已经官宣 7 月 14 日发布，小米官方今日继续为新机进行预热宣传。据介绍，Note 17 Pro 搭载了 9000mAh 小米金沙江电池，通过 TÜV 南德电池多维五星品质认证，支持 67W 有线充电，22.5W 有线反充。小米表示，REDMI Note 17 系列定位“国民小金刚”，号称升配不升档，守住中端体验基线，主打超长续航更持久耐用。此前爆料提到，该系列手机主打 9K 级大容量单电芯电池 + 1.5K OLED 直屏（1nit 低亮度显示）+ 大音量双扬声器 + 满级防水防摔，采用骁龙 6 系低功耗芯片。IT之家后续将保持关注。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "7月8日创业板人工智能ETF华安（159279）份额减少600.00万份，最新份额1.41亿份，最新规模2.21亿元",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN0R6OHhiUk1nc0VucVJVVGxma2t4ZEtlM0djRlM3ZV90b1lWazM2VVhkTkJJeURUWXNjSGp3c3RiSGJzVnFEYmRZMHd3MUJManVOZ3FsdjdPQzQ3OFdZSld2d3ptV0tSZGw2WlJRVzFUNFZZaExPQnoxSG1pbkJBMWZLcUdtZWJLQ043TUVfQ0xKWUNLUGVLcHN3UQ?oc=5",
+      "source": "中文AI聚合/新浪财经",
+      "source_tier": 3,
+      "published": "2026-07-09T01:04:00+00:00",
+      "summary": "7月8日创业板人工智能ETF华安（159279）份额减少600.00万份，最新份额1.41亿份，最新规模2.21亿元 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "7月8日科创创业人工智能ETF工银（588430）份额减少200.00万份，最新份额9245.80万份，最新规模1.34亿元",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHRYSWJtd3QxWlNWcUZ5UE5nd2RXV1FSMGVJM3VPbDlmSm9PQl82UnRlQWZUbmVDM1AxZmtXeTU1Rmo1V2d4VGJhc0I0bzBuQmxXMllaZFdNcTUtSFF1dkI0dV83TUtVMzFkY0U3dFJydDFwMjVZTE8xN3NOd1JaRU9RZXJKbm9iOE03RjRhN25rdmpiYkwxdk1OSQ?oc=5",
+      "source": "中文AI聚合/新浪财经",
+      "source_tier": 3,
+      "published": "2026-07-09T01:04:00+00:00",
+      "summary": "7月8日科创创业人工智能ETF工银（588430）份额减少200.00万份，最新份额9245.80万份，最新规模1.34亿元 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "7月8日科创创业人工智能ETF永赢（159141）份额增加800.00万份，最新份额12.89亿份，最新规模18.13亿元",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOekI1bDdaUUJSeC01VUZrNnpETlZwYTJNQjhXcTZNVkQxcGJ3SklLS251NUI1UzJKQ0NoaksyRHZ4ZzJMcFE4b1NjVVBuSG9ZOExfdS00X1lFenBjbnF1RVowZ3VkazNBXzBIX0hNUGw3UFgtTno4QS1WZjEzUDFlZVMxYUhObmoyWU9iSWpzeFJDQ1lFSExNUXZKcw?oc=5",
+      "source": "中文AI聚合/新浪财经",
+      "source_tier": 3,
+      "published": "2026-07-09T01:04:00+00:00",
+      "summary": "7月8日科创创业人工智能ETF永赢（159141）份额增加800.00万份，最新份额12.89亿份，最新规模18.13亿元 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "7月8日科创人工智能ETF鑫元（589310）份额增加1.14亿份，最新份额3.28亿份，最新规模3.24亿元",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaS1FYkxKLUVtNHlITU80V3pEX25BWTIweFFkOEZZdmdIczc4SXRIWEZyR1dWME51djB6VEIyalowTUtGa0h3akZTM21xckVSNWFkeWg1THhpSW4yOU1MTmZmQ204WmtIbnVqblFKREl1em1sWWlQNDJMTjNtb29rTGg4bUVrQUJnMGRXcUZpWXliYl9HaEhxVGs1Yw?oc=5",
+      "source": "中文AI聚合/新浪财经",
+      "source_tier": 3,
+      "published": "2026-07-09T01:04:00+00:00",
+      "summary": "7月8日科创人工智能ETF鑫元（589310）份额增加1.14亿份，最新份额3.28亿份，最新规模3.24亿元 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "7月8日科创人工智能ETF南方（589230）份额减少250.00万份，最新份额2.16亿份，最新规模2.21亿元",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN2hnMW5yQjEzR3FLQV9hM3dka0FjTExFZFI1dkN4Q19MOGNORjZCSmNuaTNmZzV6X01ERWpuYy1SbXVQYXpwVllsWnZoSWtKZk5mQjhJNGZSLXhVYzFWTEYyRHViU0tDdFhKOEJKZGlSZ2NYYmQ1UjJzaVVUNnE3U0dsOE5yblktRmdWcm05ZUJZRG01SnpkbWhaMA?oc=5",
+      "source": "中文AI聚合/新浪财经",
+      "source_tier": 3,
+      "published": "2026-07-09T01:04:00+00:00",
+      "summary": "7月8日科创人工智能ETF南方（589230）份额减少250.00万份，最新份额2.16亿份，最新规模2.21亿元 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "7月8日科创创业人工智能ETF景顺（159142）份额减少400.00万份，最新份额9.95亿份，最新规模14.23亿元",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZE91SnJ1XzBhLWRCYVBPUmI3TkQwZjdhOW1Sc05TNjI2N2FDeHl3cmJOdTN4WjRFT0Q5cE9ja1gzZldBOTB1dTh6QkhESmtVb0RITE1Xd0xjZlBXUzNPYVBGc2Q4OEhlaVpTQzFlSmtXUk0xLWpYRC1FRlFyVmdtQTZGcVhjMExJZ0ZLM2FFVzFNbzc5YUc1VXBCYw?oc=5",
+      "source": "中文AI聚合/新浪财经",
+      "source_tier": 3,
+      "published": "2026-07-09T01:04:00+00:00",
+      "summary": "7月8日科创创业人工智能ETF景顺（159142）份额减少400.00万份，最新份额9.95亿份，最新规模14.23亿元 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "7月8日人工智能ETF天弘（561460）份额减少500.00万份，最新份额3.79亿份，最新规模3.56亿元",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU3RMMktMOENsU1IyZWxSSUw0U0RLbFQwbWNlTFFqU0NpdWJjNXNEVmF6QlJyX0pZS1UwUnozLWFTalR6cmlMbDJ5OUYxWThLOWlMcjY5VWdzTmkybnA2S2lKSmQ0YnI1V055eE5jRkxTWFM5SUU5cHhDX1lSVTBoV2VaTWNiU1lzTUZhOUdTR2tobk1fcEhkVmpnYw?oc=5",
+      "source": "中文AI聚合/新浪财经",
+      "source_tier": 3,
+      "published": "2026-07-09T01:04:00+00:00",
+      "summary": "7月8日人工智能ETF天弘（561460）份额减少500.00万份，最新份额3.79亿份，最新规模3.56亿元 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "7月8日AI人工智能ETF平安（512930）份额增加9200.00万份，最新份额47.57亿份，最新规模34.60亿元",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXBCME9GZXg3S3I0cW1WUkE3dUp1ODBzai1RSmpNYkN0WG9ZRHhqdU9YanJ2RDRXNnYtVmo4S0Ryb3hTUDVKcG9HRlk3MWhzcGRlR3Z2cnBHcXpvTVMxb19iVXltQ0RkTkZOZU45c1hUVjY0eWFyNjlxM1dmbkhHNTJqUXl5NVV5akFydXBFRkhJYndJUEg4VFhlYw?oc=5",
+      "source": "中文AI聚合/新浪财经",
+      "source_tier": 3,
+      "published": "2026-07-09T01:00:00+00:00",
+      "summary": "7月8日AI人工智能ETF平安（512930）份额增加9200.00万份，最新份额47.57亿份，最新规模34.60亿元 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "速腾聚创 2026 上半年激光雷达销量 71.92 万台，机器人业务同比大增 510%",
+      "url": "https://www.ithome.com/0/974/311.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-09T00:56:37+00:00",
+      "summary": "IT之家 7 月 9 日消息，速腾聚创今日发布自愿公告，披露了截至 2026 年 6 月 30 日止六个月的未经审核运营数据。公告显示，公司激光雷达产品上半年总销量达 719,200 台，同比增长 170%。其中，用于 ADAS（IT之家注：高级驾驶辅助系统）应用的激光雷达销量为 436,600 台，同比增长 98%；用于机器人及其他领域的激光雷达销量为 282,600 台，同比大幅增长 510%。2026 年第二季度，速腾聚创激光雷达总销量为 388,900 台，其中机器人领域销量 97,100 台，同比增长 182%，ADAS 领域销量 291,800 台，同比增长 136%。机器人业务已成为公司重要的增长引擎。上半年该业务销量攀升超五倍，速腾聚创已连续多季度位居全球机器人 3D 激光雷达出货量第一。公司在割草机器人、无人配送、人形机器人、具身智能及商用清洁机器人五大细分市场均取得行业领先地位。第二季度，公司 E 平台全固态数字化激光雷达累计交付突破 30 万台。截至目前，速腾聚创已与超过 3400 家机器人公司达成合作。车载业务方面，随着头部客户车型持续放量，上半年车载销量同比增长 98%。在 50 万元以上高端乘用车前视主激光雷达市场中，速腾聚创以 61% 的市场份额位居第一。截至 2026 年 3 月 31 日，公司已获得 36 家车企 177 款车型定点，在手订单超过 ",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "华为副总裁王雷：国内 Token 实际流通效率仅 60%，40% 因丢包、时延抖动、数据损耗被消耗",
+      "url": "https://www.ithome.com/0/974/307.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-09T00:49:36+00:00",
+      "summary": "IT之家 7 月 9 日消息，第二十五届中国互联网大会 7 月 8 日在北京国家会议中心开幕。本届大会主题为“智启新程 · 融创未来 —— 以数智合力谱写‘十五五’发展新篇章”。华为技术有限公司副总裁、数据通信产品线总裁王雷在大会“业界之声”环节发表题为《以 Token 为中心的算力网加速智能价值释放》的主题演讲。王雷指出，国内算力基础设施建设进度整体处于全球领先水平。据行业预测，2030 年中国 AI 智算相关产业规模将突破 30 万亿元，占全国 GDP 比重超过 20%，将成为国民经济核心支柱产业。目前，国内三大运营商及头部互联网企业均已布局 Token 经济，整体发展走在全球前列。未来 5 至 10 年，Token 经济将持续迭代升级，行业服务可划分为五层模型 —— 当前市场 Token 服务大多停留在 L1、L2 基础层级；当发展至 L3 至 L5 层级时，算力、网络与 AI 平台将深度融合，综合价值大幅释放，同时也对基础设施技术能力提出极高要求。王雷进一步阐述了 Token 经营基础设施面临的三大核心技术挑战，IT之家汇总如下：第一大挑战是 Token 生产效率。无论是运营商还是互联网厂商，单位时间 Token 产出效率直接决定经济效益 —— 模型能力越强、单 Token 生产成本越低，产业竞争力越强。以 DeepSeek 为例，行业成本竞争已进入全新阶段，每百万 Tok",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "微软测试 iPad 版 Word 2.109：调用 AI 整理零散想法、起草和重组内容等",
+      "url": "https://www.ithome.com/0/974/304.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-09T00:39:18+00:00",
+      "summary": "IT之家 7 月 9 日消息，微软于 7 月 7 日发布公告，邀请 Microsoft 365 Insider 项目成员，测试适用于 iPad 的 Word 2.109（Build 26051516）版本，聚焦 AI 辅助编辑文档。IT之家附上演示视频如下：在使用场景方面，在 iPad 新测试版 Word 应用中，用户不需要频繁切换各种工具，可以直接调用 Copilot AI 助手，把零散想法整理为成稿，减少手动编辑与更新工作。在官方示例中，用户可以调用 Copilot AI，在保留 Word 内置样式下的格式与结构下，生成项目更新初稿，按指定语气改写选定段落，以及通过添加标题、缩短段落和置顶执行摘要来重组文档。在能力边界方面，微软说明 Copilot 只能编辑当前打开的文档，不能新建文件；编辑文档时不能生成或插入图片；不能新增或编辑评论；若修改带评论的内容，相关评论可能被移除。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "三星首次展示教育用 98 英寸交互式显示屏，支持 AI 课堂测验等",
+      "url": "https://www.ithome.com/0/974/303.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-09T00:39:10+00:00",
+      "summary": "三星公司今天（7 月 9 日）发布公告，在佛罗里达州奥兰多举行的 ISTELive 2026 大会上，展示最新教育方案外，首次展示了 98 英寸交互式显示屏。在教育方案上，三星主要更新 AMS（账户管理解决方案），支持教师通过二维码或支持 NFC 的身份卡登录兼容交互式显示屏，并在校园内任意兼容设备上调用个人应用、文件与设置。在功能方面，三星扩展 Samsung AI Assistant 和 Samsung Education Portal，提供 ircle to Search（圈选搜索）、Live Transcript（实时转录）、AI Summary（AI 摘要）和 AI Quiz（AI 测验）等工具。三星称，这些功能可用于查找教学内容、生成课程摘要、制作形成性评估并支持多语言学习者。在产品方面，三星展示即将推出的 WAF-S、WAFX-PS 与 WAHX-M 型号，并首次展示 98 英寸交互式显示屏，运行安卓 16 系统，扩展诸多 AI 功能。IT之家附上相关图片如下：以上图源：三星",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "雷军谈 SkyNomad 小米澎程新车：历时 3 年半，打造一个“活的空间”",
+      "url": "https://www.ithome.com/0/974/298.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-09T00:25:54+00:00",
+      "summary": "IT之家 7 月 9 日消息，今天上午，小米创办人、董事长兼 CEO 雷军在微博发文宣布：今天，我们正式公布小米汽车的第二个产品系列：SkyNomad 小米澎程。SU7/YU7 系列，是“驾驶者之车”；小米澎程系列，是“智能可变大空间 SUV”。这是小米造车 5 年多来，面向不同的用户需求，交出的两份不同的答卷。雷军谈到“为什么要做小米澎程”时表示，越来越多的车主更在意呆在车里是否自在，对他们来说，车不只是行驶载具，更是移动的“第 N 空间”。小米汽车从 2023 年年初开始，从头打造了一个全新的平台架构 —— 小米昆仑架构。在 SUV 的形态下，通过车内纯平地板与长滑轨设计，让澎程拥有了空间智能切换的能力。雷军表示，做好这件事，需要同时拥有“AI 技术 + 智能生态 + 智能制造能力”。这三样东西，刚好小米都有，而且底子不错。很快，澎程系列即将发布。IT之家附雷军此次发布的长文如下：今天，我们正式公布小米汽车的第二个产品系列：SkyNomad 小米澎程。SU7/YU7 系列，是“驾驶者之车”；小米澎程系列，是“智能可变大空间 SUV”。这是小米造车 5 年多来，面向不同的用户需求，交出的两份不同的答卷。为什么要做小米澎程？近几年，中国汽车工业取得了跨越式成就，“冰箱彩电大沙发”、“大六座大七座”已是寻常配置，市场供给相当足够。但我们也看到，越来越多车主在选车的时候，不仅仅关心空间",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
     },
     {
       "title": "《CS2》选手遭遇电脑病毒洗号，XPL 广州赛事遭全球玩家质疑",
@@ -2894,9 +3134,6 @@
       "hn_comments": 0,
       "sources": [
         "IT之家"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -2913,9 +3150,6 @@
       "sources": [
         "中文AI聚合/新浪新闻_手机新浪网"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -2930,9 +3164,6 @@
       "hn_comments": 0,
       "sources": [
         "中文AI聚合/新浪网"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -2949,9 +3180,6 @@
       "sources": [
         "IT之家"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -2966,9 +3194,6 @@
       "hn_comments": 0,
       "sources": [
         "中文AI聚合/新浪网"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -2985,9 +3210,6 @@
       "sources": [
         "中文AI聚合/富途牛牛"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3002,9 +3224,6 @@
       "hn_comments": 0,
       "sources": [
         "IT之家"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3021,9 +3240,6 @@
       "sources": [
         "IT之家"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3038,9 +3254,6 @@
       "hn_comments": 0,
       "sources": [
         "中文AI聚合/搜狐网"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3057,9 +3270,6 @@
       "sources": [
         "中文AI聚合/cnBeta.COM"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3074,9 +3284,6 @@
       "hn_comments": 0,
       "sources": [
         "IT之家"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3093,9 +3300,6 @@
       "sources": [
         "中文AI聚合/新浪网"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3110,9 +3314,6 @@
       "hn_comments": 0,
       "sources": [
         "IT之家"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3129,9 +3330,6 @@
       "sources": [
         "中文AI聚合/mrjjxw.com"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3146,9 +3344,6 @@
       "hn_comments": 0,
       "sources": [
         "IT之家"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3165,9 +3360,6 @@
       "sources": [
         "中文AI聚合/搜狐网"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3183,9 +3375,6 @@
       "sources": [
         "IT之家"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3199,16 +3388,7 @@
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "中文AI聚合/证券之星",
-        "中文AI聚合/证券之星",
-        "中文AI聚合/证券之星",
         "中文AI聚合/证券之星"
-      ],
-      "source_tiers": [
-        3,
-        3,
-        3,
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3225,9 +3405,6 @@
       "sources": [
         "中文AI聚合/新浪网"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3242,9 +3419,6 @@
       "hn_comments": 0,
       "sources": [
         "IT之家"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3261,9 +3435,6 @@
       "sources": [
         "中文AI聚合/华尔街见闻"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3278,9 +3449,6 @@
       "hn_comments": 0,
       "sources": [
         "量子位/新浪财经"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3297,9 +3465,6 @@
       "sources": [
         "中文AI聚合/新浪财经"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3314,9 +3479,6 @@
       "hn_comments": 0,
       "sources": [
         "中文AI聚合/光明网"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3333,9 +3495,6 @@
       "sources": [
         "中文AI聚合/光明网"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3350,9 +3509,6 @@
       "hn_comments": 0,
       "sources": [
         "中文AI聚合/上观新闻"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3369,9 +3525,6 @@
       "sources": [
         "中文AI聚合/新浪财经"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3386,27 +3539,6 @@
       "hn_comments": 0,
       "sources": [
         "中文AI聚合/新浪财经"
-      ],
-      "source_tiers": [
-        3
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "SpaceXAI携手Cursor发布AI模型 面向法律和金融等任务",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYTBhOHJscXpTN2hrX0tTWFBzYkJ1UzV3dDdwVlpneGYtX3RuR0Y5SjlGT1JOYm9Xa1h4X0NmM25fb3lfN1FzcVlTVTNqR1YzRWxGNEFGMGJLOFdfUG5EV2pBR1NrNTExREhrLU81QTJMcUxpRE5DVjhiNTA3dllFeVVicHNETWVlYTNQUTdzOEZUa3h1a0hoLXZkTzk0MDE1UThZcDZuS2hjVUpjMDBJNzJUNkh4czJpSklFWVdOR2I4Mkh0Uzl5bUowdmxTbFh3V0E?oc=5",
-      "source": "中文AI聚合/新浪财经",
-      "source_tier": 3,
-      "published": "2026-07-08T18:45:00+00:00",
-      "summary": "SpaceXAI携手Cursor发布AI模型 面向法律和金融等任务 新浪财经",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/新浪财经"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3423,9 +3555,6 @@
       "sources": [
         "中文AI聚合/新浪财经"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3440,9 +3569,6 @@
       "hn_comments": 0,
       "sources": [
         "中文AI聚合/搜狐网"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3459,9 +3585,6 @@
       "sources": [
         "中文AI聚合/智源社区"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3476,9 +3599,6 @@
       "hn_comments": 0,
       "sources": [
         "IT之家"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3495,8 +3615,20 @@
       "sources": [
         "IT之家"
       ],
-      "source_tiers": [
-        3
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "推理成本仅为顶级闭源模型的 1/10：英伟达 Nemotron 3 Ultra 获开源模型最高准确率",
+      "url": "https://www.ithome.com/0/974/269.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-08T15:06:45+00:00",
+      "summary": "IT之家 7 月 9 日消息，英伟达昨日（7 月 8 日）发布博文，宣布在 LangChain 的 Deep Agents benchmark（深度智能体基准）测试中，旗下 NVIDIA Nemotron 3 Ultra 取得开源模型最高准确率。IT之家注：Deep Agents 是具备多步推理、调用外部工具、访问记忆并在运行时执行复杂任务的智能体系统。它不只回答问题，还可在既定权限内完成操作流程，常用于企业工作流自动化、信息检索、任务编排与跨系统协作等场景。英伟达表示本次测试的核心在于成本和吞吐量，调优后的 Nemotron 3 Ultra 每次运行的推理成本为领先闭源模型的 1/10，在开源模型中实现了最高的准确率，同时以更高的吞吐量完成了更多任务。在业务任务能力方面，英伟达 Nemotron 3 Ultra 模型通过优化模型周围环境，达到了顶尖闭源模型的水平。LangChain 联合创始人兼首席执行官 Harrison Chase 表示：构建更优秀智能体的关键在于不断改进模型周围的系统。当团队能够协同调整内存、工具使用、评估和模型行为时，这些因素都会产生叠加效应。我们与 NVIDIA 的合作表明，企业可以利用开放技术栈获得强大的性能，同时还能掌控他们正在构建的智能体系统。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3513,9 +3645,6 @@
       "sources": [
         "量子位/智源社区"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3530,9 +3659,6 @@
       "hn_comments": 0,
       "sources": [
         "IT之家"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3549,9 +3675,6 @@
       "sources": [
         "IT之家"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3566,9 +3689,6 @@
       "hn_comments": 0,
       "sources": [
         "IT之家"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3585,9 +3705,6 @@
       "sources": [
         "IT之家"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3602,9 +3719,6 @@
       "hn_comments": 0,
       "sources": [
         "IT之家"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3621,9 +3735,6 @@
       "sources": [
         "IT之家"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3638,9 +3749,6 @@
       "hn_comments": 0,
       "sources": [
         "IT之家"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3657,9 +3765,6 @@
       "sources": [
         "IT之家"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3674,9 +3779,6 @@
       "hn_comments": 0,
       "sources": [
         "量子位/智源社区"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3693,9 +3795,6 @@
       "sources": [
         "量子位/智源社区"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3710,9 +3809,6 @@
       "hn_comments": 0,
       "sources": [
         "量子位/智源社区"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3729,9 +3825,6 @@
       "sources": [
         "36Kr快讯"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3746,9 +3839,6 @@
       "hn_comments": 0,
       "sources": [
         "36Kr快讯"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3765,9 +3855,6 @@
       "sources": [
         "36Kr快讯"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3782,9 +3869,6 @@
       "hn_comments": 0,
       "sources": [
         "36Kr快讯"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3801,9 +3885,6 @@
       "sources": [
         "36Kr快讯"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3818,9 +3899,6 @@
       "hn_comments": 0,
       "sources": [
         "36Kr快讯"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3837,9 +3915,6 @@
       "sources": [
         "36Kr快讯"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3854,9 +3929,6 @@
       "hn_comments": 0,
       "sources": [
         "36Kr快讯"
-      ],
-      "source_tiers": [
-        3
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3873,9 +3945,6 @@
       "sources": [
         "36Kr快讯"
       ],
-      "source_tiers": [
-        3
-      ],
       "source_count": 1,
       "best_tier": 3
     },
@@ -3891,8 +3960,35 @@
       "sources": [
         "36Kr快讯"
       ],
-      "source_tiers": [
-        3
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "“深度智控”（DeepCtrls）完成数亿元人民币B轮融资",
+      "url": "https://36kr.com/newsflashes/3887718051330561?f=rss",
+      "source": "36Kr快讯",
+      "source_tier": 3,
+      "published": "",
+      "summary": "36氪获悉，物理AI企业“深度智控”（DeepCtrls）近期完成数亿元人民币B轮融资。本轮融资由晶科能源战略投资，国投创新、招银国际联合领投，红杉中国、源码资本、光远资本、招商局创投等老股东持续跟投。本轮资金将主要用于核心物理AI算法与产品线的持续研发、标准化产品DeepBot的规模化拓展，以及东南亚、中东、欧美等海外市场的进一步布局。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "36Kr快讯"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "中信建投：AI PCB需求放量、高阶升级趋势明确，打开设备耗材新空间",
+      "url": "https://36kr.com/newsflashes/3887685210372611?f=rss",
+      "source": "36Kr快讯",
+      "source_tier": 3,
+      "published": "",
+      "summary": "36氪获悉，中信建投研报表示，算力需求正成为PCB行业最重要的结构性增量，推动AI场景PCB升级为高多层、高密度、高速、低损耗和高可靠的平台型产品。AI服务器架构从CPU平台转向GPU/ASIC集群，全面抬升PCB在用量、层数、材料、孔结构、线路精度与可靠性的技术要求，带动高多层板、高阶HDI需求快速增长；与此同时，M7-M9低损耗基材迭代，mSAP等精密工艺加速导入，行业高端化趋势明确，倒逼全流程设备升级，PCB设备及配套耗材同步迎来发展机遇。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "36Kr快讯"
       ],
       "source_count": 1,
       "best_tier": 3
@@ -3904,13 +4000,10 @@
       "source_tier": 4,
       "published": "2026-07-08T20:21:45+00:00",
       "summary": "",
-      "hn_points": 15,
+      "hn_points": 16,
       "hn_comments": 2,
       "sources": [
         "HackerNews AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -3922,13 +4015,10 @@
       "source_tier": 4,
       "published": "2026-07-08T18:00:32+00:00",
       "summary": "",
-      "hn_points": 436,
+      "hn_points": 473,
       "hn_comments": 490,
       "sources": [
         "HackerNews AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -3945,9 +4035,6 @@
       "sources": [
         "HackerNews AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -3958,13 +4045,10 @@
       "source_tier": 4,
       "published": "2026-07-08T17:46:12+00:00",
       "summary": "",
-      "hn_points": 170,
+      "hn_points": 199,
       "hn_comments": 71,
       "sources": [
         "HackerNews AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -3981,9 +4065,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -3998,9 +4079,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4017,9 +4095,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4034,9 +4109,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4053,9 +4125,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4070,9 +4139,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4089,9 +4155,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4106,9 +4169,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4125,9 +4185,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4142,9 +4199,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4161,9 +4215,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4178,9 +4229,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4197,9 +4245,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4214,9 +4259,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4233,9 +4275,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4250,9 +4289,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4269,9 +4305,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4286,9 +4319,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4305,9 +4335,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4322,9 +4349,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4341,9 +4365,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4358,9 +4379,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4377,9 +4395,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4394,9 +4409,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4413,9 +4425,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4430,9 +4439,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4449,9 +4455,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4466,9 +4469,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4485,9 +4485,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4502,9 +4499,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4521,9 +4515,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4538,9 +4529,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4557,9 +4545,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4574,9 +4559,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4593,9 +4575,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4610,9 +4589,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4629,9 +4605,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4646,9 +4619,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
@@ -4665,9 +4635,6 @@
       "sources": [
         "arXiv cs.AI"
       ],
-      "source_tiers": [
-        4
-      ],
       "source_count": 1,
       "best_tier": 4
     },
@@ -4682,9 +4649,6 @@
       "hn_comments": 0,
       "sources": [
         "arXiv cs.AI"
-      ],
-      "source_tiers": [
-        4
       ],
       "source_count": 1,
       "best_tier": 4
