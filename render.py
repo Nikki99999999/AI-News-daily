@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""AI 行业日报统一渲染器（单一设计系统 → 邮件 HTML + PDF 一致）。
+"""AI 行业周报统一渲染器（单一设计系统 → 邮件 HTML + PDF 一致）。
 
 同一份 digest.json 同时驱动两种产物，共用一套设计令牌（颜色 / 字体 / 版式 / 结构），
 邮件正文不再每天即兴拼裸 HTML，保证邮件与 PDF 视觉一致。当前主题：Emerald 祖母绿杂志
@@ -66,16 +66,16 @@ def render_email_html(d):
 
     # —— 满版祖母绿报头 ——
     A('<tr><td align="center" style="background:%s;padding:46px 44px 42px 44px;">' % em)
-    A('<div style="font-family:%s;font-size:11px;letter-spacing:4px;font-weight:700;color:%s;text-transform:uppercase;">AI Industry Daily</div>' % (SANS, navy))
-    A('<div style="font-family:%s;font-size:54px;font-weight:700;line-height:1.02;color:%s;padding-top:14px;">AI 行业日报</div>' % (SERIF, navy))
+    A('<div style="font-family:%s;font-size:11px;letter-spacing:4px;font-weight:700;color:%s;text-transform:uppercase;">AI Industry Weekly</div>' % (SANS, navy))
+    A('<div style="font-family:%s;font-size:54px;font-weight:700;line-height:1.02;color:%s;padding-top:14px;">AI 行业周报</div>' % (SERIF, navy))
     A('<table role="presentation" align="center" style="margin:16px auto 0 auto;"><tr><td style="border-top:2px solid %s;border-bottom:2px solid %s;height:3px;width:120px;font-size:1px;line-height:1px;">&nbsp;</td></tr></table>' % (navy, navy))
     A('<div style="font-family:%s;font-size:12px;letter-spacing:2px;color:%s;text-transform:uppercase;padding-top:14px;">%s · 三限制研判</div>' % (SANS, navy, _esc(d.get("date_str", ""))))
     A('</td></tr>')
 
-    # —— 今日技术演进图谱 ——
+    # —— 本周技术演进图谱 ——
     ev = d.get("evolution", {}) or {}; c = ev.get("counts", {}) or {}
     A('<tr><td style="padding:26px 46px 6px 46px;"><table role="presentation" width="100%%" style="background:%s;border-radius:10px;"><tr><td style="padding:24px 26px;">' % T["panel"])
-    A('<div style="font-family:%s;font-size:12px;letter-spacing:2px;font-weight:700;color:%s;text-transform:uppercase;padding-bottom:6px;">今日技术演进图谱</div>' % (SANS, navy))
+    A('<div style="font-family:%s;font-size:12px;letter-spacing:2px;font-weight:700;color:%s;text-transform:uppercase;padding-bottom:6px;">本周技术演进图谱</div>' % (SANS, navy))
     cnt = "A·上下文 %d　B·闭环 %d　C·反均值 %d　配套 %d" % (c.get("A", 0), c.get("B", 0), c.get("C", 0), c.get("配套", 0))
     A('<div style="font-family:%s;font-size:12px;color:%s;padding-bottom:12px;">%s</div>' % (SANS, muted, _esc(cnt)))
     for k, label in [("a", "A 上下文有效性"), ("b", "B 反馈闭环"), ("c", "C 反均值")]:
@@ -119,7 +119,7 @@ def render_email_html(d):
                 A('<div style="font-size:12px;color:%s;">%s</div>' % (muted, '　·　'.join(meta)))
             A('</td></tr>')
 
-    A('<tr><td style="padding:38px 46px 46px 46px;"><div style="border-top:1px solid %s;padding-top:18px;font-size:12px;color:%s;line-height:1.7;">AI 行业日报 · 由 LLM 三限制地图归类加权，经两道复核生成<br>完整排版与全部条目见随附 PDF</div></td></tr>' % (line, muted))
+    A('<tr><td style="padding:38px 46px 46px 46px;"><div style="border-top:1px solid %s;padding-top:18px;font-size:12px;color:%s;line-height:1.7;">AI 行业周报 · 由 LLM 三限制地图归类加权，经两道复核生成<br>完整排版与全部条目见随附 PDF</div></td></tr>' % (line, muted))
     A('</table></td></tr></table></body></html>')
     return "".join(P)
 
@@ -165,8 +165,8 @@ def render_pdf(d, out_path):
     M_OVER = ParagraphStyle("mo", fontName="CN",  fontSize=9.5, textColor=HexColor(NAVY), leading=14, alignment=TA_CENTER, spaceAfter=8)
     M_TIT  = ParagraphStyle("mt", fontName="CNS", fontSize=34, textColor=HexColor(NAVY), leading=40, alignment=TA_CENTER)
     M_SUB  = ParagraphStyle("ms", fontName="CN",  fontSize=10, textColor=HexColor(NAVY), leading=15, alignment=TA_CENTER, spaceBefore=8)
-    band = [Paragraph("AI INDUSTRY DAILY", M_OVER),
-            Paragraph("AI 行业日报", M_TIT),
+    band = [Paragraph("AI INDUSTRY WEEKLY", M_OVER),
+            Paragraph("AI 行业周报", M_TIT),
             HRFlowable(width=120, thickness=2, color=HexColor(NAVY), spaceBefore=10, spaceAfter=2, hAlign="CENTER"),
             HRFlowable(width=120, thickness=2, color=HexColor(NAVY), spaceAfter=2, hAlign="CENTER"),
             Paragraph(esc(d.get("date_str", "")) + " · 三限制研判", M_SUB)]
@@ -191,9 +191,9 @@ def render_pdf(d, out_path):
     story = [head, Spacer(1, 16)]
 
     ev = d.get("evolution", {}) or {}; c = ev.get("counts", {}) or {}
-    cnt = "今日命中　A·上下文 %d　·　B·闭环 %d　·　C·反均值 %d　·　配套 %d" % (
+    cnt = "本周命中　A·上下文 %d　·　B·闭环 %d　·　C·反均值 %d　·　配套 %d" % (
         c.get("A", 0), c.get("B", 0), c.get("C", 0), c.get("配套", 0))
-    panel = [Paragraph("今日技术演进图谱", EVLAB), Paragraph(cnt, EVCNT)]
+    panel = [Paragraph("本周技术演进图谱", EVLAB), Paragraph(cnt, EVCNT)]
     for k, label in [("a", "A · 上下文有效性"), ("b", "B · 反馈闭环"), ("c", "C · 反均值")]:
         if ev.get(k):
             panel.append(Paragraph('<font color="%s"><b>%s　</b></font>%s' % (GREEN, label, esc(ev[k])), EVSEG))
@@ -247,7 +247,7 @@ def render_pdf(d, out_path):
         canvas.setStrokeColor(HexColor(LINE)); canvas.setLineWidth(0.5)
         canvas.line(20*mm, 15*mm, W - 20*mm, 15*mm)
         canvas.setFont("CN", 8); canvas.setFillColor(HexColor(MUTED))
-        canvas.drawString(20*mm, 11*mm, "AI 行业日报")
+        canvas.drawString(20*mm, 11*mm, "AI 行业周报")
         canvas.drawRightString(W - 20*mm, 11*mm, "第 %d 页" % doc.page)
         canvas.restoreState()
 

@@ -234,10 +234,72 @@ def dedupe(items):
     return groups
 
 
+def _pub_dt(s):
+    try:
+        d = datetime.fromisoformat(s) if s else None
+        if d and d.tzinfo is None:
+            d = d.replace(tzinfo=timezone.utc)
+        return d
+    except Exception:
+        return None
+
+
+def load_existing(path):
+    """读上次输出的 latest.json 的 items（已是 merged 结构），供滚动累积并入。"""
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f).get("items", [])
+    except Exception:
+        return []
+
+
+def merge_rolling(old_items, today_items, keep_days):
+    """滚动累积：把今天的 merged 条目并入历史窗口，跨天去重（url 精确 或 标题相似>0.82），
+    sources 合并去重、best_tier 取最优、published/summary 取更新更全，剔除 published 早于 keep_days 天前的。
+    使 latest.json 从单日快照变为 keep_days 天滚动窗口，让周报一次读到整周数据（RSS 只留最新数十条，
+    单次抓取覆盖不了一周，靠每日抓取 + 滚动累积才不漏早几天的新闻）。"""
+    cutoff = datetime.now(timezone.utc) - timedelta(days=keep_days)
+    groups = []
+    for it in list(old_items) + list(today_items):
+        dt = _pub_dt(it.get("published"))
+        if dt and dt < cutoff:
+            continue   # 超出滚动窗口，丢弃
+        nt = norm_title(it.get("title", ""))
+        srcs = it.get("sources") or ([it["source"]] if it.get("source") else [])
+        btier = it.get("best_tier", it.get("source_tier", 9))
+        placed = False
+        for g in groups:
+            same_url = it.get("url") and it["url"] == g.get("url")
+            if same_url or SequenceMatcher(None, nt, g["_nt"]).ratio() > 0.82:
+                g["_srcs"].update(srcs)
+                g["best_tier"] = min(g["best_tier"], btier)
+                if (it.get("published") or "") > (g.get("published") or ""):
+                    g["published"] = it.get("published")
+                if len(it.get("summary", "")) > len(g.get("summary", "")):
+                    g["summary"] = it.get("summary", "")
+                g["hn_points"] = max(g.get("hn_points", 0), it.get("hn_points", 0))
+                placed = True
+                break
+        if not placed:
+            g = dict(it)
+            g["_nt"] = nt
+            g["_srcs"] = set(srcs)
+            g["best_tier"] = btier
+            groups.append(g)
+    for g in groups:
+        g.pop("_nt", None)
+        g.pop("source_tiers", None)
+        g["sources"] = sorted(s for s in g.pop("_srcs") if s)
+        g["source_count"] = len(g["sources"])
+    return groups
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--hours", type=int, default=36)
     ap.add_argument("--out", default="")
+    ap.add_argument("--rolling", type=int, default=0,
+                    help="滚动累积天数（>0 时把本次抓取并入 --out 已有窗口并剔除 N 天前，供周报读整周）")
     args = ap.parse_args()
 
     cutoff = datetime.now(timezone.utc) - timedelta(hours=args.hours)
@@ -253,6 +315,13 @@ def main():
 
     merged = dedupe(all_items)
 
+    window_days = None
+    if args.rolling and args.out and os.path.exists(args.out):
+        before = len(merged)
+        merged = merge_rolling(load_existing(args.out), merged, args.rolling)
+        window_days = args.rolling
+        print(f"  [rolling] 今日 {before} 条 → 并入 {args.rolling} 天滚动窗口后共 {len(merged)} 条")
+
     # 排序：多源 → 高档 → 新 在前（仅排序提示，真正打分/跨语言聚类在 agent 层）
     def sortkey(g):
         try:
@@ -266,7 +335,8 @@ def main():
     out = args.out or os.path.join(os.path.dirname(os.path.abspath(__file__)), f"data_news_{date_str}.json")
     with open(out, "w", encoding="utf-8") as f:
         json.dump({"generated_at": datetime.now(timezone.utc).isoformat(),
-                   "window_hours": args.hours, "raw_count": len(all_items),
+                   "window_hours": args.hours, "window_days": window_days,
+                   "raw_count": len(all_items),
                    "merged_count": len(merged), "errors": errors,
                    "items": merged}, f, ensure_ascii=False, indent=2)
 
