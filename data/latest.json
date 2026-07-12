@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-11T23:57:33.630330+00:00",
+  "generated_at": "2026-07-12T23:57:33.237224+00:00",
   "window_hours": 36,
   "window_days": 9,
-  "raw_count": 189,
-  "merged_count": 909,
+  "raw_count": 169,
+  "merged_count": 1048,
   "errors": [],
   "items": [
     {
@@ -116,6 +116,23 @@
       "best_tier": 1
     },
     {
+      "title": "Elon Musk Takes a Jab at Sam Altman as Apple Sues OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zNHhSZU5ycXRQNjBUMjduMDFkLXBtUWhMWHZDZ3lxV3M2Tmd3X3N6eHJ4aVBtNFo4NEZybHE3RnJTLTZ2Sk52amU3Y0xlWTBfb3gzUEV3?oc=5",
+      "source": "AI领袖动态A/Cryptonews.net",
+      "source_tier": 2,
+      "published": "2026-07-12T18:48:48+00:00",
+      "summary": "Elon Musk Takes a Jab at Sam Altman as Apple Sues OpenAI Cryptonews.net",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/CoinGape",
+        "AI领袖动态A/Cryptonews.net",
+        "AI领袖动态A/moneywise.com"
+      ],
+      "source_count": 3,
+      "best_tier": 2
+    },
+    {
       "title": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSDhfWFVWdGNIeXdUenRaVm55ekFpb0RkU2dtdk5YWktJNEJJQlNKeXVJN2Y4eGpLRzFMZFNaYzdxcmowMFVKWHg2OFN4ZUdhVTNBeDZiSDVrUWt6emx4eWZ4OEJRc1VtU3UxaVJhdG84andsa3hKQVN6aVJJT0ZkdmZsUzRETnk1bTlvenFsWWlhUnN5ZlQ4RFplQ0ZTcWU5cUlYSzdfVnQxdHBlTmFJX29JWjVwTmpCWW1YY3Raa3hIdlYzb1JGaA?oc=5",
       "source": "AI领袖动态A/The Arkansas Democrat-Gazette",
@@ -167,6 +184,86 @@
       "best_tier": 3
     },
     {
+      "title": "Claude Code now has a built-in browser that lets the AI read, click, and type on external websites",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPemtJQ3lGSTdYY1MxTmxTdVl2R0dVZG1CUTgzd3h6bVVvNVNXZGVkZHBZVnZRR2dLSDVqTHFKUXNxWFNVZ19TOGc5M0ZvOGdrQnJxdWM3QXBldnBraGZQZXJlRlJtQXo5QmRxWnAtZF9EZzZ0UVFHSWNfV25zZS13aDVIVlBFaE05cjEzOEJQcFFlYk1QTnl0Q1AtNzl1MDdPQ2czZEFldFpnMV9TOGdKYnFyQUJLMXBXMmtLb1VR?oc=5",
+      "source": "Anthropic/the-decoder.com",
+      "source_tier": 1,
+      "published": "2026-07-12T15:03:43+00:00",
+      "summary": "Claude Code now has a built-in browser that lets the AI open, read, and interact with web pages directly inside the development environment. Write actions on external sites are screened by classifiers, and purchases or account creations need user approval. The article Claude Code now has a built-in browser that lets the AI read, click, and type on external websites appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/the-decoder.com",
+        "The Decoder"
+      ],
+      "source_count": 2,
+      "best_tier": 1
+    },
+    {
+      "title": "Claude Reflect is here. It’s your usual yearly Wrapped, but with Anthropic’s AI",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQURCQzdlRlEwU1lERFMtYzhhQng1UWxMTjRyRklGZlZvcUhHQ0pQRUpNRDNZN19FZC16aFpmWlNZSHUta3lWeEpTY1htTTNiNG1rQ3p3WVBNTVVibEU0R1pid3BEVFJZbTRwYWxXU05Yc29ZN3A0X0gzV0ZhdVZDWXRJSml4U3hxWnlFMXNEV1ZLdGFqNjkzaTZDMnZTcl9IcDFIWTFNTzBXbUVHUHlNT1BIVHhLVG8?oc=5",
+      "source": "Anthropic/Digital Trends",
+      "source_tier": 1,
+      "published": "2026-07-12T15:00:13+00:00",
+      "summary": "Claude Reflect is here. It’s your usual yearly Wrapped, but with Anthropic’s AI Digital Trends",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/Digital Trends",
+        "Anthropic/Yahoo Tech"
+      ],
+      "source_count": 2,
+      "best_tier": 1
+    },
+    {
+      "title": "Claude Cowork's biggest use case is the mundane office work nobody wants to own, Anthropic says",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdl9XYWMwRTdUcUJDa3lXQlRqMVhxbU5QSFA2cmFvUVU4U0tEVHE1ODhHQVhrMlFncGdnd29UelZvdHU4YW1GQlRNcXFsUHVRWjY3MkVGT1gyTkFaaFp2MUYxVkNXNXpTSllmOVFnTm5Od2Rsc1JkMTFaVzJ1TTcteWw5QzlibWtfdmNONkd5clMzUWZtaXFRRFItRjFZWHI1WmdpOXl3eTFWZE9SaVg3TW8xMFNkWnp5b1E?oc=5",
+      "source": "Anthropic/the-decoder.com",
+      "source_tier": 1,
+      "published": "2026-07-12T09:37:40+00:00",
+      "summary": "Anthropic analyzed 1.2 million Claude Cowork sessions from more than 600,000 organizations. About half of all usage goes toward business processes and text creation, what Anthropic calls \"the work around the work.\" That means tasks like compiling status reports, building onboarding checklists, or putting together slide decks. Software development barely shows up in Cowork because developers stick with Claude Code for that. The article Claude Cowork's biggest use case is the mundane office work nobody wants to own, Anthropic says appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/the-decoder.com",
+        "The Decoder"
+      ],
+      "source_count": 2,
+      "best_tier": 1
+    },
+    {
+      "title": "Meta Scraps AI Image Feature After Backlash: ‘Missed the Mark’",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90bnhNNkZLOVVMWG1HaldFMk9OZHptM0lMclFIUDhsOVppeWJKOENlenMycVpuWU5kdkFiUURfMENfWklVZ1dkNE5xbXJHVHNrMFFTR1FIN21kbWRXYnBEaE1mbVN3bFNFdEEwZmJwUHFMOGNGeUxBUXNfbw?oc=5",
+      "source": "Meta AI/Newsweek",
+      "source_tier": 1,
+      "published": "2026-07-12T03:49:00+00:00",
+      "summary": "Meta pulls AI image feature after privacy backlash, says ‘it missed the mark’ The Indian Express",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Meta AI/Newsweek",
+        "Meta AI/The Indian Express"
+      ],
+      "source_count": 2,
+      "best_tier": 1
+    },
+    {
+      "title": "关于AI浪潮的一点观察",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeTN1SlFReTlXX1VpcnJLRFpmQ2pZMmRjS3pySmZfTEY1SGx1bXU4eWIzV1VHdFNzbUlYb0NhblJlYjhfVE85REZ5ZFlOVFlkbEpKR3FtbmpzWTFtdi1qOGs5SVhMZ25uWWluOTNxNlYyWXp0amZfNU03S1FmanEyWWhrdlZtOVpHUWs2OEc2Mm9TenhjWldLUktwVzVHVHgzUUV2YVJoTQ?oc=5",
+      "source": "国产大模型新锐/新浪财经",
+      "source_tier": 1,
+      "published": "2026-07-12T03:29:00+00:00",
+      "summary": "关于AI浪潮的一点观察 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/新浪网",
+        "国产大模型新锐/新浪财经"
+      ],
+      "source_count": 2,
+      "best_tier": 1
+    },
+    {
       "title": "Meta launches Muse Spark 1.1 AI model with expanded agentic capabilities",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYm9NVV83RERFSWpSUTl3X1dha1R3aDYzZHpleUZxenZBQ2htTVRnMWpNLUFZNUtZZktyMTdmXzhwUFJPZWNwd1RvMTdrSnRZMFcwcHFNYlJTY0ZKLTY3S2wyMFBySWZ6SUdhdDZCU3I1M2UwX0VhUDFiQXZMU0tmbnM4YU5BeXYtS0Y4Q2Z1eTE0RDl4NWxmV3FlMHc2R0dGbDl2X040SEk3ZmxrR2RXQWdaUXQ2aUZwODdjaWRRbmhGd2UycDZyTnQwdUE5Q3NrOFNid3VidnMwN3lkUWc?oc=5",
       "source": "Meta AI/Proactive Investors",
@@ -215,17 +312,17 @@
       "best_tier": 1
     },
     {
-      "title": "Meta Scraps AI Image Feature After Backlash: ‘Missed the Mark’",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90bnhNNkZLOVVMWG1HaldFMk9OZHptM0lMclFIUDhsOVppeWJKOENlenMycVpuWU5kdkFiUURfMENfWklVZ1dkNE5xbXJHVHNrMFFTR1FIN21kbWRXYnBEaE1mbVN3bFNFdEEwZmJwUHFMOGNGeUxBUXNfbw?oc=5",
-      "source": "Meta AI/Newsweek",
+      "title": "50余股涨停背后，商业航天“DeepSeek时刻”到了？",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwNnpyUVpYdEJQeFhqc2lVR3VlbFRfc1RvMEZuc0lWT1N1dlBGZTRROW5Yb3JnM2RPY1VZbWlIcGZWS3l6bkZISQ?oc=5",
+      "source": "国产大模型新锐/凤凰网",
       "source_tier": 1,
-      "published": "2026-07-11T13:00:00+00:00",
-      "summary": "Meta pulls AI image feature after privacy backlash, says ‘it missed the mark’ The Indian Express",
+      "published": "2026-07-11T12:13:27+00:00",
+      "summary": "50余股涨停背后，商业航天“DeepSeek时刻”到了？ 新浪财经",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Meta AI/Newsweek",
-        "Meta AI/The Indian Express"
+        "国产大模型新锐/凤凰网",
+        "国产大模型新锐/新浪财经"
       ],
       "source_count": 2,
       "best_tier": 1
@@ -551,17 +648,17 @@
       "best_tier": 1
     },
     {
-      "title": "Elon Musk Takes a Jab at Sam Altman as Apple Sues OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zNHhSZU5ycXRQNjBUMjduMDFkLXBtUWhMWHZDZ3lxV3M2Tmd3X3N6eHJ4aVBtNFo4NEZybHE3RnJTLTZ2Sk52amU3Y0xlWTBfb3gzUEV3?oc=5",
-      "source": "AI领袖动态A/Cryptonews.net",
+      "title": "Sam Altman Is Waiting for a $1 Trillion OpenAI Valuation. SoftBank Has a $40 Billion Loan Due March 2027.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEJyeGpnUDZ4bGU4R2UzQjJveEN4YTlCVGxhQThJS3BEc19WRy1TNWpqX2s1X1AxUFlVSnpRcnNmd3l4Tlp2QUVwS3FkMXN2enlET1I2ZDgzeEgwVktWdnZJdS1aemxEckNNODZmakdEY2NyYlBIbmEzZ2MwcGNERkVtOXEyWEVxWjZsSko4di02U2pWWUYyVQ?oc=5",
+      "source": "AI领袖动态A/The Motley Fool",
       "source_tier": 2,
-      "published": "2026-07-11T19:28:15+00:00",
-      "summary": "Elon Musk Takes a Jab at Sam Altman as Apple Sues OpenAI Cryptonews.net",
+      "published": "2026-07-12T18:27:00+00:00",
+      "summary": "Sam Altman Is Waiting for a $1 Trillion OpenAI Valuation. SoftBank Has a $40 Billion Loan Due March 2027. The Motley Fool",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "AI领袖动态A/CoinGape",
-        "AI领袖动态A/Cryptonews.net"
+        "AI领袖动态A/The Motley Fool",
+        "AI领袖动态A/Yahoo Finance"
       ],
       "source_count": 2,
       "best_tier": 2
@@ -613,6 +710,54 @@
       ],
       "source_count": 2,
       "best_tier": 2
+    },
+    {
+      "title": "科技行业裁员浪潮加剧，多数美国劳动者支持设立人工智能财富基金",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVHF4Q0hBMnlCdDREZTkzdERKNkt4c1pOQTZQVVVZRnA0QmZKTUFSRlJNYnIzQmhnWWJlSWU0b2V6M1VGd2hNUkotdENQZjdLbTU2US1PMGI1WWxmellkSmxjUm9PQk9LLXVhdmhvOFotNDVCVmE5UzV2SzVrUXVIWVNjNnJqYlU?oc=5",
+      "source": "中文AI聚合/新浪财经",
+      "source_tier": 3,
+      "published": "2026-07-12T14:35:00+00:00",
+      "summary": "近期一项民意调查表明：美国科技行业裁员愈演愈烈，大部分在职人员希望借助人工智能主权财富基金，倒逼企业承担更多社会责任。维拉斯莱特公司6月对1690名美国成年人开展这项全国性调查，本月初对外公布结果：69%的美国人支持立法强制人工智能巨头把半数股份划入公共主权财富基金。该机构首席执行官本杰明・莱夫表示：“在普通民众看来，人工智能主权财富基金可以把人工智能行业产生的红利回馈给全社会大众。”（新浪财经）",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "36Kr快讯",
+        "中文AI聚合/新浪财经"
+      ],
+      "source_count": 2,
+      "best_tier": 3
+    },
+    {
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jX3htdHlFaENyQllnNjZHR3JVcUJGRGRJSEVraGptc21hcWN3OVZBQ2wzelRtSk9uUE4xNUM1NVNyUGRhNk16MUVYaEw5QWJhN3czb0hhSk5Db2owc2R1NXBn?oc=5",
+      "source": "量子位/网易",
+      "source_tier": 3,
+      "published": "2026-07-12T07:10:00+00:00",
+      "summary": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代” 智源社区",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "量子位/智源社区",
+        "量子位/网易"
+      ],
+      "source_count": 2,
+      "best_tier": 3
+    },
+    {
+      "title": "顶会Poster整活大赛：我的NeurIPS论文中了ICML",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83VEh0WTBNSWVvVW81azJOUEhISHVXOGw0MHRjYWlPREVWbk1rUWNrbTM5VjdzZVhsWEZNWV96MG4tb3IxVExBaUswZ1VEY0Z2bEVDSmNn?oc=5",
+      "source": "机器之心/腾讯新闻",
+      "source_tier": 3,
+      "published": "2026-07-12T02:03:55+00:00",
+      "summary": "顶会Poster整活大赛：我的NeurIPS论文中了ICML 腾讯新闻",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "机器之心/网易",
+        "机器之心/腾讯新闻"
+      ],
+      "source_count": 2,
+      "best_tier": 3
     },
     {
       "title": "解禁日＝崩盘日？最悲壮国产大模型，CEO放弃工资",
@@ -695,6 +840,471 @@
       "best_tier": 3
     },
     {
+      "title": "Meta kills AI feature after privacy backlash",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWTjVxX1JhLUwyRk5pTlFHemRqWmFKQXJIOUQ1UVczSFk2aVJvd1NZNGZMcnlyV2JmWS1oQVdnMi0zV052RHA3S1o2LTMzN3ZLVkZXTUxwNjN3SjlWTlhGMlFib3ZGeFkzSnJpNDlOZ3FISlRYTXdFRkdVUzQzT00?oc=5",
+      "source": "Meta AI/Mediaweek",
+      "source_tier": 1,
+      "published": "2026-07-12T23:20:48+00:00",
+      "summary": "Meta kills AI feature after privacy backlash Mediaweek",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Meta AI/Mediaweek"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Robostral Navigate: single-camera AI navigation",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5",
+      "source": "Mistral/mistral.ai",
+      "source_tier": 1,
+      "published": "2026-07-12T21:15:41+00:00",
+      "summary": "Robostral Navigate: single-camera AI navigation mistral.ai",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Mistral/mistral.ai"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc0lsel93dHhiN0d2bXEwZmpDTk50SDZYTGtiX2tYMUUtUHo4TnZOVW9EaWJDMkVmcHdZT1g4V2w1ZDdKcDJjYTdUYUt2aXVJTHNJY3NDQmFCRWpaaVNqbFZUaEczRUFVMWFDUEFWNE5hUF9uYy03em1ETlpTRDc1MFpnVU1xNl9ORE81WTdXT3Q3STJjeTA5NGNtSU1YSmNCNXc4Skt1SUhaR0EtVVBBd1llLS0xRXNGRlFQT0NCdWdTNUc5UXljS1k4X2o0R3JxTTRKdi1pY21TUEx3bEHSAeMBQVVfeXFMTWJiT3RadlJ4blVGTWhPMUc4T01EV3RENWUxZUFvd3lsdW5MbUlHQmNDR1Jrd20tejB3enZoZllUVnZVWmlkUVhCU3VLWTNSTU04SjZrOGNGanJfbjdYSGd2SE44X1dFUHJGaTJ5LXI2OGRzd2NVajhxQzRIMFVOc0YtOVNNMFdJODdidHQwY3VUaFRiQTN0dVJOYkJ1QjNseF9qZFVsbzFsSUludWhBNHg0V2hmSVQ2TUE5cTZGcnF4SGUycmltQ2RIYlJ5azZrS2IwUExqX1cyMWE2WVJNZWVCa3c?oc=5",
+      "source": "Anthropic/BleepingComputer",
+      "source_tier": 1,
+      "published": "2026-07-12T19:39:12+00:00",
+      "summary": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time BleepingComputer",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/BleepingComputer"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic introduces Claude Reflect to help you understand your AI usage better",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaGFYQldVX1psWW50MjNYcXg0SmZvb1RmXzEwNjFldzR3RUlOZEFFZTRhYjdWaGJGc2xoYURUVUNMZmtGN2hPVmppajQwVWRwXzU4NnFkaHhIcENUR1lydTkzRFl0OGdmazFxUkF6TmpVNF9HS3NwcGxqc3lpTWVSMGhxOG1JVGkwbnFiSDc0R1hNelNJWFF1UUVvOF9MSE1YMFlGTW90cEd4dFpKUFBMVDUwQ0cyUVlHWU15cXRTRkNUUdIBxwFBVV95cUxQR2FnWU9HaWg1bDdheUlRSXRtb0k1VzFCNW84ZGFIZldBWTR0Y0RUbG5wQ0hYcGNLdW14X2pPSUdPaEF2ZS1UQ1FBN3p2ZWJ6NnRuX05zUGhMMFR4NjRFVnNsbEJudVRvRkJDTUM1a25SdWlhb1ZkTFNLUnRCS1pmZl9CS0lMZHhVZnp3Qk1vOUUzWVBSaHJaZWpKdmU0NkxMeVg5eTFsNWpQdHFtU0lBTHRlSlJxUnFEMmRXZ2htRDhMY2hjdnhV?oc=5",
+      "source": "Anthropic/Firstpost",
+      "source_tier": 1,
+      "published": "2026-07-12T19:38:56+00:00",
+      "summary": "Anthropic introduces Claude Reflect to help you understand your AI usage better Firstpost",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/Firstpost"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic extends Claude Fable 5 access through July 19 for paid subscribers",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSlluc2FzQnlQYjY1T0JLdnJ3MXFBQVhncy1kWEtoMkNmUkxMb19GTy1vd2thMGJROHBGRXEzaU84cGpKdDB4czQyblFTcnRmOEdDTGotN0l5RndUOElVdTQ1LW9wT05MODFhbTZtb0ZMQkEwSl81UWNRTEdFZFM1dDQtQ1RURFVwMXcxT3VERG5HZXRzLVVteWtWd0l2Ni1UX0M5d1I0dGlzLWM3X0F6VnNpbGNQc215Q2YzRlVB0gHDAUFVX3lxTE5MYXF1ZmYwdnA1c0hQeU5pSHlDY0pUTEVQTU1UWVdWb2tUY0daVkZRV2lrd05ZbTN4dEJPejBKQmZJbzJlYllBUWFkUmU1YTVrY01aczVObnhkS0hKYzZybkNFVHdabElTLWlwbk9PRmN6U2VyUDdpUkpSMTR0TTNlSkNMckJOc3B5d0ZhbVlCbTJKWmxZaHdmdkd6UXZvWkR2Wi1SamxBSmdTWEtvZkpPSGJjV0JXRzg3eGpMODFKNG9GTQ?oc=5",
+      "source": "Anthropic/Firstpost",
+      "source_tier": 1,
+      "published": "2026-07-12T19:11:53+00:00",
+      "summary": "Anthropic extends Claude Fable 5 access through July 19 for paid subscribers Firstpost",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/Firstpost"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic Adds Built-In Web Browser to Claude Code Desktop App",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQzRIc25NUVRFejgxWlp6bU94SVdMX2JMdVl2VXVheUE4TlZYNEdnYlh4YkpMMUhfWkljd1lVa0hsODhzV1RLOTc5QU5nUU84UkFaX0lpZlBHWWhKc2g3dkt5ZXBpdGtUZXdWaGhVY2h0dnRaNTVHX0VIZU8tVHRBNzVpQlNjMUJweTJF?oc=5",
+      "source": "Anthropic/MLQ.ai",
+      "source_tier": 1,
+      "published": "2026-07-12T18:19:43+00:00",
+      "summary": "Anthropic Adds Built-In Web Browser to Claude Code Desktop App MLQ.ai",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/MLQ.ai"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic extends Fable 5 access through July 19",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ0tDbHVxREZtTFZXVXAtdHdDejJHTVdZU1ZOR1pibWNLTjB3eUhrbm5rX1pwX243SV9NbVdCQ0phMUVnVU1KOHY0eEZQQTF0SnAzbHl1dFEtN2I4TkxRc05GQ0NxdFZJYUVRdG9va3JwOGM2QXN4b3RMQlVFYms3MzJFczVaay1pVThLbTF6UE5WLW5xV1pWRTh3eWxSY29DVWg3TkxoY2tVcXBfdU1TdFRTY0RfVW1UbWotc3Rwdk9JZzhocm1pamVuONIB0AFBVV95cUxORTcweUF6MGZFX0dvWGxpTE1VZUl2dzVxeXVsTHhqb1ltRWhjSGhBSERNUC1nQm9uY0tSN3FFWk1XbWtGR0UyWlhfY09TNzZoR2ZYNS1xU2dOMXJEYkN5M1ZhY3JzMVRKWjJ6NFlueDRkOXJERV9wX2Nhb1ZuemtuUlhQbGN1a3lUZTFkQmNNa1h0OHg5SEE4Z1hha2tENlEzMWJrUmJtdkN0bFF6Z1lxbmowZmZ5eHVRZm03a1laUmJneVFnSG9VWWZmSmlITUlM?oc=5",
+      "source": "Anthropic/The Economic Times",
+      "source_tier": 1,
+      "published": "2026-07-12T18:08:02+00:00",
+      "summary": "Anthropic extends Fable 5 access through July 19 The Economic Times",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/The Economic Times"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic's newest enterprise partner is training 20,000 people on Claude — here's the shift it signals",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kVk16UUNiNnJYUlJzdUpDTTJ1R0ItRHhHajlXeFNjdjdjek45TTBsZ2QxSVZaa3BObDhJaDhVYmdfT3gtZ1otbVpuTUwwRG5TbkgzUU9BTmNXeWpKT05UYms0NUhqSUdV?oc=5",
+      "source": "Anthropic/The New Stack",
+      "source_tier": 1,
+      "published": "2026-07-12T17:04:12+00:00",
+      "summary": "Anthropic's newest enterprise partner is training 20,000 people on Claude — here's the shift it signals The New Stack",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/The New Stack"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Deepseek 预测：10年后的中国，极可能出现这6种现象 提前做准备！",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrc3IyaFZnM0xyajZnYlF4VDNBZmxiVlo5SllsMnFLSTVQTnlhck9rY0txR2VkQXo0WHctemlvazV0S2xkckhibi1SY1EtUFJnZEJUQ2FRZl9kU0gtUUt2cWxB?oc=5",
+      "source": "国产大模型新锐/网易",
+      "source_tier": 1,
+      "published": "2026-07-12T16:39:57+00:00",
+      "summary": "Deepseek 预测：10年后的中国，极可能出现这6种现象 提前做准备！ 网易",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Meta Muse Image Launches as AI Image Race Heats Up in 2026",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSnRhT2M5TXJCVTZCTnJtNDF0dk1XZlBNa0Y4NVRWemlJWEUtX1NvMnRKbWJUcVN1dFlQdlpGbkpEZU5Nbkd4cWlETVZHYUtIblZiUjAxTmUwcTBqUDBHeV80d3h2dzVVaVRIVjRNYUlrLU9BdG1jaldsQ0ZMaUtzOXd5eDE5cE0?oc=5",
+      "source": "Meta AI/Memeburn",
+      "source_tier": 1,
+      "published": "2026-07-12T15:21:05+00:00",
+      "summary": "Meta Muse Image Launches as AI Image Race Heats Up in 2026 Memeburn",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Meta AI/Memeburn"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Meta scraps Instagram AI image feature after privacy backlash over public account access",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMkg2QzlRb3l5WG13aWRHNHZDLWJEZEthT0Q4a0llNnJnYW9ZR1dZVkJkbzU1UWdVRXVPOUkzY3gwWWtPVnF4dnNzcFlWaGFUaUpDMmlscFNUMXF6NFFZVC1BYjFKTlo5YlI3cXZSSl9Md1o0aHY4YnRIU19RWnUxMHFoZ2ZBMTNXUHlYMHpONW9jRjVRRGs3YnlhWTFoVUZCb3hpMlhGd1BMOGJvZHVRMURMOA?oc=5",
+      "source": "Meta AI/Tekedia",
+      "source_tier": 1,
+      "published": "2026-07-12T15:00:09+00:00",
+      "summary": "Meta scraps Instagram AI image feature after privacy backlash over public account access Tekedia",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Meta AI/Tekedia"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "What Revvity (RVTY)'s Claude Integration Means For Its Software-Led R&D Platform Strategy",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLWVqVjhIUE5GNUhTbzVfUGpkVjJRVVd2WTFHMlFLZ3hiOEoxMHhrdVVMcy1oV2dVMjlJTDhWalN0djNSUEFDSWZxdTFvWjZFSHltMzVZUURhdmRzOXJYcHRqMzROblV2bW1aUkVEZkRIOUJvYXVfbTFxTklndU9NTU8tdmhOUTNWR0xKckR1VkkwSkpZR2RsaG5hYkg5ZE04VVBVVUJlMnlFSjNWODN4bUNjN0RuRFZqLWpBUGhSeGI1UnFRcmRTSUF6MmhmdndjTnFybkJB0gHbAUFVX3lxTE9aWGw0dk5RWkZkbFNyOVoyb3hyOUdWOTlGQm9aRHk0cHZKSnUtSGo5d1FBX3BHNVFzMzJGZXppd0haSlZOSXZxRGEtY0ZUYjdlakpvYktyZU9MU0wtNVYxdlJMQy1Cc2Jlc2hybUd5YjQxSEZLZXlhYmlrY05aSDJyX2ZtOWRNN2MzdHNPbDhzOVMxSFdkdmpWaF9nMDdUYlA1akRkdERwZENkWXlqNmZYekh2M3d5M09kdUtiWmRSekFTQUxpTnoyQmlTc3NDaEZQQVptVi0zem14Zw?oc=5",
+      "source": "Anthropic/simplywall.st",
+      "source_tier": 1,
+      "published": "2026-07-12T14:55:28+00:00",
+      "summary": "What Revvity (RVTY)'s Claude Integration Means For Its Software-Led R&D Platform Strategy simplywall.st",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/simplywall.st"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "世界杯四强AI预测成绩单公布，五款模型实现全中，DeepSeek、Grok激进押注黑马仅五成准确率",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbW1kZ1I1NnMwYy1zcmVSMTUzZkxqV242akxDWDVNZ21JdlFac1paa1VpY1czRERhR3NRUHo3RHRuR2JkNEVzblZHSEF5VDQyc2NvNDFCcmF5T2ZoY1hyd3hQT2gwa0drT1g4YjFvTzRDZmZ1V3VhRTU2YjhwUk50b3FJMVp5dXpidEstN24wVjdwUHhjbkU2Q3JsQXQ3OUotZ1R1cXlRY1didTBjb1hqUDROWFlDNExFZE9oQ25iX0hiQ0xRUnNjTmZVdGRmWlBEZ1pScWpGU3BkdWZNdmJkZl9UcXNSTVU0Qnl4Y1k4ZVU2YlMwTUpjbmtfdm9FNE5ocFZlNHNxVS1LcW9L?oc=5",
+      "source": "国产大模型新锐/新浪财经",
+      "source_tier": 1,
+      "published": "2026-07-12T12:41:54+00:00",
+      "summary": "世界杯四强AI预测成绩单公布，五款模型实现全中，DeepSeek、Grok激进押注黑马仅五成准确率 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "3 Days After Introducing an AI Feature, Meta Hits Pause in Wake of Privacy Backlash",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUHhVRXVnbktpZWFQSlhGc3lyNlVJQTJRYUtCT3VNckFRLTlIMnkyNTQ0ODBZaW5YY3hlQmFJd2h3Q3Z3ajk5bFZGNTVHeEppbXlPaTJ6WUtGT0RXRlBaNS03VmVHZnRjTGY3Q196SmstTkhrT0dQaXRBaVNIRzd6Z09fVi1qUjU0ZExpZGdkOXBTSHNEYlZHcnBndUc3TkJTMmZwRHRxWExtZTFCWndoTWFyMHdCSzZjcFZKYy1qSEFMQQ?oc=5",
+      "source": "Meta AI/inc.com",
+      "source_tier": 1,
+      "published": "2026-07-12T12:39:58+00:00",
+      "summary": "3 Days After Introducing an AI Feature, Meta Hits Pause in Wake of Privacy Backlash inc.com",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Meta AI/inc.com"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Claude vs Gemini: Fable 5 Beats Opus 4.8 by 11 Points",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81Zno3cU1POTJkZWxTVW92MGprNWF3WTM0a3RRaC1FRXR5NXpfcXlUUTJkZGhDanEweXRQY1dpczEtb0dzTXg1blFZYWNDU1FoanI0b2NSdGFiZU4zTk8yeEV5ak1vSXBf?oc=5",
+      "source": "Anthropic/tech-insider.org",
+      "source_tier": 1,
+      "published": "2026-07-12T12:26:41+00:00",
+      "summary": "Claude vs Gemini: Fable 5 Beats Opus 4.8 by 11 Points tech-insider.org",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/tech-insider.org"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "SHEIN港股IPO备案获批；阶跃星辰发布Step Edge端侧模型全家桶｜一周未来商业",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZMEhGN1o3ejZLQ2themd2WVRDWXFGeEZ3VW9KRkprMjdlWG1ReUlFeVE3QTh3S2hDX0lHZ1lJMHlKOUZPeklnX2xUbmtIYklDTTFUU1QwcjZ0LWM4RzAzb21KeHJnZw?oc=5",
+      "source": "国产大模型新锐/mrjjxw.com",
+      "source_tier": 1,
+      "published": "2026-07-12T12:24:00+00:00",
+      "summary": "SHEIN港股IPO备案获批；阶跃星辰发布Step Edge端侧模型全家桶｜一周未来商业 mrjjxw.com",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/mrjjxw.com"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "通信行业研究：Meta算力投资升级，智谱及Deepseek探索自研AI芯片",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FUDhONks3QU5oUE5kSnhpc2xwNzl0bkVGbklvNFNyWHhhMmJ3VHNJUmphU1BrTm04X25DUWNkMldNUllUck45Nld6VDFtT3hWUi1jM3YyX3hrcVdVT0VVWnF3?oc=5",
+      "source": "国产大模型新锐/证券之星",
+      "source_tier": 1,
+      "published": "2026-07-12T10:08:00+00:00",
+      "summary": "通信行业研究：Meta算力投资升级，智谱及Deepseek探索自研AI芯片 证券之星",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/证券之星"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Meta discontinues AI image generation feature within three days of launch",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaERJeXVGWExLU2U0Z2VacU5HeDBHaDJ4YmlsSVpIT2JWOE8zVXNVXzU3bFo1Nkt3QkZBQ3BCTzNTdmN0VndtM21JSHBWZUZYc1Zpand1eUlzUFIzclo0WGdNREZtQ2tnTDBzMURxajZkcEt3c2c0dGN2WDdsVURsWG9STllVUF9fajFrWFpyRS1PQmR3OVEtTEE4bW5lVHZ2TFk0dEgwRElfdGMyVWJkOEdINmk?oc=5",
+      "source": "Meta AI/Gulf Today",
+      "source_tier": 1,
+      "published": "2026-07-12T10:07:53+00:00",
+      "summary": "Meta discontinues AI image generation feature within three days of launch Gulf Today",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Meta AI/Gulf Today"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "梁文锋获500亿融资，DeepSeek秘密研发AI芯片",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TOEhqOThvNG9MQjJKVlZ5QzFJc2tRdmV4Ul9BTlNacWVyeTBfTy1TLUpvbmpSWWlleHFvS1FUZ1NiZGVRN21SMktqbTU0RngxR240TVBqOVZBSjNjR1RjRUNB?oc=5",
+      "source": "国产大模型新锐/网易",
+      "source_tier": 1,
+      "published": "2026-07-12T09:52:05+00:00",
+      "summary": "梁文锋获500亿融资，DeepSeek秘密研发AI芯片 网易",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "商业航天“DeepSeek时刻”到了吗 火箭回收技术迎突破",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16Wk5ZdkdXYkVYT1REdWpaTEl4b0U2ZUtRVWNNbjVkbldPTFFHRzZPTS1TYUE5WHZYLWkxVGQxRy1BOEt6Qk92VGs0TUVNNldRTXhGQ0Q1a3c0ZnNUTnhlOVFTeTFqc0V4cEFkdTJlb2M?oc=5",
+      "source": "国产大模型新锐/中华网",
+      "source_tier": 1,
+      "published": "2026-07-12T09:31:12+00:00",
+      "summary": "商业航天“DeepSeek时刻”到了吗 火箭回收技术迎突破 中华网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/中华网"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "全球八大AI前瞻两场八强战，多数看好英格兰、阿根廷晋级，DeepSeek、Grok逆势看好挪威、阿瑞战平",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSFNscFZwRHNZbzdWSjNTeXNSWGpMbTdNT2tWeUc3ZXA5dTdmTW1sTl9ySGs0WFlaVTdPejVsdmZhSUpvZmY0enFycnlhbmp1VVIzcFpRU1JzRDB5LXJOdjhnTGMtaWRFamc4dnJ4WWtPcG9XempQWEwtYkNQNU5WWQ?oc=5",
+      "source": "国产大模型新锐/新浪财经",
+      "source_tier": 1,
+      "published": "2026-07-12T07:46:02+00:00",
+      "summary": "全球八大AI前瞻两场八强战，多数看好英格兰、阿根廷晋级，DeepSeek、Grok逆势看好挪威、阿瑞战平 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "拒绝给英伟达打工！DeepSeek悄悄自研芯片，上演釜底抽薪 | 视频",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yMW8xTVgwSGxsYTh6d09OQlpsN0dYbjFpOXNYQVY0eHA4M1BETS1qS2wwT2ZxQUJFMnp6eWp6ZGNnM2tZUmRSSHBiTlN1blVVbnNXcXRCSk5rVEdXSDZySG9B?oc=5",
+      "source": "国产大模型新锐/网易",
+      "source_tier": 1,
+      "published": "2026-07-12T06:28:12+00:00",
+      "summary": "拒绝给英伟达打工！DeepSeek悄悄自研芯片，上演釜底抽薪 | 视频 网易",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "阶跃星辰校招：硕士年薪40万起，实习可转正+股权激励",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5paWlXd2todjZnZHNGYVlTVWZUSzh2QVdjR21iOXBTb2FCTlBlWVVnLWtJek84dTZGMWhKemc1OTZLeEc3cG42UzhJZVFtcTV6d3gyZm5MWmxfbkx6NFU1SGJ3?oc=5",
+      "source": "国产大模型新锐/网易",
+      "source_tier": 1,
+      "published": "2026-07-12T06:13:32+00:00",
+      "summary": "阶跃星辰校招：硕士年薪40万起，实习可转正+股权激励 网易",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "【腾讯混元】混元大模型青云计划！总包百万起，薪酬上不封顶，顶配算力资源全开放！",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uS1A0ZmRDZFh5aU9iUUhUU0NLTjRLa0p4N0txRkk5Q2Q1ZXdFMFNncktzb25ST0Nsa1d6Uk9UYy1RMEstVXdVcU5fTjM3R2c1d1FmaUlZV3o3RU00LVYtWExR?oc=5",
+      "source": "国产大模型大厂/网易",
+      "source_tier": 1,
+      "published": "2026-07-12T06:13:01+00:00",
+      "summary": "【腾讯混元】混元大模型青云计划！总包百万起，薪酬上不封顶，顶配算力资源全开放！ 网易",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型大厂/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "阶跃星辰发布Step Edge端侧模型全家桶，瞄准手机等终端AI应用",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UekZHbVl2QjRlTHhzVzU0WjlUTjZESnN4VVVua19iRDJzQWxLb0daMDRGcGZNSndUUjFRbWhEWS1EVFNVZnFaNg?oc=5",
+      "source": "国产大模型新锐/凤凰网",
+      "source_tier": 1,
+      "published": "2026-07-12T06:12:58+00:00",
+      "summary": "阶跃星辰发布Step Edge端侧模型全家桶，瞄准手机等终端AI应用 凤凰网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/凤凰网"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "反转？吐槽DeepSeek面试的前华为天才少年被控诈骗；MiniMax股价暴跌，创始人称将不再领取任何薪酬；传腾讯考虑入股Manus｜Q资讯",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjJST2NsTGZ5NmU3aXRaU3RJZE9hUzdDUUFvdGR0VmVsektsblM4MXN0UEpjbEhoY3F1SEgzWDQySFpfaUlya19qWGw1UmFiVHBDSDFHU25TYnJCZlRDbFFQbTVOVE1nSk51bDR6V0t2Nm5SNXFPYklQRmxSWno5MmxR?oc=5",
+      "source": "国产大模型新锐/网易新闻客户端",
+      "source_tier": 1,
+      "published": "2026-07-12T06:10:00+00:00",
+      "summary": "反转？吐槽DeepSeek面试的前华为天才少年被控诈骗；MiniMax股价暴跌，创始人称将不再领取任何薪酬；传腾讯考虑入股Manus｜Q资讯 网易新闻客户端",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/网易新闻客户端"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Claude AI Performance Decline: User Complaints of Dumber Responses Addressed by Anthropic – It’s Not the Model That’s Underperforming",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WWF91REpXLUNPVUZfOXNISU81c0JYQW1pdG1lZ2hnVEVZOUpSMHI1TXlTUFl3OG1ySlNXTDM3V1hTZXlYeUlUS093czZmRVk4N2xZ?oc=5",
+      "source": "Anthropic/36 Kr",
+      "source_tier": 1,
+      "published": "2026-07-12T06:02:44+00:00",
+      "summary": "Claude AI Performance Decline: User Complaints of Dumber Responses Addressed by Anthropic – It’s Not the Model That’s Underperforming 36 Kr",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/36 Kr"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "阶跃星辰端侧模型全家桶 Step Edge 登场，面向手机、汽车等终端场景",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVV9kbGFEbjU1U25nTW1nQ3RkVnFBU0IyLUpQdEItN25kOFJ3ZkZZRktoamUtUE1raDBSODU3UGNmYlRLOG5nM0lDQXNHbk1WOVhlSUdUZUdOdWNsWEVCbDgzeExZazlRREF4d254YmZZcmVBaVM5MzIxaDdtdC1PVG5Gc21DTlh0ZG9Qd1JIaTBON1RlcXM0RjNoQ3Z1NFh4VnEtTW1aeU9XbGRsQ19qanZGQ2ZaTG9sTDkwMUZreTlRRTU1YnF1WWpwejdKZGxWa0hYV3drZkNNWF9TTEV2dElnTERJSy1FcWd2M20wWVA2NE1wUkVPeg?oc=5",
+      "source": "国产大模型新锐/新浪网",
+      "source_tier": 1,
+      "published": "2026-07-12T04:30:40+00:00",
+      "summary": "阶跃星辰端侧模型全家桶 Step Edge 登场，面向手机、汽车等终端场景 新浪网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/新浪网"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "英特尔至强 6适配腾讯混元Hy3多模态大模型",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1ZTFFCN1BsLTl4VlRzZ1I3Snl4RzkyNGpwclhJN054ZmJucFBhNmVEUmZaQ1Y2d3ZxajFibXAzVmdTVkE?oc=5",
+      "source": "国产大模型大厂/集微网",
+      "source_tier": 1,
+      "published": "2026-07-12T03:54:11+00:00",
+      "summary": "英特尔至强 6适配腾讯混元Hy3多模态大模型 集微网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型大厂/集微网"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "阶跃星辰发布Step Edge端侧模型全家桶",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13ODk3WHN1bWd1b0FtSVppdXczZ2tENGx1cVV1MXFvbTFMUWsxWlB1Ni1BRVRXLXN4R2dWRzZ5azJ5UzhDNzJZVGZCQVA3bFJPcEJyaUhXVThIYUJDTkE?oc=5",
+      "source": "国产大模型新锐/DoNews",
+      "source_tier": 1,
+      "published": "2026-07-12T03:51:03+00:00",
+      "summary": "阶跃星辰发布Step Edge端侧模型全家桶 DoNews",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国产大模型新锐/DoNews"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Mistral Ships Robotics Model as Valuation Nears $23B [2026]",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRckZGeV9ka0M4TVZoTzBZRC0tcUtfcjlFWkN3UmRvZnZIcGpiNGVsOXRyX2x3ZGR1Nno4T2I4dDBrbE1uN0JXd2tJLTFIVHJVQ2dVT1dZdHZSNm1RbjFCTGpkdGdyQ3FpZmw4WlpLN2RVaUJq?oc=5",
+      "source": "Mistral/tech-insider.org",
+      "source_tier": 1,
+      "published": "2026-07-12T01:11:51+00:00",
+      "summary": "Mistral Ships Robotics Model as Valuation Nears $23B [2026] tech-insider.org",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Mistral/tech-insider.org"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
       "title": "Anthropic rumored to unveil AI model surpassing GPT-5.6 SOL next week",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcDFZbUtTdk1mSUdlbDZpUDUzbXkzUG5XMFFvMDFjZnpZVTZFWTJjUFhOSFZWZFJEc3M0dndpWlhtaW5oV0c5a1ZOcEVjZkl4RlJpYTFkN0JMaHBROExSQXJnVDczSF9qVjVqNEdiVWxQekRfcGdBeDhTVk9OdlVuS0hoUlZXSHQ3U2RPQy1Ray1oZjQtWmJjYjk3eHg?oc=5",
       "source": "Anthropic/Crypto Briefing",
@@ -740,21 +1350,6 @@
       "best_tier": 1
     },
     {
-      "title": "Robostral Navigate: single-camera AI navigation",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5",
-      "source": "Mistral/mistral.ai",
-      "source_tier": 1,
-      "published": "2026-07-11T21:00:32+00:00",
-      "summary": "Robostral Navigate: single-camera AI navigation mistral.ai",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Mistral/mistral.ai"
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
       "title": "Anthropic builds personalized morning brief feature for Claude Cowork, and it's more relevant to crypto than you think",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xRDdPSXp4RXo4VVY1QnZqM2Q0OWsyRGctOEY1YnRwZ2oyYXViU3R0OFQ3THMtWElZRGh1eTllajN3MTNDMjdxS2RJdlM3NWNUVHpOa2l0N29OdVY1emNwZFFBbUJCMmNkWDh5WHJxZTZlUzA?oc=5",
       "source": "Anthropic/Crypto Briefing",
@@ -770,6 +1365,21 @@
       "best_tier": 1
     },
     {
+      "title": "Vitalik Buterin Pitches AI Kill Switch, Drawing Fire From Meta’s LeCun and Tech Critics",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jWFY5T0dqLTBwbGg4Q2I3cDNsTHJPUDZRWDdJSWIxamx3d052RkplYWVjWlNNMXdKX05FMDlUM1h1MmsxSGJQSHpoVHRMb0cyN2VxM2hsekNLdW1UdFRIOVZoTHR1dHB3ZTNwOEdrNm5HbHhXR0E?oc=5",
+      "source": "Meta AI/finance.biggo.com",
+      "source_tier": 1,
+      "published": "2026-07-11T20:06:00+00:00",
+      "summary": "Vitalik Buterin Pitches AI Kill Switch, Drawing Fire From Meta’s LeCun and Tech Critics finance.biggo.com",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Meta AI/finance.biggo.com"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
       "title": "DeepSeek被逼自研芯片：510亿融资的新赌注",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aWXZQY0FEb3ExNG1XRjdTSUJrZE9hU3hYVV8wUzBaLWhDbDRpYjZZeG5tU0s5WW9fYWYzTHlsQVBzRXpMQy1lY1VjM3h5TktZT1ZpaTdibk1FMXlDaUoyU2JB?oc=5",
       "source": "国产大模型新锐/网易",
@@ -780,6 +1390,21 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型新锐/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Anthropic Rejects China's Claim About Claude Code Backdoor",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFJHQ1o3bXAzQ1NTSV81WDlGSXR2RWZQdDZGNlBVYmZTY2gwZDIzbFFmRWZDOVFXOHFlTkhjWlYzM2tSWGhBYXdGd1JEZmpkd1J4RnhlaUFHQkozTzhxSHFQNjg0cmt6ZGYxcDlUSE5aMklmT1dOMXFsV3ctRko2QWhWUW1SejNkamxrbFBVNHhPYkk0S1Q2SzZOa0tpYlU?oc=5",
+      "source": "Anthropic/BankInfoSecurity",
+      "source_tier": 1,
+      "published": "2026-07-11T19:38:43+00:00",
+      "summary": "Anthropic Rejects China's Claim About Claude Code Backdoor BankInfoSecurity",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Anthropic/BankInfoSecurity"
       ],
       "source_count": 1,
       "best_tier": 1
@@ -885,6 +1510,21 @@
       "hn_comments": 0,
       "sources": [
         "Meta AI/Pulse 2.0"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Instagram's newest AI tool didn't survive the week",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVHB6TlNCajhNOGcwYk9GVUxGUHNnX2tPZWRoWWM1aTE1Nlh2ZjIwZVNfVVhWTjlNUTJjMUlLQjhJZDZqeHhVR0xubHRwajFBelQxdk5HQ3g3UFZrcmMwbzNIWVlxY3MzdkN0eWtfVEZFeW1xVEV0Q1Jib2ZhNGhpdUg2Y3V0b2JrcUdMY0htbi1xb21zcFo4VS1ra0V5TmJEYmNfbXBXbmtWT2ky?oc=5",
+      "source": "Meta AI/Business Insider",
+      "source_tier": 1,
+      "published": "2026-07-11T16:40:00+00:00",
+      "summary": "Instagram's newest AI tool didn't survive the week Business Insider",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Meta AI/Business Insider"
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1040,21 +1680,6 @@
       "best_tier": 1
     },
     {
-      "title": "50余股涨停背后，商业航天“DeepSeek时刻”到了？",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwNnpyUVpYdEJQeFhqc2lVR3VlbFRfc1RvMEZuc0lWT1N1dlBGZTRROW5Yb3JnM2RPY1VZbWlIcGZWS3l6bkZISQ?oc=5",
-      "source": "国产大模型新锐/凤凰网",
-      "source_tier": 1,
-      "published": "2026-07-11T12:00:31+00:00",
-      "summary": "50余股涨停背后，商业航天“DeepSeek时刻”到了？ 凤凰网",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "国产大模型新锐/凤凰网"
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
       "title": "Meta withdraws Instagram AI image feature after privacy backlash",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSzZBaS1NeTRNY3ZQcENqdE04VlZ2RERCZG9aaDNMRkRxWDhLRXdOdFdVbGdlcG1ac1FKeG9zNE1mbGNEbHVzQUtJaHBhVEJGNUZlU0tkTThQbWZnSkxwUXVNaHI0aWZTOG1WT0paRi1fekpBQTl5UVJ4aUh5Y1M1anl4eUNOdFRiSm5QalJmLVJwM21IYnNpcWh2VEoxSTA0QmJIUkU0OUI2MGduUVE?oc=5",
       "source": "Meta AI/Maktoob",
@@ -1095,21 +1720,6 @@
       "hn_comments": 0,
       "sources": [
         "Meta AI/The Peninsula Qatar"
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "全球八大AI前瞻两场八强战，多数看好英格兰、阿根廷晋级，DeepSeek、Grok逆势看好挪威、阿瑞战平",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSFNscFZwRHNZbzdWSjNTeXNSWGpMbTdNT2tWeUc3ZXA5dTdmTW1sTl9ySGs0WFlaVTdPejVsdmZhSUpvZmY0enFycnlhbmp1VVIzcFpRU1JzRDB5LXJOdjhnTGMtaWRFamc4dnJ4WWtPcG9XempQWEwtYkNQNU5WWQ?oc=5",
-      "source": "国产大模型新锐/新浪财经",
-      "source_tier": 1,
-      "published": "2026-07-11T10:09:00+00:00",
-      "summary": "全球八大AI前瞻两场八强战，多数看好英格兰、阿根廷晋级，DeepSeek、Grok逆势看好挪威、阿瑞战平 新浪财经",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "国产大模型新锐/新浪财经"
       ],
       "source_count": 1,
       "best_tier": 1
@@ -1320,21 +1930,6 @@
       "hn_comments": 0,
       "sources": [
         "国产大模型新锐/凤凰网"
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "关于AI浪潮的一点观察",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeTN1SlFReTlXX1VpcnJLRFpmQ2pZMmRjS3pySmZfTEY1SGx1bXU4eWIzV1VHdFNzbUlYb0NhblJlYjhfVE85REZ5ZFlOVFlkbEpKR3FtbmpzWTFtdi1qOGs5SVhMZ25uWWluOTNxNlYyWXp0amZfNU03S1FmanEyWWhrdlZtOVpHUWs2OEc2Mm9TenhjWldLUktwVzVHVHgzUUV2YVJoTQ?oc=5",
-      "source": "国产大模型新锐/新浪财经",
-      "source_tier": 1,
-      "published": "2026-07-11T01:17:34+00:00",
-      "summary": "关于AI浪潮的一点观察 新浪财经",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "国产大模型新锐/新浪财经"
       ],
       "source_count": 1,
       "best_tier": 1
@@ -3045,21 +3640,6 @@
       "hn_comments": 0,
       "sources": [
         "Meta AI/Firstpost"
-      ],
-      "source_count": 1,
-      "best_tier": 1
-    },
-    {
-      "title": "Claude Reflect is here. It’s your usual yearly Wrapped, but with Anthropic’s AI",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQURCQzdlRlEwU1lERFMtYzhhQng1UWxMTjRyRklGZlZvcUhHQ0pQRUpNRDNZN19FZC16aFpmWlNZSHUta3lWeEpTY1htTTNiNG1rQ3p3WVBNTVVibEU0R1pid3BEVFJZbTRwYWxXU05Yc29ZN3A0X0gzV0ZhdVZDWXRJSml4U3hxWnlFMXNEV1ZLdGFqNjkzaTZDMnZTcl9IcDFIWTFNTzBXbUVHUHlNT1BIVHhLVG8?oc=5",
-      "source": "Anthropic/Digital Trends",
-      "source_tier": 1,
-      "published": "2026-07-09T15:00:13+00:00",
-      "summary": "Claude Reflect is here. It’s your usual yearly Wrapped, but with Anthropic’s AI Digital Trends",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Anthropic/Digital Trends"
       ],
       "source_count": 1,
       "best_tier": 1
@@ -5360,16 +5940,466 @@
       "best_tier": 1
     },
     {
+      "title": "Elon Musk and Sam Altman Are Fighting in Public Again",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRl9TSWtfWW9raFRxdm5IYVZIX0dvYlhJZGFTYm1zOVpMdTFxd0hUbG5IVHFMd2Ffb3REUFJHekJwNFNadFdiY2ttTjFMa1VucTF2dG1XN1ZyVFdYNDA0ZnVqaUlpRkNhZXoyQTQ4X0R6UXdCeGdSOXFLWXRqZklreFVZZnlSaE5KUGRhN2o4UjdUQQ?oc=5",
+      "source": "AI领袖动态A/Business Insider",
+      "source_tier": 2,
+      "published": "2026-07-12T22:03:07+00:00",
+      "summary": "Elon Musk and Sam Altman Are Fighting in Public Again Business Insider",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/Business Insider"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-07-12T16:10:32-04:00",
+      "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. […]",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Verge AI"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Sam Altman Says He's ‘Not Afraid of Apple,’ Has ‘Tremendous Respect’ for iPhone Maker Amid Trade Secret Lawsuit",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlDU2w4ZU16a0JjOWtVWlVGVjVoVi1BTjdFczV0VHhWdUpXQ1RHdENOMDVlMWZUaElhenphZE9RRUhXZ2hNbWxFaW5OWkI1ME4xb3gybW5VYS1NWUtobzdxdkxtUy12WDZwUHp4b21HaHRRWEZCMHBYSUVod1BXT1h0MFdWQ0pqWEZRX2NCSXZvdUVxelJ5N2N5emw3Y2RsZEFaWl9VRTNvelJr?oc=5",
+      "source": "AI领袖动态A/Benzinga",
+      "source_tier": 2,
+      "published": "2026-07-12T19:19:18+00:00",
+      "summary": "Sam Altman Says He's ‘Not Afraid of Apple,’ Has ‘Tremendous Respect’ for iPhone Maker Amid Trade Secret Lawsuit Benzinga",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/Benzinga"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "'LOL ... so funny': Apple says ex-engineer stole secrets and coached a colleague to do the same. He now works at OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGEtcWtzQjUyb1VsTnAteXU0ZE1XaVpoUi1qRjBsUTJJeUZlME56ZzN1OENKNlkyNDJOblZOX3VuazRJbUwyQW1OYnpUME1rZmdrQm5EUmpBQ191cmpUV1RPVkkyS2ZSQzAwc2R4M0dFRXRKc0pVU2NkSlNkMGd5Ukkyc20?oc=5",
+      "source": "AI领袖动态A/moneywise.com",
+      "source_tier": 2,
+      "published": "2026-07-12T18:09:09+00:00",
+      "summary": "'LOL ... so funny': Apple says ex-engineer stole secrets and coached a colleague to do the same. He now works at OpenAI moneywise.com",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/moneywise.com"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "LinkedIn is the undisputed king of long-form AI slop, according to a study spanning five platforms",
+      "url": "https://the-decoder.com/linkedin-is-the-undisputed-king-of-long-form-ai-slop-according-to-a-study-spanning-five-platforms/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-07-12T16:41:47+00:00",
+      "summary": "One in four longer social media posts is entirely AI-generated, according to a Pangram analysis. LinkedIn leads with 41 percent of long-form posts flagged as AI-written. The platform made up only a third of all posts scanned but accounted for nearly two-thirds of all detected AI content. Because the detection model tends to flag content conservatively, the real rate could be even higher. The article LinkedIn is the undisputed king of long-form AI slop, according to a study spanning five platforms appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Decoder"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-07-12T12:27:06-04:00",
+      "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details […]",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Verge AI"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Elon Musk and Sam Altman clash again amid Apple lawsuit against OpenAI for trade secret theft",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQjc3SXJsS2E2QllhNlhsZjhSTDhBRnRpSkw2clNQUXR5U0U1cEdnTWRJOC1fZ01RSHEyOTlQZ2Z1djFVaGV4ejcyRXJob2NSM2xscGMyeTQtNzBYZXZ3Q3F0cVRGRy1ROXZqZFNVSDU1WXJnS2g2MWNwb1VvcG55UzQxUENPVF83VFpTUTE2TQ?oc=5",
+      "source": "AI领袖动态A/Pluang",
+      "source_tier": 2,
+      "published": "2026-07-12T16:19:21+00:00",
+      "summary": "Elon Musk and Sam Altman clash again amid Apple lawsuit against OpenAI for trade secret theft Pluang",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/Pluang"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SLXZXRVdMZTFEOGZXeklZZ08teGV4cDBzX0QwamVMaXJwWjRxdjlyeFdEU25HTktDVEpjSHRxZkpBSkR3YmYzV0VvOHptNVV2Wi1INmpkdEpFcW1TTjNhMFRmSWFDbjluM1BJQms2QTEwMkxtTmfSAXtBVV95cUxQVkl1TjhyX0cwZFgxRW03dXRWazV3bUNEVklENjh3SlZPcDBBZFpDWEk4NWlRaGowM2JrY0JnZndKejZlUHd3SDBYQURjTHU5Z1ZseXlvXzdRamZ4VUF6QUQwYXVKSUptOTRJTmlDcFBTT0hyOWN5U3ZVV3M?oc=5",
+      "source": "AI领袖动态A/CNBC",
+      "source_tier": 2,
+      "published": "2026-07-12T15:32:34+00:00",
+      "summary": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit CNBC",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/CNBC"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
       "title": "Elon's obsession tells that GPT-5.6 Sol is world's best model: Sam Altman | GPT 5.6 Sol is OpenAI's most powerful model | Inshorts",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3ZRQzM1ajBzM1FsUFo5R1VTUzlyVU0tWE8tME9abXo0UDhHNE5aZlpzRHplR0ZOUkVTVTVjV0hrMk1TYzEzOWNoeERERy1ZRWFqOHhsZjdGNkJlaWg4RWh6bWM5RVRGUTd0VHRnTTlHNVlTSVk3d1FOX1pncGNGaXR3WFhPQkhPbFFJVDhlZGxFRUFpbWlyai1fdFMyWWx3ZFdWZ3pRZXYtSEdQUjlHclpRNjhxZG_SAbwBQVVfeXFMTmVEWTdLNm8ya3FfOHZCQ3d1cFlDbkNqMFBWWTNCYlhGbGFxVHRsRENzZDE3RVJXUmY1cWpoWVRIWDF3dlUxUHZaSW5BNDA4Z2xBTXhfaWJjYTAtQjlvUzRIMlVkSzBjd2RwQk9PcWhXdTN0dVJuOXczNTdmdk15ajVVTTU5M3dqMWpxNG1TSTRVMDFHX3ZkdkdEbnFBTnBuYjNVcnBXZWc2OXAwRlpWa1ZDb1dhU1M4UU5oV08?oc=5",
       "source": "AI领袖动态A/Inshorts",
       "source_tier": 2,
-      "published": "2026-07-11T22:27:25+00:00",
+      "published": "2026-07-12T15:17:47+00:00",
       "summary": "Elon's obsession tells that GPT-5.6 Sol is world's best model: Sam Altman | GPT 5.6 Sol is OpenAI's most powerful model | Inshorts Inshorts",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
         "AI领袖动态A/Inshorts"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "AI giants learn what everyone else on the modern internet already knows",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEtyMlE1dXNvZmNiYi1vU2J6OC01VW5pSEVaLWZNX1FGa3BpZHhRVTI0SEF1QlNqbFg2NUdYTXpZRGFGUXpNcGctb2R1Mm01MVk2azNIS3VrQURUMTR1WV9wVG02UVFuR0Z1blBwTjBEUVlXUWxmeC1BZDlXNVBfcDFvRVB3LXR5VWcxc25KanIzVkpWaVZoaTk4REZLQWg3WjhLVE03LUE?oc=5",
+      "source": "AI领袖动态A/Business Insider",
+      "source_tier": 2,
+      "published": "2026-07-12T14:03:35+00:00",
+      "summary": "AI giants learn what everyone else on the modern internet already knows Business Insider",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/Business Insider"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "'Elon is obsessed with me again': Sam Altman mocks Musk's space data centre plans",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYkNWalBCaG8xZUJNQ3RJWG9sdE15ZmdBVENYenJTVExBWnRLT2hkWFNfeHFqOU9XN2tjSGxlWnNRc1BhNW8zaV9PYmJlOGRBLTUySFpUZGJjVUFDMjhwWTEweDN5aTN2SjdpRkx1LWMwZkZNaWF5Q3lxdGNnZjM3b0tUVEY0MUpCbEp4SlBGUDdxN0VVMFFvN0phQnR6RHFwNVFOalBSUGFaS0g1SkRJV0lOTV9MZG1ZYXdHR1pPTdIBxAFBVV95cUxPSXg4U0RQSEw5UDQ1RFhZbEVWeXlvdkxYeVdpN0duX29Eaml5UzUwdkk2d3hlZlRxM3BxZHNiMUFleDFONlg4U0dKaERGb3hCc2JRTmtEVDNSN2p1Z3owUGxMSkZ1QzRSSkhkZDhZUXBaeEREVUVDZjhYRlIxYzNGSnlKNGhrWUdvWVd1dHpGOUVYRE1lNDlPZGE5RmxhdVVjcndiRldMcGctb0pyUlVYVF9kQjZNbHQxMkpqQWdxMEItODFY?oc=5",
+      "source": "AI领袖动态A/Firstpost",
+      "source_tier": 2,
+      "published": "2026-07-12T13:52:27+00:00",
+      "summary": "'Elon is obsessed with me again': Sam Altman mocks Musk's space data centre plans Firstpost",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/Firstpost"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Elon Musk's Feud With Sam Altman, Howard Lutnick's Message and More: This Week in Tech",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU1hyVVBzbHhXNzZURnN1MEFPRGhsZjRUbkpyZ3NZak5yWWZBSXdWeWxuMzdwTW5zU0w2cnVIZVF0VkZXelp0bWVRMElLMXlOM0FialdVU2hBV1RCZzAzaUlDcjR5MFJGVHByWTVIRXJlaFpZNE1sc3hibFFlXzlCTDlrZWtHLVFwX0V1dXkzSVZ5U2tJQThfb0phZmE4Y1hFTXJzX05jWDZlbm9kTnlqWC1uUnN3MF9ERzZPeGlxbzBjOWlHXy1UaEpBbklqTjc4?oc=5",
+      "source": "AI领袖动态A/Benzinga",
+      "source_tier": 2,
+      "published": "2026-07-12T13:01:59+00:00",
+      "summary": "Elon Musk's Feud With Sam Altman, Howard Lutnick's Message and More: This Week in Tech Benzinga",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/Benzinga"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "S&P Global sees OpenAI as a \"key credit risk\" for Oracle and cuts its credit rating",
+      "url": "https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-07-12T11:43:36+00:00",
+      "summary": "S&P Global has downgraded Oracle's credit rating to \"BBB-,\" one notch above junk status. OpenAI accounts for roughly half of Oracle's $638 billion in contractual obligations. If OpenAI walked away, Oracle would be stuck with massive data center capacity it couldn't fill. The article S&P Global sees OpenAI as a \"key credit risk\" for Oracle and cuts its credit rating appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Decoder"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Meta kills Muse Image feature that let anyone generate AI photos of Instagram users without consent",
+      "url": "https://the-decoder.com/meta-kills-muse-image-feature-that-let-anyone-generate-ai-photos-of-instagram-users-without-consent/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-07-12T11:20:30+00:00",
+      "summary": "Meta pulled a controversial feature from its new Muse Image model after widespread criticism. The feature let users generate AI images of other people by @-mentioning their public Instagram accounts. No consent needed, just a username. Meta admits \"this feature missed the mark\" and shut it down days after announcing it. The article Meta kills Muse Image feature that let anyone generate AI photos of Instagram users without consent appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Decoder"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Video | Elon Musk & Sam Altman War Of Words Intensifies Amid Apple Lawsuit Showdown",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVY1dGV1bUxpVHJua1o5VlRCd2JZM09vSktnclJlTnBZVWVobld2cUF1b0V3RUhkcmd3dm4yY2VHeUlDSEExUDM4U2x2WUh1Vnc2SkhtZ0lwOXRZdnc0bUJvZXBSY253ejVweWRzaEkxR0VMSS0zUzVURm5pOFhqenlzSDBiNzFCeDB1T0QyS21jWUxmTFJpQUVIdFh4OEFhRUhhTnRuVVRJNFZw?oc=5",
+      "source": "AI领袖动态A/NDTV",
+      "source_tier": 2,
+      "published": "2026-07-12T10:40:58+00:00",
+      "summary": "Video | Elon Musk & Sam Altman War Of Words Intensifies Amid Apple Lawsuit Showdown NDTV",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/NDTV"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "'Homeboy, You're Obsessed With Me': Altman's Sharp Reply To Musk's 'Scam Altman' Jibe",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVU0OEM4S282NGZkX25UcmpLRkVxUURZLVFtRkFBOXExcUhZc0RKRzU0dDVzRHRJY01ULTlQOExXaldqUnQzUjRTeW51WnFrOEZ3ajREVlNoYkNZVTVfbTN0Z1RuWGtmY1EzM0UwMzJhem9mRVYycERXMkY1R2NyNnoyLUc1QVlWTy1RdFNfdFRRSEVhZ0lJU0pXWU9HYVlxWVdOWVI3UTI4a08yX3NEcWxHYm1xcjY2UEHSAccBQVVfeXFMTUZEbUwxSGtqM1Z5OHJpZ0NsVjJJSEZmeXpRWHdDLW9PTWdOQlpWQ09xWUN4Qlk2bkZHSXFlWVQ1LWkzQlgwbnJYNmIweko1N0NQR25vRlVBV3RGb3NEYUgtVFdqRjFQT3BrU190NkNwdEY3WVJ6eTJLSjIweEJNSjlmOG9TR3RDU1hqQUp1M0w4R2JYWTJPVHBtN3JzaDFYVTBNbDAwOEdteUtFcUpYVXZwYWVQV2k0dVgzOC14WnpxanlCRmx6QQ?oc=5",
+      "source": "AI领袖动态A/outlookbusiness.com",
+      "source_tier": 2,
+      "published": "2026-07-12T09:38:49+00:00",
+      "summary": "'Homeboy, You're Obsessed With Me': Altman's Sharp Reply To Musk's 'Scam Altman' Jibe outlookbusiness.com",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/outlookbusiness.com"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "As Elon Musk calls him 'Scam Altman' over Apple lawsuit accusing ChatGPT-maker of stealing trade secrets,",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQN29kU1pLM2ZpbTVYQUJSV2JXRHVjRzdkV1JhTGUzSF85dF9QTFJKTFkxOUhrdGliNzA5NDV0NlB4YXh0cktadExfZ2RIMGlsUVUtSWhhQi1GakpINlpfa1hjT1ZTMm9weUc2Q3RtT0NYYTF4RGsxZU9iT1AyVlg3UGtTVnU4aG1uaG1Kc2J2ZFp2Tkp5MEpGR2VKdm14VkJBOWtNVFI2MXV3SkVMT2l0NGdMSVdyOFFFV1J4cXN3d2ZFM0pvTThDZDJsQ0RHbFktQzd6MDItQ2J1MXJVa1I4ZlFjeGk1OThXOTZ1S2Q3V1g0clZ2Qnl2a3lfUkNCa0RyVGdKTGx5c3RCaU9ISFoxNl9vYzlDWTZONEpWeEdPaTdFaEtUcFFMX3FNTldlZEZheTBYQUpUU2RIaXlNN2x2VDZOcUJQZDlKN3FfOEVNU1diOWxYWG5TcXE4QWlsdFFEdXBpcTdXTdIB7AJBVV95cUxNX0pNeUlqNzR5cFV6WWo2TjBKeG1tN3U2dTdhZ01vc3VjOUYyU1hQQWN5M0NIUWVROEtaWXR6LXRoVDBGdTIyV0hQSk9rOUZockFROGozTUNGaVQ2MkctTERiOXFMMmp4SGQ4UlhDSENfU25RVXJtR3E4ZUNXNjBLd3U2RXdsb19EMnA2S2xPZVVxRlhhWkNQcEVkSTQyS0hpZ0p1WDMwMWl5ZkNQWlpkSm1NMjhDS0dSeVVIdkwxUkl5WjBBSzB6M0Qya1IyRGFZRWEwMzg0cV9lZ28wNUFLejdtdTRELUpNbHdXb1F6UzFwSjF6bUtXRUpjVFh2TW5LUWxua3NmeFVoaG56Tno2RVotTFNxUUhGeGQ0QU5kb3U0SXhoUC11cU9qaWs1SU8tR1V1RlhZYjMxSmlXdXNCa1hWdjNCQ2cwN015dWZwODlpVFRHTEswQmtmWmY0OUhTYkxNNTY0bnBSYWE4?oc=5",
+      "source": "AI领袖动态A/The Times of India",
+      "source_tier": 2,
+      "published": "2026-07-12T09:17:00+00:00",
+      "summary": "As Elon Musk calls him 'Scam Altman' over Apple lawsuit accusing ChatGPT-maker of stealing trade secrets, The Times of India",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/The Times of India"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
+      "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-07-12T09:15:49+00:00",
+      "summary": "OpenAI CEO Sam Altman now says he's \"pretty sure\" AI has created more jobs than it's eliminated. That's a sharp turn from his earlier warnings about entire professions disappearing. Anthropic CEO Dario Amodei is walking back similar claims, too. But studies so far back neither the old doomsday predictions nor optimism. The article OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Decoder"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "🚨𝗝𝗨𝗦𝗧 𝗜𝗡: Elon Musk responds to OpenAI CEO Sam Altman",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3hUQ19tWFlyb253a0Ewdkc3M2NsM0h3QXVYNnlQRzFnOFNrTHVuTXFlLXVXTjNDTTRnRFY1MFZndl9OaEN2YlhaOTJpbjMxQXp2N3JFUGlaYVF3aUwtMjc5TXVfbTE5OTJPZlM5WFZhUkhQM2U5bjJYQkEtZGFxXzJtUGlvWjdxM0VST1VXYjhMejBabzRBUm9xNENXU2hWbVo1bTdjbDhNUkhOZ1pLOUR3?oc=5",
+      "source": "AI领袖动态A/Moomoo",
+      "source_tier": 2,
+      "published": "2026-07-12T08:46:55+00:00",
+      "summary": "🚨𝗝𝗨𝗦𝗧 𝗜𝗡: Elon Musk responds to OpenAI CEO Sam Altman Moomoo",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/Moomoo"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Grades dropped from 96 to 48 percent when a Brown professor made students take the exam without AI",
+      "url": "https://the-decoder.com/grades-dropped-from-96-to-48-percent-when-a-brown-professor-made-students-take-the-exam-without-ai/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-07-12T08:25:25+00:00",
+      "summary": "An economics professor at Brown University suspects most of his 86 students used AI to cheat on a take-home exam that averaged 96 percent. When he made the final an in-person test, 18 students dropped the course, nine didn't show up, and the average fell to 48.6 percent. Two large studies from China and UC Berkeley back up his case: where students lean on AI for homework, their proctored exam scores tank. The article Grades dropped from 96 to 48 percent when a Brown professor made students take the exam without AI appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Decoder"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "'Scam Altman', 'Homeboy': Elon Musk, Sam Altman clash again after Apple sues OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUpTdUg4bHhGaUpqQXZPMXJPR2J5TWFfRGZKRnNPSDktcGk4SGdVbFl1c3RNejhVUk8taEE1RHByN2s2QzR0VEtQdXh2VFRIMEN2WWxCaWdLcHNUck5jeWZzeFpvcEg3anNiOEFQVDBtcmJvb0FSZGdQdVo2ZUY1TWVDWnVyRVRNdzlackVNMTJWWWVSLUhLd0xvOWtOWHlfakJQS3N1cUZDWDJWV203cHdVYndkenNBWlZ5VW1ITm1rM092LTUwTdIBzgFBVV95cUxPLU9iWVN2UmJLX3NGOGVDNVkxQlY2ay1uTVMxc3RrdjFhN2tNWm41UExVM3VJV2pvUHVaZGVaZl9ybURmWWRvN3hXWUVQZkdlODRHVkRPQUxTazlwQkplVjItRG1LLThhUDMxaWpWdEdrRThuTkNvSG9XbmZCRklRclJNcWxrMlpEeUhiMGxOalF6UGxmUXYyUWhlX1lUQmIyVnVnRmVyV3hlREhsdkRQV2pEeEF2WG9QUzdwcFJPOUZNbnNWeDhPNTZ4Y1JEUQ?oc=5",
+      "source": "AI领袖动态A/Storyboard18",
+      "source_tier": 2,
+      "published": "2026-07-12T07:51:01+00:00",
+      "summary": "'Scam Altman', 'Homeboy': Elon Musk, Sam Altman clash again after Apple sues OpenAI Storyboard18",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/Storyboard18"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "AI agents win at Slay the Spire 2 after researchers replace growing chat logs with structured memory",
+      "url": "https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-07-12T07:45:35+00:00",
+      "summary": "The AgenticSTS project replaces the ever-growing chat log of AI agents with five separate memory layers. Tested on the card game Slay the Spire 2, the prompt stays at around 5,000 tokens instead of ballooning past 500,000. The agent wins 6 out of 10 games, while competing agents don't win any. The article AI agents win at Slay the Spire 2 after researchers replace growing chat logs with structured memory appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Decoder"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Elon Musk Turns Apple’s OpenAI Lawsuit Into Fresh Ammunition Against Sam Altman",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yVUJuaDl1XzhPM2hBWExTbVFsQ2RFVzNBWHUyMFpVTDBWb19INk40U3NIY3FDVXhDZDRuN0o4ei1rX050eXhvejc0eG5obnNJZi14UjIzS0xpQXZCUWJXeVlBN0NYVDg?oc=5",
+      "source": "AI领袖动态A/Yellow.com",
+      "source_tier": 2,
+      "published": "2026-07-12T05:53:15+00:00",
+      "summary": "Elon Musk Turns Apple’s OpenAI Lawsuit Into Fresh Ammunition Against Sam Altman Yellow.com",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/Yellow.com"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "\"Scam Altman\" vs \"Elon Is Obsessed With Me\": Musk And OpenAI CEO Clash Again",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMXNfNjRjWHRuWThMQ2JjQnNMVV9GVEZLR1M0WjRzSEJjWWhiYmxvTW12YkMyc3hRbHAydFNlblZlbEQ1czRaLVlpQ3FfblJoRWlHXy1xdjNSYmhDNlZfMjM5bXRjWHN6ODZiNkVwOHdUQWwzeHhwNmw0WWVrVVczRmU5OW50RzF2Q2xkRHBuX2YyOHRMekRKWndkN3RmQXF4N2dLWFpfd2VYLVhIYnFpSUo3YTVJcGY1WV9mbWljSWtGSVUwZ3lPRXFkZ3RwOURwckF4SNIB3AFBVV95cUxPUkJxLURtZkF4M0lUQ3duYVNFODJXclAta1lmeDNhSWNiNDFnNzFJdnAyUUlHRVJHR3d1eVhHLVNpWVF4TW05QjBTSE1fMVZ0QVlCWnZQSk41QnE0eE5Dc19XNHBPM1loWHRmQkZOaDJ6SUpZdG1uNUxoMXVFaWNmZ3FxcVRvUWtIWE9PemVPTDhRLWo4QVcwSFJ5aFR0N0JfcktVd3BuclZ0UmNCMjdTX1F6NHlLb1p5V0dGdVlmaF9oaTFFVWNielh6SE9IVG5mbHRSY1Z6VEh1d19O?oc=5",
+      "source": "AI领袖动态A/NDTV",
+      "source_tier": 2,
+      "published": "2026-07-12T05:51:37+00:00",
+      "summary": "\"Scam Altman\" vs \"Elon Is Obsessed With Me\": Musk And OpenAI CEO Clash Again NDTV",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/NDTV"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Tech Titans Clash: Musk Trolls Sam Altman With 'Parole Officer', 'Stole Apple's Phone Tech' Jibes",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT2haamhHMnpGaTNpYmFZTVBIZUdiUkp4dkpVQTZCeUhKX2UzWTF6a1NVSWx1Y1FXVkhsVFlaS3IyVVlKUThXazV0Y05UYWNnS3lSVkFBTnlGUEktcVkzOFRQR2lBOFlyWmMyNTJQbDhwSWlBb3pKdzdmOFhZTTY0ankxdmZIT0xJeXRPNl9YWDVxZXYtQXdyLUQydFhranJrdWlDUlM0SjgxaXhjb1RyNFMxVjVPdTVwUGhMUzdoN2NjS1ZtZFFBdnBNZm1Qck9YVXBzStIB2gFBVV95cUxNcER3Wm40WUFacXVJWkw1TDk4U3Nfc3Raa3A1X1NvcFAxc3VPWmFCcXhyRGdaRXNaTVpweGlsUTlUX2x0MzlqZmxXNWZ5eG5YazdabmxFd1RxLWlMLXVqeFZHX01JWENMcDZaZHJsN2szR1lUMnE2di1qOUQ3Y3hpXzlpcldDb29HcENwZFZjLXp3aEppaWtNelpsVHlSQkJscWctTUE3a0dlczZJczNvdXN0QVp0c3lvWlp3RUNrSkVZRlE4VS1jTkw0cDVLLVBpTG9ZUGYtQkhBdw?oc=5",
+      "source": "AI领袖动态A/News18",
+      "source_tier": 2,
+      "published": "2026-07-12T05:26:34+00:00",
+      "summary": "Tech Titans Clash: Musk Trolls Sam Altman With 'Parole Officer', 'Stole Apple's Phone Tech' Jibes News18",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/News18"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Elon Musk takes a dig at Sam Altman over Apple lawsuit, OpenAI CEO responds",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRXRJSmI3MGVIVFU4enp3a3RocWhub3htQ1J2MjNJSko0UGVFZWZJOVFUX0JCR1pBUGlrc05XM2RxcEs3c3ROTkZNV0VNQkNsNzBnNTZ4bklXMGhLOWZmVm8tSlZtaEs3dko5eWI4U00yb3l3cFU0TERTS2paalR1Tm5tU3ViWjVhR0lkS1AyQlA2YzV5eTdVM0tObEszUXFrR2d1U2xrTUVOeDFQcm03Q0JqMmsxNjZFVDNrN3cwaG9YMHdLS2VTNXU1c2NqR19IbTlMLU1ob07SAd4BQVVfeXFMTkZ4RWxOaXNBYURUQ3VFYnllY2J5R2hOaVNscHRZSTliSlZ6N01TeGlfWkRSdGRRUi1RYjBEVTAyemRnMk5TbjJsU1FINV84WF9TSEJ3SG93Qmxkd1lWVDBWZDF0dUxsdTBXcktvR083MHlhbEhBdXJVTzgwdXJqWkdVY2xuaGhZalk5YkhULU5Vc2JkQkw3cy1PZUowZ0V1MFdNMTV0MjBlUko4dWFIbXN6V3RQOHVvbjc1NnFkcjVQOG1Td0tOUDR0V2dHaWE1Y1ZHNy1taHdYaXZ3SFhB?oc=5",
+      "source": "AI领袖动态A/India Today",
+      "source_tier": 2,
+      "published": "2026-07-12T05:22:23+00:00",
+      "summary": "Elon Musk takes a dig at Sam Altman over Apple lawsuit, OpenAI CEO responds India Today",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/India Today"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Elon Musk responds to Apple accusing OpenAI of stealing trade secrets, says: Sam Altman literally loves s",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNb2lGNWZmSkVhaE52Mktfd0pQRENidkRFWm9vVzZIQjdkWWxPTjFiQVNkUHhxZlJ5dTE1eF9aN0ZiVTNCcE9IaWc3aWhnMVJ5WWpWVVVnZzRPbjJPRWdNcHdDRHRYTUJNdUpZWTgxQWNBMGIxc3BkOC1ydFR0cTllMVdNd2oxU3RMUEM2czdkS3cwYk5wbk51ZEExcHE2bEJ5Mll2WjFQNmtMSjM0SnNFQlR0ZHE2LWtLdG5zaGJOQTI5VTFINXl2NlRXZ3Ria0VGMm5jX3BoWkRlVTZ2djd5RXVLV1BXMWNGZml2T2Y5aGQzLXlpUXctSGs5MVc3RHFydnlsTXR1UTJyT0NQeC1yRWpFaDQ0Z29oYThXZVN0SjVIY2s5djVycVRzaV_SAbICQVVfeXFMTUtVdlEwcW1SemVJa0tlVGNBOHpIUGRlNjYxenJQYVV4Ml9WNnVwNnJNNERJazJVcTR1Ni1uYkJ6SmZiQktDd09iamE0ZllyNjl2dTQ3RjVaVVBUbUtNUWYyeG44eHVQVkk2VTYwTzlvZXo4dTFFMjg4aWp4NHFHLXl0UENXOTVxMmc5LXB6UE1SWFQ0MUhvQjFKQWJoQVF5T0g3Z0lxNmRoQTU3ZEdPcTBJU2N4WkllMGI0MlNtcnN3TlkwS0VUXzBKc2JZTklyNWhpbC03QnRCMTJpU0VuZ1Q2TTU5ZmFZdUtDTnJ4NXRXeGdKU3EzaHJ5cFlBR0dORkY3R01XazN2UzMzWnJpajc3RzJsZ0RBNk1NeUsyemNUSzFwWGRDSnRpZk9lOF9VbDNB?oc=5",
+      "source": "AI领袖动态A/The Times of India",
+      "source_tier": 2,
+      "published": "2026-07-12T04:48:00+00:00",
+      "summary": "Elon Musk responds to Apple accusing OpenAI of stealing trade secrets, says: Sam Altman literally loves s The Times of India",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/The Times of India"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Elon Musk Revives Feud With Sam Altman, Says He Took 'Scamming to a Whole New Level' - Tesla (NASDAQ:TSLA",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYzFvVXNPUGhCcUdtcUgzMmlFZFJ5R2xvekJ4eHJ4LUZvSUtKWGduU21ZUzV0UEdKbXQ3WlRGV1plRDRwbHlMbVBHYmpGWVhPOERxQ2RYenpnQm1iMWJPVS1qcDlKZHM4SGtGcUxkTkZSYUFxeDMtWjJIQnprRU1wMnhjVTF4UjVqWllRQ0V0WnZYcS1Oa2EzV2hKMUJycG4wVjNnSkdyVUhTRkZ2cWdJNHJITmJJaDZHQzFzLUhCVEt0aHJPeEtlaVpyLXlLRzg?oc=5",
+      "source": "AI领袖动态A/Benzinga",
+      "source_tier": 2,
+      "published": "2026-07-12T03:32:19+00:00",
+      "summary": "Elon Musk Revives Feud With Sam Altman, Says He Took 'Scamming to a Whole New Level' - Tesla (NASDAQ:TSLA Benzinga",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/Benzinga"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Elon Musk Accuses Sam Altman Of Stealing A Charity And Apple’s Technology, While Vowing That SpaceX’s AI1 Satellites Will Fly Next Year But That Altman Will Be In Jail By Then",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxONUtadVdTR2VTSXZLb0UtYVFFQWE2T1R4MV9DRzNCckRnX2ZtRzlReTRFRmxXWmR0MVJocUs3bE1vcGVOckdla3pYSzVKZS02MHRZZG9ITy1FMm1GOUhycnd0MXdYV1FCT3NhS3p5WGRIR0V2ekF0RDlEbTdjVWJ1Z2Y3Tnl3UUJ0LV9VWF9HSUprUFc2Z1RKd193eFdNVHA5eG9sYlN0RW5YRllOZU9DaDJRU0F3Z0RZRzB6bFdkN2JPc3BHRDdwVGFhRUVtQnFYZmFMMEY3RGZCREFGZ2pZWTAxZEJCSEktNkg3MVQ2d2ZpMXZwTUQyVjhaSnFRamk3clkzUFMxQ3JORFMtWEhfUG5YQ002LUZKdWpsS3pmONIBpAJBVV95cUxOajF4dDFabmp3SXlTQWd3WkxsWEVhVDVMZWJmWUE4YWVWclYyUFU3Z20waFlIdnV2TE5YVmhqX1kxRlNiZDM5SDJyaVN4Y1FlWEk5QWE0M2dCeFladmRmZUJzLWd4WW0xQmxyZHVyS2FGdFl4dzIzWUZBa1ZUaW91NzVIZGdKajdoMEtUVHF0bzVOcG5GeHV3aVJvbzNGSHRvb3BGWUJoUlQzV0wxSFhYQ1BKcXk4bVhYLWNYa2tPZ2p3bmduVVlpalV4OFNNTi1rSkNycThLSDIwRXN3QTV6LUNnVXUzaVlJajV0WWMxMHVkVi1ieFU4bFdlUEJpMVZ4ZWRXMkR4Mlh0cEVWMkxicTFEZVBVVGtSVV82MzZQSENlTGdl?oc=5",
+      "source": "AI领袖动态A/Wccftech",
+      "source_tier": 2,
+      "published": "2026-07-12T01:02:18+00:00",
+      "summary": "Elon Musk Accuses Sam Altman Of Stealing A Charity And Apple’s Technology, While Vowing That SpaceX’s AI1 Satellites Will Fly Next Year But That Altman Will Be In Jail By Then Wccftech",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/Wccftech"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Book Review: The Infinity Machine: Demis Hassabis, DeepMind, and the Quest for Superintelligence by Sebastian Mallaby",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaXFkR1R5Wm1rNzllV0pOQ0EyWmYyMmc4N2xjenNzMFFjcW05NnlhcVhUWGJpM3RvV1pQYWh4R0VhTDBpOE9saHcwU3lnVExuNDlXdndPbm9yd0NydnNxM1VzYThYVW55ekROZi0zRW40bWdwb0Z0alhiMFRSMHVBMUpOb0ZLbnVFc0JuY0QwT3RRcTdnNkF0TE1XSUJOa0lQRmhIN2pObGUyMmZNYTN5OEZaNmRfd3hqVFdpNUNUQndZLVU0bjlEVnphb2o4ZkF3?oc=5",
+      "source": "AI领袖动态B/Unite.AI",
+      "source_tier": 2,
+      "published": "2026-07-12T00:39:04+00:00",
+      "summary": "Book Review: The Infinity Machine: Demis Hassabis, DeepMind, and the Quest for Superintelligence by Sebastian Mallaby Unite.AI",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态B/Unite.AI"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "‘Stole all of Apple’s phone technology’: Inside fresh Elon Musk-Sam Altman feud, SpaceX CEO's ‘parole officer’ jab | Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPcVNvQlROUFc5RXJzY0dLN0l3WW9SQWtVUFlLd1BmTk04YXZ2VEMwQlhBOVBfWmJTMnB1SWhRZHo1ZzYwRmczYVRIM2NCSGtHUlV3V01YdWx1dXBGWkhWdzlmRmI0UzBrNDB3VWplLXV6d3o2WUNoaG5LaE5WWXdyU1hJcWNwSWtUb1ZBT0pTSWV6R3VwZ3Voa1R5V2xoNUoyS1l5WUtBUFRRX3BBZk01TVROZFY1TUo5M2kwUWlyTnNNcVpqSlpUcHNZVVVmME00WTJsdlc5d1RNX0tYVVZnWXE0bEpEWHdtSzdOSVRZbjdkUVR2WC1SaUZfQ1J2M1paWVY1MDBydzVXUdIBjwJBVV95cUxQMVBMMEhWWHpGMk9Tc002LXBJWWZsV3BfQ1djcHgyWTdncFV2cFpVUE5ldnJfaHoyUUtIQlhSNmtDUVpEamhkV3hQU3hsZDNqOHRzRkNTZGJKMFNVQVp2R2paOUdSYWRXMTczYTBXYUFqQ3JFNDF4UFc0U0tEX3N2VmplNVVuMU05VWFTNVBwazd5SWtFbHphNGhUU1JqdF9QY3dnSWtnNHg0X1lkRW5OVjYwQUE4MUVGckZJZDhFNXpFR0lSNU8tXzRPRzZBdXFPZ0hOOEhLSHdzNGdkY0tNOUZMT3NWZTRGcDNSN3dKSHc5al9LMDZXYVRuTE5MRUhYUWRvWE9vRjItc1hRcjcw?oc=5",
+      "source": "AI领袖动态A/Hindustan Times",
+      "source_tier": 2,
+      "published": "2026-07-12T00:33:38+00:00",
+      "summary": "‘Stole all of Apple’s phone technology’: Inside fresh Elon Musk-Sam Altman feud, SpaceX CEO's ‘parole officer’ jab | Hindustan Times Hindustan Times",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "AI领袖动态A/Hindustan Times"
       ],
       "source_count": 1,
       "best_tier": 2
@@ -5460,21 +6490,6 @@
       "hn_comments": 0,
       "sources": [
         "The Decoder"
-      ],
-      "source_count": 1,
-      "best_tier": 2
-    },
-    {
-      "title": "Elon Musk responds to Apple accusing OpenAI of stealing trade secrets, says: Sam Altman literally loves s",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNb2lGNWZmSkVhaE52Mktfd0pQRENidkRFWm9vVzZIQjdkWWxPTjFiQVNkUHhxZlJ5dTE1eF9aN0ZiVTNCcE9IaWc3aWhnMVJ5WWpWVVVnZzRPbjJPRWdNcHdDRHRYTUJNdUpZWTgxQWNBMGIxc3BkOC1ydFR0cTllMVdNd2oxU3RMUEM2czdkS3cwYk5wbk51ZEExcHE2bEJ5Mll2WjFQNmtMSjM0SnNFQlR0ZHE2LWtLdG5zaGJOQTI5VTFINXl2NlRXZ3Ria0VGMm5jX3BoWkRlVTZ2djd5RXVLV1BXMWNGZml2T2Y5aGQzLXlpUXctSGs5MVc3RHFydnlsTXR1UTJyT0NQeC1yRWpFaDQ0Z29oYThXZVN0SjVIY2s5djVycVRzaV_SAbICQVVfeXFMTUtVdlEwcW1SemVJa0tlVGNBOHpIUGRlNjYxenJQYVV4Ml9WNnVwNnJNNERJazJVcTR1Ni1uYkJ6SmZiQktDd09iamE0ZllyNjl2dTQ3RjVaVVBUbUtNUWYyeG44eHVQVkk2VTYwTzlvZXo4dTFFMjg4aWp4NHFHLXl0UENXOTVxMmc5LXB6UE1SWFQ0MUhvQjFKQWJoQVF5T0g3Z0lxNmRoQTU3ZEdPcTBJU2N4WkllMGI0MlNtcnN3TlkwS0VUXzBKc2JZTklyNWhpbC03QnRCMTJpU0VuZ1Q2TTU5ZmFZdUtDTnJ4NXRXeGdKU3EzaHJ5cFlBR0dORkY3R01XazN2UzMzWnJpajc3RzJsZ0RBNk1NeUsyemNUSzFwWGRDSnRpZk9lOF9VbDNB?oc=5",
-      "source": "AI领袖动态A/The Times of India",
-      "source_tier": 2,
-      "published": "2026-07-11T14:23:00+00:00",
-      "summary": "Elon Musk responds to Apple accusing OpenAI of stealing trade secrets, says: Sam Altman literally loves s The Times of India",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "AI领袖动态A/The Times of India"
       ],
       "source_count": 1,
       "best_tier": 2
@@ -7625,6 +8640,861 @@
       "best_tier": 2
     },
     {
+      "title": "芯片板块剧烈波动，业内多位高管称 AI 需求依然强劲",
+      "url": "https://www.ithome.com/0/975/850.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T23:54:12+00:00",
+      "summary": "IT之家 7 月 13 日消息，过去一年，随着投资者押注半导体将在全球 AI 基础设施建设中扮演核心角色，芯片股迎来了一轮强劲上涨。不过，近期芯片板块再次出现剧烈波动，也引发市场讨论：这是否意味着 AI 需求正在降温？IT之家注意到，上周接受 CNBC 采访时，多位 AI 行业高管对此表示并不认同。他们认为，尽管企业如今在 AI 使用成本方面变得更加谨慎，但整体需求依然十分旺盛，并没有放缓迹象。Playground Global 合伙人、英特尔前 CEO 帕特 · 基辛格（Pat Gelsinger）当地时间上周三表示：“我认为 AI 的需求几乎是无限的。”他认为，目前真正限制 AI 发展的只有能源供应。“随着智能水平不断提升，能够创造的经济价值几乎是无限的，几乎所有行业都能从中受益。”基辛格表示。数据中心和芯片企业：供给依然跟不上需求近期芯片股波动背后有多个原因。其中之一是 Meta 宣布将出售多余的 AI 算力。虽然这一消息推动 Meta 股价上涨，但也让市场开始担忧，整个行业是否已经出现算力过剩。今年，马斯克旗下 xAI 也曾出租闲置算力，进一步加剧了这种担忧。另一方面，全球存储芯片巨头三星电子本周预计利润将大幅增长，但股价却出现下跌。由于过去一年三星股价累计上涨超过 360%，市场开始质疑其未来还有多大上涨空间。不过，多位业内人士表示，这些事件并未影响 AI 算力和基础设施",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "薄薄一片能吸住十斤重哑铃，我国新材料吸附力提高 400 多倍",
+      "url": "https://www.ithome.com/0/975/849.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T23:51:51+00:00",
+      "summary": "IT之家 7 月 13 日消息，据央视新闻 7 月 12 日报道，今年以来，我国新材料产业重点领域密集取得原创性成果突破，惠及高端制造、人工智能等一批关键产业，成为培育新质生产力的重要引擎。近日，西北工业大学研制出一款新型智能材料，该材料只要一通电就能牢牢吸住 10 斤重的哑铃，吸附力比传统材料提高了 400 多倍。西北工业大学教授朱继宏表示，它像个电子皮肤一样，能够灵活变形，而且能强力抓取。可以广泛应用于像芯片制造、软体机器人、精密装配等新领域。不仅如此，在新型半导体、新能源储能、柔性光电等多个领域，今年以来，新材料研发接连取得突破。在山东济南，新一代电子级树脂材料实现量产，不仅大幅提高了 AI 服务器的传输效率，还把能耗降低了 40%。在江苏连云港，三条世界级高性能碳纤维生产线不久前集中投产，可带动海上风电装备、新能源汽车、具身智能机器人等产品性能全面升级。IT之家从报道获悉，截至目前，我国已累计推动价值超 550 亿元新材料产品进入市场，建成全球门类最齐全、规模第一的材料产业体系，新材料产业产值达到近 10 万亿元，100 多种材料产量位居全球前列。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wS1diRHdBYnVPdGZwY0lmT0phUnJhTXNYb1hETHBGX1pxVWVGaEJQbWJiell2RHVIal93ZHZrajc4aVlScnhpT1ZKakx0UnR4VUdiTElKTHBzRlJQQVlKdw?oc=5",
+      "source": "中文AI聚合/thepaper.cn",
+      "source_tier": 3,
+      "published": "2026-07-12T23:45:00+00:00",
+      "summary": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理 thepaper.cn",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/thepaper.cn"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "调查显示近七成美国民众支持设立 AI 主权财富基金，用于全民共享 AI 红利",
+      "url": "https://www.ithome.com/0/975/847.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T23:44:23+00:00",
+      "summary": "IT之家 7 月 13 日消息，根据一项最新调查，随着科技企业裁员不断增加、企业整体利润却持续增长，越来越多美国民众希望通过设立 AI 主权财富基金，让大型企业承担更多责任，并将 AI 带来的财富回馈社会。市场研究机构 Verasight 于今年 6 月对 1690 名美国成年人进行了全国调查，并于本月公布结果。调查显示，69% 的受访者支持“强制”AI 公司将 50% 的股份转入一个公共主权财富基金。Verasight 首席执行官本杰明 · 莱夫（Benjamin Leff）表示：“在公众看来，AI 主权财富基金是一种能够将 AI 产业创造的收益重新分配给整个社会的工具。”今年 6 月，美国参议员伯尼 · 桑德斯（Bernie Sanders）提出了《美国 AI 主权财富基金法案》（American AI Sovereign Wealth Fund Act）。如果法案获得通过，公众将通过该基金持有美国最大 AI 公司 50% 的股权。桑德斯上个月在一份声明中表示：“这将确保 AI 创造的经济收益用于改善所有美国人的生活，而不仅仅是让世界上最富有的人变得更加富有。”他还表示：“AI 的未来以及人类的命运，不应由硅谷少数追求权力和利润最大化的亿万富翁在幕后决定。”IT之家注意到，近年来，美国科技行业裁员人数不断增加，令许多员工对就业前景和职业安全感到担忧。与此同时，各大科技公司仍在持",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "“让人工智能惠及每一个香港市民”",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOG9ZYnpEa19sSEI4NHNkc1VaMkgwN1JGUGN5YjlzZU9xR01TZmRoTDVFVXM0ZEZHbHBfRkZzVkZFUWdRY0s1aU9CcmdBOE5EdDBlN3cxbFczbEQ4YzctUzY1bU9uV1htdU5ULUZ3WWo2WEJuWFgycGhkdTJkY3dTbHBzeUpYR3FGMzdjcXU2dHpPdW5HamFDMExoZ0ZZUEFTVTY3c0tKUS0wdW95dlpyRTVB?oc=5",
+      "source": "中文AI聚合/新浪财经",
+      "source_tier": 3,
+      "published": "2026-07-12T23:31:34+00:00",
+      "summary": "“让人工智能惠及每一个香港市民” 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "IT早报 0713：央视曝家电测评造假链条；金山 WPS 宣布已改善 C 盘占用；GPT-5.6 一小时破解 50 年难题；宠物坐主驾自动泊车博眼球被交警处罚 3 分 200 元...",
+      "url": "https://www.ithome.com/0/975/843.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T23:26:12+00:00",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 7 月 13 日星期一，今天的重要科技资讯有：1、央视曝家电测评造假链条：测评直播间偷偷动手脚抹黑竞品、和水军唱双簧收割消费者记者多地暗访直播机构揭开完整造假链条：部分直播间刻意布置测评场景、更换备用样机、伪造产品使用效果，还恶意损毁竞品制造缺陷，并利用水军控评造势。>> 查看详情2、金山办公：WPS 已完成初步存储管理能力优化，开放体验版试用正式稳定版本预计 7 月底陆续推送。>> 查看详情3、仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想OpenAI 最新模型 GPT-5.6 Sol Ultra 利用 64 个子智能体，在不到一小时内独立完成了“循环双覆盖猜想”的完整证明。这一图论难题已悬而未决长达半个多世纪。虽然证明简洁巧妙，但尚未经同行评审，数学界正保持谨慎并展开审查。>> 查看详情4、女子为博眼球让宠物狗坐主驾自动泊车，警方通报罚 200 元记 3 分为吸引关注，上海一女子将宠物犬单独放在驾驶位上使用自动泊车功能，引发围观。警方已对其妨碍安全驾驶行为处以罚款 200 元、记 3 分。交警提醒，自动泊车属 L2 级辅助驾驶，驾驶员必须始终保持对车辆的控制。>> 查看详情5、夸大停电范围、曲解断电行为、编造收费名目，电力部门回应多起台风期间涉电谣言据央视新闻报道，受台风影响，",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "分析：社交媒体超四分之一长文为 AI 生成，LinkedIn 成重灾区",
+      "url": "https://www.ithome.com/0/975/842.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T23:26:09+00:00",
+      "summary": "IT之家 7 月 13 日消息，根据 Pangram 的一项分析，目前社交媒体上超过 250 个单词的长篇内容中，每四篇就有一篇是由 AI 生成。其中，LinkedIn 的 AI 内容占比最高，41% 的长文被判定为 AI 撰写。虽然 LinkedIn 仅占此次扫描帖子总数的约三分之一，但却贡献了近三分之二的 AI 内容。IT之家注意到，在 X（原 Twitter）平台上，接近一半的长文被认为是完全由 AI 生成，或是在 AI 辅助下完成的。相比之下，Substack 的 AI 内容比例最低，约为 10%。Reddit 的回复（Replies）则几乎全部由真人撰写，人类创作占比达到 98%；不过，Reddit 的独立帖子（Standalone Posts）中，AI 生成文本出现的频率则明显更高。这项数据来自 Pangram 的 Chrome 浏览器扩展。该工具于 2026 年 4 月至 6 月期间，共扫描了五大社交平台超过 100 万篇帖子。Pangram 表示，其 AI 检测模型 Pangram 3 的误判率（即将人类创作误判为 AI 生成）仅为 0.01%。不过，该公司也承认，模型识别人类原创内容的能力可能强于识别 AI 内容，因此实际的 AI 内容占比可能比统计结果还要更高。这项研究并未对 AI 内容的质量作出评价。不过，LinkedIn 似乎已经感受到了 AI 泛滥带来的压",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "家长花 3 万打造“少年马斯克”，有研学营标榜让孩子“6 天创办 AI 公司”",
+      "url": "https://www.ithome.com/0/975/841.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T23:17:12+00:00",
+      "summary": "IT之家 7 月 13 日消息，据中国新闻周刊今日报道，“少年马斯克”是今年被不少家长和从业者关注的科创教育品牌，每期课程费用接近 3 万元。一群还没进入青春期的孩子被推上创业路演台，是近些年 AI 等技术迅猛发展后出现的新现象。大湾区港澳人才协会研学教育发展委员会主席陈重捷发现：“家长们的 AI 焦虑十分明显，迫切希望参与研学的孩子能在三五天内了解 AI，甚至熟练使用 AI。”图源：Pexels报道提到，不少此前做户外营、英语营的机构突然转型开设 AI 研学营，甚至有从业者选择在深山或是野外组织几天的闭门 AI 研学，这些所谓 AI 研学营，很多都是从第三方打包购买的服务。北京一家研学机构也推出了“AI 少年未来计划”，打出“8 岁当产品经理，13 岁当老板掌投资”的口号，甚至标榜“6 天，创办一家 AI 公司”。该机构工作人员表示，这个暑期营为 6 天 5 晚，费用 12800 元，采用全封闭管理，让孩子学习 AI 底层认知和商学基础，同时将财商思维、创业实践融合在一起，“连很多大学生都理不清楚的商业画布，孩子 6 天就能上台讲解”。据外媒 TechCrunch 今年 1 月报道，在生成式 AI 狂潮的推动下，“大学辍学”正从创业红线转变为一种象征“速度与决心”的荣誉勋章。该媒体指出在如今在创业路演中，创始人最引以为傲的或许不再是产品有多完美，而是他们为此放弃了多少退路。随着生",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "消息称 HBM4 价格明年有望翻倍，产能瓶颈与长期合同加剧供应紧张",
+      "url": "https://www.ithome.com/0/975/840.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T23:13:11+00:00",
+      "summary": "IT之家 7 月 13 日消息，受到人工智能需求激增与产能结构性瓶颈的双重推动，高带宽内存（HBM）的价格到 2027 年有望翻倍。据 DigiTimes 上周五报道，业内人士透露，下一代 HBM4 的价格有望升至每 Gb 4 至 5 美元甚至更高，而 2026 年下半年的价格约为每 Gb 2 美元。此次价格上涨主要源于 HBM4 极其复杂的制造工艺。HBM4 的生产周期长达 4 至 6 个月，而且初期良率明显低于成熟产品。此外，生产 HBM 所消耗的晶圆产能约为普通 DDR5 DRAM 的三倍，这意味着在现有产能条件下，内存厂商能够生产的 HBM 数量受到严重限制。供应紧张的局面还因长期供货协议进一步加剧。三星电子、SK 海力士和美光等存储巨头，正通过与顶级 AI 客户签署为期 3 至 5 年的长期合同，提前锁定全球 HBM 产能。DigiTimes 认为，随着越来越多 DRAM 产能转向 HBM，再加上长期合同占用，到 2027 年，全球约一半 DRAM 产能将无法向中小客户供应。与此同时，英伟达即将推出的 Rubin AI 架构正在加速 HBM4 的导入。不过，存储厂商也面临新的利润取舍。由于今年服务器 DDR5 内存价格持续上涨，部分厂商的 DDR5 利润率已超过 80%，这使得内存制造商只有在 HBM 能够带来更高利润的情况下，才愿意将生产线从传统 DRAM 转向 HBM",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "OpenAI Codex、ChatGPT Work 暂时取消 Plus / Pro / Business 订阅 5 小时使用限制",
+      "url": "https://www.ithome.com/0/975/839.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T23:05:40+00:00",
+      "summary": "IT之家 7 月 13 日消息，OpenAI Codex 工程负责人蒂博 · 索蒂奥（IT之家注：Thibault Sottiaux）今天在 X 平台宣布，Codex 和 ChatGPT Work 两大工具已暂时取消 Plus / Business 和 Pro 订阅的 5 小时使用限制。这名员工还表示，GPT-5.6 Sol 模型将进行效率优化，提升整体运行效率、减少用量消耗，使用户在同等额度下能够完成更多任务，详情将在稍后完成统计时公布。同时，OpenAI 平台的活跃用户数已经突破 600 万，接下来一小时（原帖发文时间为北京时间 1:59）将重置一次使用额度。作为参考，GPT-5.6 Sol 引入新的 Max 推理强度，以及借助子智能体加速复杂任务的 Ultra 模式。在编程场景方面，Sol 在 Terminal-Bench 2.1 上刷新最佳成绩，标准模式下得分 88.8%，超过 Claude Mythos 5（88.0%），在开启 Ultra 模式后更是达到 91.9%。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "宁波市人工智能通识科普培训课程免费学-新闻中心",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NOWEzYTA5enBDRTdad24xckdyZjY5MDU2QUxmcTNBTERuU1lRLXpOWmdkT2lTejVxMDJtQXlZR3YwTEUwVV83MUMtX2FMV1hVNzd1Mkh3aGhwdUl1YXEtT0VEY1NjNmdn?oc=5",
+      "source": "中文AI聚合/中国宁波网",
+      "source_tier": 3,
+      "published": "2026-07-12T23:02:31+00:00",
+      "summary": "宁波市人工智能通识科普培训课程免费学-新闻中心 中国宁波网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/中国宁波网"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "以“人工智能+”擘画智慧农业新图景",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFpwbVB1cHRONGpGZG5SWWpMb3dXamdydGlkOW0zcU41elM1NkN2eFFEWkszWlBYcjlCVS1BOUtIZVhVODIweVpWM0tydmV4RDczeTVld0Vydk1oU21NbGxfcEExX0dLXzI3OVlUalFLMGpQYkpFeTd5VFV3RzFqbkducF9NQVJtdC1MRA?oc=5",
+      "source": "中文AI聚合/搜狐网",
+      "source_tier": 3,
+      "published": "2026-07-12T23:00:43+00:00",
+      "summary": "以“人工智能+”擘画智慧农业新图景 搜狐网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/搜狐网"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "理论1点点｜人工智能竞争是系统性竞争",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UZE93RGRUSW1aVHJNNW10ZUpDTG1wemVJLUFnblQzX2FldkVpSUZxNHVZVnRudWpLN3E0bE42aVhTanVhVmpKVnc1eUZGc2NmSVdITG5MOUlidWVZaUE?oc=5",
+      "source": "中文AI聚合/京报网",
+      "source_tier": 3,
+      "published": "2026-07-12T23:00:01+00:00",
+      "summary": "理论1点点｜人工智能竞争是系统性竞争 京报网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/京报网"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列",
+      "url": "https://www.ithome.com/0/975/835.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T22:46:25+00:00",
+      "summary": "IT之家 7 月 13 日消息，据彭博社记者马克・古尔曼（Mark Gurman）透露，苹果将推出标准版 M6 芯片，但不会推出定位更高端的 M6 Pro 和 M6 Max 芯片。他在最新发布的《Power On》通讯中表示，这一打破以往产品节奏的决定，原因在于 AI。IT之家注意到，古尔曼解释称：“苹果原本计划为 M7 系列带来神经网络处理能力的大幅升级，最终认为这些改进足够重要，因此决定加快下一代产品的推出，而不是完成整个 M6 产品线。”他还表示，苹果同样不会推出 M6 Ultra 芯片。按照目前的计划，搭载基础版 M6 芯片的新款 14 英寸 MacBook Pro 将于今年晚些时候发布。随后，苹果将直接转向 M7 系列：基础版 M7 芯片预计于 2027 年上半年推出，M7 Pro 和 M7 Max 将于 2027 年下半年登场，而 M7 Ultra 则计划于 2028 年发布。古尔曼称，M7 Ultra 尤其将在 AI 性能方面带来“显著提升”，并有望从 2029 年开始为 Apple Intelligence 服务器提供算力支持。古尔曼表示：“AI 已不再只是苹果芯片需要支持的一项功能，它如今正在决定这些产品如何设计，以及何时发布。”目前，M5 Pro 和 M5 Max 芯片已于今年 3 月推出。古尔曼仍预计，M5 Ultra 最快将在今年随新款 Mac Studio",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "中国代表：使人工智能真正成为推动共同发展的新动力",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16SDMxdnpzRU9Da0hjSkh6bFlTRDcyYldmczUxTlNrSENqQlpnUmhfc1ZDWGdHekI5S2I5U09iT2pCRDdtaWRSRzhjbzR5TTM5aGlFVmtKYkF3WmpUeF85TG1Uamg?oc=5",
+      "source": "中文AI聚合/复旦发展研究院",
+      "source_tier": 3,
+      "published": "2026-07-12T22:44:46+00:00",
+      "summary": "中国代表：使人工智能真正成为推动共同发展的新动力 复旦发展研究院",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/复旦发展研究院"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "苹果M7 Ultra芯片内存容量或达1.5TB 有望实现本地运行万亿参数大模型- Apple 苹果",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41c01OTkV0Nko1ZnVhMDFHQzFqMi1YX1NJSVEwc1loVUJkajZDczByak1JNDNsdWU2Q05MNjJXY3U0YXBFaERGeTVoaUt4Z3pLV1Y2NHppY2lfanc4SDNRMg?oc=5",
+      "source": "中文AI聚合/cnBeta.COM",
+      "source_tier": 3,
+      "published": "2026-07-12T22:15:00+00:00",
+      "summary": "苹果M7 Ultra芯片内存容量或达1.5TB 有望实现本地运行万亿参数大模型- Apple 苹果 cnBeta.COM",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/cnBeta.COM"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "大渡口签下297亿元重点项目 涉人工智能与机器人、智慧医疗等领域",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LVnRTYXBEMG8zelFkdGRXckFRSUJISUp6eXRSdFpvaHN2V0x3SWNTRVl0NXByNDNRSzhoSDFQVm0zM0R5QnVPWDZlczh1eG84a1JXd3NONkFqSFplSktFWnpZYmV3X0pqN3M0?oc=5",
+      "source": "中文AI聚合/华龙网",
+      "source_tier": 3,
+      "published": "2026-07-12T22:01:57+00:00",
+      "summary": "大渡口签下297亿元重点项目 涉人工智能与机器人、智慧医疗等领域 华龙网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/华龙网"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "松霖科技（603992.SH）新增一起对外投资，被投资公司为通芯人工智能科技（北京）有限公司_公司新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14ZWIzdXZHdzJFNy1XYjVFZlZKWEpLUjZHWXVCb3p5bi1aMVVXVWFuVEV2ZkFvMHplRnVhc2pyaFZWaUstMFQwYThKbVE1SUltb3JBOHVETHhKMW1YV0JCRmF0bUU?oc=5",
+      "source": "中文AI聚合/证券之星",
+      "source_tier": 3,
+      "published": "2026-07-12T19:55:48+00:00",
+      "summary": "松霖科技（603992.SH）新增一起对外投资，被投资公司为通芯人工智能科技（北京）有限公司_公司新闻 证券之星",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/证券之星"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "21个容器零文档，本地大模型一小时内全搞定",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtOWNyZmNiNnh3VDBTWlBZRHY5VWRnRndvQVduN0FBSHRZMzhOMnFWaXpVUWt0Y3lQejB5ZUtwWnk4WGVjTXVYVF9FUG5BV1E4T1gtcnQtQXVSaEFkeXYweU9n?oc=5",
+      "source": "中文AI聚合/网易",
+      "source_tier": 3,
+      "published": "2026-07-12T19:43:02+00:00",
+      "summary": "21个容器零文档，本地大模型一小时内全搞定 网易",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "迟福林：人工智能时代，中部如何走在前？",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ieldnTkxveXBnS0ZfT2VUcko5RENSSUpTSzVWZEY5SXVBSGt2RXFNb3h4MTRZWXdVLUU2X29FZ2YyNXZ1RnJCNmVKTHRyQ0FOSUNkNzZ6TFo?oc=5",
+      "source": "中文AI聚合/湖北日报传媒集团",
+      "source_tier": 3,
+      "published": "2026-07-12T19:25:57+00:00",
+      "summary": "迟福林：人工智能时代，中部如何走在前？ 湖北日报传媒集团",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/湖北日报传媒集团"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "现代数学：从抽象结构到人工智能，理解世界最强大的语言",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZX180VWxrWWNsQWhrSnFUbWZJMlJHN0dZRUFTV3E2V2o0cUZQTllLMHRVcXdUQ2lXYTlVckdVLWk4OWFDYmpQS2Q5Y1E0T1dlOEZfWUdzcFVYRzYtSWk5MjFR?oc=5",
+      "source": "中文AI聚合/网易",
+      "source_tier": 3,
+      "published": "2026-07-12T19:08:16+00:00",
+      "summary": "现代数学：从抽象结构到人工智能，理解世界最强大的语言 网易",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "AI编程工具加速开发，风险藏在哪里？",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02NGJSR1JiLVdxRk1YX2d0VU9mSUNvcW1xV2djblBkMWc5RlpCS1VGM1hrbGYwTUFSYzd6Ni1tRmJvODNCZEJYT0NGbkx2RHlSOGRhTXdsRXdzcnA2SV80UnNn?oc=5",
+      "source": "中文AI聚合/网易",
+      "source_tier": 3,
+      "published": "2026-07-12T16:35:16+00:00",
+      "summary": "AI编程工具加速开发，风险藏在哪里？ 网易",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "综述：精准还是悖论？人工智能驱动的超重和肥胖女性脂肪成像：一项系统评价与荟萃分析",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NRlhuTEl0cXVjTVJfN29oZVlVeDM4QmF1S1JOcDU4RW80SDFPUWVSek1VTEJuQ2pXYXU2bHllWHU1X3ZmbGtCTTNLTWFJVGU1Vmk4UHE5QUtMUkhVaDlWNjM5aGptMmJyUWtpcQ?oc=5",
+      "source": "中文AI聚合/生物通",
+      "source_tier": 3,
+      "published": "2026-07-12T16:08:09+00:00",
+      "summary": "综述：精准还是悖论？人工智能驱动的超重和肥胖女性脂肪成像：一项系统评价与荟萃分析 生物通",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/生物通"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "云南联通：以“人工智能+”助力高质量发展",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oOWdrYTJ0eVExQUhXanVuekd2UHpqZ1RsbnNoc1B6dlNlMUJkS0tsWWJYMm5vRi1NSlY3aEZsaUV6M1pCaGkyaF9kOTlNaU9oWW51TU1hYl9VZ0RLbVpVNkxoa2hPNTMtejRmTXIybGRLQQ?oc=5",
+      "source": "中文AI聚合/新浪财经",
+      "source_tier": 3,
+      "published": "2026-07-12T16:00:00+00:00",
+      "summary": "云南联通：以“人工智能+”助力高质量发展 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "【深化能力作风建设】黑龙江省中小学人工智能通识教育与应用教材培训鹤岗专场成功举办",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hazVWWEtEb0Vwdk5SYUJRMVpiZFdQUUs5LUFFWnkyaXNjZUV3NGtHT2pIVjFJNm5haW16SzA2dmw5TDlTVlNaSElZTzJkT3FNOFZCa2V1SkxSVkwzNFpyTFpB?oc=5",
+      "source": "中文AI聚合/网易",
+      "source_tier": 3,
+      "published": "2026-07-12T15:39:54+00:00",
+      "summary": "【深化能力作风建设】黑龙江省中小学人工智能通识教育与应用教材培训鹤岗专场成功举办 网易",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "【人工智能与自动化学院】召开暑期社会实践安全会议",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MdjUxNzdFQTJxTGs3blNDaERyZFNBV3E0OFFfcUItTUctRWkzOXZ3SkdYb0hRTERRZ1pxVWw0Y2pUdW9aUHBYaDBNbFhVYk5vRlhtYlNkT1E?oc=5",
+      "source": "中文AI聚合/武汉科技大学",
+      "source_tier": 3,
+      "published": "2026-07-12T15:30:19+00:00",
+      "summary": "【人工智能与自动化学院】召开暑期社会实践安全会议 武汉科技大学",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/武汉科技大学"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "古尔曼：苹果 M7 Ultra 芯片最高支持 1.5TB 内存，是 M5 Ultra 的两倍",
+      "url": "https://www.ithome.com/0/975/833.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T15:16:38+00:00",
+      "summary": "IT之家 7 月 12 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今日发文透露，在 M6 芯片流片仅仅六个月后，苹果就已经开始了 M7 芯片的流片工作。这意味着 M7 芯片有望在 2027 年上半年亮相，紧随其后的是 2027 年底的 M7 Pro 和 M7 Max，以及 2028 年的 M7 Ultra。据悉，M7 Ultra 芯片在设计上最高可支持 1.5 TB 内存 —— 是 M5 Ultra 的两倍（M5 Ultra 最高测试了 768GB 内存）。古尔曼表示，苹果最终是否会提供这种配置，仍需视供应链的实际状况而定。目前全行业普遍面临内存芯片短缺的问题，导致此类元器件供货紧张且成本高昂。据IT之家此前报道，搭载 M3 Ultra 芯片的 Mac Studio 电脑原本最高支持 512GB 内存，但今年 3 月苹果移除了这一内存选项，今年 5 月苹果又移除了 256GB 内存选项。在 M7 之后，苹果已经在开发具备更强 AI 能力的 M8 芯片，其中一款处理器代号为 Soko、预计于 2028 年问世。此外，多款代号为 Cardinal 的高端 Mac 新芯片也正在研发中。2028 年的新款处理器将使用 1.4 纳米制造工艺，从而实现能效比的又一次飞跃。相关阅读：《消息称 M5 Ultra 版苹果 Mac Studio 最高测试 768GB 内存，顶配机型售价",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "Meta 发布多模态推理模型 Muse Spark 1.1，强化 AI 智能体任务能力",
+      "url": "https://www.ithome.com/0/975/832.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T15:12:54+00:00",
+      "summary": "IT之家 7 月 12 日消息，Meta 于 7 月 9 日正式发布适用于 AI 智能体的多模态推理模型 Muse Spark 1.1 版本，重点提升了模型在智能体任务中的规划、协同与执行能力，并增强了工具调用、代码开发、应用操作能力。Meta 表示，Muse Spark 1.1 强化了多智能体协作机制，由主智能体负责收集信息、制定计划，再将任务拆分并分配给多个子智能体并行执行，从而缩短复杂项目的处理时间。同时模型支持最高 100 万 token 的上下文长度，可在长时间工作流程中持续保留关键信息，并调用较早阶段的内容。在应用操作方面，Muse Spark 1.1 能够在多个应用之间持续执行长流程任务，并根据场景自主判断是直接点击界面、编写脚本进行自动化，还是一次性完成多个操作步骤，以减少人工干预并提升执行效率。在代码开发方面，新版本可诊断并修复复杂程序错误、开发新功能，以及执行大规模代码迁移任务。模型还能提前规划开发步骤、拆分子任务，并在长时间开发过程中保留重要上下文。Meta 表示，公司内部的开发人员和研究人员已经每天使用 Muse Spark 1.1 来辅助软件开发和模型评测。Meta 同时强调了 Muse Spark 1.1 的安全性，称其已按照内部安全框架《Advanced AI Scaling Framework》完成部署前评估，在化学与生物安全、网络安全以及失控风险等",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "大众、小鹏合作第二款车型与众 09 下半年上市，号称“智能化水平跻身第一梯队”",
+      "url": "https://www.ithome.com/0/975/828.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T14:33:29+00:00",
+      "summary": "IT之家 7 月 12 日消息，大众汽车乘用车品牌中国 CEO 齐泽凯 7 月 10 日发文预热与众 09，新车将于今年下半年上市。据介绍，该车是大众和小鹏汽车在 24 个月内联合开发的第二款车型，流畅的溜背线条搭配舒展修长的车身比例，独特的狼头徽标融入车身设计。车长超 5 米，轴距达 3030mm。此外，这款新车搭载大众人本科技“行云智行”和“云栖智舱”等先进技术，包括 VLA 大模型全场景智能辅助驾驶、AI 智能助手、超强算力，智能化水平跻身第一梯队。IT之家注意到，这款新车已经出现在工信部 7 月《道路机动车辆生产企业及产品公告》中。本次申报共有两款版本，分别为单电机后驱版以及双电机四驱版，均采用磷酸铁锂蓄电池，由宁德时代提供电芯，大众汽车（安徽）零部件有限公司负责生产电池总成。双电机四驱版整备质量 2307 kg，总质量 2760 kg，轴距 3030 mm，车身尺寸为长 5081 mm / 宽 1980 mm / 高 1509 mm，轮胎规格为 255/45R21，最高车速 200 km/h。驱动方面，前电机额定功率 50 kW，峰值功率 140 kW；后电机额定功率 110 kW，峰值功率 230 kW。单电机后驱版整备质量 2207 kg，总质量 2660 kg，车身尺寸轴距均与四驱版保持一致，轮胎可选 255/50R20 或 255/45R21，最高车速依旧为 20",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "广州海珠区副区长陈宇：以人工智能引领全域发展的城市核心",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0VXVOYnJWTU9SaDhhLTNsY0dWSEU1YWh3SXM3Z0xwZEF0UFpCdjlYLWNDVFdaR3JxSXJRTnZITGR2ZThmaFVZVkpCcDJNZlNqWk0tUmNjOThLVmUzbWFmN01n?oc=5",
+      "source": "中文AI聚合/网易",
+      "source_tier": 3,
+      "published": "2026-07-12T13:58:03+00:00",
+      "summary": "广州海珠区副区长陈宇：以人工智能引领全域发展的城市核心 网易",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "WAIC发布预告丨全球人工智能治理指数（2026）",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tOUlQbENGMlpsMjZzZms5bzFzYll4OEFnVEdJZ0hYbEw1dWQ5TUloNWZlcDNMX09xUkVYUXF6V21LYVliWExydUprM1JNQUEybnJ1YTVVMGdZM253WkdnMjJB?oc=5",
+      "source": "中文AI聚合/网易",
+      "source_tier": 3,
+      "published": "2026-07-12T13:49:23+00:00",
+      "summary": "WAIC发布预告丨全球人工智能治理指数（2026） 网易",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "AI进化速递丨英国投20亿英镑建设人工智能作战实验室",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiRDgtVzFfSWpBYWU5NWhjMHJONGFTNFYxQzZNcFRoYUoyWk5hcHZoRjZJaWJHRFFOMmp3SG1wY1pjeVJaREpSVHJBd09zdHh2dWlaUWFjVmhEM0RDUUZZRFZUQmJ2ZXFCTXA3MGc3TWVqVzN1cE5fQw?oc=5",
+      "source": "中文AI聚合/新浪财经",
+      "source_tier": 3,
+      "published": "2026-07-12T13:36:11+00:00",
+      "summary": "AI进化速递丨英国投20亿英镑建设人工智能作战实验室 新浪财经",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/新浪财经"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "末日题材即时战略游戏《机械末日》Steam 发售，国区首发价 50.15 元",
+      "url": "https://www.ithome.com/0/975/627.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T13:21:55+00:00",
+      "summary": "IT之家 7 月 12 日消息，末日题材独立即时战略游戏《机械末日》（Machinefall）现已正式登陆 Steam 平台，目前已开放购买并提供试玩 Demo。游戏目前国区首发优惠 15%，折后售价为 50.15 元，优惠截止到 7 月 24 日。IT之家附游戏商品页（https://store.steampowered.com/app/3213120/Machinefall/&amp;l=schinese&cc=cn）。《机械末日》是一款融合基地建设、资源管理、大规模战斗与广袤世界地图的末日即时战略游戏。官方介绍显示：率领人类幸存者展开绝望的生存之战。机械虫群肆虐肆虐，城市化为废墟，文明支离破碎。你将从寥寥无几的幸存者开始，在废墟中重建家园 —— 搜集资源、建立据点、凝聚人类最后的希望，对抗机器永无止境的压倒性优势。完整全球战场地图：地球是你的战场，提供无与伦比的广阔规模与沉浸体验，从行星的精细轨道视角，到地图上任何地点的街道级交火，皆可无缝缩放，支持玩家掌控微观与宏观层面的战局。史诗级大规模战斗：支持数千单位齐聚战场，玩家既能在激战中指挥单个单位，亦可制定高层战略决策扭转战局。多时代科技发展：游戏支持从石器时代到原子时代的技术发展进程，玩家需要逐步推进文明的科技树。语言方面，《机械末日》支持简体中文界面与字幕，暂不支持中文配音。开发商还披露，本作使用生成式 AI 创建了游戏中",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "零刻 ME Pro 两盘位 NAS 新增英特尔奔腾银牌 J5005 款，准系统 999 元",
+      "url": "https://www.ithome.com/0/975/819.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T13:19:16+00:00",
+      "summary": "IT之家 7 月 12 日消息，零刻 (Beelink) 现已为其 ME Pro 两盘位 NAS 新增搭载英特尔奔腾银牌 J5005 处理器版本，无存储（准系统）配置 999 元、8GB + 128GB + fnOS 商业版配置 1499 元。作为 ME Pro 两盘位系列的入门级款式，该版本基于一颗 2017Q4 发行的 14nm 四核 \"Gemini Lake\" 芯片，M.2 2280 SSD 盘位方面一个支持 PCIe Gen2 ×1、另一个支持 SATA。IT之家注意到，此型号支持双通道 DDR4-2400 SO-DIMM 内存模组，内置 Wi-Fi 6 & BT 5.4 无线网卡联发科 MT7920。外部 I/O 上，其正面包含 1 个 USB-A 5Gbps；反面提供 2 个 2.5GbE RJ45、1 个 HDMI 2.1 TMDS、1 个 USB-A 5Gbps、1 个 USB-A 480Mbps、1 个支持 Display Alt 的 USB-C 5Gbps、1 个 3.5mm 音频插孔。京东零刻 ME Pro 两盘位 NAS (J5005)999 元起直达链接",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "上汽名爵 MG 07 更多细节公布：五档可调电动尾翼、调光全景天幕，7 月 29 日预售",
+      "url": "https://www.ithome.com/0/975/814.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T13:00:43+00:00",
+      "summary": "IT之家 7 月 12 日消息，上汽名爵 MG 07 将在 7 月 29 日开启预售，新车定位“年轻人的智能纯血轿跑”。近日，官方公布了这款新车的更多细节。IT之家注意到，该车搭载五档可调电动尾翼、19 英寸银石竞速轮毂、翼子板金属真风道，座舱内配备欧盟环保标准的全车亲肤内饰面料，提供白紫罗兰、皇家蓝内饰，配备 256 色律动环绕氛围灯、十字星芒打孔座椅。座舱后排，该车座椅拥有 77mm 发泡层厚度，整片式调光全景天幕隔绝 99% 紫外线，此外还提供后排多点按摩功能、后排靠背角度调节等功能。据此前官方介绍，新车尺寸为 4886×1900×1485mm、轴距 2825mm，前脸采用一体冲压蚌式机盖 + 曲面切割悬浮前大灯组设计，尾部采用掀背式溜背造型设计。拥有 168L KK 自动开合前备箱、697L 电动后备厢，以及 109L 下沉空间。新车还配备副驾零重力座椅，内置 7.1.4 声道 21 扬声器；车机搭载 8295P 芯片，配备 15.6 英寸 2.5K 中控屏，支持 3D Moli 实时交互大世界、全场景手车互联等功能。上汽名爵 MG 07 还首搭 Momenta R7 世界模型 + Xheart X7 大模型专用芯片；配备 mCDC 智能电磁悬架，支持每秒 200 次调整；拥有 AI 预瞄功能，可前瞻探测 15-150 米距离。新车续航可达 840km，采用 800V 高压",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "综述｜中国智慧促进人工智能向善普惠发展",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16RFl6bFlKaEk3aGJWVTRNTnJqNEFVaHlHUmpaRTB2NFpheTg2QzdSTFh0UEt6M3RBbldQQU03R0xISTlFTHJ6MkZGMGthYl80V2ZTOTdyWXdjVUlkQTZjMEhkY3J0YkdZ?oc=5",
+      "source": "中文AI聚合/chinanews.com.cn",
+      "source_tier": 3,
+      "published": "2026-07-12T12:51:01+00:00",
+      "summary": "综述｜中国智慧促进人工智能向善普惠发展 chinanews.com.cn",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/chinanews.com.cn"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "分支机构动态｜网络与信息安全工作委员会：“政策解码·赋能共赢沙龙（第五期）‘大模型国产化安全与生态协同共建’主题活动”在郑州举办",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWlnemtJUmcxWVJVQUsyUV94MEtoLWVtR3hGcnNadjBWUWxEV1NNWWgyZlU3YUowTU1iaVQyREwzLWM4d2ctcFBWaHQ3eFdDSnZJZVN6Mk92dllvcjlVTEdidXJvX1ZlTUNEZC1xLTlVSXk3eDlGZDZfZ1h6Vno2c0RlOXBWaTdN?oc=5",
+      "source": "中文AI聚合/搜狐网",
+      "source_tier": 3,
+      "published": "2026-07-12T12:47:54+00:00",
+      "summary": "分支机构动态｜网络与信息安全工作委员会：“政策解码·赋能共赢沙龙（第五期）‘大模型国产化安全与生态协同共建’主题活动”在郑州举办 搜狐网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/搜狐网"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "微软研究院推出开源可视化中间语言 Flint，让 AI 智能体“一句话生成专业图表”",
+      "url": "https://www.ithome.com/0/975/816.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T12:45:22+00:00",
+      "summary": "IT之家 7 月 12 日消息，微软研究院联合中国人民大学 IDEAS Lab 联合推出了开源可视化中间语言 Flint，可以让 AI 智能体“一句话生成” Vega-Lite、ECharts、Chart.js 的可渲染图表。据介绍，现有可视化库通常提供大量配置选项，若采用精简配置，生成的图表未必适合数据内容；若要求大语言模型直接输出完整配置，又容易因参数过多而出现冲突、遗漏或不一致。因此 Flint 在设计之初将图表意图与底层可视化库实现分离，以减少 AI 生成配置时的复杂度。具体来看，Flint 的规格主要分为数据定义和图表定义两部分。数据部分可标注字段的语义类型，例如年月、价格、百分比、利润、国家或排名等；图表部分则用于指定图表类型，确认各字段映射到 X 轴、Y 轴、颜色、大小或分面（Facet）等视觉元素。其编译器能够结合数据语义、图表类型和字段映射，自动推导时间解析方式、聚合规则、数值格式、配色方案及布局。例如，利润字段可自动采用体现正负变化的发散色阶，而日期字段则会自动使用对应的时间解析规则和坐标轴格式。开发人员同时发布了 flint-chart-mcp 服务器，使支持 MCP（Model Context Protocol）的 AI 智能体能够在对话中直接创建 / 预览图表，全程无需离开聊天窗口。在评测中，微软将 Flint 与直接生成完整 Vega-Lite 配置的方",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "港股大模型双雄智谱与MiniMax发布内部信 解禁期股价走势分化",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xRTRRRTBWeUV6MHpJUUJSem5teXlqbXFGWFQ5X0JxQ2hiaUZ2VkdGOFFtNlJYVGRSOWpsRnpndUQzUEZBN1BSOXpELWNManhsdzM0bg?oc=5",
+      "source": "中文AI聚合/虎嗅",
+      "source_tier": 3,
+      "published": "2026-07-12T12:36:40+00:00",
+      "summary": "港股大模型双雄智谱与MiniMax发布内部信 解禁期股价走势分化 虎嗅",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/虎嗅"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "英国投20亿英镑，建人工智能作战实验室",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ybmg1ZUF5R01rQmd5cnVPZ2FQN29RY2pXWEZhV1ZCRHh5aXpaUGVtQVZUVW1ocFZNaTRJMEN5YWxRSGIyQkFFQnBwVFY4TlBWSFFZ?oc=5",
+      "source": "中文AI聚合/电子工程专辑",
+      "source_tier": 3,
+      "published": "2026-07-12T12:30:00+00:00",
+      "summary": "英国投20亿英镑，建人工智能作战实验室 电子工程专辑",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "中文AI聚合/电子工程专辑"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "央视曝家电测评造假链条：测评直播间偷偷动手脚抹黑竞品、和水军唱双簧收割消费者",
+      "url": "https://www.ithome.com/0/975/804.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T12:29:10+00:00",
+      "summary": "IT之家 7 月 12 日消息，家电直播测评是当下热门带货模式，不少消费者依据直播间实测内容选购产品。但大量消费者反馈，部分直播间家电测评效果与真实使用体验差距极大，存在严重造假乱象。据央视财经报道，记者多地暗访直播机构，揭开完整造假链条：部分直播间刻意布置测评场景、更换备用样机、伪造产品使用效果，还恶意损毁竞品制造缺陷，并利用水军控评造势。在直播间后台的中控电脑中，记者还发现了公司专门用于直播控场的水军话术文档，详细记录了直播间冷场、测评翻车时的引流控评、话题引导方法。据介绍，在湖南森芒贸易有限公司运营的“老浏洗地机直播间”，工作人员最常用的干预方式，就是暗中关停设备，人为制造清洁失败的测试结果。设备停机无法作业，导致本可清理的污渍残留在地，人为制造出该产品清洁能力低下的假象。IT之家从报道获悉，在最终机型对决的关键测评环节，直播间还会通过人为干预的方式制造效果差异。记者看到，在镜头拍摄盲区，工作人员向两条测试赛道分别泼洒清水与酱油，人为制造污渍浓度差距，刻意拉开两台机器的清洁效果差距，完成预设的测评剧本。而在账号名为“小璐除螨仪”测评的直播间，主播们一边刻意放大主推产品的使用效果，一边暗中对其他参测设备动手脚，给竞品吸气口套上塑料袋，人为减小吸力。该账号负责人告诉记者，依靠人为操作制造出悬殊的测试效果，能够极大影响观众判断，他们直播间带货的商品销量也因此居高不下。在“林老师测评",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "大疆无人机助力中国科考队珠峰任务：实现 8861 米大气数据观测、首次完成昆布冰川核心区厘米级建模",
+      "url": "https://www.ithome.com/0/975/802.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T11:58:41+00:00",
+      "summary": "IT之家 7 月 12 日消息，大疆近期在深圳举办的“珠峰使命”媒体沟通会中分享了中国科考队“巅峰使命”任务细节，公司携旗下首款垂直起降运载无人机 DJI EV50、运载无人机 FC100 及行业测绘无人机 M4E 配合中国科考队顺利完成极高海拔大气数据采集任务，并首次完成昆布冰川核心区的厘米级三维建模。大疆表示，其中 DJI EV50 无人机综合了多旋翼垂直起降与固定翼高效巡航的综合能力，能够灵活适应珠峰的复杂地形，凭借其纯电无尾气特性，也从源头上保障了探测仪器的精度。▲ DJI EV50 垂直起降运载无人机（下同）在今年中国科考队任务中，该无人机累计完成 32 架次起降，其中 12 架次专门搭载大气数据采集设备执行螺旋上升及往复飞行，最终达到 8861 米的最高飞行海拔，最大连续爬升高度 3730 米，成功抵达了科考所需的目标高度。这一任务标志着中国科考队首次借助无人机在极高海拔对流层完成对大气污染物的精细观测，为相关研究提供了重要支撑。而在南坡，大疆与尼泊尔无人机服务公司 AirLift 进行合作，利用运载无人机 FC100 及行业测绘无人机 M4E 打造覆盖物资转运、冰川测绘、应急救援与环保清运的综合运营方案。针对物资补给与环保清运，大疆运载无人机 FC100 在珠峰大本营与一号营地之间建立了“上行补给、下行清运”的空中通道，2026 登山季累计运输物资超过 10 吨。其中",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "VisionRay Flow Pro 智能眼镜发布：20Mp 摄像头、35g 重量，199 美元",
+      "url": "https://www.ithome.com/0/975/796.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T11:44:02+00:00",
+      "summary": "IT之家 7 月 12 日消息，制造商 DPVR 宣布推出一款 VisionRay Flow Pro AI 太阳镜智能眼镜，该产品面向消费市场，主打 2000 万像素影像、12 小时续航、35 克机身重量、多语言实时翻译，定价为 199 美元（IT之家注：现汇率约合 1351 元人民币）。该产品采用多色系 CMF 配色体系，适配多元穿搭风格，整体重量约 35 克，机身电池提供至高 12 小时续航。该机引入全新防抖结构设计，支持 2000 万像素拍摄与最高 4K 30FPS 视频录制，同时融合 ChatGPT 大语言模型能力，结合骨传导通话与降噪方案，允许用户在嘈杂街头调用 AI 识别场景进行提问。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "全球首款可变形个人机器人，上纬新材启元 T1 亮相",
+      "url": "https://www.ithome.com/0/975/794.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T11:32:40+00:00",
+      "summary": "IT之家 7 月 12 日消息，上纬新材今日发布启元 T1 实机视频，号称“全球首款可变形个人机器人”。从官方公布的视频来看，这款新品机器人可在轮足人形与四足形态之间进行切换，具有不错的稳定性。即使从桌面高度跃下，也能保持机身平稳。IT之家注意到，2026 世界人工智能大会暨人工智能全球治理高级别会议（WAIC 2026）将于 7 月 17 日至 20 日在上海世博、张江、西岸“三地四馆”同步举行。据财联社此前消息，上纬新材将在展会期间推出全球首个可变形个人机器人 —— 启元 T1。上纬新材主营业务为环保高性能耐腐蚀材料、风电叶片用材料、新型复合材料的研发、生产和销售。此次推出的启元 T1 是其首次涉足消费级机器人领域的产品。据上纬新材 CEO 田华介绍，启元 T1 跳出传统人形机器人的固有框架，以可变形态设计锚定家用消费场景。该产品基于一个机器人本体，可实现轮足人形与四足两种形态的自动切换变形。此外，启元 T1 具备拍摄运镜功能，并在智能交互与陪伴方面取得了突破性进展。上纬新材正加快个人机器人的商业化落地，上纬启元位于上海、深圳、西安、厦门、广州等地的线下体验门店近期已陆续落地，渠道体系建设正在同步推进。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "国产肉鸽动作游戏《奇境扭蛋屋：英雄集结》试玩 Demo 上架 Steam",
+      "url": "https://www.ithome.com/0/975/334.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T11:10:25+00:00",
+      "summary": "IT之家 7 月 12 日消息，国产独立开发团队 Hexadeca Dimensions 制作的可爱手办风幸存者类轻度肉鸽动作游戏《奇境扭蛋屋：英雄集结》免费试玩 Demo 现已上架 Steam 平台，支持简体中文界面与字幕，IT之家附游戏商品页（https://store.steampowered.com/app/4875470/）。方寸家居即是宏大战场 —— 书桌、窗台、床头柜、浴缸…… 微缩奇境正面临魔物侵袭。化身扭蛋屋之意志，唤醒 Q 萌手办英雄，守护迷你世界的和平！《奇境扭蛋屋：英雄集结》是一款以微缩家居为战场的幸存者类轻度肉鸽游戏，采用可爱手办美术风格，主打搭配构筑 + 收集玩法，玩家需要清扫成群来袭的怪物。游戏明确表示不包含任何内购、重复抽取或碎片系统，试玩版本目前已开放抢先体验，开发团队将在上线前继续收集玩家反馈。终极构筑，无限进化：本作包含 30+ 种强力武器与 110+ 种辅助装备，局内可自由进化武器战力，创造千变万化的战斗构筑，享受割草战斗快感。群星集结，天赋觉醒：试玩版本首发提供 7 位战斗机制完全差异化的特色英雄，搭配 100+ 种成长天赋任意组合，每位英雄都有量身定制的专属进化图谱。最低配置：需要 64 位处理器和操作系统，Windows 10 64-bit 系统，Intel Core i5-4460 或 AMD FX-6300 处理器，8 GB RAM",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "宇树科技王兴兴：机器人一定会走向普通消费者，今天的机器人就像 30 年前的个人电脑",
+      "url": "https://www.ithome.com/0/975/786.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T10:34:14+00:00",
+      "summary": "IT之家 7 月 12 日消息，据上海证券报，宇树科技创始人王兴兴 7 月 10 日在 2026 王府井论坛上作为行业代表发表主题演讲。在演讲中，王兴兴给出了明确判断：“机器人最终一定会走向更广阔的市场，走向普通消费者，走向真实的生活。”IT之家注意到，王兴兴将机器人当前的大众价值拆解为三个核心方向：首先，今天的机器人就像 30 年前的个人电脑，正在成为专业开发者和科技爱好者开展前沿 AI 技术创新实践的重要二次开发创作平台。越来越多的创作者可以依托机器人研究新算法、开发新功能，机器人也由此不再是小众的科技玩具，更成为连接大众消费、开发者创新和未来产业应用的关键入口。其次，机器人正在快速进入家庭和亲子场景。机器人可以成为孩子接触科学、理解工程、培养创新兴趣的重要媒介，让国内的中小学生在成长阶段就能接触到全球顶尖高校实验室的同款前沿产品。此外，机器人正在为商业演出和品牌宣传场景提供全新的情绪价值。当下的消费市场越来越重视体验感与传播属性，无论是商场活动、品牌发布会、企业展厅还是文旅演出，机器人都能快速成为吸引注意力的核心亮点。王兴兴认为，机器人可以帮助人类完成更多复杂、危险、高强度的工作，不仅能大幅提升生产效率，更能让人类从繁重危险的重复性劳动中解放出来，把更多精力投入到创造性、管理性的高价值工作中。相关阅读：《宇树科技陈立：关节电机上游只有铜线、磁铁等原材料供应商，完全自主可控》《",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "HMD 旗下 2026 款诺基亚 102 4G 功能机曝光：面向国内市场，售价低于 159 元",
+      "url": "https://www.ithome.com/0/975/785.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T10:31:27+00:00",
+      "summary": "IT之家 7 月 12 日消息，消息源 smashx_60 现已曝光了 2026 款诺基亚 102 4G 手机，该机面向国内市场，被命名为“诺基亚 102 4G”而非“HMD 102 4G”，定价预计低于 159 元。相对于 2025 款 HMD 102 4G，新款机型调整了外观设计，提供深蓝 / 橙色两种配色可选，带回了经典的 Nokia Pure 风格字体，同时取消了确认键上的“AI”标记。手机正面配备一块 1.8 英寸 LCD 面板，背面配备 30 万像素传感器。规格方面，该机匹配 64MB RAM 和 128MB 存储空间，内置 1200mAh 可拆卸电池。同时拥有蓝牙 5.0、3.5mm 音频接口、IP52 认证等特性。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "AI 热潮太费电，燃气轮机价格 3 年涨了约 300%",
+      "url": "https://www.ithome.com/0/975/767.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T10:12:50+00:00",
+      "summary": "IT之家 7 月 12 日消息，人工智能热潮持续升温，围绕算力展开的竞争也不断向产业链上游延伸。随着大型数据中心加速建设，燃气轮机这一传统设备也迎来了新的发展机遇。燃气轮机（Gas Turbine）是以连续流动的气体为工质带动叶轮高速旋转，将燃料的能量转变为有用功的内燃式动力机械，是一种旋转叶轮式热力发动机。据央视财经今日报道，微软几周前向能源巨头 GE Vernova 采购了 7 台大型燃气轮机，来为其得州的数据中心供电。尽管单台燃气轮机的售价超过 2.5 亿美元（IT之家注：现汇率约合 16.97 亿元人民币），但这种复杂设备的市场需求依然远远超过供应。根据美国投资研究机构 Melius Research 的估算，过去三年，燃气轮机的价格累计上涨了约 300%。GE Vernova 的股价也在过去六个月累计上涨了超过 70%，甚至它的行业竞争对手，如卡特彼勒、西门子等，也都实现了快速增长。但也有多位专家表示，燃气轮机并不足以满足 AI 时代的全部能源需求，未来数据中心仍需要多种能源方案来一同支撑。相关阅读：《马斯克的 xAI 数据中心近 50 台燃气轮机被指违规运行，污染空气质量》《中国航发“太行”系列燃气轮机示范项目完成评估验收，实现全面自主化》《我国自研新型 3 兆瓦级燃气轮机发布，功率密度是传统蒸汽轮机 10 倍》",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "国产人生模拟游戏《人生记事簿：Life Memoirs》登陆 Steam，国区售价 14.4 元",
+      "url": "https://www.ithome.com/0/975/672.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-07-12T10:08:17+00:00",
+      "summary": "IT之家 7 月 12 日消息，国产独立开发商兼发行商悦文 Yuewen 推出的日记载体人生模拟游戏《人生记事簿：Life Memoirs》现已正式登陆 Steam 平台，目前国区首发特惠价 14.4 元，原价 18 元，特惠截止至 7 月 18 日。IT之家附游戏商品页（https://store.steampowered.com/app/4798150/Life_Memoirs/?l=schinese&cc=cn）。《人生记事簿（Life Memoirs）》是一款以日记为载体的人生模拟与未来推演游戏。你将在中国出生，在时代的洪流中成长、求学、工作、衰老，并以写日记的方式记录属于自己的一生。从童年到老年，从校园到社会，从工业时代的余晖到人工智能时代的来临，你将经历属于普通人的人生轨迹，也将见证未来社会可能发生的变化。游戏核心玩法特色如下：玩家以一年一篇日记的方式记录人生，每年都会出现新的事件，经历高考、职业选择、婚姻家庭、人际关系与社会变革，也可能见证经济繁荣、技术革命、自动化浪潮以及未来社会的重构。不同的选择将塑造不同的人生，玩家可以成为公务员、教师、程序员、创业者或者其他职业，也可以在时代浪潮中坚守原则、追逐理想，或是努力过好平凡的一生。玩家在游戏中不仅做出选择，也将观察时代，通过搜集时代信息、理解社会变化并结合判断做出决定，体验普通人在未来数十年里的命运起伏。开发商透露，本",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "仅11天，Claude重写百万行代码，AI史诗级工程却引来愤怒",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxUUNwbzdZS1p0bHRGRkpMX0M5N2RpMUZ6UG4yM1FEd0E3Ui1rVFBOOW5sTTVlTThsQ1V5RlE3MElGUXpXSDNvaXZjRTg5ckZUNTNHakRnVnY4dkJBS05IX1pR?oc=5",
+      "source": "机器之心/网易",
+      "source_tier": 3,
+      "published": "2026-07-12T09:18:28+00:00",
+      "summary": "仅11天，Claude重写百万行代码，AI史诗级工程却引来愤怒 网易",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "机器之心/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "7.17 WAIC首夜，50人真话局：AI聪明够了，行动呢？｜线下报名",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZG9EaktHQnVsa0J1THdmUU9TaGRpYzNrSmlnby1fYk5aZDI5N0NobWVQUk1BT2tCcDBwSy1jQXJ5Y3ViT2ZSeUlSTENhS2JOdHIzVmp6S3Z1TkJDUkZKUE51UFF4QnItWGdyQUpBaENXQzdBQjNibUVtZUx5VUhobHBudU9MTXBn?oc=5",
+      "source": "量子位/搜狐网",
+      "source_tier": 3,
+      "published": "2026-07-12T09:05:26+00:00",
+      "summary": "7.17 WAIC首夜，50人真话局：AI聪明够了，行动呢？｜线下报名 搜狐网",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "量子位/搜狐网"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "北航、北大和美团联合提出：策略提升强化学习!",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QOHpEb1FHSDZHbzF2dlhwQjVDT1JsRGZ2dDdCclVWRXhXcEpmanI5eUs3Q0x3RUhtZkpXbHdkaTN5LU10QnZLUnBCRk53WkZPWGg1TF9oS2c2SDRf?oc=5",
+      "source": "机器之心/网易新闻客户端",
+      "source_tier": 3,
+      "published": "2026-07-12T08:57:00+00:00",
+      "summary": "北航、北大和美团联合提出：策略提升强化学习! 网易新闻客户端",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "机器之心/网易新闻客户端"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "Agentic时代推荐系统范式认知或被颠覆？个性化推荐或将从平台中心转向用户主导",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FRV9tSmFNdFNaTk5iVUZ2VkszemhOeTZ3VmhRUjNMUnVwQThNYWR6RXdyeU0xZEFSTWdvWFdzd3pDV1h0bkQtUC1maFlZc3dFYnVCWlN6VUt5ZndwX1VhVUlR?oc=5",
+      "source": "机器之心/网易",
+      "source_tier": 3,
+      "published": "2026-07-12T08:23:00+00:00",
+      "summary": "Agentic时代推荐系统范式认知或被颠覆？个性化推荐或将从平台中心转向用户主导 网易",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "机器之心/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "世界模型应如何评估？南京大学团队发布「世界模型」评估立场论文",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RbGRiM00xbjRrdzVzS3JFMWU5UTVYNlBKLTNJUXMzdU5ySjY2T1lUb2hURno2YnpzbkFXRjQtWWhVMkMzN3VGRms4MnVkVlR0VzZJRUt1T2V6RXBYN0hQVGVR?oc=5",
+      "source": "机器之心/网易",
+      "source_tier": 3,
+      "published": "2026-07-12T06:35:48+00:00",
+      "summary": "世界模型应如何评估？南京大学团队发布「世界模型」评估立场论文 网易",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "机器之心/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "98年哈工大教授带队，破晓智能要把触觉写进机器人基础模型",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zNXZ4aUZuLVhMVGpvNVhLMFpSYnBHZUVhNV93cFZ4d3QwNkxZdkFCN1RoTXJwZlBua01JOHBHUFZpc2tfXzRsQ0p3M0VFZlVUSEkzQWpfYkRLam9oX201b0N3?oc=5",
+      "source": "机器之心/网易",
+      "source_tier": 3,
+      "published": "2026-07-12T06:11:22+00:00",
+      "summary": "98年哈工大教授带队，破晓智能要把触觉写进机器人基础模型 网易",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "机器之心/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "巨浪已来！国产大模型双雄，同日发声！",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FUzBoVEJjNERvU0l3VUpSNlU1ZThNQ2VLdmJFRmE0R2gxaXdOX3Nwbl9NWVpTbDg1WmlIYzUxZ1pYYlpPbFNTRjZ6aWtkX290WUFYOENmck55dTNy?oc=5",
+      "source": "国内AI资本产业/证券时报",
+      "source_tier": 3,
+      "published": "2026-07-12T05:13:00+00:00",
+      "summary": "巨浪已来！国产大模型双雄，同日发声！ 证券时报",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "国内AI资本产业/证券时报"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠卖数据赚钱？",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xOFFSMG9LU3VDS1lnVXBTTmdlTW9HTWE3TklGS25XZVpsNThmUzY0NEEyc2VWZ2l5VWF6RXBGeDhhcGZaSExkQ21RMU10ZkdpcS1tWU9WNFVFSUU3RjBYbVln?oc=5",
+      "source": "量子位/网易",
+      "source_tier": 3,
+      "published": "2026-07-12T01:15:24+00:00",
+      "summary": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠卖数据赚钱？ 网易",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "量子位/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
       "title": "发售 30 多年后被解锁：索尼初代 PS1 原来支持 16MB 内存",
       "url": "https://www.ithome.com/0/975/638.htm",
       "source": "IT之家",
@@ -7850,21 +9720,6 @@
       "best_tier": 3
     },
     {
-      "title": "顶会Poster整活大赛：我的NeurIPS论文中了ICML",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83VEh0WTBNSWVvVW81azJOUEhISHVXOGw0MHRjYWlPREVWbk1rUWNrbTM5VjdzZVhsWEZNWV96MG4tb3IxVExBaUswZ1VEY0Z2bEVDSmNn?oc=5",
-      "source": "机器之心/腾讯新闻",
-      "source_tier": 3,
-      "published": "2026-07-11T18:03:00+00:00",
-      "summary": "顶会Poster整活大赛：我的NeurIPS论文中了ICML 腾讯新闻",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "机器之心/腾讯新闻"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
       "title": "为什么用小型模型做个人策展，比用大模型更靠谱？",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZWlY2LV9qSTJ6QU5mNEhucTU5UTJuYXJCRU9RVXNYdEZYckNvc0F0d0FCeWFBOHY1aVpaaUJxWVZzclA5a0F0cW01SFY4a3JmTUxNcjNOOEd6VHJrWVRqXzFR?oc=5",
       "source": "中文AI聚合/网易",
@@ -7875,6 +9730,21 @@
       "hn_comments": 0,
       "sources": [
         "中文AI聚合/网易"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "从验证Demo到冲刺IPO，AI企业为何更需要一座「产业小镇」？",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc0hiWE5DU1Z6U1FwQm9NWjY5N2djSUQ3MU94bWlWbnpxUmZfcnJ6R1VtVDFFSzhtVHZla1dGT1drakVjdTFmOExNVnd6My04bUlOQVhQUWNERk1tdjZfYWFn?oc=5",
+      "source": "机器之心/网易",
+      "source_tier": 3,
+      "published": "2026-07-11T17:40:06+00:00",
+      "summary": "从验证Demo到冲刺IPO，AI企业为何更需要一座「产业小镇」？ 网易",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "机器之心/网易"
       ],
       "source_count": 1,
       "best_tier": 3
@@ -8355,21 +10225,6 @@
       "hn_comments": 0,
       "sources": [
         "量子位/智源社区"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jX3htdHlFaENyQllnNjZHR3JVcUJGRGRJSEVraGptc21hcWN3OVZBQ2wzelRtSk9uUE4xNUM1NVNyUGRhNk16MUVYaEw5QWJhN3czb0hhSk5Db2owc2R1NXBn?oc=5",
-      "source": "量子位/网易",
-      "source_tier": 3,
-      "published": "2026-07-11T06:26:17+00:00",
-      "summary": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代” 网易",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "量子位/网易"
       ],
       "source_count": 1,
       "best_tier": 3
@@ -11583,6 +13438,246 @@
       ],
       "source_count": 1,
       "best_tier": 3
+    },
+    {
+      "title": "公募基金二季报披露大幕拉开，多名基金经理提示科技板块高估值风险",
+      "url": "https://36kr.com/newsflashes/3893306271431428?f=rss",
+      "source": "36Kr快讯",
+      "source_tier": 3,
+      "published": "",
+      "summary": "近日，包括金信基金、红土创新基金、同泰基金等多家公募陆续披露二季报。值得关注的是，为响应信披新规，部分成立期限较长的公募产品在此次季报中首次披露了7年、10年的长期业绩数据。分析人士指出，这一行业核心变革旨在扭转行业过度聚焦短期业绩怪象，引导市场回归长期投资、价值投资的理念。从目前披露的基金二季报来看，绩优产品多借力于算力板块的布局，实现了净值的大幅增长。但多名基金经理也在行情展望中强调了科技板块的估值风险，并指出在高预期的情况下，未来往往面临低于预期的风险，二级市场行情容易出现大幅波动。（证券时报）",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "36Kr快讯"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "AI算力需求爆发、光纤量价齐升，多家企业启动扩产计划",
+      "url": "https://36kr.com/newsflashes/3893287640464130?f=rss",
+      "source": "36Kr快讯",
+      "source_tier": 3,
+      "published": "",
+      "summary": "AI算力需求的爆发式增长，将光纤行业推入了价格上行通道。近日，杭电股份、永鼎股份等上市公司上半年业绩预告纷纷录得大幅增长，行业高景气度持续得到验证。光纤价格的大幅上涨以及行业供需缺口的存在，正推动多家企业启动光棒及光纤扩产计划。7月10日晚，烽火通信和领益智造均发布公告。前者拟定增募资不超过29.13亿元用于光纤智能制造等项目，后者拟参与重整富通嘉善，切入光纤通信赛道。不过，光纤行业扩产潮也引发市场对“周期魔咒”重演的忧虑。多位业内受访人士表示，新增产能落地仍需翻越多重门槛。（证券时报）",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "36Kr快讯"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "基本半导体：部分产品价格预计上调幅度最高不超25%",
+      "url": "https://36kr.com/newsflashes/3893284575771136?f=rss",
+      "source": "36Kr快讯",
+      "source_tier": 3,
+      "published": "",
+      "summary": "36氪获悉，基本半导体在港交所公告，鉴于2026年以来随着全球人工智能（AI）、新能源汽车等新兴应用的快速发展，带动市场需求持续增长，行业供需关系维持紧平衡状态。经综合评估市场环境、成本变化及整体经营策略，集团将自2026年第三季度起，对部分产品销售价格进行适度调整，以支持持续研发投入，保障产品品质及供应稳定性。部分产品价格预计上调幅度最高不超过25%，具体调整方案将根据产品类别、订单规模、合作模式、市场区域及双方商业安排等因素综合确定，并与相关客户有序实施。价格调整属于集团正常业务过程的一部分。集团与其客户的商业关系保持稳定，且实施价格调整乃基于市况。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "36Kr快讯"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "招商证券：海外科技波动加大，关注国产算力机会",
+      "url": "https://36kr.com/newsflashes/3892799853410823?f=rss",
+      "source": "36Kr快讯",
+      "source_tier": 3,
+      "published": "",
+      "summary": "36氪获悉，招商证券策略报告指出，近期A股波动率加大，一定程度上是海外科技高波动向A股的映射，韩国市场的杠杆与美股Meta的表述造成市场剧烈波动。产业层面，建议关注国产算力的最新催化，主要是即将到来的人工智能大会上，华为将首次展出业界最大规模超节点Atlas 950 SuperPoD真机。近期港股市场大幅反弹，主要催化来自于阿里的业绩preview，研报认为港股基于超跌反弹的修复或已告一段落，市场进一步上行的动力来自于港股整体盈利的上修，以及头部大厂AI收入占比的提升，这都需要等到即将到来的半年报期进行验证。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "36Kr快讯"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "机构：科技板块调整或已近尾声，从半年报挖掘新一轮主线线索",
+      "url": "https://36kr.com/newsflashes/3893240462326534?f=rss",
+      "source": "36Kr快讯",
+      "source_tier": 3,
+      "published": "",
+      "summary": "上周，A股市场波动显著加剧，市场焦点集中于AI赛道调整节奏及后续风格演绎。本周券商策略展望观点认为，近期科技股回调受资金面和海外市场情绪影响较大，当前相关板块赚钱效应收缩已趋于充分，距离本轮调整的底部或已不远。展望后市：一方面，AI算力需求扩张的长期趋势并未改变，AI产业仍有望成为领涨主线；另一方面，7月中下旬密集发布的半年度业绩将是验证行情节奏的关键变量。 （上证报）",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "36Kr快讯"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "今年1-5月，我国云计算设备、半导体设备出口金额累计同比分别大增114.4%、91.5%",
+      "url": "https://36kr.com/newsflashes/3892797787208449?f=rss",
+      "source": "36Kr快讯",
+      "source_tier": 3,
+      "published": "",
+      "summary": "当下，人工智能发展如火如荼，从上游算力中心建设，到下游终端硬件扎堆面市，相关制造企业订单激增。面对AI终端产品快速迭代的需求，时效就意味着市场和利润。数据显示，今年1-5月，我国云计算设备、半导体设备出口金额累计同比分别大增114.4%、91.5%。每年7月一般是全球空运淡季，但从月初至今，中国至欧洲、美洲等货运航线整体表现淡季不淡，受高科技电子、半导体产品等“结构性需求”拉动，航空运价韧性十足。从多家头部货代、货运航司了解到，近期AI产品承运量仍在大幅上涨。（央视财经）",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "36Kr快讯"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "中信建投：计算机板块半年报预告陆续披露，AI算力硬件持续高景气",
+      "url": "https://36kr.com/newsflashes/3892794471643912?f=rss",
+      "source": "36Kr快讯",
+      "source_tier": 3,
+      "published": "",
+      "summary": "36氪获悉，中信建投证券研报指出，A股计算机板块半年报预告与海外模型迭代共同验证AI产业链景气度延续：一方面，AI服务器、智算基础设施等硬件链条业绩弹性突出，软件及AI应用企业也开始体现经营修复和收入落地；另一方面，OpenAI、xAI、Meta等海外模型��续强化Agent、Coding、多模态和办公入口，模型竞争从能力验证转向高频场景落地，推理侧算力消耗、基础设施投入和AI应用商业化有望继续共振。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "36Kr快讯"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "中信证券：港股扰动趋缓卖空料将收敛，短期推荐创新药、航空、机器人及工业金属",
+      "url": "https://36kr.com/newsflashes/3892557082737416?f=rss",
+      "source": "36Kr快讯",
+      "source_tier": 3,
+      "published": "",
+      "summary": "36氪获悉，中信证券最新研报指出，目前港股未平仓卖空占市值比例虽已从6月中旬的高点小幅回落至2.43%，但仍接近历史均值三倍标准差以上的水平，内外部扰动因素逐步缓和下，预计未来将有较大的回落空间。但近期港股也有较为明显的pair trading迹象，短期我们仍建议关注基本面确定性较高和有事件催化的方向，包括：创新药、航空、机器人和强工业属性金属。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "36Kr快讯"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+      "url": "https://www.adaptiverecall.com/",
+      "source": "HackerNews AI",
+      "source_tier": 4,
+      "published": "2026-07-12T21:08:20+00:00",
+      "summary": "",
+      "hn_points": 20,
+      "hn_comments": 1,
+      "sources": [
+        "HackerNews AI"
+      ],
+      "source_count": 1,
+      "best_tier": 4
+    },
+    {
+      "title": "6 months to live for open models",
+      "url": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+      "source": "HackerNews AI",
+      "source_tier": 4,
+      "published": "2026-07-12T18:50:37+00:00",
+      "summary": "",
+      "hn_points": 24,
+      "hn_comments": 0,
+      "sources": [
+        "HackerNews AI"
+      ],
+      "source_count": 1,
+      "best_tier": 4
+    },
+    {
+      "title": "The One-Step Trap (In AI Research)",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "source": "HackerNews AI",
+      "source_tier": 4,
+      "published": "2026-07-12T18:41:15+00:00",
+      "summary": "",
+      "hn_points": 38,
+      "hn_comments": 7,
+      "sources": [
+        "HackerNews AI"
+      ],
+      "source_count": 1,
+      "best_tier": 4
+    },
+    {
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "source": "HackerNews AI",
+      "source_tier": 4,
+      "published": "2026-07-12T18:25:51+00:00",
+      "summary": "",
+      "hn_points": 420,
+      "hn_comments": 235,
+      "sources": [
+        "HackerNews AI"
+      ],
+      "source_count": 1,
+      "best_tier": 4
+    },
+    {
+      "title": "Against Usefulness",
+      "url": "https://www.motivenotes.ai/p/against-usefulness",
+      "source": "HackerNews AI",
+      "source_tier": 4,
+      "published": "2026-07-12T17:47:07+00:00",
+      "summary": "",
+      "hn_points": 75,
+      "hn_comments": 20,
+      "sources": [
+        "HackerNews AI"
+      ],
+      "source_count": 1,
+      "best_tier": 4
+    },
+    {
+      "title": "W11 Copilot tells you what's slowing down your PC, while using 1GB RAM itself",
+      "url": "https://www.windowslatest.com/2026/07/12/windows-11-copilot-ai-can-now-tell-you-whats-slowing-down-your-pc-while-using-1gb-of-ram-itself/",
+      "source": "HackerNews AI",
+      "source_tier": 4,
+      "published": "2026-07-12T17:45:57+00:00",
+      "summary": "",
+      "hn_points": 16,
+      "hn_comments": 2,
+      "sources": [
+        "HackerNews AI"
+      ],
+      "source_count": 1,
+      "best_tier": 4
+    },
+    {
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "source": "HackerNews AI",
+      "source_tier": 4,
+      "published": "2026-07-12T17:13:07+00:00",
+      "summary": "",
+      "hn_points": 103,
+      "hn_comments": 29,
+      "sources": [
+        "HackerNews AI"
+      ],
+      "source_count": 1,
+      "best_tier": 4
+    },
+    {
+      "title": "Show HN: Kurvengefahr – browser CAD/CAM for pen plotters",
+      "url": "https://kurvengefahr.org/",
+      "source": "HackerNews AI",
+      "source_tier": 4,
+      "published": "2026-07-12T14:09:23+00:00",
+      "summary": "",
+      "hn_points": 16,
+      "hn_comments": 5,
+      "sources": [
+        "HackerNews AI"
+      ],
+      "source_count": 1,
+      "best_tier": 4
     },
     {
       "title": "Mesh LLM: distributed AI computing on iroh",
