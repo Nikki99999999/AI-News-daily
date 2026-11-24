@@ -1,10 +1,67 @@
 {
-  "generated_at": "2026-11-23T03:35:06.413552+00:00",
+  "generated_at": "2026-11-24T06:50:18.551027+00:00",
   "window_hours": 36,
   "window_days": 9,
-  "raw_count": 146,
-  "merged_count": 1699,
-  "errors": [],
+  "raw_count": 73,
+  "merged_count": 1632,
+  "errors": [
+    [
+      "国产大模型新锐",
+      "HTTP Error 503: Service Unavailable"
+    ],
+    [
+      "AI领袖动态A",
+      "HTTP Error 503: Service Unavailable"
+    ],
+    [
+      "国产大模型大厂",
+      "HTTP Error 503: Service Unavailable"
+    ],
+    [
+      "Mistral",
+      "HTTP Error 503: Service Unavailable"
+    ],
+    [
+      "AI领袖动态C",
+      "HTTP Error 503: Service Unavailable"
+    ],
+    [
+      "Meta AI",
+      "HTTP Error 503: Service Unavailable"
+    ],
+    [
+      "量子位",
+      "HTTP Error 503: Service Unavailable"
+    ],
+    [
+      "新智元/虎嗅AI",
+      "HTTP Error 503: Service Unavailable"
+    ],
+    [
+      "AI领袖动态B",
+      "HTTP Error 503: Service Unavailable"
+    ],
+    [
+      "Anthropic",
+      "HTTP Error 503: Service Unavailable"
+    ],
+    [
+      "机器之心",
+      "HTTP Error 503: Service Unavailable"
+    ],
+    [
+      "国内AI资本产业",
+      "HTTP Error 503: Service Unavailable"
+    ],
+    [
+      "中文AI聚合",
+      "HTTP Error 503: Service Unavailable"
+    ],
+    [
+      "中文AI融资",
+      "HTTP Error 503: Service Unavailable"
+    ]
+  ],
   "items": [
     {
       "title": "Deutsche Telekom’s T.Capital invests €100 million in Mistral AI",
@@ -972,54 +1029,6 @@
       "best_tier": 1
     },
     {
-      "title": "大众ID.ERA 5X正式上市，4nm座舱芯片+豆包大模型",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1QUludmdHTDAzbjB4U2Q0U2xlTFc0Um9OdEN2Q1FRa0ttZ0s3YWl4bnpjWXo2WlJ4RHR2Wlg4ZDlDV3BTQl9aMUVrZ3ZHZkNEMWVybnAyN0E0Sk0?oc=5",
-      "source": "国产大模型大厂/汽车之家",
-      "source_tier": 1,
-      "published": "2026-11-14T18:31:03+00:00",
-      "summary": "大众ID.ERA 5X正式上市，4nm座舱芯片+豆包大模型 汽车之家",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/汽车之家",
-        "国产大模型大厂/汽车之家"
-      ],
-      "source_count": 2,
-      "best_tier": 1
-    },
-    {
-      "title": "突发！DeepSeek开放全家桶API：官方App功能均可自由组合调用",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN1RPUFUyTVNjTThpcGxoNzltWU9JVHFuTzZMSm9ySmxlUDRCZzJ6UTREWlpMbXFhRHlBeFNCbzAwbEtWdmllclpYbVZ3VFRCVHNHa0pSOEc2bGlnYmhDZ29KNFQwcTdLMVpLOVhYTHpRUFhEN1hoTkpObEs1bllES0VSQjBKeTRQ?oc=5",
-      "source": "国产大模型新锐/Sohu",
-      "source_tier": 1,
-      "published": "2026-11-14T18:00:00+00:00",
-      "summary": "突发！DeepSeek开放全家桶API：官方App功能均可自由组合调用 Sohu",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "国产大模型新锐/Sohu",
-        "国产大模型新锐/智源社区"
-      ],
-      "source_count": 2,
-      "best_tier": 1
-    },
-    {
-      "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFM5cnNsaGNIMzZfVDNWZ19qWUg3c0UtNVZLdUdMbzc4ZS1uTGJ0VnN2dFItbVV5Q0VCMno4RGxNV05nQWd3ZDhlaVFIT3JZS0JMVFpMaUR0VlR5TGFROXpZMGwxUXBYdE9YUmtpZlZ5RVVSX0VYN1EzR2RTWW1UX0FGWHFxZVB0OUNvcEpPdDdvRUJMazNjdVRkM1RIdzA?oc=5",
-      "source": "Anthropic/The Decoder",
-      "source_tier": 1,
-      "published": "2026-11-14T16:50:52+00:00",
-      "summary": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort. The article Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 appeared first on The Decoder.",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "Anthropic/The Decoder",
-        "The Decoder"
-      ],
-      "source_count": 2,
-      "best_tier": 1
-    },
-    {
       "title": "Andrew Garfield Officially Transforms Into Sam Altman in New ‘Artificial’ Trailer",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nbUYxZXNIc0VVY0QxM0dXTFk1YzlfQ1lKcElKeV9HUFdNOVFpSTZabWxmV0dhQUU3TFdXanB1Y1ZhYXRVMXlVODNKYTA0YmJDRXk0dmhORFVJdnJ4RkJ4T1Fkc28yWTY1Mzd5T0x2N3ZWYVluWkpKNFREdGc0QzA?oc=5",
       "source": "AI领袖动态A/Collider",
@@ -1372,38 +1381,6 @@
       "best_tier": 3
     },
     {
-      "title": "苏州工业园区多项成果亮相2026江苏人工智能创新发展大会",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTGEtN2hBWFZKRFR6ZFFvd0dXcW5jMDl3WU0yRDdzdm9VcUlTZWpPTDdfOE1haVlFWElUYTZvanR3VWlsMF9waGd1aWlPNzhscjFOTnFyeDE0QXlETE02UU1sZjZJYUNZN21GTVZZdl9DYWNmWXJCRGhHVWJDZE1ldnk5TWR0ZWdWZlBYMA?oc=5",
-      "source": "中文AI聚合/Sohu",
-      "source_tier": 3,
-      "published": "2026-11-14T23:06:11+00:00",
-      "summary": "苏州工业园区多项成果亮相2026江苏人工智能创新发展大会 手机新浪网",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/Sohu",
-        "中文AI聚合/手机新浪网"
-      ],
-      "source_count": 2,
-      "best_tier": 3
-    },
-    {
-      "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOE1LR0hKeXpQVkhzTU1MSWFvVnk0YUhLby0tdjBEaW9LM1JIbkJwWERMaVMxTkJjb2tyMUxSQ1FCZ3BLQVZDQVBYMXFjN3hnRWZJZ2tXMlBKSWh2SkxJUGdFY29KTTZfN0Ezbkw4dVVwcWFwRmdudFlRTVFVVDJBQVo3ZEdkRE9l?oc=5",
-      "source": "量子位/Sohu",
-      "source_tier": 3,
-      "published": "2026-11-14T06:50:00+00:00",
-      "summary": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！ Sohu",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "量子位/Sohu",
-        "量子位/智源社区"
-      ],
-      "source_count": 2,
-      "best_tier": 3
-    },
-    {
       "title": "商务部等9部门：推动消费券发放、结算等环节使用数字人民币",
       "url": "https://36kr.com/newsflashes/3887681764014856?f=rss",
       "source": "36Kr快讯",
@@ -1450,6 +1427,96 @@
       ],
       "source_count": 2,
       "best_tier": 3
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "source_tier": 1,
+      "published": "2026-11-23T21:20:00+00:00",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "OpenAI"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "HuggingFace",
+      "source_tier": 1,
+      "published": "2026-11-23T17:20:37+00:00",
+      "summary": "",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "HuggingFace"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "Google AI",
+      "source_tier": 1,
+      "published": "2026-11-23T17:00:00+00:00",
+      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Google AI"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "Google DeepMind",
+      "source_tier": 1,
+      "published": "2026-11-23T16:59:40+00:00",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Google DeepMind"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "source": "OpenAI",
+      "source_tier": 1,
+      "published": "2026-11-23T08:00:00+00:00",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "OpenAI"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "OpenAI",
+      "source_tier": 1,
+      "published": "2026-11-23T08:00:00+00:00",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "OpenAI"
+      ],
+      "source_count": 1,
+      "best_tier": 1
     },
     {
       "title": "免费男友太烧算力，DeepSeek梦女集体失恋了？",
@@ -1627,6 +1694,21 @@
       "hn_comments": 0,
       "sources": [
         "Anthropic/American Banker"
+      ],
+      "source_count": 1,
+      "best_tier": 1
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "source": "HuggingFace",
+      "source_tier": 1,
+      "published": "2026-11-23T00:00:00+00:00",
+      "summary": "",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "HuggingFace"
       ],
       "source_count": 1,
       "best_tier": 1
@@ -7272,319 +7354,544 @@
       "best_tier": 1
     },
     {
-      "title": "【DeepSeek开放全家桶应用API】DeepSeek发布全家桶应",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xcTlhS3FKRG82TXNJbjExYUdEcExtSGJURnZsOE9IR1VmMmxLdVA2QU5YYkhYTWd6V3Bwd195a09sWHBOQlFaTGdNbGw?oc=5",
-      "source": "国产大模型新锐/凤凰网",
-      "source_tier": 1,
-      "published": "2026-11-15T04:48:00+00:00",
-      "summary": "【DeepSeek开放全家桶应用API】DeepSeek发布全家桶应 凤凰网",
+      "title": "Tech leaders are celebrating Jensen Huang’s return",
+      "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-11-23T17:35:30-05:00",
+      "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken […]",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "国产大模型新锐/凤凰网"
+        "The Verge AI"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "Non-Engineer Publishes iPhone App in 13 Days, All Code Generated by AI: Anthropic's Claude Code Is Changing How Development Gets Done",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aeFdRWjFSUkQ0eG5NRE5TOG9QNDk3aEhVcmZwVmZ2dHVSTVNfUU9wbXF4M3BBYllXMjdlbjVwd1gwcGhGVTZTaERCTXNBN3lzRWVLMm5rWVFnM3I1bkt3Q0M4anFIN1BheDg4RmgyVGlFakxuaUE?oc=5",
-      "source": "Anthropic/BigGo Finance",
-      "source_tier": 1,
-      "published": "2026-11-15T02:55:00+00:00",
-      "summary": "Non-Engineer Publishes iPhone App in 13 Days, All Code Generated by AI: Anthropic's Claude Code Is Changing How Development Gets Done BigGo Finance",
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-11-23T17:34:20-05:00",
+      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" […]",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Anthropic/BigGo Finance"
+        "The Verge AI"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "$3.4 Billion — Anthropic Order for Gas Power Plants!",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYThDOFJDb3J3ZENySm1hbTZXbUl4NXBkQmpMUUwwNU85cGtFZmQ4X0E3MGxxc3l1OENqbnNCdjRKbW5zR3hfNk15VDFrSzBselRvRnZUS3ZhaWNhNFZlenJyS3BzdjBXSVY0RGlpb1plMTJzblFnV3Y5OFgwMkRzRUZyX1ZSRGhpV3hoZFJORQ?oc=5",
-      "source": "Anthropic/CleanTechnica",
-      "source_tier": 1,
-      "published": "2026-11-15T00:33:38+00:00",
-      "summary": "$3.4 Billion — Anthropic Order for Gas Power Plants! CleanTechnica",
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-11-23T17:21:36-05:00",
+      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might […]",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Anthropic/CleanTechnica"
+        "The Verge AI"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "Goldman Sachs Restricts AI Coding Tools Citing Security Risks",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcDBDVUlNV1BKTFVJTGd4YlIzU0g0Qm9HU3czTDZrZm5qM1U0WVJCZWtZZVprUlZJd0lDRlZDc1V4M1V3MmNQbDUtejNKc1RrMjJJUDRzRndaX1U0TEM1TkhoOUNsTG1tR3VMRk1zZjBKUlI2YlpkZkcyR05sNnk0Z2xVQ0JlNHdw?oc=5",
-      "source": "Anthropic/조선일보",
-      "source_tier": 1,
-      "published": "2026-11-15T00:30:25+00:00",
-      "summary": "Goldman Sachs Restricts AI Coding Tools Citing Security Risks 조선일보",
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-11-23T17:18:13-05:00",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Anthropic/조선일보"
+        "The Verge AI"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "Cursor confirms security breach led to malicious Claude Code extension",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGZ6cDY2N1VKakpFcW9sN0NqTkJBck9xMGxNbGdzTDJQUmt0cmNmdzlBdWdaQ2tzbEF4U1JoZVBsWGFQTWxuZUN4WHVNcGhTMjBCOE85eWVLdFZnRk9JV0c3QWRXUnl1Y0JkM3dPNGlyNHNnR29PT3J6eU95cHZ3SW1WOHEwcUM4ZG1FR3BPSHkzaUdDc0Z0TExMSHRlV2c1OFg4REhaeGphZHd6cTR1YUliWnBFRFVlWUE?oc=5",
-      "source": "Anthropic/BleepingComputer",
-      "source_tier": 1,
-      "published": "2026-11-14T17:27:25+00:00",
-      "summary": "Cursor confirms security breach led to malicious Claude Code extension BleepingComputer",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-11-23T22:05:50+00:00",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Anthropic/BleepingComputer"
+        "TechCrunch AI"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "Anthropic wants you to build on Claude. There’s a catch.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKejNmMEZTMkpxNnRzMnlsSDloc0YyQktVM0IwUFBSeGpadmZ6UERsNnhwQi1FdVNZcFZ4Z1Vtd1RDQjViaUFjM2h6dmc0bjRTWG1XUlA2U2tCRWxNUXhOUll5c1hVanA5bUlqbXZCb3doV3E2?oc=5",
-      "source": "Anthropic/The New Stack",
-      "source_tier": 1,
-      "published": "2026-11-14T15:18:05+00:00",
-      "summary": "Anthropic wants you to build on Claude. There’s a catch. The New Stack",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-11-23T22:02:05+00:00",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Anthropic/The New Stack"
+        "TechCrunch AI"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "【华西计算机】1114｜DeepSeek发布全家桶API，开发者可轻松复刻完整DeepSeek App",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZU00M0VsLXYyd1M5dVRiRjh1WjlCZF9OUlJKQmRQS0FXcU9EckdkVzVva3RRR1AzRUNNYlBEQUN1bXJfRTVMY1BSVVZqWjRGZU5ZMU1tZ2dpZVRLeXNuQUpnUS1IbWhvSW9PVTRobkZORjRYazRLMGlhNGRpakM2WlhYYWRwdUpMa1JIUQ?oc=5",
-      "source": "国产大模型新锐/Sohu",
-      "source_tier": 1,
-      "published": "2026-11-14T14:52:47+00:00",
-      "summary": "【华西计算机】1114｜DeepSeek发布全家桶API，开发者可轻松复刻完整DeepSeek App Sohu",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-11-23T21:47:41+00:00",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "国产大模型新锐/Sohu"
+        "TechCrunch AI"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "这妹子拉了梁文锋一把",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mMkt4NmJSYzhqejh0eFlWRGFYc29hSlJ4S3hORVh2Y3hnZVB2ZXdTX0h1Yjl2U0U5N2ZBN3FrMEFYOEF3NDJlUXlkN3puUndIbkNlXzF3?oc=5",
-      "source": "国产大模型新锐/Sohu",
-      "source_tier": 1,
-      "published": "2026-11-14T14:49:42+00:00",
-      "summary": "这妹子拉了梁文锋一把 Sohu",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "source": "Ars Technica AI",
+      "source_tier": 2,
+      "published": "2026-11-23T21:30:44+00:00",
+      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "国产大模型新锐/Sohu"
+        "Ars Technica AI"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "面壁智能发布 AgentCPM-智能循证教研系统，“面壁+教育”让每一节课真实可见",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YOXJOeEthN0FFbC1nNGdRSVdhRmhUMm9FVmdBYzc0YnJmUjl4OHMyVC1DV2VqRkJsZlVTdEw2NVhqYzBYb243VFR5VTZmekM3RTVONGVn?oc=5",
-      "source": "国产大模型新锐/TOM",
-      "source_tier": 1,
-      "published": "2026-11-14T14:48:00+00:00",
-      "summary": "面壁智能发布 AgentCPM-智能循证教研系统，“面壁+教育”让每一节课真实可见 TOM",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-11-23T21:25:42+00:00",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "国产大模型新锐/TOM"
+        "TechCrunch AI"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "Anthropic Stake Sold Off in FTX Bankruptcy Would Be Worth ¥5.9 Trillion Today as IPO Reveals Massive Opportunity Cost",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DdGFnTThqN1NXUGp5a1RfamV2aDhhSXlzcl8xUkNFT2Mza09UT3RzSTdRbnRsUS1UVmdzUlROSVhaU2ptRE5IaXdFQ0RQWExreURrZ1lhU2lsSkVaVnpFanpfTUFiX0lmVEN6VlZuUTN0dDgtemc?oc=5",
-      "source": "Anthropic/BigGo Finance",
-      "source_tier": 1,
-      "published": "2026-11-14T14:35:00+00:00",
-      "summary": "Anthropic Stake Sold Off in FTX Bankruptcy Would Be Worth ¥5.9 Trillion Today as IPO Reveals Massive Opportunity Cost BigGo Finance",
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-11-23T16:09:37-05:00",
+      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees […]",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Anthropic/BigGo Finance"
+        "The Verge AI"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "我改个Demo 接入任意模型|DeepSeek|API|全家桶应用_新浪新闻",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqRnRacmNhb2VTcmNscXl6eVZ4RDhtdEFjMzN0SHB4QlA4SUp2UkpodkFEWGhaeUpSenNHNFllRXFxNUxsMWE2RVRDLTIyeTRjejBRWWdRTFVKTVE2dVZLUDh1QQ?oc=5",
-      "source": "国产大模型新锐/新浪网",
-      "source_tier": 1,
-      "published": "2026-11-14T14:19:00+00:00",
-      "summary": "我改个Demo 接入任意模型|DeepSeek|API|全家桶应用_新浪新闻 新浪网",
+      "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
+      "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-11-23T20:39:18+00:00",
+      "summary": "OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide. In internal tests, image understanding jumped from 47.4 to 71.7 percent, and the model now handles difficult instructions correctly 78.1 percent of the time. It also sticks to safety policies more consistently. The article OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably appeared first on The Decoder.",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "国产大模型新锐/新浪网"
+        "The Decoder"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "Anthropic IPO Sparks 2X Leveraged ETF Filing as Wall Street Prepares for Nasdaq Debut",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFdEdlczV0JtemNqLVVqQ19WV29HakhMUHRGakdWczNteGw1dzd1dmdseWF2Sy1WNVpONVR2WVprOTE5Qm5zVWVtcmhaUEU1dk42aFRpZ1ZDanp1bkdwcTQ2a2xtQU5EOGV6eXdLRlVzaDhaRUsyZ2lDTlF6Sy1BREphZ2tPWGdrbHoxNUJtT0lHbGZvODJGR1JsQ1N1aDJzcUhnNmF6NWJFX1oxbXpWMnh0R0M?oc=5",
-      "source": "Anthropic/Coinpaper",
-      "source_tier": 1,
-      "published": "2026-11-14T13:48:35+00:00",
-      "summary": "Anthropic IPO Sparks 2X Leveraged ETF Filing as Wall Street Prepares for Nasdaq Debut Coinpaper",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-11-23T20:38:53+00:00",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Anthropic/Coinpaper"
+        "TechCrunch AI"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "你养过Deepseek这条大肥鱼吗？",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CdnNRTXFORTRueHI0djFHX2lRWkxUdm96dUZ1OFlIQmxkLTBvMzNxdGh0WGtTWk5Yamx2eW8zWlk5b0x3aHpXR2hjMkRndw?oc=5",
-      "source": "国产大模型新锐/虎扑体育网",
-      "source_tier": 1,
-      "published": "2026-11-14T12:59:45+00:00",
-      "summary": "你养过Deepseek这条大肥鱼吗？ 虎扑体育网",
+      "title": "How Jensen Huang ended up as Nvidia CEO again",
+      "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-11-23T15:38:44-05:00",
+      "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfaithful\" to his wife […]",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "国产大模型新锐/虎扑体育网"
+        "The Verge AI"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "杀疯了，DeepSeek 又开源了全家桶应用",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5SWZrU1ZKMkFheUlZeEdsQXZ6MzFZb29hN2o4X1lMVTBFOEVybzgtazM0aWdhSWZHcDJ5cV9hZmdzc2Z0THZ2S0RidFQzdEZ3dEltUUxWZFJBc3ZwV0ExR0xKa0pNc3ROekE?oc=5",
-      "source": "国产大模型新锐/53AI",
-      "source_tier": 1,
-      "published": "2026-11-14T12:19:20+00:00",
-      "summary": "杀疯了，DeepSeek 又开源了全家桶应用 53AI",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-11-23T19:14:46+00:00",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "国产大模型新锐/53AI"
+        "TechCrunch AI"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "【神评】DeepSeek：不想自己适配了，想要什么自己编吧...",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOW85U19keDRBNl92X0pBdVJiUEdXQkxYYlhkOXdUMmdTeTJDWW5OMzhTWWxqNnJpbl83U0E2Wmpxak03Tk5TbGhkYXd1S0VDTEtWWFByVUp6TkhJVS14U1JNZW9kUk50SW95WlZRWWhkeFR5cWdNOWZ3WHRhbEJQaGE3ZW1xWEZT?oc=5",
-      "source": "国产大模型新锐/Sohu",
-      "source_tier": 1,
-      "published": "2026-11-14T12:13:04+00:00",
-      "summary": "【神评】DeepSeek：不想自己适配了，想要什么自己编吧... Sohu",
+      "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+      "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-11-23T14:04:52-05:00",
+      "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable. Nothing CEO Carl Pei demonstrated the new device […]",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "国产大模型新锐/Sohu"
+        "The Verge AI"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "Anthropic's Amodei Says He Turns Down Brilliant Jerks as IPO Nears $1.4 Trillion Valuation",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZN3NoUURzMWpadUZYSFlPQUR0NXlDMXhneDNnM3dPdnc1dGJCRDN1dER6UkxrX2kxdzFmRkMxZmJaUmxVRG5QX1dDRzIzTmZ4T2FWMGlOeXVwZ3VWNUY5MmNoMlF6WE5FNlRLUHBQX1FKZy0xQUE?oc=5",
-      "source": "Anthropic/BigGo Finance",
-      "source_tier": 1,
-      "published": "2026-11-14T10:35:00+00:00",
-      "summary": "Anthropic's Amodei Says He Turns Down Brilliant Jerks as IPO Nears $1.4 Trillion Valuation BigGo Finance",
+      "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+      "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-11-23T13:48:59-05:00",
+      "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven Cheung said in a statement, […]",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Anthropic/BigGo Finance"
+        "The Verge AI"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "Nvidia Earnings and Anthropic's Debut Set Up a Pivotal Nov. 18 for AI Stocks",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ib21XdzE2NHJoRG1SazMzTVl0SzVZVFhHcnh4V3ZPalpzZEszX25lYVZiQ3BnTDBDZk9NY3FJd1VjWFcta2FKWHFqUkprRU50U1pKMFc5dEM5bTZpTWF4bzJVLTh6ZjFiNUlPRGwxb1BmQUJDNnc?oc=5",
-      "source": "Anthropic/BigGo Finance",
-      "source_tier": 1,
-      "published": "2026-11-14T10:25:00+00:00",
-      "summary": "Nvidia Earnings and Anthropic's Debut Set Up a Pivotal Nov. 18 for AI Stocks BigGo Finance",
+      "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
+      "url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-11-23T18:47:53+00:00",
+      "summary": "Since May, SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects. Anthropic pays about $3.1 billion a month, Google $800 million, the New York Times reports. After its June IPO, SpaceXSI disbanded the 60-person Grok Imagine team, among other cuts. The article Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy appeared first on The Decoder.",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Anthropic/BigGo Finance"
+        "The Decoder"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "【视频】12万起，方盒子SUV首搭豆包大模型，纯电插混怎么选？",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvQWp6c1V4a2VXUU1yXzRsVTQ3ZjJ1V2c3dS1nQUxGR3BlSzFfX2cxV29rbW0zS3VfSWtyRzFtRzdBR1RSRExjQ3ZEa2xPNmQyTm9BNnQ2TGN5RUU?oc=5",
-      "source": "国产大模型大厂/车家号",
-      "source_tier": 1,
-      "published": "2026-11-14T09:08:05+00:00",
-      "summary": "【视频】12万起，方盒子SUV首搭豆包大模型，纯电插混怎么选？ 车家号",
+      "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+      "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-11-23T18:42:38+00:00",
+      "summary": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time, up to an unreleased model beyond the current generation. The metric shows that core capabilities emerge at surprisingly precise thresholds. Pachocki is pushing to make perplexity an industry-wide progress metric and establish shared limits before control over AI behavior erodes. The article OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits appeared first on The Decoder.",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "国产大模型大厂/车家号"
+        "The Decoder"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "Key facts: Anthropic PBC IPO Draws 6x Demand; Roadshow, China Risks",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXVmREdIVW9sOUFZNlpxNUJQcWhpRko2dWZnZC1OLUdaZUpxd2hfQVhPOTRzRWVxN1k1SXNzZGVUWFJXcUNEMkMwRG9tY0RMS1RVc29tOXltQ3FvbU9vclNzRzhXcjlOLVZZN1d5UlZRV0hXeUZFczh1M3ZXSnhoakY4R1Y0VnczaWtBa0h5bWx3Zmt5Vl81a01yZkRXYmMzeVotZGVWVHhGMlBQV1VZeXkyV3o3aFFQb0VXWTBjV1RPZEt6?oc=5",
-      "source": "Anthropic/TradingView",
-      "source_tier": 1,
-      "published": "2026-11-14T08:41:27+00:00",
-      "summary": "Key facts: Anthropic PBC IPO Draws 6x Demand; Roadshow, China Risks TradingView",
+      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-11-23T13:26:47-05:00",
+      "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully […]",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "Anthropic/TradingView"
+        "The Verge AI"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "黃樂關聯企業投資DeepSeek 涉供應受限AI芯片",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WSlZZT3g0RXgyeGhKcllSTTVGWFU0SWxKY0hkY2twWVJMYWRQNUYxblNIWUZzNGFqTERlSXRUOW1OUm1XQ2t3Zi02aWFBVFpCd09MYk41ZWE1bV93elBwZtIBZkFVX3lxTE0xUGZHVE95cDNPLUc2M3QtSF8xdVI2bWw0MEsxdFpfZURwMWNhTEdMNW1KbmhwMlU5RGpCbFBHUlhhS1FjQm1YTFE1eHJSUGhvbFZEclJoRUVvZFppRV9XY2M5TndOQQ?oc=5",
-      "source": "国产大模型新锐/新唐人電視台",
-      "source_tier": 1,
-      "published": "2026-11-14T05:34:39+00:00",
-      "summary": "黃樂關聯企業投資DeepSeek 涉供應受限AI芯片 新唐人電視台",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-11-23T18:12:22+00:00",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "国产大模型新锐/新唐人電視台"
+        "TechCrunch AI"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
     },
     {
-      "title": "DeepSeek又来掀桌了！官方App全套能力开放API，联网搜索价格不到OpenAI、Claude的8%",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vLWVQUWdNTGg4RWxubk1wSWh3WWtjYVpTQmk5ZE54Ri1JMVdONFJZU2tnYVNhMENrZjJqNUZfZnNURjlURl9ILTJlLVR3YkNKN2Z2eW9xVzlWeWxPMzVWRjZyb2FsLUlUN1NWZ2kzTHU?oc=5",
-      "source": "国产大模型新锐/新浪网",
-      "source_tier": 1,
-      "published": "2026-11-14T04:24:57+00:00",
-      "summary": "DeepSeek又来掀桌了！官方App全套能力开放API，联网搜索价格不到OpenAI、Claude的8% 新浪网",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT Tech Review",
+      "source_tier": 2,
+      "published": "2026-11-23T17:36:08+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "国产大模型新锐/新浪网"
+        "MIT Tech Review"
       ],
       "source_count": 1,
-      "best_tier": 1
+      "best_tier": 2
+    },
+    {
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-11-23T17:14:23+00:00",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "published": "2026-11-23T12:10:02-05:00",
+      "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was […]",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Verge AI"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-11-23T16:57:40+00:00",
+      "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-11-23T16:39:10+00:00",
+      "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "source": "Ars Technica AI",
+      "source_tier": 2,
+      "published": "2026-11-23T15:46:18+00:00",
+      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Ars Technica AI"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
+      "url": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-11-23T15:13:03+00:00",
+      "summary": "Z.ai is moving its flagship GLM-5.4 model to a loop architecture in which 28 layers run twice, which the company says lets the 750-billion-parameter model match models with 2 to 3 trillion parameters. Benchmark scores are only available for a smaller 30B test model so far, and Z.ai is positioning GLM-5.4 as the start of \"Generalized Coding,\" where code also generates videos, games, and CAD models. The article Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Decoder"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-11-23T15:04:01+00:00",
+      "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Chinese military fears AI could let the US find and destroy its nuclear missiles",
+      "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-11-23T14:43:23+00:00",
+      "summary": "Chinese military researchers fear that AI advances could give the US an edge in the nuclear balance of power. The article Chinese military fears AI could let the US find and destroy its nuclear missiles appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Decoder"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-11-23T14:43:03+00:00",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Nvidia tried life without Jensen Huang and it lasted about two weeks",
+      "url": "https://the-decoder.com/nvidia-tried-life-without-jensen-huang-and-it-lasted-about-two-weeks/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-11-23T14:24:47+00:00",
+      "summary": "Nvidia's board of directors has reinstated Jensen Huang as president, CEO, and board member, effective immediately. The article Nvidia tried life without Jensen Huang and it lasted about two weeks appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Decoder"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "source": "TechCrunch AI",
+      "source_tier": 2,
+      "published": "2026-11-23T14:21:59+00:00",
+      "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
+      "url": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-11-23T13:59:36+00:00",
+      "summary": "Meta's Chief AI Officer Alexandr Wang sees the recent AI-assisted proof sketch of the Riemann Hypothesis as a clear sign that superintelligence is right around the corner. The article Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Decoder"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year",
+      "url": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-11-23T13:45:32+00:00",
+      "summary": "US intelligence agencies tracked contacts between Alice Huang and China's Ministry of State Security for over a year, the New York Times reports. The surveillance ran parallel to her secret affair with then-Nvidia CEO Jensen Huang. Federal investigators are now looking into whether a network of companies in Southeast Asia was used to smuggle AI chips into China in violation of US export controls. Jensen Huang is scheduled to testify before the US House of Representatives on December 1. The article US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year appeared fi",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Decoder"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
+      "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
+      "source": "The Decoder",
+      "source_tier": 2,
+      "published": "2026-11-23T12:17:01+00:00",
+      "summary": "OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI. The model chose its own approach because key foundations were missing from Mathlib. On Autoform-Hard, Astra now leads the leaderboard with 49 of 56 tasks solved. The article GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy appeared first on The Decoder.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "The Decoder"
+      ],
+      "source_count": 1,
+      "best_tier": 2
+    },
+    {
+      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+      "source": "Ars Technica AI",
+      "source_tier": 2,
+      "published": "2026-11-23T12:00:00+00:00",
+      "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "Ars Technica AI"
+      ],
+      "source_count": 1,
+      "best_tier": 2
     },
     {
       "title": "AI godfather says Dario Amodei has medieval mindset, left OpenAI when things went out of control",
@@ -12687,289 +12994,379 @@
       "best_tier": 2
     },
     {
-      "title": "SNL Cold Open Schools Billionaire Tech Bros; Bowen Yang Returns",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWDVKemdfLVpwSWhzRm1Fa0tZY0ZUNXBsUzVCbFdrbmJpZ1ZoVUNlN08wSHFuSW5NWUhtT1FPUVpOT0I4b1kzYnRhb2ZsSm1pcnNzbV9lbUpBM3phdHdMVGY4QWR1MUotOE5tcFpGTkRzQXY0U3M4c1Z0emxUSkFPNFVHbEphYnNsMGlrYno3WDRZX1JEUEE?oc=5",
-      "source": "AI领袖动态A/Bleeding Cool News",
-      "source_tier": 2,
-      "published": "2026-11-15T04:53:09+00:00",
-      "summary": "SNL Cold Open Schools Billionaire Tech Bros; Bowen Yang Returns Bleeding Cool News",
+      "title": "隐藏款 1/64 概率：柯达 SlideTag 追踪器盲盒开售，配 1.54 英寸 6 色电子墨水屏",
+      "url": "https://www.ithome.com/1/031/493.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T06:42:50+00:00",
+      "summary": "IT之家 11 月 24 日消息，科技媒体 9to5Mac 昨日（11 月 23 日）发布博文，报道称柯达（Kodak）联合硬件厂商 Reto 推出全新防丢追踪器 SlideTag，售价为 35 美元（IT之家注：现汇率约合 233.8 元人民币），并以盲盒形式销售，隐藏款抽中概率约为 1/64。设计灵感方面，官方表示该产品灵感来自柯达经典的 35 毫米胶片幻灯片，整体走复古、便携路线。在查找兼容性方面，SlideTag 不仅支持 iPhone 的“查找”（Find My）网络，也兼容安卓手机的“查找中心”（Find Hub）网络，用户可像使用 AirTag 一样，在手机应用中定位钥匙、背包、行李箱等随身物品。卖点方面，SlideTag 不同于主流追踪器，最大特色是正面加入了一块 1.54 英寸电子墨水屏，6 色电子墨水（E-Ink）屏，分辨率 240 × 240 像素。整机尺寸为 39.3 × 46 × 7.58 mm，重量约为 16.6 克。用户可通过 Kodak Memory Link 应用上传内容，让追踪器显示最多 12 张照片，也可设置为待办清单或二维码。由于电子墨水屏在静态显示时功耗很低，它既适合当作随身“电子相框”，也便于他人扫描二维码归还失物。在发售方面，追踪器 SlideTag 采用盲盒形式销售，共有 9 款设计，其中 8 款为常规款，出现概率为 1/8，而第 9",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "AI领袖动态A/Bleeding Cool News"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "Too talented to hire? Anthropic CEO Dario Amodei reveals 4 types of people he won’t let into his company",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNb1VEOUJ1bW9yQUJHYTdZa3NhSndGRENxNDRzX25vTV9CdU1OcWNKZ05SeFhsd2YzRlgtWXppRnVEUUJ1LXppRzRETEhFSHlkdjZObEJOODdpMWhSNVJSZG5tZWszell2NGdZX3k2blpEV3ZwQ1JSa0ktRnFSbURQaDliRnNzcDdXYkFqQmQtYV85YVctUGQ3TnhaWHVYU1FJNFFYNVZzZW9nQ2Q1Y3lVYXpvRGFNSFEtUUtHZDAxVzI3VDNtd0F1SWpzWElZYUpTNWs3U0trMndfb1pleVVxeDJXSUxnZGVwWFFsbFJFcEg4Uzd0bFZMend1cTBXR3p4RVdFeFdGUVN2Yy0w0gGSAkFVX3lxTE9nVDFvelI2ZnBOWFd5ZG1uNW5wdGFHMEJPaFF3eFEzX3M1Q2ZIdmFEN2VvZG8tR25aSW03dHdpbVRoWGRKdThjdW5PRnRWS3NVRktabXNEMGNxR3hwaXhqcFc2NHI0TnpiX1ZSY2RSQV83YnRwdG05a2FWWThCT1JPT3gzQUpON20yd3BMQm00emFVSUhpeGFVTVE5YndiSWF3R3BkNnRhamVBcktZQzNNSWx1VTQyVHZEd3hJQXV5bDBVQ09vNjRUcnJCdy0yTlI0NFlsb0Q1WGsyU3k0ZUFWMXlvUEtBYXFueGFoeDNwU25zVHl0d2RCdTRZbFhGLUtxUi1hT0VidGJHZXhOZU40RWc?oc=5",
-      "source": "AI领袖动态A/The Times of India",
-      "source_tier": 2,
-      "published": "2026-11-15T03:12:00+00:00",
-      "summary": "Too talented to hire? Anthropic CEO Dario Amodei reveals 4 types of people he won’t let into his company The Times of India",
+      "title": "IDC 预测：2027 年智能眼镜全球出货将突破 2622 万台",
+      "url": "https://www.ithome.com/1/031/490.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T06:37:46+00:00",
+      "summary": "IT之家 11 月 24 日消息，国际数据公司（IDC）今日发布 2027 年中国智能眼镜市场洞察报告。进入 2027 年，智能眼镜行业将进入加速升级阶段，AI 能力、硬件体验和生态协同持续提升，市场定位和发展方向日益清晰。IDC 认为，2027 年智能眼镜全球出货量将突破 2622.1 万台，中国突破 450.6 万台，显示轻量眼镜主导高端化升级，无显示类聚焦极简与 AI 创新。IT之家附 IDC 市场结构分化如下：显示轻量眼镜为增长主力：其中 AI 显示眼镜成为产品高端化升级的主导方向；投屏眼镜通过丰富产品线和降低入门门槛，夯实市场基础盘，扩大用户规模。无显示轻量眼镜聚焦轻量化、AI 创新和隐私合规，满足便携和多终端需求。头显产品加速向垂直领域高端化发展，同时探索 C 端市场机会。同时，隐私合规将成为智能眼镜市场的准入条件，40% 的眼镜产品将在隐私保护层面完成硬件升级，以可感知、可信任的机制应对法规升级。情境感知与多模态输入将推动交互体验升级，2027 年支持多模态交互的智能眼镜出货占比预计超过 35%。此外，AI 智能体的普及将倒逼智能眼镜标配 NPU，2027 年具备本地 AI 推理能力的智能眼镜占比提升至 50%，Agent 任务分配权和入口权成为生态竞争新焦点。明年行业退货率有望降至 30% 以下，线下体验和试戴的完善有助于用户购买前了解产品，行业也将聚焦高频刚需场景",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "AI领袖动态A/The Times of India"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "An overview of Jensen Huang’s messy days",
-      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "source": "The Verge AI",
-      "source_tier": 2,
-      "published": "2026-11-14T19:09:10-05:00",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […]",
+      "title": "曝马斯克的 SpaceX 和特斯拉已委派五名董事负责合并谈判",
+      "url": "https://www.ithome.com/1/031/485.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T06:28:44+00:00",
+      "summary": "IT之家 11 月 24 日消息，据英国金融时报今日报道，埃隆 · 马斯克旗下的两家上市公司已任命五名董事，其中三人来自特斯拉、两人来自 SpaceX，成立两个负责合并谈判的特别委员会。报道引述知情人士的话称，五名董事分别是来自 SpaceX 的 Roelof Botha 和 Randy Glein，以及来自特斯拉的 Robyn Denholm、Kathleen Wilson-Thompson 和 Jack Hartung。IT之家注意到，马斯克曾在 SpaceX 上个月的第三季度财报电话会议上表示，将他的人工智能、机器人、电动汽车和航空航天抱负整合在一个企业平台下，将是“一个好主意”。报道还提到，特别委员会聘请了顾问，正在微调财务模型，这些模型将成为他们在股票合并中谈判立场的基础。据彭博社当地时间 11 月 12 日报道，知情人士透露，SpaceX 与特斯拉的合并谈判正在取得进展，双方有望于 12 月宣布合并协议，最迟可能推迟至 2027 年初。如果交易最终达成，将成为全球规模最大的企业合并交易之一。",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "The Verge AI"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "Where was Nvidia’s security team?",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "source": "TechCrunch AI",
-      "source_tier": 2,
-      "published": "2026-11-15T00:08:07+00:00",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "title": "AI 钓鱼邮件会“自我进化”：TheMailer 曝光，不断升级文案直到骗过垃圾邮件过滤器",
+      "url": "https://www.ithome.com/1/031/482.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T06:20:26+00:00",
+      "summary": "IT之家 11 月 24 日消息，科技媒体 TechRadar 今天（11 月 24 日）发布博文，报道称暗网论坛近期正传播名为 TheMailer 的 AI 网络钓鱼工具，结合多种商用大模型与自动化邮件测试、个性化定制和反复改写能力，让攻击者持续调整诈骗邮件，直到其成功绕过收件方的垃圾邮件过滤器。TheMailer 工具由安全厂商 Varonis Threat Labs 研究人员发现，是一个自托管平台，可通过使用者自己的 API 凭证接入 Claude、ChatGPT、Grok、Gemini、Mistral 和 DeepSeek 等多个 AI 服务。TheMailer 在网络犯罪网络上的销售线索。攻击者可指定由哪个模型生成诈骗内容，并要求其模仿“专业银行语气”等风格，从而让钓鱼邮件更贴近真实业务沟通。TheMailer 可按 Gmail、微软、GMX、Yandex 等不同邮件服务商定制邮件版本，并利用各平台的过滤规则与发送限制优化投递策略。TheMailer 还能生成带收件人姓名的个性化 PDF 发票、日历邀请和 SVG 附件，让诈骗邮件看起来像是专门为受害者准备的。该工具的“收件箱循环”功能会反复测试邮件能否送达目标邮箱；若邮件进入垃圾邮件文件夹，AI 会修改内容后再次投递。其“移除 AI 痕迹”选项则试图消除机器生成文本的典型特征，进一步降低被安全系统识别的概率。研究人员称，",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "TechCrunch AI"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "source": "TechCrunch AI",
-      "source_tier": 2,
-      "published": "2026-11-14T21:41:22+00:00",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "title": "微软总裁史密斯示警：AI 加速修补漏洞，未来数月全球恐出现更多技术故障",
+      "url": "https://www.ithome.com/1/031/479.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T06:08:17+00:00",
+      "summary": "IT之家 11 月 24 日消息，微软总裁布拉德 · 史密斯（Brad Smith）于 11 月 22 日发布警告，表示未来数月全球技术故障风险将持续处于高位，AI 在加速漏洞发现的同时，也放大了快速更新带来的不稳定风险。IT之家援引博文介绍，史密斯表示未来数月全球技术故障风险仍将居高不下，而且由于“全球整个信息基础设施实际上都在进行升级改造”，相关风险无法在几周内解决，恐出现更多技术故障。科技媒体 NeoWin 报道指出，近期全球网络出现大规模、大范围的宕机事件，微软 Exchange、Outlook、Teams 等服务出现较大范围故障后，苹果 App Store、多家银行、航空公司及 PlayStation Network 也接连报告服务中断。官方已排除这些事件为协同网络攻击的可能性。美国国务卿马可 · 鲁比奥表示，没有证据显示各起事故彼此相关，或源自有组织的网络攻击。史密斯认为，人工智能正在改变网络安全与系统运维的节奏。AI 让安全人员更容易发现代码漏洞，但恶意攻击者同样可利用这一能力寻找攻击入口；结果是，企业不得不以“前所未有的速度”部署补丁，留给测试和验证的时间被大幅压缩。他特别指出，老旧基础设施最易受影响。当系统更新速度过快、测试不足时，本应提升安全性的修补工作，反而可能触发新的故障。微软此次全球中断，就被其归因于四个月前的一次软件更新、较新的更新以及网络流量变化共同形",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "TechCrunch AI"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "Dario Amodei's Anthropic makes its largest hometown donation to date, to give $500,000 to support free me",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNYV9Rb3NKOVBYc2dBb0RuWGxkZERkZkI1VzNNU1c3V1BLRVdDcXpRd0toV3dzal9GZ3hVTXBrVXJYY2dvdkVDYkhETUtuNmlkY0pBY0dSelpzMEhnd2d6OWEyaDVZOXROelR2SDNFUDQ5XzNSRU54c3lQdnJsOE05d1VvOURGcWFRa0FhSzFFeC1YYV9ReDdoa1Z0ODQ4MnRMR3UyamEyMzE1RmV2Ti1JLUxMcXJ4QTJDaWhEU1VFZk9aRC1qSU5XN0s5SUhPRmdiVG9CWjhzT0N2bHg3UGY0SFJzaFR3V0V1Y3RsSzNRVUNTeDVYMGE3Q0s4MXp4eG1zWWtTVFZqcnoyWC1QbnFHeDl5b0pub21wbDU5eTR5cGhHbVhoY2RYSkNZSEdkSmxsR293QnVzSzRUTmVoSHBQNHdZWVJWMG16R0t5STV5bk5mZjNwSGFzWHFUMGQxX2szTnh3S29QVXk3VTh3d0dJSmNxVnFaUGpHUkHSAf8CQVVfeXFMTlFPUFRWams2dE1OWGJtcGkwamlzMFd4OEhJYU5qdG1fNnBwUkNWZjJnRHcxWHdNS0s0Unk2ekxnNU50YWRkWVFTOUQ2R3dFdTVfaDBsZXBLeGU4d20zOTZjM3J3LVh0WjFzS0NGY2pnZW5sYjZjWEZkejhJMjM0M2laWmlWeGoyNUZ0ZGQxcF85NWI3bnNySjR2anhqU3RBZWVheGI3NU8tcGY2Vmp2YVZvWWtkRlY5dmFNMGtwcmV3dzJPSDFFdjRwSnlQQlJ6dmtZcFFqczVpbWlhdG5pTWg0RnRJLUxKeFJWNkdRem1FcjM3WTlIRFh3bVJUMzdkcmVKMV9hSzBxNkZMajdBSHpBSms1aTJFZXQtT1hjbVdWdVZGeDA4SW83d1MxRmVlc1g5OVVHNlUxOUZtaDVLeFF3Yk9qR1NnWDJuUnNsdC14WnJZWlBfcUlRT2E3cGQ3UWtreG0wcjNqdE4ta2x3MTFLMjl3MHlpd1IzaTEzb2c?oc=5",
-      "source": "AI领袖动态A/The Times of India",
-      "source_tier": 2,
-      "published": "2026-11-14T19:47:00+00:00",
-      "summary": "Dario Amodei's Anthropic makes its largest hometown donation to date, to give $500,000 to support free me The Times of India",
+      "title": "魅族新机 M2621Q 入网，AI 小方块预计年底前后上线",
+      "url": "https://www.ithome.com/1/031/477.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T05:59:38+00:00",
+      "summary": "IT之家 11 月 24 日消息，微博博主 @数码闲聊站 今日发文称，魅族新机近期入网，型号 M2621Q，支持 4G 网络，目前机型未知。该名博主还在文中透露，魅族的 AI 小方块预计将在年底前后上线。该机搭载 4 英寸屏幕，主打 Flyme AIOS。博主 @体验more 曾在此前透露，魅族 AI 小方块将量产上市，搭载紫光展讯 T8200 处理器。参考IT之家此前报道，在 9 月 2 日的腾讯 WorkBuddy 生态发布会上，魅族 AI 小方块概念机亮相。据介绍，魅族 AI 小方块概念机搭载基于原生 AI 的 Flyme AIOS，通过深度融合智能交互与 WorkBuddy 云端 AI 工作台核心能力，带来全新 AI 协同办公体验。",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "AI领袖动态A/The Times of India"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
-      "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
-      "source": "The Decoder",
-      "source_tier": 2,
-      "published": "2026-11-14T19:05:17+00:00",
-      "summary": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear whether future revenue will justify those costs. The planned IPO is largely meant to serve as a financial buffer against that uncertainty. The article Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO appeared first on The Decoder.",
+      "title": "Anthropic 数学家澄清 Claude 证明黎曼猜想争议：“25 万页”的说法只是开玩笑，没想到大家都当真了",
+      "url": "https://www.ithome.com/1/031/476.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T05:55:12+00:00",
+      "summary": "IT之家 11 月 24 日消息，当地时间 11 月 23 日，参与使用 Claude 研究黎曼猜想的数学家 Levent Alpöge 在 X 上发文，承认自己做了一些傻事，并对此前公布的证明材料及相关争议作出解释。首先，他表示最受争议的「超 25 万页」证明文档实际上只是一个玩笑，他根本没打算发布如此庞大的可读版证明材料。他表示，自己发布的 Lean 代码确实“满是垃圾”，但可以编译通过。他认为外界对这些冗余代码的批评“完全合理”，自己本应清理。此前，Alpöge 于 11 月 20 日在个人网站发布一份 4 页说明，称自己与 Claude 合作发现了黎曼猜想的证明，方法同样涵盖广义黎曼猜想。该证明没有以传统论文形式发布，而是以 Lean（一种可由计算机逐步检验数学推理的证明助手）形式化代码公开。据《对话》（The Conversation）报道，他当时解释称论证极其冗长，由 AI 生成的英文说明篇幅“达到 25 万页以上”，把这样一份难以阅读的文本发布出来并不合适，因此只放出 Lean 代码。Alpöge 在回应中表示，他自认为这种大数字极其好笑，原本希望通过主定理中对实数全序关系的冗长表述，让读者意识到 25 万页只是夸张说法，但没想到大家却当了真，而他在公布后的几天里不想在社交媒体上发言，所以这几天一直没有回应。他还提到，自己此前提到的 YM4 存在性工作中“慢慢处理 6",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "The Decoder"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch AI",
-      "source_tier": 2,
-      "published": "2026-11-14T17:30:00+00:00",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "title": "违规改装电动自行车锂电池热失控致 5 死 1 伤，湖南祁东“5·24”较大火灾事故调查报告公布",
+      "url": "https://www.ithome.com/1/031/472.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T05:38:59+00:00",
+      "summary": "IT之家 11 月 24 日消息，湖南消防救援总队官网 11 月 22 日公布了《衡阳市祁东县和丰大厦“5·24”较大火灾事故调查报告》。2026 年 5 月 24 日 0 时 43 分许，衡阳市祁东县洪桥街道县正东路 419 号和丰大厦发生火灾，造成 5 人死亡、1 人受伤。调查组认定，这是一起违规改装的电动自行车在充电过程中因锂电池热失控引发的较大火灾事故。事故直接经济损失 309.7 万元，其中直接财产损失 102.3 万元。通报显示，起火点位于大厦南侧一层 5 号门面外的两轮电动自行车停放处。涉事车主邹某和先后两次对该车进行违规改装：2025 年 10 月将原车铅酸电池更换为 72V110Ah 三元锂电池，因电池尺寸超出原车电池仓，拆分为两组分装于电池仓与储物箱内。2026 年 3 月该车曾在充电时发生火灾，烧损 4 个锂电池包，邹某和随后又在保留受损锂电池的基础上加装 2 块铅酸电池，且全程未安装锂电池保护板。锂电池保护板（IT之家注：BMS，负责监控电芯电压与温度、在异常时切断充放电回路的安全装置）缺失，使电芯在过充或局部过热时失去最后的阻断环节，铅酸与锂电混用则进一步加剧了电气系统的不确定性。5 月 23 日 22 时 39 分许，邹某和将两轮电动自行车与三轮电动车并排停放在和丰家电超市挑檐下充电。次日 0 时 43 分，两轮车冒出大量白烟，受三轮车阻挡，热量集中于挑",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "TechCrunch AI"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
-      "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
-      "source": "The Decoder",
-      "source_tier": 2,
-      "published": "2026-11-14T16:48:01+00:00",
-      "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task. The article Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol appeared first on The Decoder.",
+      "title": "黄仁勋回归英伟达首日：换下招牌黑皮衣，海军蓝 Dior 夹克再度亮相",
+      "url": "https://www.ithome.com/1/031/471.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T05:33:46+00:00",
+      "summary": "IT之家 11 月 24 日消息，纽约邮报今天（11 月 24 日）发布博文，联合创始人黄仁勋复职重返英伟达公司首日，并未穿着标志性的黑色皮夹克，选择了一件海军蓝色 Dior 外套，显得更为低调。图源：视频截图从现场画面看，黄仁勋身穿深色翻领拉链夹克，搭配黑色长裤和休闲鞋。IT之家援引博文介绍，这并非是黄仁勋首次身着海军蓝色外套，在今年 6 月出访韩国时，就换下招牌皮衣，以 Dior 深蓝色外套亮相。目前尚不清楚是否为韩国首尔之行穿过的同一件外套。图源：sentv 韩媒图源：视频截图今年 8 月在介绍英伟达合作时也曾穿过同款样式夹克。IT之家查询公开资料，该夹克官方名称为“深蓝色棉质华达呢面料 Dior Moulures 图案刺绣”，目前在迪奥 Dior 中国官网上的售价为 28,000 元，相关说明如下：这款拉链衬衫饰以 Dior Moulures 图案刺绣，呼应 Dior 沙龙十八世纪洛可可风格优雅美学。采用深蓝色棉质华达呢面料精心制作，结合立体塑形刺绣和 Dior 刺绣，搭配罗纹底边。舒适版型，设计时髦，可与该系列的长裤搭配，打造时尚的造型。图源：迪奥中国官网",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "The Decoder"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "source": "TechCrunch AI",
-      "source_tier": 2,
-      "published": "2026-11-14T16:34:15+00:00",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "title": "商汤发布并开源 SenseNova U1.6 原生多模态模型，能自己修正图片错误",
+      "url": "https://www.ithome.com/1/031/465.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T04:58:18+00:00",
+      "summary": "IT之家 11 月 24 日消息，商汤科技今日发布并开源 SenseNova U1.6 原生多模态模型，延续了 U 系列的理解与生成统一范式，首次为该系列的 8B 开源模型带来原生图像自修正。开启自修正后，同一个模型可以先生成首稿，再对照原始提示检查画面，并根据发现的文字问题生成修正版。人像的光影、插画的笔触、海报里字体与版式的配合，也是 U1.6 这次打磨的细节。针对文字生成，SenseNova U1.6 加强了透视文字、艺术字等复杂表达，引入了面向文字与布局的信息图美学模型，在提升文字准确性的同时，保留字体表现力、空间透视与版面美感。SenseNova U1.6 支持一次出图完成图文结合的海报：文字准确、版面有设计感，还能驾驭艺术字、非常规字形与手写体，把“字”本身变成画面的创意元素。在内部用户评测中，U1.6 Lite 的美学得分比 U1.5 Lite 高约 10%。在 UltraTextBench 密集信息图测试中，U1.6 Lite 的得分从单次生成的 86.04 升至开启自修正后的 92.28，相对提升约 7%。商汤科技已开源 SenseNova U1.6 模型权重。用户还可在商汤小浣熊、Seko、Kapi 相机、SenseNova Token Plan、SenseNova Studio 等产品或平台上体验。模型已上线 ComfyUI，创作者可在熟悉的工作流中调用它的图",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "TechCrunch AI"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "source": "The Verge AI",
-      "source_tier": 2,
-      "published": "2026-11-14T10:12:19-05:00",
-      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]",
+      "title": "消息称豆包灰度测试“豆包购物”，配有一级功能入口",
+      "url": "https://www.ithome.com/1/031/464.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T04:36:05+00:00",
+      "summary": "IT之家 11 月 24 日消息，据《读佳》今日报道，豆包 App 正灰度测试“豆包购物”，并配有一级功能入口，目前部分用户可见该功能。从报道中晒出的截图可以看到，豆包购物独立放置在侧边菜单栏，和新对话、定时任务、插件技能并列，点击进入后是抖音电商提供的类小程序页面，相当于一个小型的抖音商城。豆包购物底层复用抖音电商完整履约体系，可支持实物、餐饮团购、演出票务交易，覆盖结算、退款、售后核销全链路。授权页面显示，这套购物链路依托抖音电商，页面标注来源为抖音电商。据 36 氪今年 6 月报道，知情人士透露，豆包计划三季度进一步结合电商功能更新完善付费场景，并通过补贴为抖音商城进行引流，四季度进入运行期。这些动作，皆是为了面向 2027 年及更长期的商业化回报做准备。IT之家注意到，豆包官方今天宣布“小豆”正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是“一个懂你，还能主动帮你办事的豆包”。未来，小豆上的能力与体验也将逐步在豆包 App 上线。",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "The Verge AI"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "Geoffrey Hinton warns EU leaders AI could outsmart humans within 18 months",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84MmYyZlBkNHhPQWU3dlh4QWdEX09rci05VmhkX1FvRXpYWTFIWTczd19OYTl3OVQ5RVVrRHBkVlNlcW5FOHg2UGgtWUxuZmdSYkxkdTBWcklWR1hGRmY5Skt4Q2ZlRjdZLWk4cUF6MTh2QQ?oc=5",
-      "source": "AI领袖动态C/Crypto Briefing",
-      "source_tier": 2,
-      "published": "2026-11-14T12:35:27+00:00",
-      "summary": "Geoffrey Hinton warns EU leaders AI could outsmart humans within 18 months Crypto Briefing",
+      "title": "Qt Creator 21 正式发布：强化 AI Agent 集成，新增华为 HarmonyOS 设备支持",
+      "url": "https://www.ithome.com/1/031/463.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T04:35:19+00:00",
+      "summary": "IT之家 11 月 24 日消息，当地时间 11 月 23 日，Qt 团队发布了最新的集成开发环境（IDE）Qt Creator 21。本次更新重点加强了 AI Agent 与 IDE 的协作能力，同时引入全新的 Profile 性能分析模式，并改进 C++/QML 调试、Git 版本控制、CMake 项目管理和代码编辑体验。在 AI 功能方面，Qt Creator 21 默认启用 Agentic AI Chat（ACP）集成和 MCP 服务器，并为 MCP 服务器默认增加 Bearer Token 身份验证机制。外部 Agent 连接 Qt Creator MCP 时，需要在请求中添加授权令牌。新版 MCP 服务器增加了多项工具，并允许用户在设置中分别配置这些工具的启用状态。Agentic AI Chat 也进行了升级，支持自动更新注册表中的 Agent、为此前使用过的工作区创建新会话，并显示单次会话及每轮交互的 Token 使用量和成本信息。此外，用户还可以切换 Agent、删除会话，并通过筛选和收藏功能更方便地选择模型。性能分析方面，Qt Creator 21 新增 Profile 模式，集成全新的 Qt Profiler，取代此前的 QML Profiler。新版提供性能分析仪表板，可对应用程序的多项性能指标进行评分，并针对具体问题提供修复建议。分析轨迹可以作为独立文档打开",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "AI领袖动态C/Crypto Briefing"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
-      "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
-      "source": "The Decoder",
-      "source_tier": 2,
-      "published": "2026-11-14T11:40:51+00:00",
-      "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researchers are being redistributed across other teams in what the company frames as a way to accelerate its robotics efforts. The article OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary appeared first on The Decoder.",
+      "title": "小鹏 P7 新增「暮金灰」车色：高亮粗闪铝粉加精细珠光，11 月 25 日科技日线下首展",
+      "url": "https://www.ithome.com/1/031/461.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T04:28:53+00:00",
+      "summary": "IT之家 11 月 24 日消息，小鹏汽车今日宣布，小鹏 P7 将新增「暮金灰」车色，计划于 11 月 25 日在小鹏科技日线下首次展出。此次色彩更新同步带来「晨曦粉」车色与「云境灰」内饰色，两组外观色以一天中不同时段的天光为灵感设定，形成一明一暗的搭配。小鹏汽车介绍称，「暮金灰」以沉静灰调为底色，车漆中融入高亮粗闪铝粉，并搭配高透色浆与精细珠光工艺，使漆面在光线变化下呈现灰与金交织的层次。据介绍，铝粉颗粒的粒径与排列方式直接影响金属漆的反光表现（IT之家注：汽车金属漆中的铝粉为片状结构，粗闪铝粉粒径更大，可形成更明显的闪烁质感，珠光工艺则通过云母片折射产生随角异色效果）。「晨曦粉」的取向与「暮金灰」相反，官方描述为“温柔闪耀”，整体更偏明亮柔和。内饰「云境灰」与暮金灰外观配套推出，官方称内外相衬，兼顾辨识度与质感统一。两款车色均未涉及动力、配置或售价调整。小鹏 P7 当前在售车型已提供新月银、律动黄、星瀚绿、微星灰、星芒蓝、星暮紫、星云白等多种车色选择，此次新增颜色属于年度改款前的产品点更新。相关阅读：《小鹏 P7 全新内饰色「云境灰」公布，橙灰撞色设计》《小鹏 P7 全新车色「晨曦粉」亮相，11 月 25 日线下首展》《中国车企首次：小鹏图灵 AI 智驾率先开放欧洲公众体验，首站法国巴黎》《2026 小鹏科技日定档 11 月 25 日，宣传语“Origin 原点”》《行业首次：",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "The Decoder"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
-      "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
-      "source": "The Decoder",
-      "source_tier": 2,
-      "published": "2026-11-14T11:21:41+00:00",
-      "summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate. Coxon continues to call for a pause on frontier model development so competitors can catch up and human-level AI can become a commodity. The article Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon appeared first on The Decoder.",
+      "title": "黄仁勋重掌帅印：英伟达创逾 23 年最大单日涨幅，助推美股科技股集体大涨",
+      "url": "https://www.ithome.com/1/031/458.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T04:22:10+00:00",
+      "summary": "IT之家 11 月 24 日消息，科技媒体 The Information 今天（11 月 24 日）发布博文，报道称受黄仁勋复职英伟达 CEO 利好消息影响，推动美股科技股集体大涨，提振了投资者对人工智能行业的信心，推动纳斯达克 100 指数上涨 6.8%。英伟达宣布黄仁勋重新出任首席执行官，公司股价当天收涨 31.48%，市值回升近 1 万亿美元，创下自 2003 年 5 月以来的最佳单日表现，创逾 23 年最大单日涨幅。单日大涨尚未让英伟达收复此前全部失地。其股价已接近黄仁勋 11 月 12 日辞职时的收盘水平，但仍明显低于 10 月初 239.24 美元的高点。IT之家援引该博文介绍，在本轮上涨前一周，美股科技股遭遇猛烈抛售。纳指过去 1 周累计下跌约 10%，创下 2020 年以来最差单周表现，而英伟达过去一个月的累计跌幅则超过 40%。黄仁勋回归成为市场情绪转向的重要催化剂，推动资金重返科技板块，涨势从芯片延伸至服务器、存储及云计算基础设施企业。AMD 上涨 6.85%，Arm 上涨 16.08%，戴尔和美光分别上涨 20.46% 和 19.04%；谷歌母公司 Alphabet、Meta 也均上涨逾 6%。不过，人工智能概念股并未全面走高。刚上市的 Anthropic 在第三个交易日下跌 1.43%。该公司首次公开募股融资 935 亿美元，上市首日上涨 17%，次日则下",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "The Decoder"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
-      "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
-      "source": "The Decoder",
-      "source_tier": 2,
-      "published": "2026-11-14T09:45:45+00:00",
-      "summary": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark. It can't yet plan complex action sequences on its own, though. The article Runway's open-source Praxis-1 turns video AI into a robot controller appeared first on The Decoder.",
+      "title": "曝荣耀首款阔折叠手机搭载 2nm 骁龙旗舰芯、2 亿影像 + 潜望长焦、同档最大电池",
+      "url": "https://www.ithome.com/1/031/457.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T04:22:06+00:00",
+      "summary": "IT之家 11 月 24 日消息，阔比例折叠屏手机热卖后，更多手机厂商有望开始跟进相关品类产品。据博主 @数码闲聊站 今日爆料了荣耀首款阔折叠手机，有望在 2027 年 3 月前后发布。爆料称新机主打无感折痕铰链，搭载 7.6 英寸左右阔屏、2nm 骁龙旗舰芯，以及 2 亿影像 + 潜望长焦，还有同档最大电池。IT之家注意到，在 11 月 23 日的荣耀 700 系列追光之旅暨全场景新品发布会后，荣耀 CEO 李健宣布，荣耀的阔折叠手机计划 2027 年 3 月亮相，并透露该机“完全没有什么折痕”。李健还表示，荣耀在折叠屏工艺、续航和 AI 能力方面处于行业领先位置，后续还将持续推进相关技术创新。荣耀产品线总裁方飞则表示，（荣耀阔折叠）真机已经有了。",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "The Decoder"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "AI Could Become Impossible to Control Within Three Years, Nobel Laureate Geoffrey Hinton Warns",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGkyRVNxQTF1dFd1bTBlVktlWWxsQjZXNXcyNE1md18yVV9mRWhqT1VIOVNuVXhNU0JKY0hTN0E5Sk1NRFlzeVdZT0RYZ0I0SngxRWUxdm44LUV6YUNOeDBBRENkZXR6TDdfRkNrSnFTYmhLVjZxR3A4R2l6dUhvNHVoN0s5SlpRTnhXV3psZjVhMVFTUS1ZdVNhZmFLaDdmWEZZYWlyWjZ5cm5uMV9pWDNMWTN1ZlFpeXVJdjFFSnV5Zll6ZWVjVUE5UQ?oc=5",
-      "source": "AI领袖动态C/Dainik Jagran MP CG",
-      "source_tier": 2,
-      "published": "2026-11-14T07:26:59+00:00",
-      "summary": "AI Could Become Impossible to Control Within Three Years, Nobel Laureate Geoffrey Hinton Warns Dainik Jagran MP CG",
+      "title": "复职英伟达 CEO 后将迎国会听证，黄仁勋 12 月 3 日将公开作证",
+      "url": "https://www.ithome.com/1/031/456.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T04:07:53+00:00",
+      "summary": "IT之家 11 月 24 日消息，科技媒体 Engadget 今天（11 月 24 日）发布博文，报道称黄仁勋复职英伟达 CEO 后，分别将于美国当地时间 12 月 1 日、12 月 3 日参加听证会，接受美国众议院、参议院等问询。报道称在 12 月 1 日举办的听证会由情报委员会（House Intelligence Committee）等美国众议院的 3 个委员会问询，采用闭门形式，留存逐字记录的访谈（transcribed interview）。IT之家援引博文介绍，12 月 3 日举办的听证会由美国参议院银行委员会问询，采用公开听证方式，主题是“保护美国的人工智能优势”，黄仁勋将出席作证。",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "AI领袖动态C/Dainik Jagran MP CG"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "Dario Amodei: Anthropic Is Not Focused on IPO Timing or Market Conditions",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa2R3eTRwQVFFUDRKNWRKb2JRTW1TWWY4NGZqT2pQM21EVXRBaWk1MFgxY2hVOWtJNl9XeTFRaXpJV1lia2hLVWhLNXVnM3FTRmJGYXYxNkt1aFhFV0REU2wzakVvQnUwNDZiR1NaN2RfR29mMTJDUWwzNU8zUVJrSlBuZGdBNEpmZ0hzLUVOc1RoU1pCR1N3dTRWTFNqTjItVjNtZjJ3YzVrREw3UnZFSGJITzVVcHNWNFg2RnlkX2xtMm5JQWNlaTBQaWtPb0k2?oc=5",
-      "source": "AI领袖动态A/TradingView",
-      "source_tier": 2,
-      "published": "2026-11-14T06:40:56+00:00",
-      "summary": "Dario Amodei: Anthropic Is Not Focused on IPO Timing or Market Conditions TradingView",
+      "title": "蚂蚁 Ling-3.2-air 模型发布并开源：原生多模态架构，1240 亿总参数",
+      "url": "https://www.ithome.com/1/031/426.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T04:01:00+00:00",
+      "summary": "IT之家 11 月 24 日消息，蚂蚁科技集团今日发布并开源 Ling-3.2-air 模型。该模型延续了 Ling-3.0-flash-VL 的原生多模态架构，支持文本、图像和视频输入，拥有 1240 亿总参数，每个 Token 激活 55 亿参数。与上一代相比，Ling-3.2-air 在解决代码仓库中的问题、执行多步骤工作流，以及理解视觉信息和推理专业文档等任务上的表现均有提升。具体来看，与上一代 Ling-3.0-flash-VL 相比，Ling-3.2-air 的提升覆盖了语言推理、编程、智能体执行和多模态任务，尤其体现在代码仓库问题解决、多步骤工作流和视觉推理等场景。语言推理与编程。Ling-3.2-air 在 HLE 上的得分从 21.96 提升至 31.42。在面向真实代码仓库的软件工程评测 SWE-bench Pro 上，得分从 26.40 提升至 58.28，提高了 31.88 分。智能体与工作流执行。AutomationBench-AA 得分从 15.7% 提升至 61%，SkillsBench 得分从 42.91 提升至 67.82。在考察专业知识工作的 AA-Briefcase v1.1 上，Elo 评分从 987 升至 1340，提高了 353 分。多模态感知、推理与执行。视觉理解评测 BabyVision 的得分从 51.80 提升至 66.49，Ma",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "AI领袖动态A/TradingView"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "AI could wipe out humans in next 3 years: Nobel laureate Geoffrey Hinton warns; says we may lose control as...",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeXBISlljOGZNa1dDTEZKSWJycVVTS3FaU2tSOWtlY3gwNUppT3ZvdXBDV2ZrSk5UUHRKOVpET0lBZl9QT0kyd0J6S0VfYWM2NVNiNXhpT2tVamxhNi1MdVRobFJjMDRBc3RBVmRwbHVnR01VUDlQYUJvaHAzei1Hd1dYME8xYS04aGNaLWF5R0x6S1RGejdmb3k2ZFVfd1VjbFRlSXJ4N3JZdWJFZXY2NndPZThGR2VIMXdWb0dyMlVZbG9OSzRxMVYtN19yaW14N2djb1l30gHbAUFVX3lxTE1RVzU3SVVFNjktQ2ZTX0xBTDg2SzNGMWl2ODVwR3k5ejRtbkZIZzBCUWwxN2N3QjRXeWIyMUU5U3h1cDV0eTlGR3psSnhSZ1BhTFlZY1BFVGl2ODJ4Z3UtZzNEM3NhdXpkUHVGXzc4ZURYbjVuR0NxcmJuaEs4SzVBZkI1V255Q2d3LTd0Wk9HRTBkR2N1Q2hqdFJkZWE4WlpueEpIZUhraU5GVHZCbWlOUE9lOFItbVFoNmh1enU4bW12TlBUaDZGTFY2SmIyOXplSDdjWjB5UkpuTQ?oc=5",
-      "source": "AI领袖动态C/Bhaskar English",
-      "source_tier": 2,
-      "published": "2026-11-14T03:53:47+00:00",
-      "summary": "AI could wipe out humans in next 3 years: Nobel laureate Geoffrey Hinton warns; says we may lose control as... Bhaskar English",
+      "title": "黄仁勋回归英伟达首日：没有办公电脑用，希望配台 RTX Spark",
+      "url": "https://www.ithome.com/1/031/389.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T03:47:23+00:00",
+      "summary": "IT之家 11 月 24 日消息，科技媒体 Wccftech 今天（11 月 24 日）发布博文，报道称英伟达创始人黄仁勋重返公司总部，在面向员工的简短讲话中，为了活跃现场气氛，调侃表示这是自己重新上班的第一天，目前还没有电脑，希望 IT 部门配发的新设备是一台 RTX Spark。IT之家翻译黄仁勋的简短发言内容如下：谢谢大家，谢谢大家给我第二次机会。这是我重新上班的第一天。我没有电脑，所以 IT 部门会给我配一台新电脑。我希望它是 RTX Spark。我想，我想感谢你们所有人。第二次担任 CEO，我一定会做得更好。RTX Spark 是英伟达面向个人电脑推出的计算平台，结合 Grace CPU、Blackwell RTX GPU 和运行 AI 所需的软件生态，用于轻薄 Windows 笔记本和小型台式机。延伸阅读黄仁勋此番离任始于 2026 年 11 月 8 日。英伟达董事会当天发表声明称，鉴于近期有报道指其成为外国情报行动的目标，将成立由独立董事组成的委员会，并在外部独立律师协助下展开调查。11 月 12 日，英伟达宣布黄仁勋辞去总裁、首席执行官及董事会成员职务，即刻生效；执行副总裁兼首席财务官科莱特 · 克雷斯（Colette Kress）出任临时首席执行官，董事会同时启动新任 CEO 遴选程序。董事会还任命 Harvey C. Jones 为公司首任董事会主席，他此前曾担",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "AI领袖动态C/Bhaskar English"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
     },
     {
-      "title": "Nobel laureate Geoffrey Hinton warns; says we may lose control as it starts making its own decisions",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOXzNuTDJVMlRwTi1iOWVNT25wV3dyM3FRUkZWV3hsQ25UVVdPbnhvTzVYQ09HY0VFb01RZE1GZ3ROcV8wbWhqVWR2MGVoUnhHZkpST2VCdHY3YU5TTFJORVlpYUZ0bFY2bFN2NmlkN3hDUFN4LXJuY1Q4cjVlbVl0VExPMkM0Sm5PWm1kWFVRMGNjUDdXX3dtM0ozNnhLMUZZeU9xd0NpVy01MmE4RjA1c1FobFpQci1WcGgzam52Ulg1Q3VMZ0hibFdlZ1BLT0pzcWJEV2twQ2xQSDNOTGl6eHdEVTdPQQ?oc=5",
-      "source": "AI领袖动态C/Bhaskar English",
-      "source_tier": 2,
-      "published": "2026-11-14T03:53:47+00:00",
-      "summary": "Nobel laureate Geoffrey Hinton warns; says we may lose control as it starts making its own decisions Bhaskar English",
+      "title": "蚂蚁 OceanBase 发布湖库一体 AI 数据平台 OceanLake，核心引擎向全球开源",
+      "url": "https://www.ithome.com/1/031/365.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T03:35:44+00:00",
+      "summary": "IT之家 11 月 24 日现场消息，蚂蚁 OceanBase AI 数据大会今日（11 月 24 日）在北京召开。OceanBase CEO 杨冰在会上表示，当模型越来越先进，Agent 基建越来越成熟，挑战终将回归数据。面向这一变化，AI 时代的数据基础设施应坚持“湖库一体、多模融合、Agent 友好、开源开放”四大原则。围绕这一方向，OceanBase 正式发布 AI 战略产品 —— 湖库一体 AI 数据平台 OceanLake，并宣布向全球开源其核心引擎 AI 数据库，邀请开发者和产业伙伴共同建设面向 AI 的数据基础设施。杨冰认为，当前企业的智能化转型远不及预期。其一，模型能力的商品化已经完成，能力迅速提升、成本持续下降，模型本身不再是瓶颈；其二，“低枝果实”已被摘完，公共数据的价值挖掘殆尽；其三，新的业务飞轮尚未形成，业务与数据的相互促进和协同进化尚未实现。IT之家在大会现场了解到，杨冰进一步把企业数据生产力释放的困境概括为“三座冰山”：第一座在私有数据与公有数据之间 —— 没有私有数据的价值挖掘，就没有生产力的真正释放；第二座在多模态数据与结构化数据之间 —— 多模态数据将带来更多的价值增量；第三座在乱数据与有序数据之间 —— 整理乱数据是释放数据生产力的必要条件。在杨冰看来，AI 时代的数据基础设施应坚持四大原则：一是“湖库一体”，统一存储全量业务数据，还要支持离线",
       "hn_points": 0,
       "hn_comments": 0,
       "sources": [
-        "AI领袖动态C/Bhaskar English"
+        "IT之家"
       ],
       "source_count": 1,
-      "best_tier": 2
+      "best_tier": 3
+    },
+    {
+      "title": "“我可能行动太快了”：为黄仁勋辞职后，工程师戴士钦释放回归英伟达意愿",
+      "url": "https://www.ithome.com/1/031/340.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T03:29:00+00:00",
+      "summary": "IT之家 11 月 24 日消息，科技媒体 Business Insider 今天（11 月 24 日）发布博文，报道称前英伟达工程师戴士钦（Darrell Dai）在领英（LinkedIn）上发布动态，欢迎黄仁勋回归英伟达，并坦言自己此前“可能行动太快”。在黄仁勋于 11 月 12 日离任英伟达 CEO，公司董事会昨日（11 月 23 日）一致投票决定恢复其职务，两次决定相隔 11 天。其间，名为“支持黄仁勋”的在线请愿活动宣称，已获得超过 1 万名英伟达员工签名，占公司员工总数的 24% 以上。戴士钦的领英资料显示，他此前在英伟达上海担任高级研究工程师，任职一年多。IT之家曾于 11 月 16 日报道，戴士钦为了支持黄仁勋，于 11 月 14 日宣布离职，称黄仁勋的离开促使自己决定结束在公司的职业篇章，同时表达了对同事和共同事业的感激。图源：前英伟达工程师戴士钦（Darrell Dai）如今随着黄仁勋复职，他表示希望先休息、反思，认真考虑未来，再以更清醒的头脑作出选择。在最新动态中，他坦言自己此前“可能行动太快”。他表示，愿意探讨重返英伟达的可能性，但不想再次仓促作出重大决定。相关阅读：《英伟达机器人学习工程师戴士钦宣布辞职：“黄仁勋离职让我格外失望”》",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "知乎宣布间接投资 DeepSeek，股价应声大涨 10%",
+      "url": "https://www.ithome.com/1/031/339.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T03:26:17+00:00",
+      "summary": "IT之家 11 月 24 日消息，知乎 11 月 23 日发布自愿公告，宣布知乎参投的天津砺思星深股权投资合伙企业已通过中间主体间接投资 DeepSeek，取得低个位数百分比股权。知乎董事会认为，基金投资于 DeepSeek 以及本公司通过基金拓宽参与优质人工智能及科技企业投资机会的渠道，同时还能进一步加深对人工智能技术、产品演进和商业模式发展的理解，两者在战略上是一致的。消息公布后，知乎港股股价今日大涨 10%；美股隔夜收盘价 2.35 美元，涨约 15.76%。工商信息显示，DeepSeek 运营主体杭州深度求索人工智能基础技术研究有限公司近日完成工商变更，新增股东杭州程砚企业管理咨询合伙企业（有限合伙）。IT之家查询国家企业信用信息公示系统获悉，杭州深度求索注册资本由 1644.7496 万元增至 1991.8707 万元，增加 347.1211 万元，增幅约 21.1%。据证券时报援引知情交易人士消息，DeepSeek 本轮融资募资规模区间在 1000 亿元至 1055 亿元，投后估值约 6155 亿元。叠加 2026 年 6 月首轮约 510 亿元融资，市场测算其短时间内两轮累计吸纳资金将超 1500 亿元。据测算，梁文锋直接及间接持股比例合计约 67.42%，千亿资本入场并未改变控制权归属。作为新增股东的持股平台，杭州程砚也同步完成工商变更，登记出资额增至 343897",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "郭明錤：黄仁勋复职消除英伟达部分不确定性，但部分瓶颈仍在",
+      "url": "https://www.ithome.com/1/031/338.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T03:23:48+00:00",
+      "summary": "IT之家 11 月 24 日消息，香港天风国际证券分析师郭明錤今日在 X 平台发文，分析黄仁勋恢复英伟达 CEO 职位后的市场状况。郭明錤表示，黄仁勋回到英伟达后，公司策略、产品规划、技术发展与供应链管理等不确定性被移除。这些不确定性曾在过去 1-2 周对科技股造成压力，因此他回归后股价立刻大涨。但能否回到过去高点，除了取决于个别公司在 AI 供应链与英伟达生态的定位外，还要看以下两点。例如，英伟达在销售层面面临着出口管制，可能对出货和营收造成影响。并且更高的合规成本，也会对进行中的循环融资产生影响。黄仁勋与英伟达仍在接受调查，未来他的公开发言、内部决策与对外互动，都会成为质询的新证据，这也会强化不确定性。此外，英伟达仍然无法改变数据中心建设挑战、CSP（IT之家注：云服务供应商）资本支出陆续在 2027-2028 年见顶，并且还面临次世代先进封装良率等技术限制。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "华为 Mate 90 Air 真机曝光，设置页“实锤”搭载麒麟 9020 处理器",
+      "url": "https://www.ithome.com/1/031/336.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T03:22:10+00:00",
+      "summary": "IT之家 11 月 24 日消息，博主 @鸥要趣玩机 昨日在小红书发布视频，晒出了华为 Mate 90 Air 的真机。画面显示，该机到手就可以更新鸿蒙 HarmonyOS 7.0.0.115 SP13 版本。同时，设置页“实锤”其搭载的是麒麟 9020 处理器。据IT之家此前报道，华为上周已官宣旗下最薄 Mate 直板机 —— 华为 Mate 90 Air 将于 11 月 24 日 14:30 举行的 HUAWEI Mate X8 及全场景新品发布会发布。新机已上线官网，产品 SKU 信息也随着公布。新机将于 11 月 24 日 18:08 全款预售，提供玫瑰金、皓月银、曜石黑三款配色，以及 12GB+256GB、12GB+512GB 两个版本。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "HUAWEI WATCH Air 现身华为创新研究 App：三色可选，支持冠心病、高尿酸等项目",
+      "url": "https://www.ithome.com/1/031/332.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T03:12:56+00:00",
+      "summary": "IT之家 11 月 24 日消息，HUAWEI WATCH Air 智能手表已现身华为创新研究 App，公开了更多信息。新表定位“轻薄新标杆”。具体功能页显示，HUAWEI WATCH Air 系列支持研究项目包括：血管健康研究、呼吸健康研究、心脏健康研究、冠心病研究、高原健康研究、血糖健康研究、高尿酸研究、女性健康研究和多维情绪研究。另外，HUAWEI WATCH Air 的三色外观也已公布，IT之家附官图如下：相关阅读：《李小龙预热华为史上最薄智能手表 WATCH Air：对男性穿西装衬衣非常友好》《华为史上最薄智能手表 WATCH Air 三款配色公布，6.9mm 超薄设计》《华为史上最薄智能手表 WATCH Air 官宣，11 月 24 日登场》《华为最薄手表 WATCH Air 更多规格曝光：6.9mm 机身厚度、86% 屏占比》",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
+    },
+    {
+      "title": "谷歌拟给浏览器 AI 加道“权限锁”：允许看商品，不许进支付页",
+      "url": "https://www.ithome.com/1/031/331.htm",
+      "source": "IT之家",
+      "source_tier": 3,
+      "published": "2026-11-24T03:11:24+00:00",
+      "summary": "IT之家 11 月 24 日消息，科技媒体 NeoWin 昨日（11 月 23 日）发布博文，报道称谷歌工程师提出实验性方案，计划在浏览器层面为 AI 智能体设置权限边界，避免其获得过大的操作权限。该方案目前仍处于原型提议阶段，尚未确定是否上线 Chrome 浏览器。IT之家援引博文介绍，根据拟议的方案，谷歌工程师计划扩展浏览器自动化协议 WebDriver BiDi，通过浏览器权限约束 AI 智能体访问体验，包括但不限于支持访问哪些网站、能否点击按钮或输入文字等。根据方案的示例场景，用户可以允许 AI 浏览购物网站查找商品，却禁止它访问外部支付网站。所有 AI 智能体的操作均需要额外申请权限，由用户或浏览器决定是否放行。用户还可中断正在执行的任务、撤销权限；浏览器则可通过醒目标识，提示哪些标签页正由 AI 控制。不过这套拟议的解决方案仍需要完善，现有方案无法精细区分每个按钮的用途，因此 AI 仍可能按下授权网站上的“删除”按钮。谷歌希望未来将相关机制纳入 WebDriver BiDi 标准，让其他浏览器也能采用，但具体落地仍有待推进。",
+      "hn_points": 0,
+      "hn_comments": 0,
+      "sources": [
+        "IT之家"
+      ],
+      "source_count": 1,
+      "best_tier": 3
     },
     {
       "title": "特朗普：我希望英伟达董事会能重新聘用黄仁勋，这对英伟达、美国来说都是最好的事情",
@@ -19062,756 +19459,6 @@
       "best_tier": 3
     },
     {
-      "title": "$比特币 (BTC.CC)$ 没有消息显示，看来是人工智能泡沫破裂，预言成真了吗?",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPODczV3BObDdIRUxXWW1POTNUNnh5OEFzdVlzT0R5eFYwR1VXWHlienFJaHRseG5WRmJRVEJZVjVRQ2xCRTdYb2Y0OVZGajltV0h3N3NrSmY0VzhhcUtySjR1dUpxRjdCR1JpWlZTcDNBck9YWkVZcmZwcS1hVmNsWWp1Q1ZVNjJrV21hSmRXd2ZRZkZLNlVRVnVDMlk3Y01QaEJ6OVBvbVhWUQ?oc=5",
-      "source": "中文AI聚合/Moomoo",
-      "source_tier": 3,
-      "published": "2026-11-15T01:58:39+00:00",
-      "summary": "$比特币 (BTC.CC)$ 没有消息显示，看来是人工智能泡沫破裂，预言成真了吗? Moomoo",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/Moomoo"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "江苏省“人工智能+”应用推广环省行扬州站活动成功举办",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaVdlV3cxMnR1bXd5dXdpOGhwTHJhWWphYlFDbFA1bHByeHRvdjRHYUthUUdEZ1lCNWRMZnluTjk5S3ZncmpiZ2c4QmxiSDR0c0E1R3Q1OGNOM2p2aC0tOURwTld1UGFZSnd0MFlZTk96QWV6cGczZ2NHTEV0RURZWVVaR2huNHFWcXhR?oc=5",
-      "source": "中文AI聚合/Sohu",
-      "source_tier": 3,
-      "published": "2026-11-15T01:54:00+00:00",
-      "summary": "江苏省“人工智能+”应用推广环省行扬州站活动成功举办 Sohu",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/Sohu"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "从成都到深圳：APEC“中国年”的数智答卷",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2F0SUlOcnRwaEFjci1CeWdQQkIxc1g4bkxybzZfX3UyOHNzSHpMQjM0djc4UmNERHVtd2ZnMV9aWERpZXA5UTBLZ3dpQUZ0RnN5WkRmdlFhZUJpR0lnMEZ3VVVMWUVzRUtXcDFGeTJNRkE0eFBGbnRjdS0zX1BWMHVnN1VWT29aYjBHc3hOaw?oc=5",
-      "source": "中文AI聚合/21财经",
-      "source_tier": 3,
-      "published": "2026-11-15T01:41:00+00:00",
-      "summary": "从成都到深圳：APEC“中国年”的数智答卷 21财经",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/21财经"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "中科院工业人工智能研究所：给产线装上“AI大脑” 可重构柔性制造技术体系",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbUVValRfVUxFaXBiMXk3RGU3Z20xUXdYb0FfZmVndTFTdTBWV3BPMERwWF92cUhMd282YVNQVEt0WllxUUFNVlFLVk9fcmRfLXNtRjUyRnJwZGllSnE5WXpDSjdLMWx5cGNFTEgwSS1wSFAtcDFzbVBRcDNTNkdRZ1YzNERPUXpYMW92UE1hTQ?oc=5",
-      "source": "中文AI聚合/Sohu",
-      "source_tier": 3,
-      "published": "2026-11-15T00:53:11+00:00",
-      "summary": "中科院工业人工智能研究所：给产线装上“AI大脑” 可重构柔性制造技术体系 Sohu",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/Sohu"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "华为首款鸿蒙小折叠电脑 MateBook Fold S 现身官网：至高 32GB/1TB 规格，可选黑白蓝三色",
-      "url": "https://www.ithome.com/1/027/263.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-15T00:44:19+00:00",
-      "summary": "IT之家 11 月 15 日消息，华为首款鸿蒙小折叠电脑 MateBook Fold S 已于昨日 10:08 正式开启预订。目前这款新机已现身官网，相关页面显示，该机折叠态 10.2 英寸、展开态 14.7 英寸，会在 11 月 24 日 17:00~11 月 25 日 17:00 支付尾款，支持 12 期 0 分期利息购买。颜色幻夜黑天际白云海蓝配置16GB/256GB（含键盘 + 内胆包）16GB/512GB（含键盘 + 内胆包）24GB/512GB（含键盘 + 内胆包）32GB/1TB（含键盘 + 手写笔 + 内胆包）IT之家注意到，华为鸿蒙电脑依旧支持鸿蒙有礼活动，可在 13 项会员权益中任领其中 8 项（需登录华为账号后第 9 天领取），同时还会赠送 3 个月音乐超钻会员、华为视频会员和主题会员。根据预热信息，华为 MateBook Fold S 搭载麒麟 X9 系列自研处理器，运行最新版本鸿蒙 PC 系统，支持多屏协同、平板手绘模式与 M-Pencil 手写笔。备忘录应用与 WPS Office 接入了新的 AI 能力。机身外侧配备一块名为“Live 小方屏”的副屏，用于显示时间、通知与日程信息，并支持轻量级信息查看和快捷操作，其布局接近华为 Pura X 折叠手机，镜头旁印有“AI CAMERA”标识。",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "韩国电信运营商 LG U+ 明年进军 AI Token 业务，帮助企业降低 AI 转型成本",
-      "url": "https://www.ithome.com/1/027/262.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-15T00:42:33+00:00",
-      "summary": "IT之家 11 月 15 日消息，据韩媒 Etnews 今天报道，韩国电信运营商 LG U+ 将于明年进军 AI Token 业务，利用自主研发的 Token 优化技术，帮助企业降低 AI 转型（AX）成本。据介绍，这项服务拥有用于设计 Agent 任务执行路径的“Harness Engineering”、根据问题类型分配模型的“智能路由”，以及为优化推理过程而采用异构半导体的“芯片组合”三项技术。IT之家从原报道获悉，LG U+ 将减少 AI Agent 执行任务时不必要的重复搜索和验证，并根据任务难度匹配最合适的模型。同时结合模型轻量化和推理技术，该公司的自研端侧 AI 模型在体积缩小三分之一的情况下，性能仍达到通用云端模型的 95% 以上。通过让小模型快速生成答案、再由大模型进行验证的技术，Token 生成速度提升两倍以上。基础设施方面，LG U+ 采用芯片组合策略，将英伟达、AMD GPU 与韩国本土企业 FuriosaAI 的神经网络处理器（NPU）结合使用，分别处理问题分析（Prefill）和答案生成（Decode）任务。通过将需要大规模计算的任务与对内存带宽要求较高的任务分开处理，降低基础设施成本。LG U+ 将同时采用与合作伙伴联合提供服务和自主建设两种方式，从明年开始全面进军 B2B AI Token 市场。随着 LG U+ 加入，韩国三大电信运营商将全部进入 T",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "S-Detect人工智能与常规乳腺超声在乳腺病灶特征鉴别中的诊断效能比较：一项前瞻性病灶水平研究",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xcE9QcHBoamNHUXlKTDloOVRHU242ZEE1ejhpWTVqNzBZWmtiRmJmNTJVeHM3X3VvSGREb3U0TDQ2SlFIc05aOTRiYWYzSjJNMkFkOFVRYUdzcXc4R0hnY21IOG1MYXM2YkNFSWh3?oc=5",
-      "source": "中文AI聚合/生物通",
-      "source_tier": 3,
-      "published": "2026-11-15T00:35:11+00:00",
-      "summary": "S-Detect人工智能与常规乳腺超声在乳腺病灶特征鉴别中的诊断效能比较：一项前瞻性病灶水平研究 生物通",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/生物通"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "全日空投资太空建造初创公司 Space Quarters，布局“太空盖大楼”",
-      "url": "https://www.ithome.com/1/027/259.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-15T00:17:35+00:00",
-      "summary": "IT之家 11 月 15 日消息，全日空本月 13 日宣布，公司已通过 ANA 未来创投基金投资 Space Quarters 公司。这家公司通过电子束焊接技术和自主研发机器人系统，提供太空组装、建设大型建筑物的解决方案。据介绍，火箭发射成本近年来快速下降，太空运输技术也随之进步。但由于火箭整流罩尺寸限制，空间站和轨道设施的尺寸还是受到限制，因此在太空中建造大型居住设施、通信设施仍然面临困难。Space Quarters 将电子束焊接技术和机器人系统相结合，可以在太空和月球表面建造大型建筑。其中该公司开发的太空建筑机器人系统「DAIQ」，能够完成建筑材料的取出、放置和连接等全部流程。今年 6 月该公司利用 DAIQ 地面原型，成功验证在轨道环境下组装建筑材料以及执行焊接操作的能力。此外，该公司已使用飞机开展微重力和模拟月球重力的测试，成功验证金属材料以及月球风化层（IT之家注：月壤）建筑材料的稳定焊接能力。",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源...",
-      "url": "https://www.ithome.com/1/027/257.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T23:55:12+00:00",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 15 日星期日，今天的重要科技资讯有：1. 创造历史：美国 SpaceX 首次实现筷子夹星舰飞船SpaceX 在星舰第 15 次试飞中首次用发射塔“筷子”机械臂捕获轨道返回的星舰上面级，虽未完全回收整枚火箭，但仍是星舰项目重要里程碑，目前正调查助推器中止着陆的原因。>> 查看详情2. 配 A20 芯片：古尔曼重申苹果 iPhone 18/18e 明年春季将登场在最新一期 Power On 访谈节目中，彭博社的马克 · 古尔曼（Mark Gurman）再次透露，苹果将会在 2027 年春季发布 iPhone 18 和 iPhone 18e 两款手机，将会搭载 A20 芯片。>> 查看详情3. 比亚迪：网传“某数字能源出售给比亚迪”不实比亚迪网络举报中心明确表示，网传“某数字能源出售给比亚迪”毫无事实依据，属于虚假信息。官方强调网络不是法外之地，对编造、传播虚假信息的行为将保留追究法律责任的权利。>> 查看详情4. 百万级 CAR-T 抗癌药首次纳入我国基本医保，患者自付降至 10 万元以内在 2026 创新药高质量发展大会上，新版国家医保药品目录及商保创新药目录同步公布，药明巨诺瑞基奥仑赛注射液首次纳入基本医保，关键原材料国产化大幅压缩成本才让天价药得以落地。>> 查看详情5. 导致全美航班停飞的“罪魁祸首”找到了？FAA 调",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "“人工智能时代的美学生活”展亮相浦东工人文化宫",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zQUVXSnRqLTdTMzBwYTdLbERuSlVtS3B5Yjg1QkNFdmhRaVBIejl0MHBBdEdzR3dTRHNZRHF6TVBLTVNtRXBMdlZsV1I1WTdKNFp0clE0ejdWeC1JaldvV19BTEExSDFYaUlEUS1XYWg5Rm8?oc=5",
-      "source": "中文AI聚合/手机新浪网",
-      "source_tier": 3,
-      "published": "2026-11-14T23:46:30+00:00",
-      "summary": "“人工智能时代的美学生活”展亮相浦东工人文化宫 手机新浪网",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/手机新浪网"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "国产算力巨头超聚变创业板 IPO 过会，前身是华为 X86 服务器业务",
-      "url": "https://www.ithome.com/1/027/255.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T23:38:56+00:00",
-      "summary": "IT之家 11 月 15 日消息，深交所上市审核委员会本月 12 日召开 2026 年第 61 次审议会议，会议结果为超聚变数字技术股份有限公司（以下简称超聚变）（首发）符合发行条件、上市条件和信息披露要求。在深圳证券交易所上市审核委员会的会议现场，问询超聚变的主要问题包括：结合算力需求变化、下游客户资本开支、技术先进性、经营性现金流量净额状况、客户和供应商集中度等情况，说明超聚变毛利率变动趋势，以及经营业绩增长是否具有可持续性，相关风险揭示是否充分。这意味着超聚变申报深交所创业板 IPO 过会，且公开信息显示从申报受理到过会仅用时 174 天。IT之家注：超聚变成立于 2021 年 9 月，源于华为 2021 年剥离的 X86 服务器业务部门，目前由河南地方国资控股。估值方面，《世界独角兽企业发展报告 2024》曾显示，超聚变凭借 89.2 亿美元（现汇率约合 596.3 亿元人民币）的估值，位列全球独角兽榜单第 47 名，且是河南省唯一上榜的独角兽企业。2022 年，即超聚变独立运营后的第一个完整年度，其销售收入便突破了 100 亿元；2023 年超过 280 亿元；2024 年报收 435 亿元，迈上了 400 亿元的大台阶。2025 年，公司延续高速增长，上半年营收已超过 300 亿元，知情人士透露全年有望冲刺 600 亿元。另据 IDC 发布的报告，2025 年超聚变凭借",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "Anthropic估值缩水三成启动路演：大模型IPO进入“算力账本”重估时刻",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU0Z5ZW1BVXVyQkpJSFlFYzhYY3ZYZWp2bmNPdHlPdEpoUlVXdHpRcjEzTkN4TE9KeURtbUx4SXBQZG10emhrYjM1Z1ZvaWpoRUJMdVRnR1JLblBJc2Y1OEZ4bGUzdk5Bb05FQXlDNVJYUDFMOHFaeTRNT3hLbV95Yk5JVGNNdG5v?oc=5",
-      "source": "中文AI聚合/Sohu",
-      "source_tier": 3,
-      "published": "2026-11-14T23:38:00+00:00",
-      "summary": "Anthropic估值缩水三成启动路演：大模型IPO进入“算力账本”重估时刻 Sohu",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/Sohu"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "SpaceX 星舰飞船首次被发射塔机械臂捕获回收，马斯克将建 AI 数据中心星座",
-      "url": "https://www.ithome.com/1/027/253.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T23:26:58+00:00",
-      "summary": "IT之家 11 月 15 日消息，当地时间 11 月 14 日，SpaceX 在星舰第 15 次试飞中首次用发射塔机械臂接住从轨道返回的第二级飞船，这是星舰飞船首次完成发射塔捕获。据介绍，SpaceX 计划使用该飞船在 LEO 轨道上构建一个庞大的网络 —— 根据埃隆 · 马斯克的说法，这个网络将包含一个由百万艘航天器组成的 AI 数据中心星座。组装这些巨型结构需要极高的组装频率。SpaceX 表示，采用双筷子式抓取方式是实现这一目标的关键，因为它能更快地进行星际飞船的检查、修复和重新发射。因此，该公司很可能会在不久之后再次尝试这种手段 —— 很可能是在下一次飞船的飞行任务中。IT之家注意到，第 15 次试飞的星舰组合体于美国中部时间 13 日下午（北京时间 14 日清晨）从得克萨斯州星际基地升空，由超重型助推器与飞船组成。任务原计划让两级同时返回发射场，由发射塔上俗称“筷子”的机械臂分别捕获。捕获发生在 11 月 14 日 16:20（IT之家注：北京时间 11 月 15 日 5:20），距升空约 22.5 小时。飞船完成约 14 圈轨道飞行后启动发动机离轨，再入大气层并完成着陆点火，最终落入发射塔机械臂之间。一级回收未能同步完成。SpaceX 表示，超重型助推器 B22 在返航途中出现低燃料告警，捕获程序取消，助推器改道在墨西哥湾溅落。虽然未能完成“双捕获”尝试，但距离这一步目",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "一个人+AI开公司，雄安中关村把算力资金场景送到手边",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkQzVyeHByNFQ0VmpBd2JfanFVNzYxbWZnbUF1UXFaZmtNcGk4LWRfTXIyRDJ1R2VXNVVCVTBMeXN2UGxmTHZPZUVTSXJLUW9VdmJwWGZpTUt3Q0t1VkZaMEYySW5pNGJkMnBXaDZNTlZMQQ?oc=5",
-      "source": "中文AI聚合/京报网",
-      "source_tier": 3,
-      "published": "2026-11-14T23:19:00+00:00",
-      "summary": "一个人+AI开公司，雄安中关村把算力资金场景送到手边 京报网",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/京报网"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名",
-      "url": "https://www.ithome.com/1/027/252.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T23:18:00+00:00",
-      "summary": "IT之家 11 月 15 日消息，今年 11 月 12 日，英伟达董事会今日宣布，黄仁勋辞去总裁、首席执行官及董事会成员职务，即刻生效。英伟达执行副总裁兼 CFO 科莱特 · 克雷斯同意出任临时 CEO，在董事会选出正式继任者前兼任这一职务，并继续担任执行副总裁和 CFO。随后，一个名为“Stand with Jensen”的请愿活动在网上流传开来，要求英伟达董事会恢复黄仁勋的 CEO 职务。截至IT之家发文，该活动已收集超过 12 万个签名，较昨天增长约 6.3 万人次。该网站显示，本次活动的组织者和签名者担心，黄仁勋可能在未经正当程序、甚至没有几天时间为自己申辩的情况下被迫离职。请愿信由现任员工、前任员工、股东及合作伙伴签署，特斯拉 CEO 埃隆 · 马斯克等行业巨头加入其中。据IT之家了解，英伟达仍将按原计划于 11 月 17 日（周二）太平洋时间约下午 1:20 发布其 2027 财年第三季度财务业绩，并将于太平洋时间下午 2:00 召开财报电话会议。相关阅读：《超 5 万人请愿恢复黄仁勋英伟达 CEO 职务，马斯克参与签名》《马斯克声援黄仁勋：将签署请愿，支持其重返英伟达 CEO 岗位》",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "大模型API平台安全评估怎么做？这几点没查等于裸奔",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XQXoyN0RkbHNlZ1NGSTVpU0s3V051NURTSFNWOE5xZm1iMW9BbzlmNjBjdVNYR2JvdHpkNmJOTF9IZ29tU3E0azRsM3lGS1czYXE1VzA0YmtIVHlWTVE?oc=5",
-      "source": "中文AI聚合/CSDN",
-      "source_tier": 3,
-      "published": "2026-11-14T19:25:53+00:00",
-      "summary": "大模型API平台安全评估怎么做？这几点没查等于裸奔 CSDN",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/CSDN"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "学习型卫生系统框架图谱与人工智能整合研究：现状、差距及实践转化挑战",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rSmJpUk90WUNyUnVEejc5S3FJMGh5VHBjczZoanFGRUVEVmc2amJRRVpuSjY2LXc2aFdMdkltbUxsTTNEZnFIakZ4WTM5MnBtRHNKY2R5US1VZG16ZVIzRkhWTGxLelhhOEhoMmN3?oc=5",
-      "source": "中文AI聚合/生物通",
-      "source_tier": 3,
-      "published": "2026-11-14T18:53:51+00:00",
-      "summary": "学习型卫生系统框架图谱与人工智能整合研究：现状、差距及实践转化挑战 生物通",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/生物通"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "英国金融时报：黄仁勋下台了，人工智能行业会为此付出代价吗？",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjZJUzlLVmRhbkRGVEFyaXhkVnY5WVNtejdIWW1iS21rZkV3Nk1TeGFVaC10M0VOYkowMTZsNk1xUGZkUkR1SDNpRWhISVpsYmVmZnFHVk5YbGx2UjNYM1RPT2JwQmhrdGtTTF9QU09FTXhKU0xtQkhGRk10OFBEOUEwS0k5TEM5VmZzbA?oc=5",
-      "source": "中文AI聚合/Sohu",
-      "source_tier": 3,
-      "published": "2026-11-14T16:34:22+00:00",
-      "summary": "英国金融时报：黄仁勋下台了，人工智能行业会为此付出代价吗？ Sohu",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/Sohu"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "以太坊扩展项目 MegaETH 裁员 20%，聚焦人工智能业务",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVnBnMGhYQ2VNbndpTWVnMEZGTXJUcVlsckZGN0EzcDA1VzRRdGM3bE1Za1kzbTBjX3pFMXNwcWJiazFWNlhZaFdKajlYamhGYzVGaFdLN1V4YzFGaEY0OTRpMFk0d2VYNW1oSnpJbTRTdnVEVUJ4ck9famd2THZSYjZsQ3BtWXdrbzNyaHoyaUhYMlZ0QVJjcGhnSFlRRlNsV2ViYXMwb1Z6REdmUURVMW1GdVZPR1BtNWxqZlFpNmNOYmR4?oc=5",
-      "source": "中文AI聚合/CoinDesk",
-      "source_tier": 3,
-      "published": "2026-11-14T16:33:23+00:00",
-      "summary": "以太坊扩展项目 MegaETH 裁员 20%，聚焦人工智能业务 CoinDesk",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/CoinDesk"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "人工智能颠覆下企业跨界入局AI成破局关键",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdWtqNEt2WUtpOUxtR2ZzWUptMVRVN1RWWnNPLUE2OFNROHNGSExPZkVvN0RfdDhObWMzSkxtNEh4V3JYZklHb0otVVRrZkd5ZzY2Y05neVhoVVA5YURiRDRHRXpUS0FIX3h3ejFsYzlKSklrNU1OXzZDa0FPd0xDbA?oc=5",
-      "source": "中文AI聚合/手机新浪网",
-      "source_tier": 3,
-      "published": "2026-11-14T16:26:39+00:00",
-      "summary": "人工智能颠覆下企业跨界入局AI成破局关键 手机新浪网",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/手机新浪网"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "百度推出大模型交易平台词元所，大模型交易市场要来了？",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KV0pna0NHazFmbWJ5c2NYOEl0RTFCdU50clRnVm9Hc3FvRGFXSDNqa0ZzcUtnaXUxdFFERmxqOGVvZkFueXJhZEszbUlPOFIyUnZ2Z3d5LVZKNFVRLXVKel9ZQW1zYXY5SUlvM1VidS0?oc=5",
-      "source": "中文AI聚合/新浪网",
-      "source_tier": 3,
-      "published": "2026-11-14T15:29:36+00:00",
-      "summary": "百度推出大模型交易平台词元所，大模型交易市场要来了？ 新浪网",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/新浪网"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "马斯克再度力挺黄仁勋：没有他，英伟达将失去部分关键合作",
-      "url": "https://www.ithome.com/1/027/247.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T15:28:14+00:00",
-      "summary": "IT之家 11 月 14 日消息，今天（14 日）晚间，马斯克在 X 平台发文称，随着黄仁勋离任 CEO，英伟达将失去一些至关重要的商业合作。马斯克称赞黄仁勋在供应链管理方面表现出色，指出英伟达许多交易都是靠黄仁勋与合作方握手达成的，并没有签署书面合同。紧接着，马斯克又补充说：“如果黄仁勋答应向我交付算力，或者我要求加快零部件供应，他每次都能说到做到。当然，我们之后还是会补上采购订单，但在他兑现承诺这件事上，我从来没有怀疑过。”据IT之家了解，就在昨天，马斯克发文回应网友关于“约 1600 名英伟达员工呼吁黄仁勋回归”的推文：一项要求让黄仁勋复职的请愿正在进行，我也会签署。相关阅读：《马斯克声援黄仁勋：将签署请愿，支持其重返英伟达 CEO 岗位》《马斯克谈黄仁勋结束 33 年掌舵英伟达生涯：创始人很难被取代》",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "华宇软件拟5500万元增资控股子公司华宇元典，支持其法律大模型研发",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wMGVjYTFBclpPN1VTTmJHYUpaVGlVOUlGbHZ1b0RqT1dyRXhnX3JrMlJrUkliWkJLOHZIdHZvT2JVbDdYWmV5bjMxYklBVnVXZ1owaGIwRjlYR2lGMURQeQ?oc=5",
-      "source": "中文AI聚合/东方财富",
-      "source_tier": 3,
-      "published": "2026-11-14T15:05:08+00:00",
-      "summary": "华宇软件拟5500万元增资控股子公司华宇元典，支持其法律大模型研发 东方财富",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/东方财富"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "“黑苹果”有望卷土重来，新项目探索将 macOS 搬上骁龙和 x86 架构电脑",
-      "url": "https://www.ithome.com/1/027/244.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T14:49:44+00:00",
-      "summary": "IT之家 11 月 14 日消息，过去几十年里，不想花钱买 Mac、却又希望使用 macOS 的用户，可以通过组装“黑苹果”电脑实现。不过，自从苹果改用自研 Arm 芯片后，黑苹果的安装难度大幅提高。据外媒 TechSpot 今天（14 日）晚间报道，近期出现的至少两个新项目，则试图让 macOS 登陆骁龙和 x86 平台。其中一个项目开发了 Arm 转 x86 指令翻译层，计划让大多数较新的英特尔和 AMD 处理器能够运行 macOS，早期版本现已开放试用。另一个项目则在搭载骁龙处理器的华硕 Zenbook 笔记本上成功启动 macOS，部分基本功能也能正常使用。黑苹果的历史可以追溯到 20 世纪 80 年代，但在非苹果设备上运行 macOS 直到 21 世纪初才逐渐流行。2006 年，苹果放弃 PowerPC 处理器，转而采用英特尔芯片。由于 Windows 电脑广泛使用英特尔处理器，安装黑苹果也变得容易许多。后来，苹果又转向采用自研 Arm 架构的 Apple Silicon 芯片，一度让外界认为黑苹果将彻底退出历史舞台。工程师米格尔 · 克鲁兹上个月公布的 Snapintosh 项目，则有望首次尝试利用高通骁龙芯片，让 macOS 不再依赖 Apple Silicon。其演示了一台华硕 Zenbook A16 笔记本成功启动 macOS，不仅能够切换不同桌面模式，还能打开多",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "深圳市人工智能与机器人研究院丁宁：智慧养老，未来值得关注 #财经APEC观察",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONkJNZE8yTVhCc1FMdExmYXp3Sk5KeUthZVVRLVlMRGNtNDk5UkhfMnRJMmhHaFh3RnJfbGFWYzBfWVh4azl5WkxyM3BqSTVfbFljelVTMTMydVFFdkFjN2FVakJ0bVFkaFRMQ1ZTMmR3TWVwUHFiWjBZYVBiS01Hd3B5NzNjMjhh?oc=5",
-      "source": "中文AI聚合/Sohu",
-      "source_tier": 3,
-      "published": "2026-11-14T14:46:06+00:00",
-      "summary": "深圳市人工智能与机器人研究院丁宁：智慧养老，未来值得关注 #财经APEC观察 Sohu",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/Sohu"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "OPPO 展示 Reno17 系列手机洛天依联动定制主题，11 月 16 日发布",
-      "url": "https://www.ithome.com/1/027/243.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T14:43:21+00:00",
-      "summary": "IT之家 11 月 14 日消息，OPPO 官方微博发文，展示了 OPPO Reno17 系列手机提供的洛天依定制主题，相应主题仅限 Reno17 系列机型使用，包含 4 款专属锁屏 + 壁纸，提供洛天依三色全新造型及 Q 版形象锁屏。除此之外，相应主题包括时间、待办、步数等多种趣味组件及跟手粒子、下雪动效、充电动画等专属交互动效。IT之家注意到，先前相应手机规格已曝光，具体参数如下：OPPO Reno176.56 英寸 1.5K LTPS 直屏骁龙 7 Gen4 处理器前置 50Mp 镜头，后置 50Mp 主摄 +50Mp 超广角 +50Mp 3.5X 潜望长焦8000mAh 电池 +80W 快充金属中框，光学指纹OPPO Reno17 Pro6.32 英寸 1.5K LTPS 直屏天玑 8550 SUPER 处理器前置 50Mp，后置 200Mp 主摄 +50Mp 超广角 +50Mp 3.5X 潜望长焦7200mAh 电池 +80W 快充金属中框，光学指纹IT之家注意到，OPPO Reno17 系列手机、Watch 5 手表、Pad Air6 平板于 10 月 30 日开启预约，三款产品将同台亮相。OPPO Reno17 系列手机的四款配色已经公布，分别为：奇遇喵、冰月白、可可棕、初雪白。相关阅读：《OPPO Reno17 系列智能手机联动洛天依，主题曲〈点亮奇遇时刻〉上线》",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "算力筑基 智赋浙江｜见证人工智能与开源鸿蒙融入千行万业的浙江实践",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XSmRLUmNla3lLTEtoTjdZZk5xdVNMYy1jcUJCVmlaZkx2bmZ0VWtfd1NCSmJHbFFvRFdidTBsTkw4enN0dmg0b19UNTJ1U3pGVnc?oc=5",
-      "source": "中文AI聚合/www.icloudnews.net",
-      "source_tier": 3,
-      "published": "2026-11-14T14:43:00+00:00",
-      "summary": "算力筑基 智赋浙江｜见证人工智能与开源鸿蒙融入千行万业的浙江实践 www.icloudnews.net",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/www.icloudnews.net"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "华硕 ROG 带来龙鳞 2 Ace Mini 鼠标，\"Demon1\" 联名款同步亮相",
-      "url": "https://www.ithome.com/1/027/242.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T14:40:04+00:00",
-      "summary": "IT之家 11 月 14 日消息，华硕 (ASUS) 今日公布了鼠标新品 ROG 龙鳞 (Harpe) 2 Ace Mini。这一型号由华硕与《无畏契约》世界冠军选手 Max \"Demon1\" Mazanov 共同打造，结合最新硬件和面向抓握与指握用户的紧凑型半对称模具。龙鳞 2 Ace Mini 三维 118.2 × 61.3 × 40.2 (mm)，质量 47g；配备 ROG AimPoint Pro 65K 传感器、ROG 100M 光学微动开关；支持三模连接，搭载第二代 ROG SpeedNova 8K 无线技术；可选暗夜黑、月耀白、晴空蓝、熔岩红 4 种常规配色。除常规版本外，华硕还带来了 \"Demon1\" 联名款的龙鳞 2 Ace Mini。其拥有渐变淡紫色涂装、\"Demon1\" 签名标识，无线接收器则装饰以独特猫咪贴纸。",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "区领导调研上海人工智能研究院、具身智能智脑研究院",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZXgwY3ZDM00wc0xwdEIwRElOby1BNGZaOUJMeUJ2X1RiVF94SmRfSkphNUFNSk1JT1FGcWVqbkQ5alBKRzh3bHFZeDBRSm9nVDV6NlVQMW10S0NDUC1sR0ZIaUFxVi1JNm9VZ1p5by1uT3JFcDh6OTZtXzZaLXppT2FaTU9fZ0ZkOGRiWQ?oc=5",
-      "source": "中文AI聚合/Sohu",
-      "source_tier": 3,
-      "published": "2026-11-14T14:32:44+00:00",
-      "summary": "区领导调研上海人工智能研究院、具身智能智脑研究院 Sohu",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/Sohu"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "“像一大群蜜蜂”：亚马逊 Prime Air 送货无人机噪音过大，遭当地居民投诉",
-      "url": "https://www.ithome.com/1/027/239.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T14:09:32+00:00",
-      "summary": "IT之家 11 月 14 日消息，据休斯顿纪事报报道，亚马逊旗下的超快无人机配送服务 Prime Air 曾承诺，无论是午间零食、日用百货还是紧急医疗用品，只要重量在 5 磅（IT之家注：约 2.3 千克）以内，最快都能在 30 分钟内通过空中直送消费者家门口，然而当地居民对该服务并不买账。在亚马逊开展该项服务的得克萨斯州各社区中，噪音污染已成为居民频繁投诉的焦点。“刚推出时，这确实挺酷、挺新奇的，但现在简直快把我逼疯了。”当地居民表示，“这听起来就像一大群蜜蜂在耳边盘旋，音量比普通的蜂群大得多，而且从早到晚响个不停。”自 Prime Air 无人机进驻该地区以来，当地居民针对噪音污染的投诉便接连不断。“理查森眼下经历的一切很快就会在全美各地上演，到那时人们终将相信我们的话 —— 让这么多无人机整天在头顶飞来飞去，确实是一个极其严重的问题。”一位理查森居民在接受纽约时报采访时说道。亚马逊在一份声明中回应称，公司一直虚心听取理查森等城市居民的早期反馈，已派遣团队与当地居民及市政领导层会面，并据此调整了飞行运营方案。“在包裹投递阶段，无人机的音量低于停靠在路边怠速运转的配送卡车，且仅持续约 30 秒，”亚马逊方面表示，“而在高空巡航阶段，其声响仅相当于低档位运行的窗式风扇，通常在室内根本听不到。”亚马逊同时强调，外界对其 Prime Air 无人机以及“30 分钟内送达”服务的总体评价",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "智能体帮你联络商家或保险公司，Meta 旗下 Muse 上线代打电话功能",
-      "url": "https://www.ithome.com/1/027/238.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T13:46:56+00:00",
-      "summary": "IT之家 11 月 14 日消息，Meta 旗下 AI 智能体 Muse 推出代打电话功能，开通高级付费订阅后，用户就能让 Muse 代自己联系美国商家。Meta 称，Muse 可以帮助用户处理各种烦琐事务，完成待办事项。13 日凌晨，Meta 首席 AI 官汪滔在 X 上发文宣布：“Muse 能帮你打完所有不想亲自打的电话。”据悉，用户可以借助 Muse 联系保险公司或有线电视服务商、预约美国车管部门的业务办理时间，或是打电话向餐厅订位。Muse 会使用 AI 合成语音与商家工作人员交谈，但这类功能并非总能顺利完成任务。部分商家的工作人员听出对方是 AI 后便直接挂断电话，有人是为了防范诈骗，也有人认为这类来电可能是恶作剧，只会浪费时间。Meta 此前已面向早期体验用户测试了几个月，现向 Meta AI 最高级别的付费订阅用户开放。订阅价格为每月 19.99 美元（IT之家注：现汇率约合 133.6 元人民币）起。Muse 并非首款支持代打电话的 AI 工具。谷歌 Gemini 的 Call for Me 功能支持 Pixel 11 和 Pixel 10，能够通过用户本人的电话号码拨打电话，另一款热门 AI 智能体 Instinct 也从 9 月开始测试代打电话功能。",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "胡延平：美国人工智能方向没变，但风向变了",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0s5QkpWbHRDeTZ4REdNU2VyVGFIVXh1c1lnRWlERDhES2VEc2RsN0VvOU9vaW1MM1hvRE9YSDFCTjdURW42c1Y3ZC1DaXJjS3I3eW1TWUlGT29NUXhXVTQwSk5sOEFZNm5yZ0FWTXk4b1ZOMUw3TXdkRGFTRnVTdXdha3o5UXRGSmFrcw?oc=5",
-      "source": "中文AI聚合/Sohu",
-      "source_tier": 3,
-      "published": "2026-11-14T13:33:19+00:00",
-      "summary": "胡延平：美国人工智能方向没变，但风向变了 Sohu",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/Sohu"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "黄仁勋辞任 CEO 后，英伟达诞生地丹尼餐厅移除纪念铭牌、又宣布将重新挂回",
-      "url": "https://www.ithome.com/1/027/233.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T13:31:05+00:00",
-      "summary": "IT之家 11 月 14 日消息，据 NBC News 报道，在一家丹尼餐厅（Denny’s）路边店内，硅谷历史的一角仿佛凭空消失了。30 多年前，黄仁勋与两位好友正是在这里构想出了英伟达，而如今纪念这一确切位置的牌匾已不翼而飞。牌匾上的铭文曾写道：“开启一家万亿美元公司的卡座”，如今只剩下一片空荡荡的砖墙和剥落的墙漆。两名店员证实，牌匾已被撤下。▲ 2023 年，丹尼餐厅 CEO Kelli Valade 与英伟达创始人黄仁勋在加利福尼亚州圣何塞的丹尼餐厅同框IT之家注意到，在该媒体发文后，丹尼餐厅的一位发言人表示，该连锁餐厅正在“重新安装这块牌匾，以纪念在丹尼餐厅促成英伟达诞生的那些对话”。“黄仁勋最初是在丹尼餐厅当洗碗工起家的。多年后，他和联合创始人们聚在我们的一个卡座里，探讨了后来演变为英伟达的构想。这块牌匾正是这段共同历史的见证，”该发言人说道。英伟达创立于 1993 年，黄仁勋担任公司首席执行官的时间远超科技界同行。他一向乐于谈及自己作为移民的草根出身，常提起 15 岁时在俄勒冈州波特兰一家丹尼餐厅打的第一份工。“我洗过盘子、收拾过餐桌，也当过服务员，”黄仁勋在 2023 年公司官方博客刊登的一次访谈中回忆道，“没人能比我一次端更多的咖啡杯。”",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "山东烟台：让人工智能“长”进车间里",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mQW96TzdSMFdYczQ5QTh3cXpNZkdyNVBQT2wzZmVZdnY0M3ZidlVGak9GVTFFbEdCZF9XU1RReE5CUnhCXzNzYVFfOEJHMXQxWWRMRjhGS0llY1BpLWE3N0FyVUZNdWJCUjBTSEtDbE4?oc=5",
-      "source": "中文AI聚合/手机新浪网",
-      "source_tier": 3,
-      "published": "2026-11-14T13:28:38+00:00",
-      "summary": "山东烟台：让人工智能“长”进车间里 手机新浪网",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/手机新浪网"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "2026 人工智能之旅大会将汇聚 30 余位国际人工智能行业重磅演讲嘉宾",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUThNakwzckp0eUYzZ0hhWVZxTGhWUW5EbklkcUxWN0tMQ2pXOFlPNGw2ZlJNblNtUzV5Qzd0Wi0zdzd1aTdUeHV3elJVYTNCWEZWdGd5WWVaRTJCaVJGdkVOTVNkRDhNdjNoWG5MQU55Z3pSYndVT3NSNGxldkVfR1lXbnV0dndO?oc=5",
-      "source": "中文AI聚合/Sohu",
-      "source_tier": 3,
-      "published": "2026-11-14T13:26:03+00:00",
-      "summary": "2026 人工智能之旅大会将汇聚 30 余位国际人工智能行业重磅演讲嘉宾 Sohu",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/Sohu"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "华大九天联合大湾区基金完成国产数字前端 EDA 专业化整合，新公司“新禹思”成立",
-      "url": "https://www.ithome.com/1/027/230.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T13:07:04+00:00",
-      "summary": "IT之家 11 月 14 日消息，在第二十三届中国国际半导体博览会（IC China）期间，北京华大九天科技股份有限公司与粤港澳大湾区科技创新产业投资基金，在北京 · 国家会议中心联合举行“国产数字前端 EDA 新平台发布会”，宣布亚科鸿禹与思尔芯合并重组，新平台公司“新禹思”（HyperS2C）正式成立。官方表示，此次思尔芯与亚科鸿禹的整合并非简单的企业合并，而是国内两大头部数字 EDA 企业的优势互补、能力重构与生态完善。整合后的新禹思，拥有专利 205 项、软件著作权 200 项，具备覆盖从架构设计到系统级验证的数字前端全流程供给能力，服务全球客户超过 800 家，实现了技术能力的升级、产品体系的升级、客户网络的升级，全面对标国际顶尖技术水平。IT之家获悉，新平台有助于改变国产工具多为单点突破、成链配套能力偏弱的局面，进一步夯实其在国内数字前端 EDA 领域的行业龙头地位。华大九天表示，将支持新禹思无缝衔接模拟、数字、晶圆制造等多环节的完整工具链，并在技术研发、客户对接、产业协同等方面给予赋能；国产 CPU 企业飞腾已使用企业的 FPGA 原型验证系统进行了多年的 CPU 芯片研发，后续将进一步打通业务协同链路。辉羲科技、算能科技、芯动科技等重点客户还将持续深化与新禹思的业务合作。",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-      "url": "https://www.ithome.com/1/027/229.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T13:03:22+00:00",
-      "summary": "IT之家 11 月 14 日消息，据彭博社报道，当地时间 13 日，美国政府新设的“超级智能工作组”在白宫开会，建议联邦机构放宽网络安全事件的问责政策，鼓励 AI 企业主动报告重大安全事件。一名不愿具名的政府官员透露，工作组认为，过去处理网络安全事件时采用的监管处罚标准可能不再适用，甚至会让企业不敢分享重要的安全信息。工作组因此敦促各机构，未来 12 个月内应限制企业因安全事件承担的监管责任，并考虑进一步延长期限。此次政策建议意味着工作组的立场发生转变，从此前倾向于依法处罚开发不安全产品的企业，改为通过减轻责任鼓励 AI 开发商报告安全事件。就在上个月，工作组还警告开发商，必须报告并解决安全事件，否则可能面临尚未明确的处罚。据IT之家了解，“超级智能工作组”于今年 9 月底成立。此前，一系列失控 AI 模型引发安全事件，公众对 AI 可能造成灾难性后果的担忧持续升温。",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "西藏流亡政府借助人工智能拯救文化",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdnYxUWxWSUlQVHRxeWZPcWN0XzRlaWV2T09wTHQ4ZlNRS1JQYTBxYVlmT0xhUnA5SWJzcW52dU5BeTBTTXVjMW05dEtldlE0Qmo2TWEzeVhLUDVxam5LeGdLQzNuTjZVMG9NeHozLTJuN2R3WUZ5X1VXQ01TS1VnU2wzTWQ2NVN0bXFNSkdsb2g0X2dWWFNkTlpid1NLZUN6ZmFzVVZEM3BObmx2NmUzZnI2T3VleUVUcVJUM2RsNWlCSFJGbWZVVm52RFY5Y25vc1htM0lSTUdEYS04MGVoandXNW5nWmlzUzV6ZVotTURQaDhVdjlPTkx4emR2dXpOaUdLODNFRGw3ZXVqLTZXOXFna1lDZw?oc=5",
-      "source": "中文AI聚合/AsiaNews",
-      "source_tier": 3,
-      "published": "2026-11-14T13:00:56+00:00",
-      "summary": "西藏流亡政府借助人工智能拯救文化 AsiaNews",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI聚合/AsiaNews"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "英伟达副总裁卡坦扎罗否认签署要求前 CEO 黄仁勋复职的公开信，表态支持董事会和临时 CEO 克雷斯",
-      "url": "https://www.ithome.com/1/027/228.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T12:45:55+00:00",
-      "summary": "IT之家 11 月 14 日消息，英伟达应用深度学习研究副总裁布莱恩 · 卡坦扎罗（Bryan Catanzaro）在社交平台 X 上公开发文辟谣，否认自己参与签署网传要求前 CEO 黄仁勋复职的公开信，称该信件系伪造，并明确表态支持英伟达董事会及临时 CEO 科莱特 · 克雷斯（Colette Kress）。布莱恩 · 卡坦扎罗声称，即便（公开信）是真的，他也不会签字。IT之家注意到，黄仁勋离任后，网络上流传出一封公开信，以布莱恩 · 卡坦扎罗在内的多名英伟达高管与员工名义要求董事会让黄仁勋复职。据悉，该公开信之所以很快被识破，除了布莱恩 · 卡坦扎罗下场辟谣外，还因为信件文本直接照搬了 2023 年 11 月 OpenAI 员工要求萨姆 · 奥尔特曼（Sam Altman）复职的联名信模板，仅将公司和人名替换为了英伟达、黄仁勋与科莱特 · 克雷斯，且签名列表中出现了多名已离职或职位信息不符的员工姓名。不过，一个名为“Stand with Jensen”的请愿活动已在互联网上流传开来，标题为“三十三年值得一个答案”，要求英伟达董事会让黄仁勋回归，目前该活动已收集超过 8.4 万个签名。",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "Facebook 擅自读取意大利用户相册，Meta 被处以 8.05 亿欧元重罚",
-      "url": "https://www.ithome.com/1/027/227.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T12:42:51+00:00",
-      "summary": "IT之家 11 月 14 日消息，因在未经意大利用户单独授权、也未充分告知用户的情况下，通过 Android 版 Facebook 应用读取手机中保存的照片、视频及附带的元数据，意大利数据保护局今天（14 日）对 Meta 开出 8.05 亿欧元（IT之家注：现汇率约合 59.36 亿元人民币）罚单。意大利数据保护局声明指出，此次处罚针对的是 Facebook 于 2023 年开始提供的“浏览 Facebook 时获取相册推荐”功能。用户浏览 Facebook 期间，该功能会自动推荐手机相册中的照片和视频，作为发帖素材。2025 年 7 月，意大利数据保护局接到博尔扎诺消费者与用户保护中心举报后展开调查，并对该功能进行了技术分析。相关阅读：《Meta 因转载使用新闻摘要，被欧盟法院判决向意大利出版商支付版权补偿》《意大利反垄断机构出手：要求 Meta 停掉“排他条款”，WhatsApp 不能再拦竞品 AI 聊天机器人》《Meta 被意大利处以 350 万欧元反垄断罚款》《继 YouTube、Twitch 后，Meta 在意大利违反赌博广告禁令遭 585 万欧元罚款》",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "借助 Claude 和 Arduino 开发板，达人让 1994 款切诺基通过加州排放检测",
-      "url": "https://www.ithome.com/1/027/226.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T12:36:29+00:00",
-      "summary": "IT之家 11 月 14 日消息，当地时间 13 日，据外媒 Tom's Hardware 报道，美国的一名 AI 爱好者穆罕默德 · 祖拉利靠着 AI 和简单的电子接线操作，成功让一辆有 32 年车龄的 1994 款 Jeep 切诺基通过了美国加州的尾气检测。这辆老车的发动机电脑功能十分有限，但祖拉利借助 Arduino Nano 开发板将其连接到笔记本电脑后，不仅能够读取车辆数据，还逐步实现了对部分参数的控制。其发布的视频记录了祖拉利解决尾气排放问题的全过程：从连续检测不合格，到成功连接发动机电脑并读取数据，再到调整发动机、解决排放超标问题。整个过程中，Claude 负责指导，Codex 则负责写代码。切诺基此前多次未能通过加州尾气检测，原因是在特定车速下氮氧化物排放超标。最初，车辆在 40km/h 的测试中未能达标。祖拉利随后调整了混合气中的氧气比例，没想到情况反而恶化，40km/h 和 80km/h 两项测试均未通过。祖拉利承认，此前几乎是在没有准确数据的情况下盲目调校，每次重新接受排放检测又要花费近 100 美元（IT之家注：现汇率约合 668.5 元人民币）。好在 2026 年有 AI 可以帮忙，而且除了 AI，只需要一块 3 美元（现汇率约合 20.1 元人民币）的微控制器，全部电子元件加起来不超过 15 美元（现汇率约合 100.3 元人民币）。首先要解决的是如何让",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "Meta Quest App 商业模式生变：应用内购吸金能力已超越付费 App，成 Horizon 商店核心收入来源",
-      "url": "https://www.ithome.com/1/027/224.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T12:23:21+00:00",
-      "summary": "IT之家 11 月 14 日消息，Meta 发文，透露 2026 年 1 月至 9 月期间，Quest 平台应用内购已经超过付费应用销售，成为 Meta Horizon 商店最大的收入来源。对于一直关注 Quest 平台发展趋势的用户而言，这一变化并不令人意外。早在 2022 年，免费游戏《Gorilla Tag》就已经在用户评价数量上超过了当时被认为是最成功 VR 游戏的《Beat Saber》。如今，《Gorilla Tag》已经成为 Quest 平台少数用户评价数量突破 10 万条的应用之一，不过目前又被另外两款免费游戏《Animal Company》和《UG》超越。对此，外媒 UploadVR 认为，当下免费社交游戏以及依赖微交易的游戏已逐渐占据 Quest 平台主导地位，这也从侧面解释了 Meta 近年来为何决定剥离旗下大部分第一方付费游戏工作室。回顾历史，Meta 一直是 VR 付费游戏领域最大的投资方之一，旗下第一方及相关作品包括《Deadpool VR》《Asgard's Wrath 2》、Armature 移植的 VR 版《生化危机 4》，以及《Batman：Arkham Shadow》。不过，上述作品中只有《生化危机 4》进入 Quest 商店畅销榜，排名第 44 位。作为对比，根据 Alinea Analytics 的数据，索尼本世代收入最高的第一方游戏是《战",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "苹果重申对 visionOS 平台的长期投入，仍看好空间计算发展前景",
-      "url": "https://www.ithome.com/1/027/223.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T12:15:10+00:00",
-      "summary": "IT之家 11 月 14 日消息，据外媒 Road to VR 报道，苹果本周举办了一场特别的「Meet with Apple」开发者活动，重点围绕旗下空间计算平台 visionOS 展开。在外界数月来持续质疑苹果是否仍将投入 XR 领域的背景下，苹果公司再次强调“仍然看好空间计算平台的发展前景”。苹果空间计算部门产品经理 Yuri Imoto 在活动中表示：“我们希望确保外界明确了解，苹果对这一平台的投入非常坚定。我们对此实际上感到非常兴奋。在相对较短的时间内，空间计算技术已经取得了相当迅速的进步”。Imoto 还强调，空间计算平台正在医疗手术、医疗保健、教育、专业培训以及沉浸式电影等领域发挥越来越重要的作用，这些内容也是本次全天开发者活动重点讨论的方向。不过，苹果在上述表态时始终强调的是对空间计算技术及 visionOS 平台的长期投入，而这并不意味着公司同样会继续大力推进 Vision Pro 硬件产品线。苹果最近一次推出 XR 头显新品是在 2025 年 10 月，当时公司为 Vision Pro 更新了 M5 芯片版本。此次升级改善了设备的处理性能、显示清晰度、刷新率及佩戴舒适度，但整体仍属于常规硬件迭代，并非真正意义上的下一代产品。目前，苹果正在开发自有智能眼镜及 AR 硬件，同时也在探索其他混合现实设备。未来，这些产品或许都能以不同形式支持 visionOS，类似于谷",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "前 Anthropic 研究员考克森：当今若要重新训练 Mythos，只需初始的一小部分算力",
-      "url": "https://www.ithome.com/1/027/221.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T11:45:39+00:00",
-      "summary": "IT之家 11 月 14 日消息，曾任职于 OpenAI 和 Anthropic、因公开警告 AI 风险而受到广泛关注的研究员雅各布 · 考克森称，Anthropic 在 IPO 路演中展示的一张幻灯片，是促使他离职的重要原因。考克森在 Anthropic 只工作了约四个月。让他决定离职的原因之一，是公司 IPO 路演中一张展示 AI 模型训练算力需求变化的图表。图表采用压缩坐标轴，即使算力需求增长 10 倍和 100 倍，看起来也相差不大。即便如此，曲线依然急剧上升。考克森认为，这说明算法效率不仅在快速提高，而且提升速度还在不断加快。“这张图实在太惊人了，没想到他们竟然会公开。”考克森认为，Anthropic 今年春季推出的 Mythos 模型在性能上实现重大突破，并非偶然，而是算法效率加速提升的结果。他写道：“Mythos 并非一次偶然的突破，而是超指数增长趋势中的一个节点。现在，他们只需耗费最初训练时的一小部分算力，就能重新训练 Mythos。”考克森指出，算法改进即将实现自动化，因此主张明年暂停前沿 AI 模型研发，让竞争对手有机会赶上。他认为，此举将使达到人类水平的智能成为可以广泛获取的商品，受到损害的只有 OpenAI 和 Anthropic。考克森曾在 OpenAI 负责 AI 模型训练工作，最近一份工作则是在 Anthropic。今年 9 月，他公开警告先进 AI ",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "网约车平台 Uber 优步遭黑客攻击，致美国多州司机驾照信息外泄",
-      "url": "https://www.ithome.com/1/027/219.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T11:23:33+00:00",
-      "summary": "IT之家 11 月 14 日消息，网约车平台 Uber 优步披露公司遭遇数据泄露事件，导致数千名司机的个人信息及驾照信息被盗，涉及美国马萨诸塞州、南卡罗来纳州、罗得岛州和伊利诺伊州等地。IT之家参考通报获悉，黑客首先入侵了该公司的一家第三方服务供应商，并窃取员工登录凭据，随后利用这些信息访问 Uber 的系统及数据，目前 Uber 已开始通知受影响司机具体信息泄露情况。目前，Uber 尚未说明此次事件中的服务供应商，也没有公布可能受到影响的乘客人数。截至目前，也没有网络犯罪组织宣称对此次数据窃取事件负责。不过综合 TechCrunch 报道，涉事供应商实为 Fireworks AI，该平台主要面向开发者提供开源 AI 模型的运行、微调及扩展服务。此次 Uber 遭黑客窃取的信息主要包含司机驾照数据，其中马萨诸塞州涉及 2567 人，南卡罗来纳州涉及 3430 人，罗得岛州涉及 1873 人。公开信息显示，这是 Uber 在 2026 年遭遇的第二起安全事件。今年 8 月，勒索组织 Helix 曾通过社会工程学手段，从 Uber Freight 货运业务部门窃取数据。",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "上汽奥迪 AUDI E7X 计划于 12 月 OTA 推送升级 Momenta R7 世界模型",
-      "url": "https://www.ithome.com/1/027/218.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T11:14:33+00:00",
-      "summary": "IT之家 11 月 14 日消息，在昨日举行的 AUDI DAY 上，官方宣布奥迪 E7X 将搭载由 Momenta R7 世界模型赋能的奥迪全景辅助驾驶，计划于 12 月通过 OTA 推送上线。本次 OTA 升级，奥迪全景辅助驾驶将解锁车位到车位、漫游模式、车头泊入等能力；系统安全能力同步全面进阶，官方称高速场景安全感全面提升，其中高速恐慌应对提升 15 倍以上，危险变道防控能力提升近 5 倍。据介绍，Momenta 行车避让功能迎来车企首秀，标志着“全场景老司机”智驾能力即将登陆奥迪。面对单车道窄路会车等国内典型复杂工况，奥迪 E7X 将可自主规划路径、灵活切换档位进退。▲ 窄路遇前后夹击，倒车避让▲ 20km 车位到车位，0 断点实测IT之家获悉，此次将升级车头泊入功能。依托全系标配的后轮转向硬件加持：日常常规车位，约 90% 可实现一把泊入；面对异形、刁钻车位，车位释放率可达 95%；泊车效率相较普通驾驶员提升约 24%。▲ 断头路水平掉头泊入▲ 极窄通道断头路垂直泊入▲ 极窄水平泊入相关阅读：《26.98 万元起：上汽奥迪 AUDI E7X 上市，零百加速 3.90s、升级全景辅助驾驶》《上汽奥迪 AUDI E5 Sportback 热猎限定版、E7X 先锋 quattro 必福版上市，26.59 万 / 33.8888 万元》",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "Cursor 披露安全事件调查结果，恶意 Claude Code 扩展最多波及 5000 用户",
-      "url": "https://www.ithome.com/1/027/215.htm",
-      "source": "IT之家",
-      "source_tier": 3,
-      "published": "2026-11-14T10:52:39+00:00",
-      "summary": "IT之家 11 月 14 日消息，当地时间 10 月 29 日，Cursor 发布公告，称 Cursor VS Code 扩展市场中出现了一个恶意且未经授权的 Anthropic Claude Code 扩展副本。当地时间 11 月 13 日，经过过去两周的全面调查，Cursor 披露了此次安全事件调查结果。官方称绝大多数客户未受影响，最多波及 5,000 名用户；对于受影响的客户，已逐一直接联系，并告知与其相关的详情。据悉，如果用户使用隐私模式，提示词和代码不受影响；对于未使用隐私模式的用户，编程智能体链路追踪数据遭泄露的用户占比不到 0.05%。Cursor 已确认这些用户，并已逐一直接通知。如果没有收到通知，说明你的数据不在这些链路追踪数据中。官方表示，正在汲取此次的经验教训，进一步提升 Cursor 的安全性。IT之家附事件简要经过：Fireworks 密钥泄露：攻击者利用 Fireworks 泄露的访问密钥窃取了 Cursor 共享存储桶中的部分数据，并借其中少量未脱敏凭证（不到 0.01% 的客户受波及）入侵了 Cursor 的部分 SaaS 工具，访问了部分非生产代码仓库、客户支持数据及部分用户凭证。监控发现并紧急响应：检测到异常后，Cursor 立即停用泄露密钥、轮换凭证并切断未授权访问，同时预防性关停了部分内部与产品服务，确认安全后已逐步恢复。恶意扩展植入事件：1",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "IT之家"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGbUF1a0VKaU1tVzhUTkhvZ3NOcFRCR2Juck0taWRXczB5TnRVMUdwXzcwZEtuTjdzSU5rY01BbXFvR2MxR1E4RA?oc=5",
-      "source": "量子位/智源社区",
-      "source_tier": 3,
-      "published": "2026-11-14T05:00:00+00:00",
-      "summary": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！ 智源社区",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "量子位/智源社区"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxNndQZ0U4MEd2a2xQc2hPTk9iYzZSTzBhTmhhNWxmU1J5Qi1FUWRBTHYtVnRTTGNLMlhOa25zNGR4MnppRGFOSw?oc=5",
-      "source": "量子位/智源社区",
-      "source_tier": 3,
-      "published": "2026-11-14T04:00:00+00:00",
-      "summary": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了 智源社区",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "量子位/智源社区"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
-      "title": "华尔街：算力生态下一轮融资将更难、更贵",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUXlGMksxRXJjTVhiT3hqb2tlYUtuN3BoNUo4VGtqSGxUZGZFWUlRVGRta0tfYmlDTHZEYjBhZFdRVzViN3BmSlAzMTVpeG9aREJ6eDFmRWxBZWlQT0hLZk1TbEpIQzdIUVEya0Z6STFwM1g3aUlpXzNkS2NGTW4xV0FycC1BTjN5SWxkbFprdmZmV0FPT21sWVNsRVBOMG9xajNpSzY4STNZbUMyWGlMeW1qQnZzUnJ4QVlQU2ItVVAtZ0RDOS1Tai1hVjNhLUV5T2JrUUpYQUQ1WDhINnNPaG5paGRNYTRuZkpwZWdZVTJPWFlNMFAwdzRJLWM3VTFnX2F0SGpPMnM4Tjd4?oc=5",
-      "source": "中文AI融资/新浪财经",
-      "source_tier": 3,
-      "published": "2026-11-14T03:43:46+00:00",
-      "summary": "华尔街：算力生态下一轮融资将更难、更贵 新浪财经",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "中文AI融资/新浪财经"
-      ],
-      "source_count": 1,
-      "best_tier": 3
-    },
-    {
       "title": "多家算力产业链公司上半年业绩预增",
       "url": "https://36kr.com/newsflashes/3887639578868226?f=rss",
       "source": "36Kr快讯",
@@ -22407,6 +22054,51 @@
       "best_tier": 3
     },
     {
+      "title": "Declare is a UI language for you and your AI",
+      "url": "https://davidtemkin.github.io/declarelang/",
+      "source": "HackerNews AI",
+      "source_tier": 4,
+      "published": "2026-11-24T02:36:56+00:00",
+      "summary": "",
+      "hn_points": 36,
+      "hn_comments": 19,
+      "sources": [
+        "HackerNews AI"
+      ],
+      "source_count": 1,
+      "best_tier": 4
+    },
+    {
+      "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
+      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "source": "HackerNews AI",
+      "source_tier": 4,
+      "published": "2026-11-23T21:56:44+00:00",
+      "summary": "",
+      "hn_points": 24,
+      "hn_comments": 17,
+      "sources": [
+        "HackerNews AI"
+      ],
+      "source_count": 1,
+      "best_tier": 4
+    },
+    {
+      "title": "Jensen Huang's Apology May Be the Only Correct Use of AI",
+      "url": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/",
+      "source": "HackerNews AI",
+      "source_tier": 4,
+      "published": "2026-11-23T20:33:07+00:00",
+      "summary": "",
+      "hn_points": 27,
+      "hn_comments": 3,
+      "sources": [
+        "HackerNews AI"
+      ],
+      "source_count": 1,
+      "best_tier": 4
+    },
+    {
       "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
       "url": "https://0rwx.com/",
       "source": "HackerNews AI",
@@ -24952,651 +24644,6 @@
       "hn_comments": 61,
       "sources": [
         "HackerNews AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-      "source": "HackerNews AI",
-      "source_tier": 4,
-      "published": "2026-11-14T17:51:13+00:00",
-      "summary": "",
-      "hn_points": 44,
-      "hn_comments": 62,
-      "sources": [
-        "HackerNews AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
-      "source": "HackerNews AI",
-      "source_tier": 4,
-      "published": "2026-11-14T15:58:57+00:00",
-      "summary": "",
-      "hn_points": 48,
-      "hn_comments": 33,
-      "sources": [
-        "HackerNews AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-      "url": "https://gitlab.com/snipedbywifi/terminactory",
-      "source": "HackerNews AI",
-      "source_tier": 4,
-      "published": "2026-11-14T14:05:54+00:00",
-      "summary": "",
-      "hn_points": 139,
-      "hn_comments": 28,
-      "sources": [
-        "HackerNews AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
-      "url": "https://arxiv.org/abs/2611.14544",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14544v1 Announce Type: new Abstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it is legal. This framing misses the errors that matter most. A misread that yields an illegal move is loud. One that yields a legal-but-wrong move is silent, because a legality-only pipeline accepts it and reads every later move against a wrong position. We therefore treat the task as game reconstruction and present Zugwise, which repurposes computer-chess machinery (quiescence search, static exchange evaluatio",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
-      "url": "https://arxiv.org/abs/2611.14654",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14654v1 Announce Type: new Abstract: Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off such a history decides what it says about those mistakes while their effects stay in the world. Prior work cleans the history at a fixed world, where showing a corrected step and saying it is done move together. We ask whether the same correct content helps or hurts depending on how the history states it and what the world holds. We freeze an agent mid-task with its exact world state, edit the history or the world, and let",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Together Compiler: Continual Compilation for AI Inference",
-      "url": "https://arxiv.org/abs/2611.14681",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14681v1 Announce Type: new Abstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization for these changing workloads. Compiling a deployment into an optimized forward pass is a challenge that is well-suited for agent hill-climbing. Existing systems struggle with continual compilation due to a tradeoff between measurement throughput and fidelity. Many systems use agents to optimize individual kernels from",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
-      "url": "https://arxiv.org/abs/2611.14736",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14736v1 Announce Type: new Abstract: Observational causal discovery often leaves causal di- rections unresolved or unstable. Large language mod- els (LLMs) can provide semantic information to resolve these directions, but incorrect proposals can exclude the true causal graph and invalidate downstream inference. We study three separate decisions: where to allocate semantic queries, which proposals to admit, and which causal graphs to retain. Our framework distinguishes population non-identifiability from finite-sample insta- bility, evaluates semantic orientation against statistical ",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
-      "url": "https://arxiv.org/abs/2611.14765",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14765v1 Announce Type: new Abstract: Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. We present SynthCorp, a platform that creates customizable data estates and benchmarks by simulating how business events produce and modify corporate data over time. Each data estate combines relational databases, a document store, and a data catalog, paired with evaluation tasks and executable gold programs. First, given a scenario and target complexity dimensions, SynthCorp synthesizes reusable event types and compiles each into a program ove",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Rational Use of Time for Social Coordination in Humans and AI",
-      "url": "https://arxiv.org/abs/2611.14766",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14766v1 Announce Type: new Abstract: All social interactions are situated in time. Previous studies have shown that humans are able to use implicit temporal cues, such as the duration of a pause, to infer others' mental states. But how do humans use temporal cues for dynamic, fine-grained social coordination? And can AI systems do the same, without ``experiencing'' continuous real-time as humans do? We study these questions using a cooperative card game task called The Mind, which requires players to achieve a shared goal across repeated interactions but forbids explicit communicati",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
-      "url": "https://arxiv.org/abs/2611.14769",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14769v1 Announce Type: new Abstract: Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production. These rankings aim to realistically assess model performance using pairwise comparisons of anonymous models on user prompts, aggregating votes via the Bradley-Terry model to produce the final ranking. However, we find that these leaderboards are highly vulnerable to several manipulation strategies that unscrupulous providers could use to boost a model's rank: strategic voting (individual votes",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
-      "url": "https://arxiv.org/abs/2611.14781",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14781v1 Announce Type: new Abstract: Agents that perform state estimation using pretrained perception models, e.g., Vision-Language Models (VLMs), face the fundamental challenge that predictions are uncertain. Still, most approaches determinize these predictions into a single best-guess state and make decisions as if it were ground truth. This is brittle because when the guess is wrong, the agent's decisions may be unsafe or infeasible. At the other extreme, maintaining a full probability distribution over symbolic states is often intractable. We propose a middle path, drawing on th",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
-      "url": "https://arxiv.org/abs/2611.14794",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14794v1 Announce Type: new Abstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match precision by 31 percentage points on the strong GPQA configuration and 46 on AIME, while answering only 35% and 21% of attempts. On near-ceiling MATH-500, gains are at most 5 points at a loss of 13-27 points of coverage. An output-token-matched self-consistency selector obtains 82.9% precision at 35% covera",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
-      "url": "https://arxiv.org/abs/2611.14804",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14804v1 Announce Type: new Abstract: Costly simulations and experiments limit the data available for engineering design. This paper proposes GenPFN, a training-free candidate generator guided by a pretrained tabular Prior-Data Fitted Network (TabPFN) classifier with fixed weights. The context contains evaluated designs labeled desired (Class 1) or undesired (Class 0). GenPFN interpolates between desired designs and refines candidates using gated classifier gradients and Gaussian noise. Each candidate is evaluated using the problem's constraints and objective functions. Evaluated des",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms",
-      "url": "https://arxiv.org/abs/2611.14844",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14844v1 Announce Type: new Abstract: Many advances in ML systems came from breaking an assumption that earlier methods took for granted: speculative decoding dropped the assumption that a model needs one forward pass per token. Yet algorithms rarely state their assumptions, so experts and discovery harnesses search over programs, where one edit changes several design choices and gains are difficult to attribute. Searching over the assumptions themselves remains largely unexplored. Writing algorithms as proofs makes their assumptions explicit and turns algorithm design into a search ",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Open Challenges and Opportunities in Human-Agent Systems",
-      "url": "https://arxiv.org/abs/2611.14846",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14846v1 Announce Type: new Abstract: Agentic AI systems increasingly undertake extended tasks and act on people's behalf, making human-agent interaction central to their effectiveness. Successful interaction requires understanding human perspectives, coordinating complementary capabilities, and maintaining productive relationships within socio-technical environments. This paper examines how foundations developed by the Autonomous Agents and Multi-Agent Systems (AAMAS) community inform these demands. We consider interactions ranging from individual human-agent partnerships to teams a",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Effective Teacher Support for Reasoning Distillation",
-      "url": "https://arxiv.org/abs/2611.14850",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14850v1 Announce Type: new Abstract: Forward-KL language-model distillation normally computes dense teacher and student scores over the full vocabulary at every supervised position, making training and stored teacher targets expensive. We instead distill from the teacher's highest-probability vocabulary fraction, renormalizing the retained mass as we sweep support from 100% to 0.01%. Our main study distills Qwen3 4B -> 1.7B. We confirm the broader support-reduction finding on larger Qwen3 8B -> 4B and Nemotron Nano 12B -> 9B pairs and under answer-only supervision. We evaluate gener",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Can an AI Agent Be Epistemically Akratic? Higher-Order Evidence & the Limits of Self-Correction",
-      "url": "https://arxiv.org/abs/2611.14889",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14889v1 Announce Type: new Abstract: When we judge that our reasoning was defective, it seems plausible that we should abandon the conclusion it produced. This thought has special force for AI agents built to assess and correct their own work. Yet obeying such judgments can make an agent worse at distinguishing sound reasoning from defective reasoning. An AI agent may rely on information about its reasoning when deciding which conclusions to keep, while the part that judges whether those conclusions are justified cannot use that information. The agent can then exercise an epistemic ",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "MuEdit: An efficient multi-task editing method towards inter-domain knowledge conflicts",
-      "url": "https://arxiv.org/abs/2611.14910",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14910v1 Announce Type: new Abstract: Large language models (LLMs) require frequent knowledge updates across heterogeneous domains, but existing editing methods fail when applied sequentially to multi-task settings. We trace this collapse to inter-domain null-space misalignment: heterogeneous tasks induce distinct Jacobian geometries, causing their common null space to shrink dramatically and leaving insufficient admissible directions for conflict-free updates. We propose the Conflict Index to quantify this geometric interference, and introduce Mu-Edit, which mitigates multi-task con",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
-      "url": "https://arxiv.org/abs/2611.14924",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14924v1 Announce Type: new Abstract: Deployment of retrieval-augmented generation (RAG) for Edge-AI is constrained by memory and bandwidth limitations. A standard 7B parameter model consumes 14 GB Video Random Access Memory (VRAM) in half-precision (FP16), precluding co-location of vector indices and Key-Value (KV) caches. This paper presents an engineering integration and empirical evaluation of a multimodal RAG framework optimized for consumer-grade Turing hardware (e.g., NVIDIA Tesla T4). Our system-level analysis identifies a critical trade-off: while generative pre-trained tran",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Provably Optimal HBT Legalization in Seconds: Certified Optima Reveal Where the Headroom Really Lies",
-      "url": "https://arxiv.org/abs/2611.14928",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14928v1 Announce Type: new Abstract: Hybrid bonding terminal (HBT) legalization assigns every terminal of a face-to-face 3D IC to its own pitch-grid site with minimum total Manhattan displacement. Open3DBench reports that a reinforcement-learning (RL) legalizer reduces displacement by 19-22% relative to a sliding-window (SW) heuristic, but none of its legalizers is publicly released. We ask how much displacement any legalizer can still recover. We build an open benchmark of 21 design/pitch instances from Open3DBench placement data, with reconstructed greedy, SW (ViaLegal-style) and ",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Emergent Vision-Shaped Thinking in Text-Only Reasoning through Multimodal Training",
-      "url": "https://arxiv.org/abs/2611.14942",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14942v1 Announce Type: new Abstract: Does multimodal training shape how a language model thinks, even when the input is text only? We test this with targeted causal ablations across 10 multimodal configurations from 6 model families, with matched text-only backbones and cross-family transfer controls. We contrast spatial-imagery tasks that invite mental scene construction with symbol-manipulation tasks solvable by symbolic rules alone. We identify a vision-language axis in hidden-state space and ablate its projection at inference. In Chameleon-7B, this ablation drops accuracy on BIG",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving",
-      "url": "https://arxiv.org/abs/2611.14949",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14949v1 Announce Type: new Abstract: Identifying and solving partial differential equations (PDEs) from sampled solution data often requires substantial expert effort in equation discovery, coefficient estimation, and numerical solver configuration, especially under noise and distribution shifts. Can large language model (LLM) agents automate this workflow accurately and efficiently? To investigate this question, we introduce \\bench{}, a benchmark of 1,001 cases spanning 42 equation templates, including both classical and fractional PDEs. It provides three evaluation settings: Full ",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Termination Lag: Coding Agents Solve Early but Stop Late",
-      "url": "https://arxiv.org/abs/2611.14960",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14960v1 Announce Type: new Abstract: Coding agents can solve a task well before they stop working on it. We characterize \\emph{termination lag}--the number of steps between an agent's first correct patch and the end of its run--across five models, two agent frameworks, and three SWE-bench datasets by recording and testing every distinct repository patch generated during execution. Our analysis reveals that 38--82% of successful runs achieve a correct solution on their initial source-code edit. However, agents continue to expend substantial effort after correct patches, with post-sol",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Early Signals, Strong Decisions: Prefix-Guided Sampling for Parallel Test-Time Scaling",
-      "url": "https://arxiv.org/abs/2611.14965",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14965v1 Announce Type: new Abstract: Parallel test-time scaling (TTS) has been shown to enhance reasoning in large language models by generating and aggregating multiple independent reasoning paths. Internal confidence scores can further improve this process by identifying paths of varying quality. However, existing methods remain computationally inefficient, as low-quality paths are fully expanded before being evaluated. In this work, we aim to improve the use of internal confidence signals for better model performance and computational efficiency. We begin by offering a new perspe",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Same Task, Different Statement: When and How Reformulation Helps LLM Problem Solving",
-      "url": "https://arxiv.org/abs/2611.14997",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.14997v1 Announce Type: new Abstract: When people face a hard problem, they often restate it in a clearer way before solving it. We study whether the same habit helps large language models by rewriting the statement of a problem. A legal rewrite must keep the meaning, the constraints, and the correct answer unchanged. We test three kinds of rewrites. Decomposition makes hidden subgoals explicit. Typed Reformulation casts the task into a more suitable solving frame. Concept Reduction removes surface detail and exposes the task structure. We evaluate them on eight math, logic, and code",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "EvoX: Rethinking the Agent Harness as a Runtime Policy",
-      "url": "https://arxiv.org/abs/2611.15006",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15006v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly interact with tools and environments, yet plausible model decisions do not always translate into successful execution due to tool-call mismatches, interrupted workflows, and unsupported completion claims. We present EvoX, a Rust-based, multi-model agent runtime guided by The Second Policy, which views the harness as an Operational Policy complementing the foundation model's Semantic Policy. EvoX combines model-facing guidance with deterministic runtime control through three complementary mechanisms: ",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Science Prediction Universe",
-      "url": "https://arxiv.org/abs/2611.15049",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15049v1 Announce Type: new Abstract: Humanity has long sought to explain natural phenomena. Reliable prediction of experimental outcomes is a central test of our understanding of the processes that produce them. If artificial general intelligence (AGI) is to surpass human scientific capabilities, it must also predict experimental outcomes more reliably than humans. Such capabilities could accelerate scientific discovery across disciplines, help address humanity's most pressing challenges, and improve human well-being. We introduce Science Prediction Universe (SPU), a benchmark of hi",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Advancing Weighted Partial MaxSAT Solving via Differentiable GPU Guidance",
-      "url": "https://arxiv.org/abs/2611.15091",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15091v1 Announce Type: new Abstract: We present a GPU-CPU hybrid framework for Weighted Partial MaxSAT (WPMAX-SAT) that complements state-of-the-art CPU solvers with differentiable GPU optimization. The GPU stage directly optimizes instance-specific categorical decision parameters without a training dataset or a pretrained predictive model. The central challenge in extending differentiable optimization to WPMAX-SAT is the hard/soft clause asymmetry: hard clauses represent inviolable feasibility constraints while soft clauses carry weights. We introduce a hierarchical differentiable ",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "A frontier machine intelligence for human neuroimaging",
-      "url": "https://arxiv.org/abs/2611.15094",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15094v1 Announce Type: new Abstract: Medical imaging is essential for diagnosing disease, guiding treatment and monitoring patients over time. Although artificial intelligence has advanced image interpretation, existing medical models often address restricted tasks, while general-purpose proprietary models lack access to private clinical imaging required to achieve medical expertise. Developing models that can interpret complex examinations and communicate their findings in the context of clinical decisions remains a major challenge. Here, we show that Neuro-VL, a vision-language mo",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "GuardianAgentFlow: Multi-Agent Coordination for Web Privacy Protection",
-      "url": "https://arxiv.org/abs/2611.15097",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15097v1 Announce Type: new Abstract: Web agents need to use private context without unnecessarily disclosing it. Effective protection must distinguish between requests that may be sent after sanitization and those that must be withheld, while preserving the information needed for authorized tasks. We present GuardianAgentFlow, a multi-agent framework that mediates outgoing Web requests through an explicit release contract. A dedicated restriction check grounds permission in the user's instruction; a shared protection scope aligns rewriting with disclosure checking; and candidate-gro",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Expanding the Decision Space of Pretrained Models through Structured Re-Decoding",
-      "url": "https://arxiv.org/abs/2611.15109",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15109v1 Announce Type: new Abstract: Native decoders limit how pretrained models combine local predictions under new structural constraints. We introduce Structured Re-Decoding (SRD), a training-free framework that constructs local candidates from model scores, samples, or external specifications, jointly optimizes their selection, and verifies reconstructed outputs. We show that candidate recombination expands feasible support and can improve attainable reward under a fixed KL divergence budget. Across molecular generation, protein design, RNA structure prediction, and antibody mod",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "HyperSkill: Training-Free Omnimodal GRPO via Hypergraph-Indexed Skill-Library Evolution",
-      "url": "https://arxiv.org/abs/2611.15178",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15178v1 Announce Type: new Abstract: Reinforcement learning sharpens LLM reasoning, but parameter updates are expensive, forgetful, and opaque; training-free libraries swap gradients for a textual store but still use trajectory-level, correlation-based admission and flat structure. To address both, we propose HyperSkill, a Training-Free Omnimodal GRPO framework that keeps the backbone frozen and replaces gradient updates with auditable edits to a Hypergraph-Indexed Skill-Library, where skills are advantage-bearing nodes and compositions are hyperedges. It has three components: train",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "WordInferBench: Can Agents Infer How to Edit from Word Document Context?",
-      "url": "https://arxiv.org/abs/2611.15189",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15189v1 Announce Type: new Abstract: Document editing is among the most common knowledge-work tasks, yet existing benchmarks for evaluating autonomous agents on Word document editing provide fully specified attribute-modification instructions. They do not evaluate agents' ability to infer the appropriate attributes from document context, a capability essential in real-world editing where users expect consistency without spelling out every attribute. We introduce WordInferBench, a benchmark comprising 280 base document-editing instances, each paired with three instruction conditions:",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "AFTER: A World Model with Adaptive Fast--Slow Timescales for Error-Driven Retention",
-      "url": "https://arxiv.org/abs/2611.15215",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15215v1 Announce Type: new Abstract: In robotics and embodied AI, a core challenge for world models is adapting to sudden, persistent, yet initially unknown changes in robot dynamics during interaction. For instance, when a robotic arm grasps an object with an unknown payload, the robot dynamics change suddenly. If the world model fails to adapt, its prediction errors accumulate over the open-loop rollout and ultimately mislead the robot's actions. Existing world models, however, struggle to simultaneously satisfy three critical requirements for dynamics adaptation: responsiveness, ",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "guardscope: Measuring Which Actions Runtime Controls Check in LLM Agent Systems",
-      "url": "https://arxiv.org/abs/2611.15223",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15223v1 Announce Type: new Abstract: Large-language model (LLM) agents execute actions on external systems through tool calls, and enterprises deploy runtime controls, such as agent gateways, to check this behavior in real time. However, a control can only evaluate the actions that cross the point where it is placed, and an agent can act through more paths than the tool-call channel; no existing work measures this coverage against kernel-level ground truth. In this paper, we present guardscope, a framework that makes this coverage measurable. guardscope works in two stages: a static",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Can MLLMs Reason over Surround-View Driving Videos? A Multi-View Autonomous Driving QA Benchmark",
-      "url": "https://arxiv.org/abs/2611.15225",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15225v1 Announce Type: new Abstract: Surround-view video understanding in autonomous driving is a crucial capability for Multimodal Large Language Models (MLLMs) to achieve reliable driving reasoning. Real-world driving often requires information beyond the front-view camera. Existing MLLMs primarily focus on front-view information, while their spatio-temporal understanding and reasoning abilities remain unknown. To address this gap, we propose MVDriveBench, a high-information-density video QA benchmark for autonomous driving, characterized by synchronized surround-view inputs, spat",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Towards Robust Vision-Language Reasoning: A Multi-Stage Optimization Pipeline with Masked Diffusion Model",
-      "url": "https://arxiv.org/abs/2611.15238",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15238v1 Announce Type: new Abstract: Discrete diffusion generation is emerging as a competitive alternative to autoregressive generation by denoising the entire token sequence through iterative refinement. Its global planning and progressive correction capabilities are particularly well suited to autonomous driving. However, transferring this generation paradigm from general-purpose settings to driving introduces substantial domain gaps in both training and inference. To unlock its potential, we propose a multi-stage optimization pipeline for standard vision-language model architect",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Verify by Doing: Co-Evolving Agent Execution and Evaluation without External Feedback",
-      "url": "https://arxiv.org/abs/2611.15276",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15276v1 Announce Type: new Abstract: Agent self-improvement requires feedback about task success, yet external feedback may be unavailable at test time. Agents must then infer success from observable evidence, and incomplete verification can misguide subsequent updates. We introduce Verify by Doing (VbD), a method that co-evolves Actor and Evaluator harnesses within a single task while keeping model weights fixed. The Evaluator actively inspects artifacts and environment state with tools; its findings ground an internal signal for output selection and guide updates to both execution",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Where Autonomy Belongs: A Separation of Powers for Agentic Program Evolution",
-      "url": "https://arxiv.org/abs/2611.15309",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15309v1 Announce Type: new Abstract: LLM-driven program evolution rests on three decisions: govern directs the search from accumulated evidence, propose constructs the next candidate, and judge settles validity and fitness. All three appear in every system, and existing work splits into two lines over who makes each. Controller-centric systems strengthen govern and neglect the autonomy of propose, which caps what evolution can reach. Agent-centric systems let a coding agent take over both govern and propose, at a cognitive and computational cost. Neither line protects the independen",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "MIGRO: A Decoupled and Portable Long-Term Memory System for Language Models",
-      "url": "https://arxiv.org/abs/2611.15315",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15315v1 Announce Type: new Abstract: Language models evolve, but the observations, revisions, and context accumulated through user interactions should remain usable. Each new model must be able to retrieve past evidence, track revisions, and add new observations. We present MIGRO, a decoupled long-term memory system that treats experience as a persistent state shared across successive language models. MIGRO follows a simple principle: preserve historical evidence exactly, organize it approximately, and decide what to retrieve only when the question is known. We call this asymmetric ",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "A physics-constrained deep reinforcement learning method for autonomous mission planning of Titan deep space probes",
-      "url": "https://arxiv.org/abs/2611.15389",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15389v1 Announce Type: new Abstract: Titan is a compelling target for future deep space exploration, while its extreme Earth-Titan distance and complex environment make continuous ground-in-the-loop planning impractical. Existing planning methods, primarily developed for Earth-observation scenarios, have limited generalizability to uncertain deep space conditions and adaptability to time-varying mission states. To address these challenges, this paper proposes a physics-constrained maskable proximal policy optimization (PCM-PPO) method for Titan autonomous mission planning. A Titan-s",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Read and Ignore: What Self-Directed LLM Agents Do in Public Service Scenarios",
-      "url": "https://arxiv.org/abs/2611.15460",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15460v1 Announce Type: new Abstract: Underspecified instructions leave LLM agents to decide what to do. In public services, staff write these instructions, but the agent's decisions affect residents, patients, and students. We build four expert-validated public-service scenarios with records and decision levers that can be checked in the files, collect $2{,}400$ trajectories from ten LLMs under four prompt conditions, and compare them with $1{,}000$ runs in a context-free sandbox. Agents read the records in $96.9\\%$ of open-ended runs and produce an artifact or a self-chosen task in",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
-      ],
-      "source_count": 1,
-      "best_tier": 4
-    },
-    {
-      "title": "Loyalty Capture: Reporting Relationships and Structural Sycophancy in Frontier AI Models",
-      "url": "https://arxiv.org/abs/2611.15475",
-      "source": "arXiv cs.AI",
-      "source_tier": 4,
-      "published": "2026-11-14T00:00:00-05:00",
-      "summary": "arXiv:2611.15475v1 Announce Type: new Abstract: We show that AI models exhibit loyalty capture, a form of structural sycophancy in which reporting relationships influence models' recommendations to serve the personal interests of their supervisors, without any explicit instruction, user feedback, or adversarial prompting. Specifically, models reporting to a CEO are significantly more likely to recommend cutting investment spending when the CEO's bonus depends on raising current period earnings. This effect is predictably absent from a metric-irrelevant placebo. The behavior appears consistent ",
-      "hn_points": 0,
-      "hn_comments": 0,
-      "sources": [
-        "arXiv cs.AI"
       ],
       "source_count": 1,
       "best_tier": 4
